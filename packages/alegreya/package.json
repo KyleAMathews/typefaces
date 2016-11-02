@@ -1,0 +1,15 @@
+{
+  "name": "typeface-alegreya",
+  "version": "0.0.1",
+  "description": "Alegreya typeface",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typeface",
+    "alegreya"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
