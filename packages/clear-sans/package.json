@@ -1,0 +1,23 @@
+{
+  "name": "typeface-clear-sans",
+  "version": "0.0.2",
+  "description": "Clear Sans typeface",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typeface",
+    "clear sans"
+  ],
+  "license": "Apache",
+  "dependencies": {
+    "glob": "^7.1.1",
+    "parse-filepath": "^1.0.1",
+    "progress": "^1.1.8",
+    "request-progress": "^2.0.1",
+    "string-template": "^1.0.0",
+    "sync-request": "^3.0.1",
+    "ttf2woff2": "^2.0.3"
+  }
+}
