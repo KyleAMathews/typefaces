@@ -7,7 +7,7 @@ const fs = require(`fs`)
 const path = require(`path`)
 
 const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
-const id = `space-mono`
+const id = `biorhyme`
 
 const res = requestSync(`GET`, baseurl + id)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
@@ -18,6 +18,11 @@ const typefaceDir = `packages/${typeface.id}`
 // Create the directories for this typeface.
 mkdir(typefaceDir)
 mkdir(typefaceDir + `/files`)
+
+// Make git ignore typeface files so we're not checking in GBs of data.
+fs.writeFileSync(typefaceDir + `/.gitignore`, '/files')
+fs.writeFileSync(typefaceDir + `/.npmignore`, '')
+fs.writeFileSync(typefaceDir + `/files/.gitignore`, '')
 
 const makeFontFilePath = (item, extension) => {
   let style = ""
