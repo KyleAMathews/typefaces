@@ -7,7 +7,7 @@ const fs = require(`fs`)
 const path = require(`path`)
 
 const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
-const id = `space-mono`
+const id = `biorhyme`
 
 const res = requestSync(`GET`, baseurl + id)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
@@ -78,7 +78,7 @@ async.map(typeface.variants, (item, callback) => {
   font-family: '${typeface.family}';
   font-style: ${item.fontStyle};
   font-weight: ${item.fontWeight};
-  src: url('./files/alegreya-v7-latin-900italic.eot'); /* IE9 Compat Modes */
+  src: url('${makeFontFilePath(item, 'eot')}'); /* IE9 Compat Modes */
   src: local('Alegreya Black Italic'), local('Alegreya-BlackItalic'),
        url('${makeFontFilePath(item, 'eot')}?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('${makeFontFilePath(item, 'woff2')}') format('woff2'), /* Super Modern Browsers */
