@@ -3,8 +3,11 @@
     "lerna": "2.0.0-beta.30"
   },
   "dependencies": {
+    "async": "^2.1.4",
+    "bluebird": "^3.4.7",
     "request": "^2.78.0",
-    "request-sync": "^1.0.0",
-    "shelljs": "^0.7.5"
+    "request-promise": "^4.1.1",
+    "shelljs": "^0.7.5",
+    "sync-request": "^4.0.1"
   }
 }
