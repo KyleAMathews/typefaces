@@ -7,7 +7,7 @@ const fs = require(`fs`)
 const path = require(`path`)
 
 const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
-const id = `biorhyme`
+const id = `space-mono`
 
 const res = requestSync(`GET`, baseurl + id)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
@@ -52,23 +52,18 @@ async.map(typeface.variants, (item, callback) => {
   }, callback)
 }, (err, results) => {
   // Write out package.json file
-  const packageJSON = `
-{
+  const packageJSON = `{
   "name": "typeface-${typeface.id}",
   "version": "0.0.2",
   "description": "${typeface.family} typeface",
   "main": "index.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "typeface",
     "${typeface.id}"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT"
-}
-  `
+}`
   fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
   // Write out index.css file

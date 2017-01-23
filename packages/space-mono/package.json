@@ -1,12 +1,8 @@
-
 {
   "name": "typeface-space-mono",
   "version": "0.0.2",
   "description": "Space Mono typeface",
   "main": "index.css",
-  "scripts": {
-    "test": "echo "Error: no test specified" && exit 1"
-  },
   "keywords": [
     "typeface",
     "space-mono"
@@ -14,4 +10,3 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT"
 }
-  
