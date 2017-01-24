@@ -7,7 +7,7 @@ const fs = require(`fs`)
 const path = require(`path`)
 
 const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
-const id = `biorhyme`
+const id = `lato`
 
 const res = requestSync(`GET`, baseurl + id)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
@@ -23,6 +23,40 @@ mkdir(typefaceDir + `/files`)
 fs.writeFileSync(typefaceDir + `/.gitignore`, '/files')
 fs.writeFileSync(typefaceDir + `/.npmignore`, '')
 fs.writeFileSync(typefaceDir + `/files/.gitignore`, '')
+
+const commonWeightNameMap = (numericWeight) => {
+  switch (numericWeight) {
+    case '100':
+      return `Thin`
+      break;
+    case '200':
+      return `Extra Light`
+      break;
+    case '300':
+      return `Light`
+      break;
+    case '400':
+      return `Regular`
+      break;
+    case '500':
+      return `Medium`
+      break;
+    case '600':
+      return `SemiBold`
+      break;
+    case '700':
+      return `Bold`
+      break;
+    case '800':
+      return `ExtraBold`
+      break;
+    case '900':
+      return `Black`
+      break;
+    default:
+      return `normal`
+  }
+}
 
 const makeFontFilePath = (item, extension) => {
   let style = ""
@@ -79,7 +113,7 @@ async.map(typeface.variants, (item, callback) => {
   font-style: ${item.fontStyle};
   font-weight: ${item.fontWeight};
   src: url('${makeFontFilePath(item, 'eot')}'); /* IE9 Compat Modes */
-  src: local('Alegreya Black Italic'), local('Alegreya-BlackItalic'),
+  src: local('${typeface.family} ${commonWeightNameMap(item.fontWeight)} ${style}'), local('${typeface.family}-${commonWeightNameMap(item.fontWeight)}${style}'),
        url('${makeFontFilePath(item, 'eot')}?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('${makeFontFilePath(item, 'woff2')}') format('woff2'), /* Super Modern Browsers */
        url('${makeFontFilePath(item, 'woff')}') format('woff'), /* Modern Browsers */
