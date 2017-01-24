@@ -7,7 +7,7 @@ const fs = require(`fs`)
 const path = require(`path`)
 
 const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
-const id = `open-sans-condensed`
+const id = `roboto-mono`
 
 const res = requestSync(`GET`, baseurl + id)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
