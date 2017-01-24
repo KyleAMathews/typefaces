@@ -1,0 +1,12 @@
+{
+  "name": "typeface-open-sans-condensed",
+  "version": "0.0.2",
+  "description": "Open Sans Condensed typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "open-sans-condensed"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
