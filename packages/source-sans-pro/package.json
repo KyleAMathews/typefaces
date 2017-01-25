@@ -1,0 +1,12 @@
+{
+  "name": "typeface-source-sans-pro",
+  "version": "0.0.2",
+  "description": "Source Sans Pro typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "source-sans-pro"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

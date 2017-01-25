@@ -1,0 +1,12 @@
+{
+  "name": "typeface-source-code-pro",
+  "version": "0.0.2",
+  "description": "Source Code Pro typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "source-code-pro"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

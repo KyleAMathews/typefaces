@@ -1,0 +1,12 @@
+{
+  "name": "typeface-source-serif-pro",
+  "version": "0.0.2",
+  "description": "Source Serif Pro typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "source-serif-pro"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
