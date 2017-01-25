@@ -7,7 +7,11 @@ const fs = require(`fs`)
 const path = require(`path`)
 
 const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
-const id = `roboto-mono`
+const id = process.argv[2]
+if (!id) {
+  console.warn(`You need to pass in the google font id as an argument`)
+  process.exit()
+}
 
 const res = requestSync(`GET`, baseurl + id)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
