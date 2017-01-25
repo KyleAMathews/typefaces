@@ -1,0 +1,12 @@
+{
+  "name": "typeface-poppins",
+  "version": "0.0.2",
+  "description": "Poppins typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "poppins"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
