@@ -2,9 +2,11 @@ require('shelljs/global')
 const requestSync = require(`sync-request`)
 const request = require(`request`)
 const async = require(`async`)
-const download = require(`./download-file`)
 const fs = require(`fs`)
 const path = require(`path`)
+
+const download = require(`./download-file`)
+const commonWeightNameMap = require(`./common-weight-name-map`)
 
 const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
 const id = process.argv[2]
@@ -27,40 +29,6 @@ mkdir(typefaceDir + `/files`)
 fs.writeFileSync(typefaceDir + `/.gitignore`, '/files')
 fs.writeFileSync(typefaceDir + `/.npmignore`, '')
 fs.writeFileSync(typefaceDir + `/files/.gitignore`, '')
-
-const commonWeightNameMap = (numericWeight) => {
-  switch (numericWeight) {
-    case '100':
-      return `Thin`
-      break;
-    case '200':
-      return `Extra Light`
-      break;
-    case '300':
-      return `Light`
-      break;
-    case '400':
-      return `Regular`
-      break;
-    case '500':
-      return `Medium`
-      break;
-    case '600':
-      return `SemiBold`
-      break;
-    case '700':
-      return `Bold`
-      break;
-    case '800':
-      return `ExtraBold`
-      break;
-    case '900':
-      return `Black`
-      break;
-    default:
-      return `normal`
-  }
-}
 
 const makeFontFilePath = (item, extension) => {
   let style = ""
@@ -121,7 +89,7 @@ async.map(typeface.variants, (item, callback) => {
        url('${makeFontFilePath(item, 'eot')}?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('${makeFontFilePath(item, 'woff2')}') format('woff2'), /* Super Modern Browsers */
        url('${makeFontFilePath(item, 'woff')}') format('woff'), /* Modern Browsers */
-       url('${makeFontFilePath(item, 'svg')}#Alegreya') format('svg'); /* Legacy iOS */
+       url('${makeFontFilePath(item, 'svg')}#${typeface.family}') format('svg'); /* Legacy iOS */
 }
     `
   })
