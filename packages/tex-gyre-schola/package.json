@@ -1,12 +1,12 @@
 {
-"name": "typeface-tex-gyre-schola",
-"version": "0.0.2",
-"description": "TeX Gyre Schola typeface",
-"main": "index.css",
-"keywords": [
-  "typeface",
-  "tex-gyre-schola"
-],
-"author": "Kyle Mathews <mathews.kyle@gmail.com>",
-"license": "MIT"
+  "name": "typeface-tex-gyre-schola",
+  "version": "0.0.10",
+  "description": "TeX Gyre Schola typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "tex-gyre-schola"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
 }
