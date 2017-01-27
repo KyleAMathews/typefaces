@@ -1,0 +1,12 @@
+{
+  "name": "typeface-aleo",
+  "version": "0.0.2",
+  "description": "Aleo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "aleo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+  }
