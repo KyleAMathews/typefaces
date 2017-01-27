@@ -1,0 +1,12 @@
+{
+  "name": "typeface-tex-gyre-pagella",
+  "version": "0.0.2",
+  "description": "TeX Gyre Pagella typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "tex-gyre-pagella"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+  }
