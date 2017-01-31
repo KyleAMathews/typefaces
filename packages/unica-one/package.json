@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-unica-one",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Unica One typeface",
   "main": "index.css",
   "keywords": [

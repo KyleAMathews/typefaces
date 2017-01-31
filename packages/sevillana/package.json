@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-sevillana",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Sevillana typeface",
   "main": "index.css",
   "keywords": [

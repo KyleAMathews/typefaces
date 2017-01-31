@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-alice",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Alice typeface",
   "main": "index.css",
   "keywords": [

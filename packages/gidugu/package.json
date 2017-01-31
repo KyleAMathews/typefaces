@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-gidugu",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Gidugu typeface",
   "main": "index.css",
   "keywords": [

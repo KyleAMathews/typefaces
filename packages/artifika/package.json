@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-artifika",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Artifika typeface",
   "main": "index.css",
   "keywords": [

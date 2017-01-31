@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-dynalight",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Dynalight typeface",
   "main": "index.css",
   "keywords": [

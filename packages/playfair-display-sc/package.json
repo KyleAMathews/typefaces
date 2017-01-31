@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-playfair-display-sc",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Playfair Display SC typeface",
   "main": "index.css",
   "keywords": [

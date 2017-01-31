@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-shojumaru",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Shojumaru typeface",
   "main": "index.css",
   "keywords": [

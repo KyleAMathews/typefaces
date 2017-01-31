@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-archivo-narrow",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Archivo Narrow typeface",
   "main": "index.css",
   "keywords": [

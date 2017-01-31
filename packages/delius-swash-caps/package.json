@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-delius-swash-caps",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Delius Swash Caps typeface",
   "main": "index.css",
   "keywords": [

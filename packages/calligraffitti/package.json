@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-calligraffitti",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Calligraffitti typeface",
   "main": "index.css",
   "keywords": [

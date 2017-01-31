@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-miniver",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Miniver typeface",
   "main": "index.css",
   "keywords": [

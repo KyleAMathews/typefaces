@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-anton",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Anton typeface",
   "main": "index.css",
   "keywords": [

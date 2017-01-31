@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-halant",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Halant typeface",
   "main": "index.css",
   "keywords": [

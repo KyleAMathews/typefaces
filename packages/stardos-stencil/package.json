@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-stardos-stencil",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Stardos Stencil typeface",
   "main": "index.css",
   "keywords": [

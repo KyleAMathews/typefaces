@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-henny-penny",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Henny Penny typeface",
   "main": "index.css",
   "keywords": [

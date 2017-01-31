@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-oswald",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Oswald typeface",
   "main": "index.css",
   "keywords": [

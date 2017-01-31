@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-linden-hill",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Linden Hill typeface",
   "main": "index.css",
   "keywords": [

@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-neuton",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Neuton typeface",
   "main": "index.css",
   "keywords": [

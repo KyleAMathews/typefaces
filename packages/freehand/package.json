@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-freehand",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Freehand typeface",
   "main": "index.css",
   "keywords": [

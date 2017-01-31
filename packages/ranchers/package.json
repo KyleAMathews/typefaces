@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-ranchers",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Ranchers typeface",
   "main": "index.css",
   "keywords": [

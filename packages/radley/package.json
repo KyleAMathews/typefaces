@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-radley",
-  "version": "0.0.2",
+  "version": "0.0.14",
   "description": "Radley typeface",
   "main": "index.css",
   "keywords": [
