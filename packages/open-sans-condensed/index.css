@@ -9,7 +9,7 @@
        url('./files/open-sans-condensed-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./files/open-sans-condensed-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
        url('./files/open-sans-condensed-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./files/open-sans-condensed-latin-300.svg#Alegreya') format('svg'); /* Legacy iOS */
+       url('./files/open-sans-condensed-latin-300.svg#Open Sans Condensed') format('svg'); /* Legacy iOS */
 }
     
 /* open-sans-condensed-300italic - latin */
@@ -22,7 +22,7 @@
        url('./files/open-sans-condensed-latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./files/open-sans-condensed-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
        url('./files/open-sans-condensed-latin-300italic.woff') format('woff'), /* Modern Browsers */
-       url('./files/open-sans-condensed-latin-300italic.svg#Alegreya') format('svg'); /* Legacy iOS */
+       url('./files/open-sans-condensed-latin-300italic.svg#Open Sans Condensed') format('svg'); /* Legacy iOS */
 }
     
 /* open-sans-condensed-700normal - latin */
@@ -35,6 +35,6 @@
        url('./files/open-sans-condensed-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./files/open-sans-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
        url('./files/open-sans-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/open-sans-condensed-latin-700.svg#Alegreya') format('svg'); /* Legacy iOS */
+       url('./files/open-sans-condensed-latin-700.svg#Open Sans Condensed') format('svg'); /* Legacy iOS */
 }
     

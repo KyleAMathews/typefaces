@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-poppins",
-  "version": "0.0.8",
+  "version": "0.0.2",
   "description": "Poppins typeface",
   "main": "index.css",
   "keywords": [

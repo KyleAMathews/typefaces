@@ -8,9 +8,11 @@
     "fs-extra": "^2.0.0",
     "glob": "^7.1.1",
     "lodash": "^4.17.4",
+    "md5-dir": "^0.1.0",
     "request": "^2.78.0",
     "request-promise": "^4.1.1",
     "shelljs": "^0.7.5",
+    "single-line-log": "^1.1.2",
     "sync-request": "^4.0.1",
     "ttf2woff2": "^2.0.3"
   }

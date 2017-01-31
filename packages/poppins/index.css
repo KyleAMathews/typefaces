@@ -9,7 +9,7 @@
        url('./files/poppins-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./files/poppins-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
        url('./files/poppins-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./files/poppins-latin-300.svg#Alegreya') format('svg'); /* Legacy iOS */
+       url('./files/poppins-latin-300.svg#Poppins') format('svg'); /* Legacy iOS */
 }
     
 /* poppins-400normal - latin */
@@ -22,7 +22,7 @@
        url('./files/poppins-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./files/poppins-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
        url('./files/poppins-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/poppins-latin-400.svg#Alegreya') format('svg'); /* Legacy iOS */
+       url('./files/poppins-latin-400.svg#Poppins') format('svg'); /* Legacy iOS */
 }
     
 /* poppins-500normal - latin */
@@ -35,7 +35,7 @@
        url('./files/poppins-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./files/poppins-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
        url('./files/poppins-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./files/poppins-latin-500.svg#Alegreya') format('svg'); /* Legacy iOS */
+       url('./files/poppins-latin-500.svg#Poppins') format('svg'); /* Legacy iOS */
 }
     
 /* poppins-600normal - latin */
@@ -48,7 +48,7 @@
        url('./files/poppins-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./files/poppins-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
        url('./files/poppins-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('./files/poppins-latin-600.svg#Alegreya') format('svg'); /* Legacy iOS */
+       url('./files/poppins-latin-600.svg#Poppins') format('svg'); /* Legacy iOS */
 }
     
 /* poppins-700normal - latin */
@@ -61,6 +61,6 @@
        url('./files/poppins-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./files/poppins-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
        url('./files/poppins-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/poppins-latin-700.svg#Alegreya') format('svg'); /* Legacy iOS */
+       url('./files/poppins-latin-700.svg#Poppins') format('svg'); /* Legacy iOS */
 }
     

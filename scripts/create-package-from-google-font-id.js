@@ -1,9 +1,12 @@
 require('shelljs/global')
+require('shelljs').config.silent = true
 const requestSync = require(`sync-request`)
 const request = require(`request`)
 const async = require(`async`)
 const fs = require(`fs`)
 const path = require(`path`)
+const md5Dir = require(`md5-dir`)
+const log = require('single-line-log').stdout
 
 const download = require(`./download-file`)
 const commonWeightNameMap = require(`./common-weight-name-map`)
@@ -17,13 +20,12 @@ if (!id) {
 
 const res = requestSync(`GET`, baseurl + id)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
-console.log(typeface)
 
 const typefaceDir = `packages/${typeface.id}`
 
 // Create the directories for this typeface.
-mkdir(typefaceDir)
-mkdir(typefaceDir + `/files`)
+mkdir(typefaceDir, { silent: true })
+mkdir(typefaceDir + `/files`, { silent: true })
 
 // Make git ignore typeface files so we're not checking in GBs of data.
 fs.writeFileSync(typefaceDir + `/.gitignore`, '/files')
@@ -52,13 +54,35 @@ async.map(typeface.variants, (item, callback) => {
   async.map(downloads, (d, cb) => {
     const { url, dest } = d
     download(url, dest, (err) => {
-      console.log(`Finished downloading "${url}" to "${dest}"`)
+      log(`Finished downloading "${url}" to "${dest}"`)
       cb(err)
     })
   }, callback)
 }, (err, results) => {
-  // Write out package.json file
-  const packageJSON = `{
+  // Create md5 hash of directory and write this out so git/lerna knows if anything
+  // has changed.
+  md5Dir(`${typefaceDir}/files`, (err, filesHash) => {
+    // If a hash file already exists, check if anything has changed. If it has
+    // then update the hash, otherwise exit.
+    if (fs.existsSync(`${typefaceDir}/files-hash.json`)) {
+      const filesHashJson = JSON.parse(fs.readFileSync(`${typefaceDir}/files-hash.json`, `utf-8`))
+      if (filesHashJson.hash === filesHash) {
+        // Exit
+        console.log(`The md5 hash of the new font files haven't changed (meaning no font files have changed) so exiting`)
+        process.exit()
+      } else {
+      }
+    }
+
+    // Either the files hash file needs updated or written new.
+    fs.writeFileSync(`${typefaceDir}/files-hash.json`, JSON.stringify({
+      hash: filesHash,
+      updatedAt: new Date().toJSON(),
+    }))
+
+    // Write out package.json file
+    const packageJSON = `
+{
   "name": "typeface-${typeface.id}",
   "version": "0.0.2",
   "description": "${typeface.family} typeface",
@@ -70,15 +94,15 @@ async.map(typeface.variants, (item, callback) => {
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT"
 }`
-  fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
+    fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
-  // Write out index.css file
-  css = typeface.variants.map((item) => {
-    let style = ""
-    if (item.fontStyle !== `normal`) {
-      style = item.fontStyle
-    }
-    return `
+    // Write out index.css file
+    css = typeface.variants.map((item) => {
+      let style = ""
+      if (item.fontStyle !== `normal`) {
+        style = item.fontStyle
+      }
+      return `
 /* ${typeface.id}-${item.fontWeight}${item.fontStyle} - latin */
 @font-face {
   font-family: '${typeface.family}';
@@ -92,8 +116,9 @@ async.map(typeface.variants, (item, callback) => {
        url('${makeFontFilePath(item, 'svg')}#${typeface.family}') format('svg'); /* Legacy iOS */
 }
     `
-  })
+    })
 
-  console.log(css)
-  fs.writeFileSync(`${typefaceDir}/index.css`, css.join(''))
+    fs.writeFileSync(`${typefaceDir}/index.css`, css.join(''))
+    console.log(`\nfinished`)
+  })
 })

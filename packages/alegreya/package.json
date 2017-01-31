@@ -1,11 +1,9 @@
+
 {
   "name": "typeface-alegreya",
   "version": "0.0.2",
   "description": "Alegreya typeface",
   "main": "index.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "typeface",
     "alegreya"
