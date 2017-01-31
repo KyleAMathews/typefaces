@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-yeseva-one",
+  "version": "0.0.2",
+  "description": "Yeseva One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "yeseva-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

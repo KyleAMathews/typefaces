@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-kelly-slab",
+  "version": "0.0.2",
+  "description": "Kelly Slab typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "kelly-slab"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

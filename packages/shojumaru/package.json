@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-shojumaru",
+  "version": "0.0.2",
+  "description": "Shojumaru typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "shojumaru"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

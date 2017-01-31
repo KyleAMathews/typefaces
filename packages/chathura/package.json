@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-chathura",
+  "version": "0.0.2",
+  "description": "Chathura typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "chathura"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

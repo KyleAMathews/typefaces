@@ -1,0 +1,14 @@
+
+/* averia-gruesa-libre-400normal - latin */
+@font-face {
+  font-family: 'Averia Gruesa Libre';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/averia-gruesa-libre-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Averia Gruesa Libre Regular '), local('Averia Gruesa Libre-Regular'),
+       url('./files/averia-gruesa-libre-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/averia-gruesa-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/averia-gruesa-libre-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/averia-gruesa-libre-latin-400.svg#Averia Gruesa Libre') format('svg'); /* Legacy iOS */
+}
+    

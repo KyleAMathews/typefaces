@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-merriweather-sans",
+  "version": "0.0.2",
+  "description": "Merriweather Sans typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "merriweather-sans"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

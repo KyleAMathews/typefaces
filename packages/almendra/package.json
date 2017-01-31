@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-almendra",
+  "version": "0.0.2",
+  "description": "Almendra typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "almendra"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

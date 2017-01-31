@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-miltonian-tattoo",
+  "version": "0.0.2",
+  "description": "Miltonian Tattoo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "miltonian-tattoo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

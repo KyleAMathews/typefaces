@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-inknut-antiqua",
+  "version": "0.0.2",
+  "description": "Inknut Antiqua typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "inknut-antiqua"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-over-the-rainbow",
+  "version": "0.0.2",
+  "description": "Over the Rainbow typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "over-the-rainbow"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

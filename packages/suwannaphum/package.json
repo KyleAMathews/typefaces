@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-suwannaphum",
+  "version": "0.0.2",
+  "description": "Suwannaphum typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "suwannaphum"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

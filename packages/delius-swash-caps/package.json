@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-delius-swash-caps",
+  "version": "0.0.2",
+  "description": "Delius Swash Caps typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "delius-swash-caps"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

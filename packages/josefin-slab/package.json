@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-josefin-slab",
+  "version": "0.0.2",
+  "description": "Josefin Slab typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "josefin-slab"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

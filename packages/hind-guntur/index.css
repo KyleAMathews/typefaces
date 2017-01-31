@@ -1,0 +1,66 @@
+
+/* hind-guntur-500normal - latin */
+@font-face {
+  font-family: 'Hind Guntur';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/hind-guntur-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Hind Guntur Medium '), local('Hind Guntur-Medium'),
+       url('./files/hind-guntur-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/hind-guntur-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/hind-guntur-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('./files/hind-guntur-latin-500.svg#Hind Guntur') format('svg'); /* Legacy iOS */
+}
+    
+/* hind-guntur-400normal - latin */
+@font-face {
+  font-family: 'Hind Guntur';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/hind-guntur-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Hind Guntur Regular '), local('Hind Guntur-Regular'),
+       url('./files/hind-guntur-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/hind-guntur-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/hind-guntur-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/hind-guntur-latin-400.svg#Hind Guntur') format('svg'); /* Legacy iOS */
+}
+    
+/* hind-guntur-600normal - latin */
+@font-face {
+  font-family: 'Hind Guntur';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/hind-guntur-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Hind Guntur SemiBold '), local('Hind Guntur-SemiBold'),
+       url('./files/hind-guntur-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/hind-guntur-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/hind-guntur-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('./files/hind-guntur-latin-600.svg#Hind Guntur') format('svg'); /* Legacy iOS */
+}
+    
+/* hind-guntur-700normal - latin */
+@font-face {
+  font-family: 'Hind Guntur';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/hind-guntur-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Hind Guntur Bold '), local('Hind Guntur-Bold'),
+       url('./files/hind-guntur-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/hind-guntur-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/hind-guntur-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/hind-guntur-latin-700.svg#Hind Guntur') format('svg'); /* Legacy iOS */
+}
+    
+/* hind-guntur-300normal - latin */
+@font-face {
+  font-family: 'Hind Guntur';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/hind-guntur-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Hind Guntur Light '), local('Hind Guntur-Light'),
+       url('./files/hind-guntur-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/hind-guntur-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/hind-guntur-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('./files/hind-guntur-latin-300.svg#Hind Guntur') format('svg'); /* Legacy iOS */
+}
+    

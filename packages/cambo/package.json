@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cambo",
+  "version": "0.0.2",
+  "description": "Cambo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cambo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

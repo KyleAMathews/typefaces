@@ -1,0 +1,14 @@
+
+/* sue-ellen-francisco-400normal - latin */
+@font-face {
+  font-family: 'Sue Ellen Francisco';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/sue-ellen-francisco-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Sue Ellen Francisco Regular '), local('Sue Ellen Francisco-Regular'),
+       url('./files/sue-ellen-francisco-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/sue-ellen-francisco-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/sue-ellen-francisco-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/sue-ellen-francisco-latin-400.svg#Sue Ellen Francisco') format('svg'); /* Legacy iOS */
+}
+    

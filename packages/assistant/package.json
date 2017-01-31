@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-assistant",
+  "version": "0.0.2",
+  "description": "Assistant typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "assistant"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

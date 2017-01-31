@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-baloo-da",
+  "version": "0.0.2",
+  "description": "Baloo Da typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "baloo-da"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

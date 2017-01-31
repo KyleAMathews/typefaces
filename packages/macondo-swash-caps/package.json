@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-macondo-swash-caps",
+  "version": "0.0.2",
+  "description": "Macondo Swash Caps typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "macondo-swash-caps"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

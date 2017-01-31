@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-dekko",
+  "version": "0.0.2",
+  "description": "Dekko typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "dekko"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

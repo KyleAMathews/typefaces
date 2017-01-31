@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-mouse-memoirs",
+  "version": "0.0.2",
+  "description": "Mouse Memoirs typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "mouse-memoirs"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

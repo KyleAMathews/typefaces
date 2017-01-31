@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-short-stack",
+  "version": "0.0.2",
+  "description": "Short Stack typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "short-stack"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

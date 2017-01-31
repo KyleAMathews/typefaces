@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-port-lligat-slab",
+  "version": "0.0.2",
+  "description": "Port Lligat Slab typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "port-lligat-slab"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

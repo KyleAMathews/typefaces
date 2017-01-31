@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-gravitas-one",
+  "version": "0.0.2",
+  "description": "Gravitas One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "gravitas-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

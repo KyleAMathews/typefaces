@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-damion",
+  "version": "0.0.2",
+  "description": "Damion typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "damion"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

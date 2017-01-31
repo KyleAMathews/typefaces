@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-raleway",
+  "version": "0.0.2",
+  "description": "Raleway typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "raleway"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

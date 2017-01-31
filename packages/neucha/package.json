@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-neucha",
+  "version": "0.0.2",
+  "description": "Neucha typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "neucha"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

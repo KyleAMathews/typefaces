@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-antic-didone",
+  "version": "0.0.2",
+  "description": "Antic Didone typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "antic-didone"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

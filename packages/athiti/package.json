@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-athiti",
+  "version": "0.0.2",
+  "description": "Athiti typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "athiti"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

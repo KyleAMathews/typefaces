@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-fauna-one",
+  "version": "0.0.2",
+  "description": "Fauna One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "fauna-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

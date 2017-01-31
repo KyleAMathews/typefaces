@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-sue-ellen-francisco",
+  "version": "0.0.2",
+  "description": "Sue Ellen Francisco typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "sue-ellen-francisco"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

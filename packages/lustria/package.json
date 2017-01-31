@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-lustria",
+  "version": "0.0.2",
+  "description": "Lustria typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "lustria"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

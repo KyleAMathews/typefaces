@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-homemade-apple",
+  "version": "0.0.2",
+  "description": "Homemade Apple typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "homemade-apple"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

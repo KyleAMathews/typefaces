@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-average-sans",
+  "version": "0.0.2",
+  "description": "Average Sans typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "average-sans"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-engagement",
+  "version": "0.0.2",
+  "description": "Engagement typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "engagement"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

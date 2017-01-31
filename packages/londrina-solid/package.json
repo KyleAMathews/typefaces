@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-londrina-solid",
+  "version": "0.0.2",
+  "description": "Londrina Solid typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "londrina-solid"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

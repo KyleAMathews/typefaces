@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cabin-sketch",
+  "version": "0.0.2",
+  "description": "Cabin Sketch typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cabin-sketch"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-kristi",
+  "version": "0.0.2",
+  "description": "Kristi typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "kristi"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

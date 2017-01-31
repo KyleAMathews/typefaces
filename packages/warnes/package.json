@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-warnes",
+  "version": "0.0.2",
+  "description": "Warnes typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "warnes"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

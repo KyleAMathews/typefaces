@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-sirin-stencil",
+  "version": "0.0.2",
+  "description": "Sirin Stencil typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "sirin-stencil"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

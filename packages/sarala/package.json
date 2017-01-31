@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-sarala",
+  "version": "0.0.2",
+  "description": "Sarala typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "sarala"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

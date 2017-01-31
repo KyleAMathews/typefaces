@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-scada",
+  "version": "0.0.2",
+  "description": "Scada typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "scada"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

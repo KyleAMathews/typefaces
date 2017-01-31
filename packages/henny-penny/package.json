@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-henny-penny",
+  "version": "0.0.2",
+  "description": "Henny Penny typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "henny-penny"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

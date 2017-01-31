@@ -1,0 +1,14 @@
+
+/* khmer-400normal - latin */
+@font-face {
+  font-family: 'Khmer';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/khmer-khmer-400.eot'); /* IE9 Compat Modes */
+  src: local('Khmer Regular '), local('Khmer-Regular'),
+       url('./files/khmer-khmer-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/khmer-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/khmer-khmer-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/khmer-khmer-400.svg#Khmer') format('svg'); /* Legacy iOS */
+}
+    

@@ -1,0 +1,27 @@
+
+/* astloch-400normal - latin */
+@font-face {
+  font-family: 'Astloch';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/astloch-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Astloch Regular '), local('Astloch-Regular'),
+       url('./files/astloch-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/astloch-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/astloch-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/astloch-latin-400.svg#Astloch') format('svg'); /* Legacy iOS */
+}
+    
+/* astloch-700normal - latin */
+@font-face {
+  font-family: 'Astloch';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/astloch-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Astloch Bold '), local('Astloch-Bold'),
+       url('./files/astloch-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/astloch-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/astloch-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/astloch-latin-700.svg#Astloch') format('svg'); /* Legacy iOS */
+}
+    

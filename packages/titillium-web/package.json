@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-titillium-web",
+  "version": "0.0.2",
+  "description": "Titillium Web typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "titillium-web"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

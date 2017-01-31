@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-coda",
+  "version": "0.0.2",
+  "description": "Coda typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "coda"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

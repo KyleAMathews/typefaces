@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-unifrakturcook",
+  "version": "0.0.2",
+  "description": "UnifrakturCook typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "unifrakturcook"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

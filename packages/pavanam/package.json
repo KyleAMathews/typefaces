@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-pavanam",
+  "version": "0.0.2",
+  "description": "Pavanam typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "pavanam"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

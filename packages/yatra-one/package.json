@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-yatra-one",
+  "version": "0.0.2",
+  "description": "Yatra One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "yatra-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

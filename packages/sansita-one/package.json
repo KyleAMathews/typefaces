@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-sansita-one",
+  "version": "0.0.2",
+  "description": "Sansita One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "sansita-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

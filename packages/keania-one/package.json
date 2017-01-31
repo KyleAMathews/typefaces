@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-keania-one",
+  "version": "0.0.2",
+  "description": "Keania One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "keania-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

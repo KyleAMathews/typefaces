@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-londrina-sketch",
+  "version": "0.0.2",
+  "description": "Londrina Sketch typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "londrina-sketch"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

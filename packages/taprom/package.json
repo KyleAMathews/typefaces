@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-taprom",
+  "version": "0.0.2",
+  "description": "Taprom typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "taprom"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

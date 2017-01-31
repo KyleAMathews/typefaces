@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-hammersmith-one",
+  "version": "0.0.2",
+  "description": "Hammersmith One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "hammersmith-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

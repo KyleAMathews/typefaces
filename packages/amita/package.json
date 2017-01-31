@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-amita",
+  "version": "0.0.2",
+  "description": "Amita typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "amita"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

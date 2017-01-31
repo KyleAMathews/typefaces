@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-battambang",
+  "version": "0.0.2",
+  "description": "Battambang typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "battambang"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

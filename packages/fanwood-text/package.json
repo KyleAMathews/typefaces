@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-fanwood-text",
+  "version": "0.0.2",
+  "description": "Fanwood Text typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "fanwood-text"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

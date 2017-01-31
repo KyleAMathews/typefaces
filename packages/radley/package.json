@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-radley",
+  "version": "0.0.2",
+  "description": "Radley typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "radley"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

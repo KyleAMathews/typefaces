@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-codystar",
+  "version": "0.0.2",
+  "description": "Codystar typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "codystar"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

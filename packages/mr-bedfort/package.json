@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-mr-bedfort",
+  "version": "0.0.2",
+  "description": "Mr Bedfort typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "mr-bedfort"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

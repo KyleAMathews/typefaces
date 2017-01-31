@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-revalia",
+  "version": "0.0.2",
+  "description": "Revalia typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "revalia"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

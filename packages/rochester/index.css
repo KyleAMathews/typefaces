@@ -1,0 +1,14 @@
+
+/* rochester-400normal - latin */
+@font-face {
+  font-family: 'Rochester';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/rochester-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Rochester Regular '), local('Rochester-Regular'),
+       url('./files/rochester-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/rochester-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/rochester-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/rochester-latin-400.svg#Rochester') format('svg'); /* Legacy iOS */
+}
+    

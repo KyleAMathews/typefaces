@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-creepster",
+  "version": "0.0.2",
+  "description": "Creepster typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "creepster"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

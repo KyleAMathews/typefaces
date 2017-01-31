@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-marko-one",
+  "version": "0.0.2",
+  "description": "Marko One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "marko-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

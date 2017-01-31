@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-reem-kufi",
+  "version": "0.0.2",
+  "description": "Reem Kufi typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "reem-kufi"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

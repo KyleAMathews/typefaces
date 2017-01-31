@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-neuton",
+  "version": "0.0.2",
+  "description": "Neuton typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "neuton"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-modak",
+  "version": "0.0.2",
+  "description": "Modak typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "modak"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

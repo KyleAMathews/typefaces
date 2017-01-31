@@ -1,0 +1,14 @@
+
+/* mouse-memoirs-400normal - latin */
+@font-face {
+  font-family: 'Mouse Memoirs';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/mouse-memoirs-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Mouse Memoirs Regular '), local('Mouse Memoirs-Regular'),
+       url('./files/mouse-memoirs-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mouse-memoirs-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mouse-memoirs-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/mouse-memoirs-latin-400.svg#Mouse Memoirs') format('svg'); /* Legacy iOS */
+}
+    

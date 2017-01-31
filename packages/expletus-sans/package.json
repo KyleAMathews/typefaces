@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-expletus-sans",
+  "version": "0.0.2",
+  "description": "Expletus Sans typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "expletus-sans"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

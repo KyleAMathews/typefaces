@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-capriola",
+  "version": "0.0.2",
+  "description": "Capriola typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "capriola"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

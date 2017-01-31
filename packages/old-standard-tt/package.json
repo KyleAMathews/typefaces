@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-old-standard-tt",
+  "version": "0.0.2",
+  "description": "Old Standard TT typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "old-standard-tt"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-swanky-and-moo-moo",
+  "version": "0.0.2",
+  "description": "Swanky and Moo Moo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "swanky-and-moo-moo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

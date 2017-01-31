@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-meddon",
+  "version": "0.0.2",
+  "description": "Meddon typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "meddon"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

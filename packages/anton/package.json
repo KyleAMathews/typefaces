@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-anton",
+  "version": "0.0.2",
+  "description": "Anton typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "anton"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

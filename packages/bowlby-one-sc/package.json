@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bowlby-one-sc",
+  "version": "0.0.2",
+  "description": "Bowlby One SC typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bowlby-one-sc"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

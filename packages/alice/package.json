@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-alice",
+  "version": "0.0.2",
+  "description": "Alice typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "alice"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

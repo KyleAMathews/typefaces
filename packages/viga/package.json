@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-viga",
+  "version": "0.0.2",
+  "description": "Viga typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "viga"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

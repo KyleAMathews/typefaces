@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-sigmar-one",
+  "version": "0.0.2",
+  "description": "Sigmar One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "sigmar-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

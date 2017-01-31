@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-peralta",
+  "version": "0.0.2",
+  "description": "Peralta typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "peralta"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

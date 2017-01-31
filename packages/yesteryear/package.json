@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-yesteryear",
+  "version": "0.0.2",
+  "description": "Yesteryear typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "yesteryear"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

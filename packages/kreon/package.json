@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-kreon",
+  "version": "0.0.2",
+  "description": "Kreon typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "kreon"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

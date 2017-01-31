@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-butterfly-kids",
+  "version": "0.0.2",
+  "description": "Butterfly Kids typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "butterfly-kids"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,92 @@
+
+/* heebo-100normal - latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 100;
+  src: url('./files/heebo-latin-100.eot'); /* IE9 Compat Modes */
+  src: local('Heebo Thin '), local('Heebo-Thin'),
+       url('./files/heebo-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/heebo-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/heebo-latin-100.woff') format('woff'), /* Modern Browsers */
+       url('./files/heebo-latin-100.svg#Heebo') format('svg'); /* Legacy iOS */
+}
+    
+/* heebo-300normal - latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/heebo-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Heebo Light '), local('Heebo-Light'),
+       url('./files/heebo-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/heebo-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/heebo-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('./files/heebo-latin-300.svg#Heebo') format('svg'); /* Legacy iOS */
+}
+    
+/* heebo-400normal - latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/heebo-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Heebo Regular '), local('Heebo-Regular'),
+       url('./files/heebo-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/heebo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/heebo-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/heebo-latin-400.svg#Heebo') format('svg'); /* Legacy iOS */
+}
+    
+/* heebo-500normal - latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/heebo-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Heebo Medium '), local('Heebo-Medium'),
+       url('./files/heebo-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/heebo-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/heebo-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('./files/heebo-latin-500.svg#Heebo') format('svg'); /* Legacy iOS */
+}
+    
+/* heebo-700normal - latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/heebo-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Heebo Bold '), local('Heebo-Bold'),
+       url('./files/heebo-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/heebo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/heebo-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/heebo-latin-700.svg#Heebo') format('svg'); /* Legacy iOS */
+}
+    
+/* heebo-800normal - latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 800;
+  src: url('./files/heebo-latin-800.eot'); /* IE9 Compat Modes */
+  src: local('Heebo ExtraBold '), local('Heebo-ExtraBold'),
+       url('./files/heebo-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/heebo-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/heebo-latin-800.woff') format('woff'), /* Modern Browsers */
+       url('./files/heebo-latin-800.svg#Heebo') format('svg'); /* Legacy iOS */
+}
+    
+/* heebo-900normal - latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 900;
+  src: url('./files/heebo-latin-900.eot'); /* IE9 Compat Modes */
+  src: local('Heebo Black '), local('Heebo-Black'),
+       url('./files/heebo-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/heebo-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/heebo-latin-900.woff') format('woff'), /* Modern Browsers */
+       url('./files/heebo-latin-900.svg#Heebo') format('svg'); /* Legacy iOS */
+}
+    

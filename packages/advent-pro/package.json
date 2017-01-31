@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-advent-pro",
+  "version": "0.0.2",
+  "description": "Advent Pro typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "advent-pro"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

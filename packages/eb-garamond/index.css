@@ -1,0 +1,14 @@
+
+/* eb-garamond-400normal - latin */
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/eb-garamond-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('EB Garamond Regular '), local('EB Garamond-Regular'),
+       url('./files/eb-garamond-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/eb-garamond-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/eb-garamond-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/eb-garamond-latin-400.svg#EB Garamond') format('svg'); /* Legacy iOS */
+}
+    

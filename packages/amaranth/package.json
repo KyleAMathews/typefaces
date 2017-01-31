@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-amaranth",
+  "version": "0.0.2",
+  "description": "Amaranth typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "amaranth"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

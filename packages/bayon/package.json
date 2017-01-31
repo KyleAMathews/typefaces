@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bayon",
+  "version": "0.0.2",
+  "description": "Bayon typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bayon"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

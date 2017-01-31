@@ -1,0 +1,14 @@
+
+/* suravaram-400normal - latin */
+@font-face {
+  font-family: 'Suravaram';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/suravaram-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Suravaram Regular '), local('Suravaram-Regular'),
+       url('./files/suravaram-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/suravaram-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/suravaram-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/suravaram-latin-400.svg#Suravaram') format('svg'); /* Legacy iOS */
+}
+    

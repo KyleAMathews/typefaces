@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-hanuman",
+  "version": "0.0.2",
+  "description": "Hanuman typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "hanuman"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

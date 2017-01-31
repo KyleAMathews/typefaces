@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-rozha-one",
+  "version": "0.0.2",
+  "description": "Rozha One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "rozha-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

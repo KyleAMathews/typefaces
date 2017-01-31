@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cormorant-unicase",
+  "version": "0.0.2",
+  "description": "Cormorant Unicase typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cormorant-unicase"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

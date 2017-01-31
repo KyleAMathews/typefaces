@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-preahvihear",
+  "version": "0.0.2",
+  "description": "Preahvihear typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "preahvihear"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

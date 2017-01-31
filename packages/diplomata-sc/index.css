@@ -1,0 +1,14 @@
+
+/* diplomata-sc-400normal - latin */
+@font-face {
+  font-family: 'Diplomata SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/diplomata-sc-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Diplomata SC Regular '), local('Diplomata SC-Regular'),
+       url('./files/diplomata-sc-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/diplomata-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/diplomata-sc-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/diplomata-sc-latin-400.svg#Diplomata SC') format('svg'); /* Legacy iOS */
+}
+    

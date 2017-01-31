@@ -1,0 +1,14 @@
+
+/* luckiest-guy-400normal - latin */
+@font-face {
+  font-family: 'Luckiest Guy';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/luckiest-guy-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Luckiest Guy Regular '), local('Luckiest Guy-Regular'),
+       url('./files/luckiest-guy-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/luckiest-guy-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/luckiest-guy-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/luckiest-guy-latin-400.svg#Luckiest Guy') format('svg'); /* Legacy iOS */
+}
+    

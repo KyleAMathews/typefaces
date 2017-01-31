@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-nosifer",
+  "version": "0.0.2",
+  "description": "Nosifer typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "nosifer"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

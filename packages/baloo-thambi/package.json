@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-baloo-thambi",
+  "version": "0.0.2",
+  "description": "Baloo Thambi typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "baloo-thambi"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

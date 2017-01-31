@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-teko",
+  "version": "0.0.2",
+  "description": "Teko typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "teko"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

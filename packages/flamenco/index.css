@@ -1,0 +1,27 @@
+
+/* flamenco-300normal - latin */
+@font-face {
+  font-family: 'Flamenco';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/flamenco-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Flamenco Light '), local('Flamenco-Light'),
+       url('./files/flamenco-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/flamenco-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/flamenco-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('./files/flamenco-latin-300.svg#Flamenco') format('svg'); /* Legacy iOS */
+}
+    
+/* flamenco-400normal - latin */
+@font-face {
+  font-family: 'Flamenco';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/flamenco-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Flamenco Regular '), local('Flamenco-Regular'),
+       url('./files/flamenco-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/flamenco-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/flamenco-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/flamenco-latin-400.svg#Flamenco') format('svg'); /* Legacy iOS */
+}
+    

@@ -1,0 +1,27 @@
+
+/* delius-unicase-400normal - latin */
+@font-face {
+  font-family: 'Delius Unicase';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/delius-unicase-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Delius Unicase Regular '), local('Delius Unicase-Regular'),
+       url('./files/delius-unicase-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/delius-unicase-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/delius-unicase-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/delius-unicase-latin-400.svg#Delius Unicase') format('svg'); /* Legacy iOS */
+}
+    
+/* delius-unicase-700normal - latin */
+@font-face {
+  font-family: 'Delius Unicase';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/delius-unicase-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Delius Unicase Bold '), local('Delius Unicase-Bold'),
+       url('./files/delius-unicase-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/delius-unicase-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/delius-unicase-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/delius-unicase-latin-700.svg#Delius Unicase') format('svg'); /* Legacy iOS */
+}
+    

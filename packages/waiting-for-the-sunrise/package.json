@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-waiting-for-the-sunrise",
+  "version": "0.0.2",
+  "description": "Waiting for the Sunrise typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "waiting-for-the-sunrise"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

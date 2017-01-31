@@ -1,0 +1,27 @@
+
+/* padauk-400normal - latin */
+@font-face {
+  font-family: 'Padauk';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/padauk-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Padauk Regular '), local('Padauk-Regular'),
+       url('./files/padauk-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/padauk-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/padauk-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/padauk-latin-400.svg#Padauk') format('svg'); /* Legacy iOS */
+}
+    
+/* padauk-700normal - latin */
+@font-face {
+  font-family: 'Padauk';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/padauk-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Padauk Bold '), local('Padauk-Bold'),
+       url('./files/padauk-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/padauk-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/padauk-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/padauk-latin-700.svg#Padauk') format('svg'); /* Legacy iOS */
+}
+    

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-rye",
+  "version": "0.0.2",
+  "description": "Rye typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "rye"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

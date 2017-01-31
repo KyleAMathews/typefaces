@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-oleo-script",
+  "version": "0.0.2",
+  "description": "Oleo Script typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "oleo-script"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

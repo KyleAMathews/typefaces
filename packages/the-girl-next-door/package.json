@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-the-girl-next-door",
+  "version": "0.0.2",
+  "description": "The Girl Next Door typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "the-girl-next-door"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+
+/* dawning-of-a-new-day-400normal - latin */
+@font-face {
+  font-family: 'Dawning of a New Day';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/dawning-of-a-new-day-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Dawning of a New Day Regular '), local('Dawning of a New Day-Regular'),
+       url('./files/dawning-of-a-new-day-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/dawning-of-a-new-day-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/dawning-of-a-new-day-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/dawning-of-a-new-day-latin-400.svg#Dawning of a New Day') format('svg'); /* Legacy iOS */
+}
+    

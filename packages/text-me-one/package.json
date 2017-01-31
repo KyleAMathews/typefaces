@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-text-me-one",
+  "version": "0.0.2",
+  "description": "Text Me One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "text-me-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

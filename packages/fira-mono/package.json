@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-fira-mono",
+  "version": "0.0.2",
+  "description": "Fira Mono typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "fira-mono"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

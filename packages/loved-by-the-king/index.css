@@ -1,0 +1,14 @@
+
+/* loved-by-the-king-400normal - latin */
+@font-face {
+  font-family: 'Loved by the King';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/loved-by-the-king-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Loved by the King Regular '), local('Loved by the King-Regular'),
+       url('./files/loved-by-the-king-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/loved-by-the-king-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/loved-by-the-king-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/loved-by-the-king-latin-400.svg#Loved by the King') format('svg'); /* Legacy iOS */
+}
+    

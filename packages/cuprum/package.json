@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cuprum",
+  "version": "0.0.2",
+  "description": "Cuprum typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cuprum"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

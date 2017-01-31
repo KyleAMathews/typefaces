@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-junge",
+  "version": "0.0.2",
+  "description": "Junge typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "junge"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

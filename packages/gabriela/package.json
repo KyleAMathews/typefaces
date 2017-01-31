@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-gabriela",
+  "version": "0.0.2",
+  "description": "Gabriela typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "gabriela"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-gurajada",
+  "version": "0.0.2",
+  "description": "Gurajada typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "gurajada"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

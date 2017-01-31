@@ -1,0 +1,27 @@
+
+/* battambang-400normal - latin */
+@font-face {
+  font-family: 'Battambang';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/battambang-khmer-400.eot'); /* IE9 Compat Modes */
+  src: local('Battambang Regular '), local('Battambang-Regular'),
+       url('./files/battambang-khmer-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/battambang-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/battambang-khmer-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/battambang-khmer-400.svg#Battambang') format('svg'); /* Legacy iOS */
+}
+    
+/* battambang-700normal - latin */
+@font-face {
+  font-family: 'Battambang';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/battambang-khmer-700.eot'); /* IE9 Compat Modes */
+  src: local('Battambang Bold '), local('Battambang-Bold'),
+       url('./files/battambang-khmer-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/battambang-khmer-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/battambang-khmer-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/battambang-khmer-700.svg#Battambang') format('svg'); /* Legacy iOS */
+}
+    

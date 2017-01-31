@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-numans",
+  "version": "0.0.2",
+  "description": "Numans typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "numans"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

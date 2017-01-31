@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-lily-script-one",
+  "version": "0.0.2",
+  "description": "Lily Script One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "lily-script-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

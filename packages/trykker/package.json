@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-trykker",
+  "version": "0.0.2",
+  "description": "Trykker typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "trykker"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

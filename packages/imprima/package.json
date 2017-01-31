@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-imprima",
+  "version": "0.0.2",
+  "description": "Imprima typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "imprima"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

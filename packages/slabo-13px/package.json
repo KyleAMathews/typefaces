@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-slabo-13px",
+  "version": "0.0.2",
+  "description": "Slabo 13px typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "slabo-13px"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

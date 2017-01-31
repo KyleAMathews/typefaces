@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-fascinate-inline",
+  "version": "0.0.2",
+  "description": "Fascinate Inline typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "fascinate-inline"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

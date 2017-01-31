@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-trade-winds",
+  "version": "0.0.2",
+  "description": "Trade Winds typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "trade-winds"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

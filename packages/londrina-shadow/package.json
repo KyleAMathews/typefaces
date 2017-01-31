@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-londrina-shadow",
+  "version": "0.0.2",
+  "description": "Londrina Shadow typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "londrina-shadow"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

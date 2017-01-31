@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-frank-ruhl-libre",
+  "version": "0.0.2",
+  "description": "Frank Ruhl Libre typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "frank-ruhl-libre"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

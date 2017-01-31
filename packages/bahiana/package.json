@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bahiana",
+  "version": "0.0.2",
+  "description": "Bahiana typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bahiana"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

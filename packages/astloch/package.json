@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-astloch",
+  "version": "0.0.2",
+  "description": "Astloch typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "astloch"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

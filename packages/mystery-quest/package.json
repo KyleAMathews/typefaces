@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-mystery-quest",
+  "version": "0.0.2",
+  "description": "Mystery Quest typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "mystery-quest"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

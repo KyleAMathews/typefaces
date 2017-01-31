@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-halant",
+  "version": "0.0.2",
+  "description": "Halant typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "halant"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

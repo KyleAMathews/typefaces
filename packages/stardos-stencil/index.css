@@ -1,0 +1,27 @@
+
+/* stardos-stencil-700normal - latin */
+@font-face {
+  font-family: 'Stardos Stencil';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/stardos-stencil-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Stardos Stencil Bold '), local('Stardos Stencil-Bold'),
+       url('./files/stardos-stencil-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/stardos-stencil-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/stardos-stencil-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/stardos-stencil-latin-700.svg#Stardos Stencil') format('svg'); /* Legacy iOS */
+}
+    
+/* stardos-stencil-400normal - latin */
+@font-face {
+  font-family: 'Stardos Stencil';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/stardos-stencil-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Stardos Stencil Regular '), local('Stardos Stencil-Regular'),
+       url('./files/stardos-stencil-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/stardos-stencil-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/stardos-stencil-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/stardos-stencil-latin-400.svg#Stardos Stencil') format('svg'); /* Legacy iOS */
+}
+    

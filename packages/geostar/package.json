@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-geostar",
+  "version": "0.0.2",
+  "description": "Geostar typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "geostar"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

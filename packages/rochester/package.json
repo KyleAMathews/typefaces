@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-rochester",
+  "version": "0.0.2",
+  "description": "Rochester typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "rochester"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

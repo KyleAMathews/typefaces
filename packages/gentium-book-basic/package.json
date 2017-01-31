@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-gentium-book-basic",
+  "version": "0.0.2",
+  "description": "Gentium Book Basic typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "gentium-book-basic"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

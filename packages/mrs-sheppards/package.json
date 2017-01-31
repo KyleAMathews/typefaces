@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-mrs-sheppards",
+  "version": "0.0.2",
+  "description": "Mrs Sheppards typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "mrs-sheppards"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-farsan",
+  "version": "0.0.2",
+  "description": "Farsan typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "farsan"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+
+/* over-the-rainbow-400normal - latin */
+@font-face {
+  font-family: 'Over the Rainbow';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/over-the-rainbow-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Over the Rainbow Regular '), local('Over the Rainbow-Regular'),
+       url('./files/over-the-rainbow-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/over-the-rainbow-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/over-the-rainbow-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/over-the-rainbow-latin-400.svg#Over the Rainbow') format('svg'); /* Legacy iOS */
+}
+    

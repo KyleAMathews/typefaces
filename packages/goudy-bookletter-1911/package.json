@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-goudy-bookletter-1911",
+  "version": "0.0.2",
+  "description": "Goudy Bookletter 1911 typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "goudy-bookletter-1911"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

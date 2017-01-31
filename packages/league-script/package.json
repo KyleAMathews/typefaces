@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-league-script",
+  "version": "0.0.2",
+  "description": "League Script typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "league-script"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-montserrat-subrayada",
+  "version": "0.0.2",
+  "description": "Montserrat Subrayada typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "montserrat-subrayada"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

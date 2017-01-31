@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bangers",
+  "version": "0.0.2",
+  "description": "Bangers typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bangers"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

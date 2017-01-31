@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-laila",
+  "version": "0.0.2",
+  "description": "Laila typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "laila"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

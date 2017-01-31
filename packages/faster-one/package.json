@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-faster-one",
+  "version": "0.0.2",
+  "description": "Faster One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "faster-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

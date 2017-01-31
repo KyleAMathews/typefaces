@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-geostar-fill",
+  "version": "0.0.2",
+  "description": "Geostar Fill typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "geostar-fill"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

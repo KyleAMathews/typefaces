@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-satisfy",
+  "version": "0.0.2",
+  "description": "Satisfy typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "satisfy"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

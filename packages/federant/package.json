@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-federant",
+  "version": "0.0.2",
+  "description": "Federant typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "federant"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-freckle-face",
+  "version": "0.0.2",
+  "description": "Freckle Face typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "freckle-face"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

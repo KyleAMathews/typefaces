@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-covered-by-your-grace",
+  "version": "0.0.2",
+  "description": "Covered By Your Grace typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "covered-by-your-grace"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

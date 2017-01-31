@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-overpass-mono",
+  "version": "0.0.2",
+  "description": "Overpass Mono typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "overpass-mono"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-lobster",
+  "version": "0.0.2",
+  "description": "Lobster typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "lobster"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

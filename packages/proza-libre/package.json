@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-proza-libre",
+  "version": "0.0.2",
+  "description": "Proza Libre typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "proza-libre"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

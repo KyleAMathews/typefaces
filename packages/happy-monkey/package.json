@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-happy-monkey",
+  "version": "0.0.2",
+  "description": "Happy Monkey typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "happy-monkey"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

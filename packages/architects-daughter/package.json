@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-architects-daughter",
+  "version": "0.0.2",
+  "description": "Architects Daughter typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "architects-daughter"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cantora-one",
+  "version": "0.0.2",
+  "description": "Cantora One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cantora-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

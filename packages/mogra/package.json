@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-mogra",
+  "version": "0.0.2",
+  "description": "Mogra typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "mogra"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

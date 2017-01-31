@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-days-one",
+  "version": "0.0.2",
+  "description": "Days One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "days-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

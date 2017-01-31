@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-quicksand",
+  "version": "0.0.2",
+  "description": "Quicksand typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "quicksand"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

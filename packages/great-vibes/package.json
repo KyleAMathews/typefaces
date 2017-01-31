@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-great-vibes",
+  "version": "0.0.2",
+  "description": "Great Vibes typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "great-vibes"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

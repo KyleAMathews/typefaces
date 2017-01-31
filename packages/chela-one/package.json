@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-chela-one",
+  "version": "0.0.2",
+  "description": "Chela One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "chela-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

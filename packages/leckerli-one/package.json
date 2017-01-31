@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-leckerli-one",
+  "version": "0.0.2",
+  "description": "Leckerli One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "leckerli-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

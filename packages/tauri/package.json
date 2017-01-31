@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-tauri",
+  "version": "0.0.2",
+  "description": "Tauri typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "tauri"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

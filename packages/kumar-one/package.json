@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-kumar-one",
+  "version": "0.0.2",
+  "description": "Kumar One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "kumar-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

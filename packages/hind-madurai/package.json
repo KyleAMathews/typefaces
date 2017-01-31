@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-hind-madurai",
+  "version": "0.0.2",
+  "description": "Hind Madurai typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "hind-madurai"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

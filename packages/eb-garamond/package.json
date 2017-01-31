@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-eb-garamond",
+  "version": "0.0.2",
+  "description": "EB Garamond typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "eb-garamond"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

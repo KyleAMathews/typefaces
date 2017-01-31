@@ -1,0 +1,53 @@
+
+/* orbitron-400normal - latin */
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/orbitron-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Orbitron Regular '), local('Orbitron-Regular'),
+       url('./files/orbitron-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/orbitron-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/orbitron-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/orbitron-latin-400.svg#Orbitron') format('svg'); /* Legacy iOS */
+}
+    
+/* orbitron-500normal - latin */
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/orbitron-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Orbitron Medium '), local('Orbitron-Medium'),
+       url('./files/orbitron-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/orbitron-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/orbitron-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('./files/orbitron-latin-500.svg#Orbitron') format('svg'); /* Legacy iOS */
+}
+    
+/* orbitron-700normal - latin */
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/orbitron-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Orbitron Bold '), local('Orbitron-Bold'),
+       url('./files/orbitron-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/orbitron-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/orbitron-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/orbitron-latin-700.svg#Orbitron') format('svg'); /* Legacy iOS */
+}
+    
+/* orbitron-900normal - latin */
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 900;
+  src: url('./files/orbitron-latin-900.eot'); /* IE9 Compat Modes */
+  src: local('Orbitron Black '), local('Orbitron-Black'),
+       url('./files/orbitron-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/orbitron-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/orbitron-latin-900.woff') format('woff'), /* Modern Browsers */
+       url('./files/orbitron-latin-900.svg#Orbitron') format('svg'); /* Legacy iOS */
+}
+    

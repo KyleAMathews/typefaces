@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-audiowide",
+  "version": "0.0.2",
+  "description": "Audiowide typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "audiowide"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

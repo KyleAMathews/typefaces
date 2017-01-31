@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-prata",
+  "version": "0.0.2",
+  "description": "Prata typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "prata"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

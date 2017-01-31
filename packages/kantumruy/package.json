@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-kantumruy",
+  "version": "0.0.2",
+  "description": "Kantumruy typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "kantumruy"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

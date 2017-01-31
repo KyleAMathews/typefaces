@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-maiden-orange",
+  "version": "0.0.2",
+  "description": "Maiden Orange typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "maiden-orange"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

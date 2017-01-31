@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-metrophobic",
+  "version": "0.0.2",
+  "description": "Metrophobic typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "metrophobic"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

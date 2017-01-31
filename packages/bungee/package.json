@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bungee",
+  "version": "0.0.2",
+  "description": "Bungee typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bungee"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

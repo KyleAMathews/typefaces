@@ -24,8 +24,8 @@ const typeface = JSON.parse(res.getBody(`UTF-8`))
 const typefaceDir = `packages/${typeface.id}`
 
 // Create the directories for this typeface.
-mkdir(typefaceDir, { silent: true })
-mkdir(typefaceDir + `/files`, { silent: true })
+mkdir(typefaceDir)
+mkdir(typefaceDir + `/files`)
 
 // Make git ignore typeface files so we're not checking in GBs of data.
 fs.writeFileSync(typefaceDir + `/.gitignore`, '/files')

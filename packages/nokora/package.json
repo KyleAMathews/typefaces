@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-nokora",
+  "version": "0.0.2",
+  "description": "Nokora typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "nokora"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

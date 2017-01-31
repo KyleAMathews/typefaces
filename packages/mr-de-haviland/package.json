@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-mr-de-haviland",
+  "version": "0.0.2",
+  "description": "Mr De Haviland typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "mr-de-haviland"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

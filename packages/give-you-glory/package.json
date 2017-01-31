@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-give-you-glory",
+  "version": "0.0.2",
+  "description": "Give You Glory typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "give-you-glory"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

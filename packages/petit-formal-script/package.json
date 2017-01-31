@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-petit-formal-script",
+  "version": "0.0.2",
+  "description": "Petit Formal Script typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "petit-formal-script"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

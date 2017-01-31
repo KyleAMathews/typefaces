@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-annie-use-your-telescope",
+  "version": "0.0.2",
+  "description": "Annie Use Your Telescope typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "annie-use-your-telescope"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

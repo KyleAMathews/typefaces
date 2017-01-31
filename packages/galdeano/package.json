@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-galdeano",
+  "version": "0.0.2",
+  "description": "Galdeano typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "galdeano"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

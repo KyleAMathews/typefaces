@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bitter",
+  "version": "0.0.2",
+  "description": "Bitter typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bitter"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-coiny",
+  "version": "0.0.2",
+  "description": "Coiny typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "coiny"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+
+/* coda-caption-800normal - latin */
+@font-face {
+  font-family: 'Coda Caption';
+  font-style: normal;
+  font-weight: 800;
+  src: url('./files/coda-caption-latin-800.eot'); /* IE9 Compat Modes */
+  src: local('Coda Caption ExtraBold '), local('Coda Caption-ExtraBold'),
+       url('./files/coda-caption-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/coda-caption-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/coda-caption-latin-800.woff') format('woff'), /* Modern Browsers */
+       url('./files/coda-caption-latin-800.svg#Coda Caption') format('svg'); /* Legacy iOS */
+}
+    

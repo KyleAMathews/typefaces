@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-mallanna",
+  "version": "0.0.2",
+  "description": "Mallanna typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "mallanna"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

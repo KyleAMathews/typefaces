@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-sumana",
+  "version": "0.0.2",
+  "description": "Sumana typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "sumana"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

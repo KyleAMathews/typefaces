@@ -1,0 +1,14 @@
+
+/* telex-400normal - latin */
+@font-face {
+  font-family: 'Telex';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/telex-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Telex Regular '), local('Telex-Regular'),
+       url('./files/telex-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/telex-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/telex-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/telex-latin-400.svg#Telex') format('svg'); /* Legacy iOS */
+}
+    

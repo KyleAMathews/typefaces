@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-share-tech",
+  "version": "0.0.2",
+  "description": "Share Tech typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "share-tech"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

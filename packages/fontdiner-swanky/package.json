@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-fontdiner-swanky",
+  "version": "0.0.2",
+  "description": "Fontdiner Swanky typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "fontdiner-swanky"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

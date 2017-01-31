@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-allerta-stencil",
+  "version": "0.0.2",
+  "description": "Allerta Stencil typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "allerta-stencil"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

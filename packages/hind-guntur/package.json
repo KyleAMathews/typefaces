@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-hind-guntur",
+  "version": "0.0.2",
+  "description": "Hind Guntur typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "hind-guntur"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

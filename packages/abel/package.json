@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-abel",
+  "version": "0.0.2",
+  "description": "Abel typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "abel"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

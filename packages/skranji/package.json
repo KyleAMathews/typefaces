@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-skranji",
+  "version": "0.0.2",
+  "description": "Skranji typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "skranji"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

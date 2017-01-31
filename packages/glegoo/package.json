@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-glegoo",
+  "version": "0.0.2",
+  "description": "Glegoo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "glegoo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

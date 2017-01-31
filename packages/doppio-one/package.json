@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-doppio-one",
+  "version": "0.0.2",
+  "description": "Doppio One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "doppio-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

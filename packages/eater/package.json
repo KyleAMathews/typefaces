@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-eater",
+  "version": "0.0.2",
+  "description": "Eater typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "eater"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

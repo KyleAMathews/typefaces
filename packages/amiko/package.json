@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-amiko",
+  "version": "0.0.2",
+  "description": "Amiko typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "amiko"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

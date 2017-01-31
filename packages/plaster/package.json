@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-plaster",
+  "version": "0.0.2",
+  "description": "Plaster typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "plaster"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

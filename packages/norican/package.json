@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-norican",
+  "version": "0.0.2",
+  "description": "Norican typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "norican"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

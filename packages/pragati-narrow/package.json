@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-pragati-narrow",
+  "version": "0.0.2",
+  "description": "Pragati Narrow typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "pragati-narrow"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-gfs-neohellenic",
+  "version": "0.0.2",
+  "description": "GFS Neohellenic typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "gfs-neohellenic"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

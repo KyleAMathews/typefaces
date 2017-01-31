@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-overpass",
+  "version": "0.0.2",
+  "description": "Overpass typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "overpass"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-gidugu",
+  "version": "0.0.2",
+  "description": "Gidugu typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "gidugu"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

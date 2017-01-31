@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-rancho",
+  "version": "0.0.2",
+  "description": "Rancho typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "rancho"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

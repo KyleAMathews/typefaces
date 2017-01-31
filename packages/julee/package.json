@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-julee",
+  "version": "0.0.2",
+  "description": "Julee typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "julee"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

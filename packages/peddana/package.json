@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-peddana",
+  "version": "0.0.2",
+  "description": "Peddana typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "peddana"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

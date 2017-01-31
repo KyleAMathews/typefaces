@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bigelow-rules",
+  "version": "0.0.2",
+  "description": "Bigelow Rules typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bigelow-rules"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

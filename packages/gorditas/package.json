@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-gorditas",
+  "version": "0.0.2",
+  "description": "Gorditas typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "gorditas"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

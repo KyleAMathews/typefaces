@@ -1,0 +1,53 @@
+
+/* nobile-400normal - latin */
+@font-face {
+  font-family: 'Nobile';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/nobile-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Nobile Regular '), local('Nobile-Regular'),
+       url('./files/nobile-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/nobile-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/nobile-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/nobile-latin-400.svg#Nobile') format('svg'); /* Legacy iOS */
+}
+    
+/* nobile-400italic - latin */
+@font-face {
+  font-family: 'Nobile';
+  font-style: italic;
+  font-weight: 400;
+  src: url('./files/nobile-latin-400italic.eot'); /* IE9 Compat Modes */
+  src: local('Nobile Regular italic'), local('Nobile-Regularitalic'),
+       url('./files/nobile-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/nobile-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/nobile-latin-400italic.woff') format('woff'), /* Modern Browsers */
+       url('./files/nobile-latin-400italic.svg#Nobile') format('svg'); /* Legacy iOS */
+}
+    
+/* nobile-700normal - latin */
+@font-face {
+  font-family: 'Nobile';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/nobile-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Nobile Bold '), local('Nobile-Bold'),
+       url('./files/nobile-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/nobile-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/nobile-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/nobile-latin-700.svg#Nobile') format('svg'); /* Legacy iOS */
+}
+    
+/* nobile-700italic - latin */
+@font-face {
+  font-family: 'Nobile';
+  font-style: italic;
+  font-weight: 700;
+  src: url('./files/nobile-latin-700italic.eot'); /* IE9 Compat Modes */
+  src: local('Nobile Bold italic'), local('Nobile-Bolditalic'),
+       url('./files/nobile-latin-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/nobile-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/nobile-latin-700italic.woff') format('woff'), /* Modern Browsers */
+       url('./files/nobile-latin-700italic.svg#Nobile') format('svg'); /* Legacy iOS */
+}
+    

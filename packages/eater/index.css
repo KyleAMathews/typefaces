@@ -1,0 +1,14 @@
+
+/* eater-400normal - latin */
+@font-face {
+  font-family: 'Eater';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/eater-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Eater Regular '), local('Eater-Regular'),
+       url('./files/eater-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/eater-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/eater-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/eater-latin-400.svg#Eater') format('svg'); /* Legacy iOS */
+}
+    

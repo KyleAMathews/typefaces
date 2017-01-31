@@ -1,0 +1,14 @@
+
+/* rancho-400normal - latin */
+@font-face {
+  font-family: 'Rancho';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/rancho-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Rancho Regular '), local('Rancho-Regular'),
+       url('./files/rancho-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/rancho-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/rancho-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/rancho-latin-400.svg#Rancho') format('svg'); /* Legacy iOS */
+}
+    

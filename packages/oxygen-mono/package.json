@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-oxygen-mono",
+  "version": "0.0.2",
+  "description": "Oxygen Mono typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "oxygen-mono"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

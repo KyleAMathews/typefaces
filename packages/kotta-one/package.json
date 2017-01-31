@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-kotta-one",
+  "version": "0.0.2",
+  "description": "Kotta One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "kotta-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

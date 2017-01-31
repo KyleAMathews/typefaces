@@ -1,0 +1,66 @@
+
+/* cormorant-upright-300normal - latin */
+@font-face {
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/cormorant-upright-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Cormorant Upright Light '), local('Cormorant Upright-Light'),
+       url('./files/cormorant-upright-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/cormorant-upright-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/cormorant-upright-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('./files/cormorant-upright-latin-300.svg#Cormorant Upright') format('svg'); /* Legacy iOS */
+}
+    
+/* cormorant-upright-400normal - latin */
+@font-face {
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/cormorant-upright-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Cormorant Upright Regular '), local('Cormorant Upright-Regular'),
+       url('./files/cormorant-upright-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/cormorant-upright-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/cormorant-upright-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/cormorant-upright-latin-400.svg#Cormorant Upright') format('svg'); /* Legacy iOS */
+}
+    
+/* cormorant-upright-500normal - latin */
+@font-face {
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/cormorant-upright-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Cormorant Upright Medium '), local('Cormorant Upright-Medium'),
+       url('./files/cormorant-upright-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/cormorant-upright-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/cormorant-upright-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('./files/cormorant-upright-latin-500.svg#Cormorant Upright') format('svg'); /* Legacy iOS */
+}
+    
+/* cormorant-upright-600normal - latin */
+@font-face {
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/cormorant-upright-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Cormorant Upright SemiBold '), local('Cormorant Upright-SemiBold'),
+       url('./files/cormorant-upright-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/cormorant-upright-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/cormorant-upright-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('./files/cormorant-upright-latin-600.svg#Cormorant Upright') format('svg'); /* Legacy iOS */
+}
+    
+/* cormorant-upright-700normal - latin */
+@font-face {
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/cormorant-upright-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Cormorant Upright Bold '), local('Cormorant Upright-Bold'),
+       url('./files/cormorant-upright-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/cormorant-upright-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/cormorant-upright-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/cormorant-upright-latin-700.svg#Cormorant Upright') format('svg'); /* Legacy iOS */
+}
+    

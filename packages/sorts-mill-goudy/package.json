@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-sorts-mill-goudy",
+  "version": "0.0.2",
+  "description": "Sorts Mill Goudy typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "sorts-mill-goudy"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

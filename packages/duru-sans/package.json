@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-duru-sans",
+  "version": "0.0.2",
+  "description": "Duru Sans typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "duru-sans"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

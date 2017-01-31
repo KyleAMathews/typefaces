@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-freehand",
+  "version": "0.0.2",
+  "description": "Freehand typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "freehand"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

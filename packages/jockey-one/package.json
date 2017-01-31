@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-jockey-one",
+  "version": "0.0.2",
+  "description": "Jockey One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "jockey-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

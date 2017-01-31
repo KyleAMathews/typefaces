@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bungee-outline",
+  "version": "0.0.2",
+  "description": "Bungee Outline typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bungee-outline"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

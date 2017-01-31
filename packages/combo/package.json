@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-combo",
+  "version": "0.0.2",
+  "description": "Combo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "combo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

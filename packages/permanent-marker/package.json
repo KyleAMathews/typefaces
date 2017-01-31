@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-permanent-marker",
+  "version": "0.0.2",
+  "description": "Permanent Marker typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "permanent-marker"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

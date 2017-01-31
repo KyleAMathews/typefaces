@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-averia-sans-libre",
+  "version": "0.0.2",
+  "description": "Averia Sans Libre typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "averia-sans-libre"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

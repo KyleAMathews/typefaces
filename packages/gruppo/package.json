@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-gruppo",
+  "version": "0.0.2",
+  "description": "Gruppo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "gruppo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

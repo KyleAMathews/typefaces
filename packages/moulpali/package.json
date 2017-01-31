@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-moulpali",
+  "version": "0.0.2",
+  "description": "Moulpali typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "moulpali"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

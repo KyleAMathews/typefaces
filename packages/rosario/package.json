@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-rosario",
+  "version": "0.0.2",
+  "description": "Rosario typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "rosario"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

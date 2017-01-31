@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-margarine",
+  "version": "0.0.2",
+  "description": "Margarine typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "margarine"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

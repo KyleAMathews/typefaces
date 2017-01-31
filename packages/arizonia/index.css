@@ -1,0 +1,14 @@
+
+/* arizonia-400normal - latin */
+@font-face {
+  font-family: 'Arizonia';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/arizonia-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Arizonia Regular '), local('Arizonia-Regular'),
+       url('./files/arizonia-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/arizonia-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/arizonia-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/arizonia-latin-400.svg#Arizonia') format('svg'); /* Legacy iOS */
+}
+    

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-sacramento",
+  "version": "0.0.2",
+  "description": "Sacramento typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "sacramento"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

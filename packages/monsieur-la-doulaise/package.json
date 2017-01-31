@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-monsieur-la-doulaise",
+  "version": "0.0.2",
+  "description": "Monsieur La Doulaise typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "monsieur-la-doulaise"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

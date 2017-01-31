@@ -1,0 +1,79 @@
+
+/* pridi-200normal - latin */
+@font-face {
+  font-family: 'Pridi';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./files/pridi-latin-200.eot'); /* IE9 Compat Modes */
+  src: local('Pridi Extra Light '), local('Pridi-Extra Light'),
+       url('./files/pridi-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/pridi-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/pridi-latin-200.woff') format('woff'), /* Modern Browsers */
+       url('./files/pridi-latin-200.svg#Pridi') format('svg'); /* Legacy iOS */
+}
+    
+/* pridi-300normal - latin */
+@font-face {
+  font-family: 'Pridi';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/pridi-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Pridi Light '), local('Pridi-Light'),
+       url('./files/pridi-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/pridi-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/pridi-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('./files/pridi-latin-300.svg#Pridi') format('svg'); /* Legacy iOS */
+}
+    
+/* pridi-400normal - latin */
+@font-face {
+  font-family: 'Pridi';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/pridi-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Pridi Regular '), local('Pridi-Regular'),
+       url('./files/pridi-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/pridi-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/pridi-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/pridi-latin-400.svg#Pridi') format('svg'); /* Legacy iOS */
+}
+    
+/* pridi-500normal - latin */
+@font-face {
+  font-family: 'Pridi';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/pridi-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Pridi Medium '), local('Pridi-Medium'),
+       url('./files/pridi-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/pridi-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/pridi-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('./files/pridi-latin-500.svg#Pridi') format('svg'); /* Legacy iOS */
+}
+    
+/* pridi-600normal - latin */
+@font-face {
+  font-family: 'Pridi';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/pridi-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Pridi SemiBold '), local('Pridi-SemiBold'),
+       url('./files/pridi-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/pridi-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/pridi-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('./files/pridi-latin-600.svg#Pridi') format('svg'); /* Legacy iOS */
+}
+    
+/* pridi-700normal - latin */
+@font-face {
+  font-family: 'Pridi';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/pridi-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Pridi Bold '), local('Pridi-Bold'),
+       url('./files/pridi-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/pridi-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/pridi-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/pridi-latin-700.svg#Pridi') format('svg'); /* Legacy iOS */
+}
+    

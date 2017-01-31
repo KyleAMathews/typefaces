@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-fira-sans-condensed",
+  "version": "0.0.2",
+  "description": "Fira Sans Condensed typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "fira-sans-condensed"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

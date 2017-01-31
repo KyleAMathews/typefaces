@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-arvo",
+  "version": "0.0.2",
+  "description": "Arvo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "arvo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+
+/* bayon-400normal - latin */
+@font-face {
+  font-family: 'Bayon';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/bayon-khmer-400.eot'); /* IE9 Compat Modes */
+  src: local('Bayon Regular '), local('Bayon-Regular'),
+       url('./files/bayon-khmer-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/bayon-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/bayon-khmer-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/bayon-khmer-400.svg#Bayon') format('svg'); /* Legacy iOS */
+}
+    

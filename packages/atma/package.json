@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-atma",
+  "version": "0.0.2",
+  "description": "Atma typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "atma"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

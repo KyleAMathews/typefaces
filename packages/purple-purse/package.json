@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-purple-purse",
+  "version": "0.0.2",
+  "description": "Purple Purse typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "purple-purse"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

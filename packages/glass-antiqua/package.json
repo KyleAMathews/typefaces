@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-glass-antiqua",
+  "version": "0.0.2",
+  "description": "Glass Antiqua typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "glass-antiqua"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

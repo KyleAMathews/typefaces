@@ -1,0 +1,27 @@
+
+/* mountains-of-christmas-400normal - latin */
+@font-face {
+  font-family: 'Mountains of Christmas';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/mountains-of-christmas-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Mountains of Christmas Regular '), local('Mountains of Christmas-Regular'),
+       url('./files/mountains-of-christmas-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mountains-of-christmas-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mountains-of-christmas-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/mountains-of-christmas-latin-400.svg#Mountains of Christmas') format('svg'); /* Legacy iOS */
+}
+    
+/* mountains-of-christmas-700normal - latin */
+@font-face {
+  font-family: 'Mountains of Christmas';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/mountains-of-christmas-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Mountains of Christmas Bold '), local('Mountains of Christmas-Bold'),
+       url('./files/mountains-of-christmas-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mountains-of-christmas-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mountains-of-christmas-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/mountains-of-christmas-latin-700.svg#Mountains of Christmas') format('svg'); /* Legacy iOS */
+}
+    

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-crimson-text",
+  "version": "0.0.2",
+  "description": "Crimson Text typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "crimson-text"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

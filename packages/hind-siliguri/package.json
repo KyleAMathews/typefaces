@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-hind-siliguri",
+  "version": "0.0.2",
+  "description": "Hind Siliguri typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "hind-siliguri"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

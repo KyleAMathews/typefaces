@@ -1,0 +1,53 @@
+
+/* overpass-mono-300normal - latin */
+@font-face {
+  font-family: 'Overpass Mono';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/overpass-mono-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Overpass Mono Light '), local('Overpass Mono-Light'),
+       url('./files/overpass-mono-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/overpass-mono-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/overpass-mono-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('./files/overpass-mono-latin-300.svg#Overpass Mono') format('svg'); /* Legacy iOS */
+}
+    
+/* overpass-mono-400normal - latin */
+@font-face {
+  font-family: 'Overpass Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/overpass-mono-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Overpass Mono Regular '), local('Overpass Mono-Regular'),
+       url('./files/overpass-mono-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/overpass-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/overpass-mono-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/overpass-mono-latin-400.svg#Overpass Mono') format('svg'); /* Legacy iOS */
+}
+    
+/* overpass-mono-600normal - latin */
+@font-face {
+  font-family: 'Overpass Mono';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/overpass-mono-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Overpass Mono SemiBold '), local('Overpass Mono-SemiBold'),
+       url('./files/overpass-mono-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/overpass-mono-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/overpass-mono-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('./files/overpass-mono-latin-600.svg#Overpass Mono') format('svg'); /* Legacy iOS */
+}
+    
+/* overpass-mono-700normal - latin */
+@font-face {
+  font-family: 'Overpass Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/overpass-mono-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Overpass Mono Bold '), local('Overpass Mono-Bold'),
+       url('./files/overpass-mono-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/overpass-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/overpass-mono-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/overpass-mono-latin-700.svg#Overpass Mono') format('svg'); /* Legacy iOS */
+}
+    

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cherry-cream-soda",
+  "version": "0.0.2",
+  "description": "Cherry Cream Soda typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cherry-cream-soda"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

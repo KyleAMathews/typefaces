@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-black-ops-one",
+  "version": "0.0.2",
+  "description": "Black Ops One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "black-ops-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

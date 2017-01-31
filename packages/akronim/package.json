@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-akronim",
+  "version": "0.0.2",
+  "description": "Akronim typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "akronim"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

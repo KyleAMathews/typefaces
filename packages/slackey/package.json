@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-slackey",
+  "version": "0.0.2",
+  "description": "Slackey typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "slackey"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

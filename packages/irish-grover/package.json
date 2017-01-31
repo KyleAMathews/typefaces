@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-irish-grover",
+  "version": "0.0.2",
+  "description": "Irish Grover typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "irish-grover"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

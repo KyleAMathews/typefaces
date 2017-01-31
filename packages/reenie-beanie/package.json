@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-reenie-beanie",
+  "version": "0.0.2",
+  "description": "Reenie Beanie typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "reenie-beanie"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

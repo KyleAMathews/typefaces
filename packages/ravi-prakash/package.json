@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-ravi-prakash",
+  "version": "0.0.2",
+  "description": "Ravi Prakash typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "ravi-prakash"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

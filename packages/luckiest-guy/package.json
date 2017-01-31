@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-luckiest-guy",
+  "version": "0.0.2",
+  "description": "Luckiest Guy typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "luckiest-guy"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-im-fell-double-pica",
+  "version": "0.0.2",
+  "description": "IM Fell Double Pica typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "im-fell-double-pica"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

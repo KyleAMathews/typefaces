@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-montserrat-alternates",
+  "version": "0.0.2",
+  "description": "Montserrat Alternates typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "montserrat-alternates"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

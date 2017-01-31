@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-baloo",
+  "version": "0.0.2",
+  "description": "Baloo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "baloo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

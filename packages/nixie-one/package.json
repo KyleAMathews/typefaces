@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-nixie-one",
+  "version": "0.0.2",
+  "description": "Nixie One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "nixie-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

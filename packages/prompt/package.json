@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-prompt",
+  "version": "0.0.2",
+  "description": "Prompt typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "prompt"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

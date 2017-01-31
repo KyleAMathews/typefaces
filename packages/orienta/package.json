@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-orienta",
+  "version": "0.0.2",
+  "description": "Orienta typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "orienta"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

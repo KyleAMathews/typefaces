@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-kanit",
+  "version": "0.0.2",
+  "description": "Kanit typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "kanit"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

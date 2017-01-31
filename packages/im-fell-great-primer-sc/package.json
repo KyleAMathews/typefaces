@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-im-fell-great-primer-sc",
+  "version": "0.0.2",
+  "description": "IM Fell Great Primer SC typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "im-fell-great-primer-sc"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

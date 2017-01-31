@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-niconne",
+  "version": "0.0.2",
+  "description": "Niconne typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "niconne"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

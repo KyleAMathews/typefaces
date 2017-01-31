@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-habibi",
+  "version": "0.0.2",
+  "description": "Habibi typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "habibi"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

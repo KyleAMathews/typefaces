@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-crushed",
+  "version": "0.0.2",
+  "description": "Crushed typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "crushed"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

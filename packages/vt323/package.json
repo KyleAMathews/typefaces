@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-vt323",
+  "version": "0.0.2",
+  "description": "VT323 typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "vt323"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

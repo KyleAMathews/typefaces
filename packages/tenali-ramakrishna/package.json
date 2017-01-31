@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-tenali-ramakrishna",
+  "version": "0.0.2",
+  "description": "Tenali Ramakrishna typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "tenali-ramakrishna"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

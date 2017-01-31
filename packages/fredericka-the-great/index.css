@@ -1,0 +1,14 @@
+
+/* fredericka-the-great-400normal - latin */
+@font-face {
+  font-family: 'Fredericka the Great';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/fredericka-the-great-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Fredericka the Great Regular '), local('Fredericka the Great-Regular'),
+       url('./files/fredericka-the-great-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/fredericka-the-great-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/fredericka-the-great-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/fredericka-the-great-latin-400.svg#Fredericka the Great') format('svg'); /* Legacy iOS */
+}
+    

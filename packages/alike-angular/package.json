@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-alike-angular",
+  "version": "0.0.2",
+  "description": "Alike Angular typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "alike-angular"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

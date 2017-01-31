@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cabin-condensed",
+  "version": "0.0.2",
+  "description": "Cabin Condensed typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cabin-condensed"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

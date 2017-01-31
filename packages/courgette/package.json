@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-courgette",
+  "version": "0.0.2",
+  "description": "Courgette typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "courgette"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

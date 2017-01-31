@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-julius-sans-one",
+  "version": "0.0.2",
+  "description": "Julius Sans One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "julius-sans-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

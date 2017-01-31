@@ -1,0 +1,40 @@
+
+/* amiko-400normal - latin */
+@font-face {
+  font-family: 'Amiko';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/amiko-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Amiko Regular '), local('Amiko-Regular'),
+       url('./files/amiko-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/amiko-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/amiko-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/amiko-latin-400.svg#Amiko') format('svg'); /* Legacy iOS */
+}
+    
+/* amiko-600normal - latin */
+@font-face {
+  font-family: 'Amiko';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/amiko-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Amiko SemiBold '), local('Amiko-SemiBold'),
+       url('./files/amiko-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/amiko-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/amiko-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('./files/amiko-latin-600.svg#Amiko') format('svg'); /* Legacy iOS */
+}
+    
+/* amiko-700normal - latin */
+@font-face {
+  font-family: 'Amiko';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/amiko-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Amiko Bold '), local('Amiko-Bold'),
+       url('./files/amiko-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/amiko-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/amiko-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/amiko-latin-700.svg#Amiko') format('svg'); /* Legacy iOS */
+}
+    

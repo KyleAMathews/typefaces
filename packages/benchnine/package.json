@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-benchnine",
+  "version": "0.0.2",
+  "description": "BenchNine typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "benchnine"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-romanesco",
+  "version": "0.0.2",
+  "description": "Romanesco typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "romanesco"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

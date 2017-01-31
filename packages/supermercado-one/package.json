@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-supermercado-one",
+  "version": "0.0.2",
+  "description": "Supermercado One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "supermercado-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

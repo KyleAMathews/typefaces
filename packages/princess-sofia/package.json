@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-princess-sofia",
+  "version": "0.0.2",
+  "description": "Princess Sofia typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "princess-sofia"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

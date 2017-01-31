@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-pompiere",
+  "version": "0.0.2",
+  "description": "Pompiere typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "pompiere"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

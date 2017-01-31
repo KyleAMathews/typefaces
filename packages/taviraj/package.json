@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-taviraj",
+  "version": "0.0.2",
+  "description": "Taviraj typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "taviraj"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

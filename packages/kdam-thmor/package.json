@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-kdam-thmor",
+  "version": "0.0.2",
+  "description": "Kdam Thmor typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "kdam-thmor"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

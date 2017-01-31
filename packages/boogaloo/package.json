@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-boogaloo",
+  "version": "0.0.2",
+  "description": "Boogaloo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "boogaloo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

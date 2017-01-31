@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-alegreya-sc",
+  "version": "0.0.2",
+  "description": "Alegreya SC typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "alegreya-sc"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

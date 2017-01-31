@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-lovers-quarrel",
+  "version": "0.0.2",
+  "description": "Lovers Quarrel typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "lovers-quarrel"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

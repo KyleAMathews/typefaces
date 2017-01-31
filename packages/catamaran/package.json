@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-catamaran",
+  "version": "0.0.2",
+  "description": "Catamaran typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "catamaran"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

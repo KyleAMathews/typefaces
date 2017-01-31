@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-carme",
+  "version": "0.0.2",
+  "description": "Carme typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "carme"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

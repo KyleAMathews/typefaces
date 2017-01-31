@@ -1,0 +1,27 @@
+
+/* skranji-400normal - latin */
+@font-face {
+  font-family: 'Skranji';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/skranji-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Skranji Regular '), local('Skranji-Regular'),
+       url('./files/skranji-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/skranji-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/skranji-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/skranji-latin-400.svg#Skranji') format('svg'); /* Legacy iOS */
+}
+    
+/* skranji-700normal - latin */
+@font-face {
+  font-family: 'Skranji';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/skranji-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Skranji Bold '), local('Skranji-Bold'),
+       url('./files/skranji-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/skranji-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/skranji-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/skranji-latin-700.svg#Skranji') format('svg'); /* Legacy iOS */
+}
+    

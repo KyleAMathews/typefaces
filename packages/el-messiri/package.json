@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-el-messiri",
+  "version": "0.0.2",
+  "description": "El Messiri typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "el-messiri"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

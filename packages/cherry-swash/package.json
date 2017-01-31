@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cherry-swash",
+  "version": "0.0.2",
+  "description": "Cherry Swash typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cherry-swash"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

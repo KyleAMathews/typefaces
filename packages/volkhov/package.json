@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-volkhov",
+  "version": "0.0.2",
+  "description": "Volkhov typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "volkhov"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

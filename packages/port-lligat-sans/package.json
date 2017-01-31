@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-port-lligat-sans",
+  "version": "0.0.2",
+  "description": "Port Lligat Sans typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "port-lligat-sans"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

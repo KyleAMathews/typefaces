@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-fascinate",
+  "version": "0.0.2",
+  "description": "Fascinate typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "fascinate"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-buda",
+  "version": "0.0.2",
+  "description": "Buda typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "buda"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

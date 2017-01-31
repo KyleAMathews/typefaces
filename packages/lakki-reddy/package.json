@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-lakki-reddy",
+  "version": "0.0.2",
+  "description": "Lakki Reddy typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "lakki-reddy"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

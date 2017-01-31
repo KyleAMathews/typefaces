@@ -1,0 +1,14 @@
+
+/* antic-didone-400normal - latin */
+@font-face {
+  font-family: 'Antic Didone';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/antic-didone-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Antic Didone Regular '), local('Antic Didone-Regular'),
+       url('./files/antic-didone-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/antic-didone-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/antic-didone-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/antic-didone-latin-400.svg#Antic Didone') format('svg'); /* Legacy iOS */
+}
+    

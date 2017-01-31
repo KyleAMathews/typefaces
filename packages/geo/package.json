@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-geo",
+  "version": "0.0.2",
+  "description": "Geo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "geo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

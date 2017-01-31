@@ -1,0 +1,14 @@
+
+/* electrolize-400normal - latin */
+@font-face {
+  font-family: 'Electrolize';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/electrolize-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Electrolize Regular '), local('Electrolize-Regular'),
+       url('./files/electrolize-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/electrolize-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/electrolize-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/electrolize-latin-400.svg#Electrolize') format('svg'); /* Legacy iOS */
+}
+    

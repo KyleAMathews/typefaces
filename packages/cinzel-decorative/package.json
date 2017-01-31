@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cinzel-decorative",
+  "version": "0.0.2",
+  "description": "Cinzel Decorative typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cinzel-decorative"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

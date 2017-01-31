@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-ultra",
+  "version": "0.0.2",
+  "description": "Ultra typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "ultra"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

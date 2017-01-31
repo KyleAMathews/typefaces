@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-titan-one",
+  "version": "0.0.2",
+  "description": "Titan One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "titan-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

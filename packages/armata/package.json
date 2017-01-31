@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-armata",
+  "version": "0.0.2",
+  "description": "Armata typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "armata"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

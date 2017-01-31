@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-candal",
+  "version": "0.0.2",
+  "description": "Candal typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "candal"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

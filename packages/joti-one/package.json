@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-joti-one",
+  "version": "0.0.2",
+  "description": "Joti One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "joti-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

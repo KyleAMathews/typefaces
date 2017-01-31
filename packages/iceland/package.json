@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-iceland",
+  "version": "0.0.2",
+  "description": "Iceland typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "iceland"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

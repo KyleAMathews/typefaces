@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-ramabhadra",
+  "version": "0.0.2",
+  "description": "Ramabhadra typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "ramabhadra"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

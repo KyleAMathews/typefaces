@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-loved-by-the-king",
+  "version": "0.0.2",
+  "description": "Loved by the King typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "loved-by-the-king"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

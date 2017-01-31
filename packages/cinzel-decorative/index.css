@@ -1,0 +1,40 @@
+
+/* cinzel-decorative-400normal - latin */
+@font-face {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/cinzel-decorative-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Cinzel Decorative Regular '), local('Cinzel Decorative-Regular'),
+       url('./files/cinzel-decorative-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/cinzel-decorative-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/cinzel-decorative-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/cinzel-decorative-latin-400.svg#Cinzel Decorative') format('svg'); /* Legacy iOS */
+}
+    
+/* cinzel-decorative-700normal - latin */
+@font-face {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/cinzel-decorative-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Cinzel Decorative Bold '), local('Cinzel Decorative-Bold'),
+       url('./files/cinzel-decorative-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/cinzel-decorative-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/cinzel-decorative-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/cinzel-decorative-latin-700.svg#Cinzel Decorative') format('svg'); /* Legacy iOS */
+}
+    
+/* cinzel-decorative-900normal - latin */
+@font-face {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 900;
+  src: url('./files/cinzel-decorative-latin-900.eot'); /* IE9 Compat Modes */
+  src: local('Cinzel Decorative Black '), local('Cinzel Decorative-Black'),
+       url('./files/cinzel-decorative-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/cinzel-decorative-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/cinzel-decorative-latin-900.woff') format('woff'), /* Modern Browsers */
+       url('./files/cinzel-decorative-latin-900.svg#Cinzel Decorative') format('svg'); /* Legacy iOS */
+}
+    

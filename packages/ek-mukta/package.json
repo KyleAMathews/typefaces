@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-ek-mukta",
+  "version": "0.0.2",
+  "description": "Ek Mukta typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "ek-mukta"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

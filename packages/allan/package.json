@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-allan",
+  "version": "0.0.2",
+  "description": "Allan typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "allan"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

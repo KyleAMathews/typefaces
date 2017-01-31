@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-ruda",
+  "version": "0.0.2",
+  "description": "Ruda typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "ruda"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

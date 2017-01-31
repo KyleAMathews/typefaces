@@ -1,0 +1,14 @@
+
+/* quando-400normal - latin */
+@font-face {
+  font-family: 'Quando';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/quando-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Quando Regular '), local('Quando-Regular'),
+       url('./files/quando-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/quando-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/quando-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/quando-latin-400.svg#Quando') format('svg'); /* Legacy iOS */
+}
+    

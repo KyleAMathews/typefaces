@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-acme",
+  "version": "0.0.2",
+  "description": "Acme typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "acme"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

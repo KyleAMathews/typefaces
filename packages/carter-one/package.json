@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-carter-one",
+  "version": "0.0.2",
+  "description": "Carter One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "carter-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

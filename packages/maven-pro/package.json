@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-maven-pro",
+  "version": "0.0.2",
+  "description": "Maven Pro typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "maven-pro"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-eagle-lake",
+  "version": "0.0.2",
+  "description": "Eagle Lake typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "eagle-lake"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

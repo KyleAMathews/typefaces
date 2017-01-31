@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-karma",
+  "version": "0.0.2",
+  "description": "Karma typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "karma"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

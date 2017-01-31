@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-prosto-one",
+  "version": "0.0.2",
+  "description": "Prosto One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "prosto-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-medievalsharp",
+  "version": "0.0.2",
+  "description": "MedievalSharp typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "medievalsharp"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

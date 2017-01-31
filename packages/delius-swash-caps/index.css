@@ -1,0 +1,14 @@
+
+/* delius-swash-caps-400normal - latin */
+@font-face {
+  font-family: 'Delius Swash Caps';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/delius-swash-caps-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Delius Swash Caps Regular '), local('Delius Swash Caps-Regular'),
+       url('./files/delius-swash-caps-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/delius-swash-caps-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/delius-swash-caps-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/delius-swash-caps-latin-400.svg#Delius Swash Caps') format('svg'); /* Legacy iOS */
+}
+    

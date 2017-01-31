@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-enriqueta",
+  "version": "0.0.2",
+  "description": "Enriqueta typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "enriqueta"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

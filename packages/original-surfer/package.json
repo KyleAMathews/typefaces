@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-original-surfer",
+  "version": "0.0.2",
+  "description": "Original Surfer typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "original-surfer"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

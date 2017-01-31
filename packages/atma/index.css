@@ -1,0 +1,66 @@
+
+/* atma-300normal - latin */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/atma-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Atma Light '), local('Atma-Light'),
+       url('./files/atma-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/atma-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/atma-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('./files/atma-latin-300.svg#Atma') format('svg'); /* Legacy iOS */
+}
+    
+/* atma-400normal - latin */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/atma-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Atma Regular '), local('Atma-Regular'),
+       url('./files/atma-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/atma-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/atma-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/atma-latin-400.svg#Atma') format('svg'); /* Legacy iOS */
+}
+    
+/* atma-500normal - latin */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/atma-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Atma Medium '), local('Atma-Medium'),
+       url('./files/atma-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/atma-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/atma-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('./files/atma-latin-500.svg#Atma') format('svg'); /* Legacy iOS */
+}
+    
+/* atma-600normal - latin */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/atma-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Atma SemiBold '), local('Atma-SemiBold'),
+       url('./files/atma-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/atma-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/atma-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('./files/atma-latin-600.svg#Atma') format('svg'); /* Legacy iOS */
+}
+    
+/* atma-700normal - latin */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/atma-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Atma Bold '), local('Atma-Bold'),
+       url('./files/atma-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/atma-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/atma-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/atma-latin-700.svg#Atma') format('svg'); /* Legacy iOS */
+}
+    

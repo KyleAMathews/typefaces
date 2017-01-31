@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-rum-raisin",
+  "version": "0.0.2",
+  "description": "Rum Raisin typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "rum-raisin"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-marck-script",
+  "version": "0.0.2",
+  "description": "Marck Script typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "marck-script"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-tinos",
+  "version": "0.0.2",
+  "description": "Tinos typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "tinos"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-marcellus",
+  "version": "0.0.2",
+  "description": "Marcellus typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "marcellus"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

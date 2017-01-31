@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-shrikhand",
+  "version": "0.0.2",
+  "description": "Shrikhand typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "shrikhand"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-hind-vadodara",
+  "version": "0.0.2",
+  "description": "Hind Vadodara typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "hind-vadodara"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

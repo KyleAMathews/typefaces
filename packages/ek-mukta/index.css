@@ -1,0 +1,92 @@
+
+/* ek-mukta-200normal - latin */
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./files/ek-mukta-latin-200.eot'); /* IE9 Compat Modes */
+  src: local('Ek Mukta Extra Light '), local('Ek Mukta-Extra Light'),
+       url('./files/ek-mukta-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/ek-mukta-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/ek-mukta-latin-200.woff') format('woff'), /* Modern Browsers */
+       url('./files/ek-mukta-latin-200.svg#Ek Mukta') format('svg'); /* Legacy iOS */
+}
+    
+/* ek-mukta-300normal - latin */
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/ek-mukta-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Ek Mukta Light '), local('Ek Mukta-Light'),
+       url('./files/ek-mukta-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/ek-mukta-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/ek-mukta-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('./files/ek-mukta-latin-300.svg#Ek Mukta') format('svg'); /* Legacy iOS */
+}
+    
+/* ek-mukta-400normal - latin */
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/ek-mukta-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Ek Mukta Regular '), local('Ek Mukta-Regular'),
+       url('./files/ek-mukta-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/ek-mukta-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/ek-mukta-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/ek-mukta-latin-400.svg#Ek Mukta') format('svg'); /* Legacy iOS */
+}
+    
+/* ek-mukta-500normal - latin */
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/ek-mukta-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Ek Mukta Medium '), local('Ek Mukta-Medium'),
+       url('./files/ek-mukta-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/ek-mukta-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/ek-mukta-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('./files/ek-mukta-latin-500.svg#Ek Mukta') format('svg'); /* Legacy iOS */
+}
+    
+/* ek-mukta-600normal - latin */
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/ek-mukta-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Ek Mukta SemiBold '), local('Ek Mukta-SemiBold'),
+       url('./files/ek-mukta-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/ek-mukta-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/ek-mukta-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('./files/ek-mukta-latin-600.svg#Ek Mukta') format('svg'); /* Legacy iOS */
+}
+    
+/* ek-mukta-700normal - latin */
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/ek-mukta-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Ek Mukta Bold '), local('Ek Mukta-Bold'),
+       url('./files/ek-mukta-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/ek-mukta-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/ek-mukta-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/ek-mukta-latin-700.svg#Ek Mukta') format('svg'); /* Legacy iOS */
+}
+    
+/* ek-mukta-800normal - latin */
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 800;
+  src: url('./files/ek-mukta-latin-800.eot'); /* IE9 Compat Modes */
+  src: local('Ek Mukta ExtraBold '), local('Ek Mukta-ExtraBold'),
+       url('./files/ek-mukta-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/ek-mukta-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/ek-mukta-latin-800.woff') format('woff'), /* Modern Browsers */
+       url('./files/ek-mukta-latin-800.svg#Ek Mukta') format('svg'); /* Legacy iOS */
+}
+    

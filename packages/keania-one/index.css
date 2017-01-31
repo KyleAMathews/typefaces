@@ -1,0 +1,14 @@
+
+/* keania-one-400normal - latin */
+@font-face {
+  font-family: 'Keania One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/keania-one-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Keania One Regular '), local('Keania One-Regular'),
+       url('./files/keania-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/keania-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/keania-one-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/keania-one-latin-400.svg#Keania One') format('svg'); /* Legacy iOS */
+}
+    

@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bungee-hairline",
+  "version": "0.0.2",
+  "description": "Bungee Hairline typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bungee-hairline"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

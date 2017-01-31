@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-paytone-one",
+  "version": "0.0.2",
+  "description": "Paytone One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "paytone-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

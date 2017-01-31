@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-meie-script",
+  "version": "0.0.2",
+  "description": "Meie Script typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "meie-script"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

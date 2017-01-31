@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-kumar-one-outline",
+  "version": "0.0.2",
+  "description": "Kumar One Outline typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "kumar-one-outline"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

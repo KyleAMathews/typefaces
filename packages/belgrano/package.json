@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-belgrano",
+  "version": "0.0.2",
+  "description": "Belgrano typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "belgrano"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

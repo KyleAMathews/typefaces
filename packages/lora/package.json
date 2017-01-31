@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-lora",
+  "version": "0.0.2",
+  "description": "Lora typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "lora"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+
+/* headland-one-400normal - latin */
+@font-face {
+  font-family: 'Headland One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/headland-one-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Headland One Regular '), local('Headland One-Regular'),
+       url('./files/headland-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/headland-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/headland-one-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/headland-one-latin-400.svg#Headland One') format('svg'); /* Legacy iOS */
+}
+    

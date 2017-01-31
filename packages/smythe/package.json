@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-smythe",
+  "version": "0.0.2",
+  "description": "Smythe typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "smythe"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

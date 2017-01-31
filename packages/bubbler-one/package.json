@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-bubbler-one",
+  "version": "0.0.2",
+  "description": "Bubbler One typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "bubbler-one"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
