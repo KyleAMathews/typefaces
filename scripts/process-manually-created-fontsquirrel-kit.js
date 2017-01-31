@@ -3,14 +3,18 @@ const requestSync = require(`sync-request`)
 const fs = require(`fs-extra`)
 const processFontsquirrelKit = require(`./process-fontsquirrel-kit`)
 
-const download = require(`./download-file`)
-
 const apiBase = `https://www.fontsquirrel.com/api/`
 const id = process.argv[2]
+const extractionPath = process.argv[3]
 if (!id) {
   console.warn(`You need to pass in the fontsquirrel id as an argument`)
   process.exit()
 }
+if (!extractionPath) {
+  console.warn(`You need to pass in the path to the unzipped fontsquirrel package as an argument`)
+  process.exit()
+}
+
 // Ensure we're using a lowercase version of the id for file paths.
 const lowercaseId = id.toLowerCase()
 
@@ -18,6 +22,9 @@ const lowercaseId = id.toLowerCase()
 const res = requestSync(`GET`, `${apiBase}familyinfo/${id}`)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
 console.log(typeface)
+if (!typeface.id) {
+  console.log("Couldn't find information about this font id on fontsquirrel. Doublecheck if it's correct?")
+}
 
 const typefaceDir = `packages/${lowercaseId}`
 
@@ -30,12 +37,4 @@ fs.writeFileSync(typefaceDir + `/.gitignore`, '/files')
 fs.writeFileSync(typefaceDir + `/.npmignore`, '')
 fs.writeFileSync(typefaceDir + `/files/.gitignore`, '')
 
-// Download the webfont zipped file.
-const downloadUrl = `https://www.fontsquirrel.com/fontfacekit/${id}`
-const dest = `${require(`os`).tmpdir()}/${id}`
-const extractionPath = `${dest}_extracted`
-download(downloadUrl, dest, (err) => {
-  console.log(`downloaded ${downloadUrl} to ${dest}`)
-  exec(`unzip ${dest} -d ${extractionPath}`)
-  processFontsquirrelKit(extractionPath, typeface, typefaceDir, lowercaseId)
-})
+processFontsquirrelKit(extractionPath, typeface, typefaceDir, lowercaseId)

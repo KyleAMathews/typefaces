@@ -1,11 +1,11 @@
 {
-    "name": "typeface-aleo",
+    "name": "typeface-cooper-hewitt",
     "version": "0.0.2",
-    "description": "Aleo typeface",
+    "description": "Cooper Hewitt typeface",
     "main": "index.css",
     "keywords": [
       "typeface",
-      "aleo"
+      "cooper-hewitt"
     ],
     "author": "Kyle Mathews <mathews.kyle@gmail.com>",
     "license": "MIT"
