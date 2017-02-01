@@ -1,5 +1,7 @@
-# typefaces NPM packages for Open Source typefaces — making it easier to
-self-host webfonts.
+# Typefaces
+
+NPM packages for Open Source typefaces — making it easier to self-host
+webfonts.
 
 ## Why
 
@@ -62,6 +64,9 @@ require css, then you'll need to manually integrate the index.css and
 font files from the package into your build system.
 
 ## Adding other fonts
+
+The easiest way to find out if your favorite typeface is supported is by
+searching on NPM or in the packages directory in this repo.
 
 I'd love to see every open source font on NPM! Open an issue if a
 favorite typeface of yours is missing. I've programmatically published
