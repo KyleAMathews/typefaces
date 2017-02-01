@@ -10,16 +10,16 @@ https://www.bricolage.io/typefaces-easiest-way-to-self-host-fonts/
 * Self-hosting is *significantly faster*. Loading a typeface from Google
   Fonts or other hosted font service adds *an extra (blocking) network
 request*. [In my
-testing](https://github.com/reactiflux/reactiflux.com/pull/21), I've
+testing](https://github.com/reactiflux/reactiflux.com/pull/21), I’ve
 found replacing Google Fonts with a self-hosted font can improve a
-site's speedindex by ~300 miliseconds on desktop and 1+ seconds on 3g.
+site’s speedindex by ~300 miliseconds on desktop and 1+ seconds on 3g.
 This is a big deal.
-* Your *fonts load offline*. It's annoying to start working on a web
+* Your *fonts load offline*. It’s annoying to start working on a web
   project on the train or airplane and see your interface screwed up
-because you can't access Google fonts. I remember once being in this
+because you can’t access Google fonts. I remember once being in this
 situation and doing everything possible to avoid reloading a project as
-I knew I'd lose the fonts and be forced to stop working.
-* *Go beyond Google Fonts*. Some of my favorite typefaces aren't on
+I knew I’d lose the fonts and be forced to stop working.
+* *Go beyond Google Fonts*. Some of my favorite typefaces aren’t on
   Google Fonts like [Clear Sans](https://01.org/clear-SANS), [Cooper
 Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/),
 and
@@ -37,19 +37,19 @@ other open source fonts. Open an issue if you want a font added!
 
 ## How
 
-Couldn't be easier. This is how you'd add Open Sans.
+Couldn’t be easier. This is how you’d add Open Sans.
 
 ``` npm install --save typeface-open-sans ```
 
-Then in your app or site's entry file.
+Then in your app or site’s entry file.
 
 ```javascript require("typeface-open-sans") ```
 
-And that's it! You're now self-hosting Open Sans!
+And that’s it! You’re now self-hosting Open Sans!
 
 It should take < 5 minutes to swap out Google Fonts.
 
-Typeface assumes you're using webpack with loaders setup for loading css
+Typeface assumes you’re using webpack with loaders setup for loading css
 and font files (you can use Typeface with other setups but webpack makes
 things really really simple). Assuming your webpack configuration is
 setup correctly you then just need to require the typeface in the entry
@@ -61,8 +61,8 @@ App](https://github.com/facebookincubator/create-react-app) are already
 setup to work with Typefaces. Gatsby by default also embeds your CSS in
 your `<head>` for even faster loading.
 
-If you're not using webpack or equivalent tool that allows you to
-require css, then you'll need to manually integrate the index.css and
+If you’re not using webpack or equivalent tool that allows you to
+require css, then you’ll need to manually integrate the index.css and
 font files from the package into your build system.
 
 ## Adding other fonts
@@ -70,8 +70,8 @@ font files from the package into your build system.
 The easiest way to find out if your favorite typeface is supported is by
 searching on NPM or in the packages directory in this repo.
 
-I'd love to see every open source font on NPM! Open an issue if a
-favorite typeface of yours is missing. I've programmatically published
+I’d love to see every open source font on NPM! Open an issue if a
+favorite typeface of yours is missing. I’ve programmatically published
 all fonts from Google Fonts and am planning on doing the same with fonts
 hosted on FontSquirrel through [their
 API](https://www.fontsquirrel.com/blog/2010/12/the-font-squirrel-api).
@@ -79,12 +79,12 @@ API](https://www.fontsquirrel.com/blog/2010/12/the-font-squirrel-api).
 ## Other ideas to explore
 
 * Add subsetted version of every font.
-* Initially I've just added support for the Latin version of fonts.
+* Initially I’ve just added support for the Latin version of fonts.
   Would love to hear ideas for how to support other languages. Perhaps
 additional css files e.g. `require('open-sans/greek')`?
-* Ship fallback css helpers — figuring out your fallback css isn't
-  particularly easy. Perhaps there's a way to automate this. E.g. if
-you're using typeface X at fontsize Y with fallback font Z, here's a
+* Ship fallback css helpers — figuring out your fallback css isn’t
+  particularly easy. Perhaps there’s a way to automate this. E.g. if
+you’re using typeface X at fontsize Y with fallback font Z, here’s a
 function to generate the fallback css.
 * Explore futher optimizations for loading fonts.
   https://www.zachleat.com/web/comprehensive-webfonts/ has a long list.
