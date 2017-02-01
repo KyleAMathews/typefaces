@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-gidole",
+  "version": "0.0.0",
+  "description": "Gidole typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "gidole"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

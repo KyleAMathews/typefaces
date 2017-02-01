@@ -1,0 +1,12 @@
+/* gidole-400 - latin */
+@font-face {
+  font-family: 'Gidole';
+  font-style: ;
+  font-weight: 400;
+  src: url('./files/gidole-400.eot'); /* IE9 Compat Modes */
+  src: local('Gidole Regular normal'), local('Gidole-Regularnormal'),
+       url('./files/gidole-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/gidole-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/gidole-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/gidole-400.svg#Gidole') format('svg'); /* Legacy iOS */
+}
