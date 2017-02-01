@@ -1,12 +1,12 @@
 {
-    "name": "typeface-cooper-hewitt",
-    "version": "0.0.2",
-    "description": "Cooper Hewitt typeface",
-    "main": "index.css",
-    "keywords": [
-      "typeface",
-      "cooper-hewitt"
-    ],
-    "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-    "license": "MIT"
-    }
+  "name": "typeface-cooper-hewitt",
+  "version": "0.0.15",
+  "description": "Cooper Hewitt typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cooper-hewitt"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

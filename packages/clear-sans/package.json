@@ -1,12 +1,12 @@
 {
-    "name": "typeface-clear-sans",
-    "version": "0.0.2",
-    "description": "Clear Sans typeface",
-    "main": "index.css",
-    "keywords": [
-      "typeface",
-      "clear-sans"
-    ],
-    "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-    "license": "MIT"
-    }
+  "name": "typeface-clear-sans",
+  "version": "0.0.15",
+  "description": "Clear Sans typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "clear-sans"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
