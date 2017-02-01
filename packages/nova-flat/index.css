@@ -1,4 +1,3 @@
-
 /* nova-flat-400normal - latin */
 @font-face {
   font-family: 'Nova Flat';
@@ -11,4 +10,3 @@
        url('./files/nova-flat-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/nova-flat-latin-400.svg#Nova Flat') format('svg'); /* Legacy iOS */
 }
-    

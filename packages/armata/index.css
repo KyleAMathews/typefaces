@@ -1,4 +1,3 @@
-
 /* armata-400normal - latin */
 @font-face {
   font-family: 'Armata';
@@ -11,4 +10,3 @@
        url('./files/armata-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/armata-latin-400.svg#Armata') format('svg'); /* Legacy iOS */
 }
-    

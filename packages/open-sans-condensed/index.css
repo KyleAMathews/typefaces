@@ -1,4 +1,3 @@
-
 /* open-sans-condensed-300normal - latin */
 @font-face {
   font-family: 'Open Sans Condensed';
@@ -11,20 +10,6 @@
        url('./files/open-sans-condensed-latin-300.woff') format('woff'), /* Modern Browsers */
        url('./files/open-sans-condensed-latin-300.svg#Open Sans Condensed') format('svg'); /* Legacy iOS */
 }
-    
-/* open-sans-condensed-300italic - latin */
-@font-face {
-  font-family: 'Open Sans Condensed';
-  font-style: italic;
-  font-weight: 300;
-  src: url('./files/open-sans-condensed-latin-300italic.eot'); /* IE9 Compat Modes */
-  src: local('Open Sans Condensed Light italic'), local('Open Sans Condensed-Lightitalic'),
-       url('./files/open-sans-condensed-latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/open-sans-condensed-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/open-sans-condensed-latin-300italic.woff') format('woff'), /* Modern Browsers */
-       url('./files/open-sans-condensed-latin-300italic.svg#Open Sans Condensed') format('svg'); /* Legacy iOS */
-}
-    
 /* open-sans-condensed-700normal - latin */
 @font-face {
   font-family: 'Open Sans Condensed';
@@ -37,4 +22,15 @@
        url('./files/open-sans-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
        url('./files/open-sans-condensed-latin-700.svg#Open Sans Condensed') format('svg'); /* Legacy iOS */
 }
-    
+/* open-sans-condensed-300italic - latin */
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-style: italic;
+  font-weight: 300;
+  src: url('./files/open-sans-condensed-latin-300italic.eot'); /* IE9 Compat Modes */
+  src: local('Open Sans Condensed Light italic'), local('Open Sans Condensed-Lightitalic'),
+       url('./files/open-sans-condensed-latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/open-sans-condensed-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/open-sans-condensed-latin-300italic.woff') format('woff'), /* Modern Browsers */
+       url('./files/open-sans-condensed-latin-300italic.svg#Open Sans Condensed') format('svg'); /* Legacy iOS */
+}

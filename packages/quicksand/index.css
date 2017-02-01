@@ -1,4 +1,3 @@
-
 /* quicksand-300normal - latin */
 @font-face {
   font-family: 'Quicksand';
@@ -11,7 +10,6 @@
        url('./files/quicksand-latin-300.woff') format('woff'), /* Modern Browsers */
        url('./files/quicksand-latin-300.svg#Quicksand') format('svg'); /* Legacy iOS */
 }
-    
 /* quicksand-400normal - latin */
 @font-face {
   font-family: 'Quicksand';
@@ -24,7 +22,6 @@
        url('./files/quicksand-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/quicksand-latin-400.svg#Quicksand') format('svg'); /* Legacy iOS */
 }
-    
 /* quicksand-500normal - latin */
 @font-face {
   font-family: 'Quicksand';
@@ -37,7 +34,6 @@
        url('./files/quicksand-latin-500.woff') format('woff'), /* Modern Browsers */
        url('./files/quicksand-latin-500.svg#Quicksand') format('svg'); /* Legacy iOS */
 }
-    
 /* quicksand-700normal - latin */
 @font-face {
   font-family: 'Quicksand';
@@ -50,4 +46,3 @@
        url('./files/quicksand-latin-700.woff') format('woff'), /* Modern Browsers */
        url('./files/quicksand-latin-700.svg#Quicksand') format('svg'); /* Legacy iOS */
 }
-    

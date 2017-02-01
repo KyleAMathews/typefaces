@@ -1,4 +1,3 @@
-
 /* sonsie-one-400normal - latin */
 @font-face {
   font-family: 'Sonsie One';
@@ -11,4 +10,3 @@
        url('./files/sonsie-one-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/sonsie-one-latin-400.svg#Sonsie One') format('svg'); /* Legacy iOS */
 }
-    

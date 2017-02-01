@@ -1,4 +1,3 @@
-
 /* rufina-400normal - latin */
 @font-face {
   font-family: 'Rufina';
@@ -11,7 +10,6 @@
        url('./files/rufina-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/rufina-latin-400.svg#Rufina') format('svg'); /* Legacy iOS */
 }
-    
 /* rufina-700normal - latin */
 @font-face {
   font-family: 'Rufina';
@@ -24,4 +22,3 @@
        url('./files/rufina-latin-700.woff') format('woff'), /* Modern Browsers */
        url('./files/rufina-latin-700.svg#Rufina') format('svg'); /* Legacy iOS */
 }
-    

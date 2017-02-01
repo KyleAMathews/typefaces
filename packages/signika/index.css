@@ -1,4 +1,3 @@
-
 /* signika-300normal - latin */
 @font-face {
   font-family: 'Signika';
@@ -11,7 +10,6 @@
        url('./files/signika-latin-300.woff') format('woff'), /* Modern Browsers */
        url('./files/signika-latin-300.svg#Signika') format('svg'); /* Legacy iOS */
 }
-    
 /* signika-400normal - latin */
 @font-face {
   font-family: 'Signika';
@@ -24,7 +22,6 @@
        url('./files/signika-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/signika-latin-400.svg#Signika') format('svg'); /* Legacy iOS */
 }
-    
 /* signika-600normal - latin */
 @font-face {
   font-family: 'Signika';
@@ -37,7 +34,6 @@
        url('./files/signika-latin-600.woff') format('woff'), /* Modern Browsers */
        url('./files/signika-latin-600.svg#Signika') format('svg'); /* Legacy iOS */
 }
-    
 /* signika-700normal - latin */
 @font-face {
   font-family: 'Signika';
@@ -50,4 +46,3 @@
        url('./files/signika-latin-700.woff') format('woff'), /* Modern Browsers */
        url('./files/signika-latin-700.svg#Signika') format('svg'); /* Legacy iOS */
 }
-    

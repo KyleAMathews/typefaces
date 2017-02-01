@@ -1,0 +1,13 @@
+
+{
+  "name": "typeface-cormorant-sc",
+  "version": "0.0.0",
+  "description": "Cormorant SC typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "cormorant-sc"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

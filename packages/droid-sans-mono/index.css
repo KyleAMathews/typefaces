@@ -1,4 +1,3 @@
-
 /* droid-sans-mono-400normal - latin */
 @font-face {
   font-family: 'Droid Sans Mono';
@@ -11,4 +10,3 @@
        url('./files/droid-sans-mono-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/droid-sans-mono-latin-400.svg#Droid Sans Mono') format('svg'); /* Legacy iOS */
 }
-    

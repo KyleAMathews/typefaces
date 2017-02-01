@@ -1,0 +1,84 @@
+/* mukta-vaani-200normal - latin */
+@font-face {
+  font-family: 'Mukta Vaani';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./files/mukta-vaani-latin-200.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Vaani Extra Light '), local('Mukta Vaani-Extra Light'),
+       url('./files/mukta-vaani-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mukta-vaani-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mukta-vaani-latin-200.woff') format('woff'), /* Modern Browsers */
+       url('./files/mukta-vaani-latin-200.svg#Mukta Vaani') format('svg'); /* Legacy iOS */
+}
+/* mukta-vaani-300normal - latin */
+@font-face {
+  font-family: 'Mukta Vaani';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/mukta-vaani-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Vaani Light '), local('Mukta Vaani-Light'),
+       url('./files/mukta-vaani-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mukta-vaani-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mukta-vaani-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('./files/mukta-vaani-latin-300.svg#Mukta Vaani') format('svg'); /* Legacy iOS */
+}
+/* mukta-vaani-400normal - latin */
+@font-face {
+  font-family: 'Mukta Vaani';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/mukta-vaani-latin-400.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Vaani Regular '), local('Mukta Vaani-Regular'),
+       url('./files/mukta-vaani-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mukta-vaani-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mukta-vaani-latin-400.woff') format('woff'), /* Modern Browsers */
+       url('./files/mukta-vaani-latin-400.svg#Mukta Vaani') format('svg'); /* Legacy iOS */
+}
+/* mukta-vaani-500normal - latin */
+@font-face {
+  font-family: 'Mukta Vaani';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/mukta-vaani-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Vaani Medium '), local('Mukta Vaani-Medium'),
+       url('./files/mukta-vaani-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mukta-vaani-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mukta-vaani-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('./files/mukta-vaani-latin-500.svg#Mukta Vaani') format('svg'); /* Legacy iOS */
+}
+/* mukta-vaani-700normal - latin */
+@font-face {
+  font-family: 'Mukta Vaani';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/mukta-vaani-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Vaani Bold '), local('Mukta Vaani-Bold'),
+       url('./files/mukta-vaani-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mukta-vaani-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mukta-vaani-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/mukta-vaani-latin-700.svg#Mukta Vaani') format('svg'); /* Legacy iOS */
+}
+/* mukta-vaani-600normal - latin */
+@font-face {
+  font-family: 'Mukta Vaani';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/mukta-vaani-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Vaani SemiBold '), local('Mukta Vaani-SemiBold'),
+       url('./files/mukta-vaani-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mukta-vaani-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mukta-vaani-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('./files/mukta-vaani-latin-600.svg#Mukta Vaani') format('svg'); /* Legacy iOS */
+}
+/* mukta-vaani-800normal - latin */
+@font-face {
+  font-family: 'Mukta Vaani';
+  font-style: normal;
+  font-weight: 800;
+  src: url('./files/mukta-vaani-latin-800.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Vaani ExtraBold '), local('Mukta Vaani-ExtraBold'),
+       url('./files/mukta-vaani-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/mukta-vaani-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/mukta-vaani-latin-800.woff') format('woff'), /* Modern Browsers */
+       url('./files/mukta-vaani-latin-800.svg#Mukta Vaani') format('svg'); /* Legacy iOS */
+}

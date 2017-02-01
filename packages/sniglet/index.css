@@ -1,4 +1,3 @@
-
 /* sniglet-400normal - latin */
 @font-face {
   font-family: 'Sniglet';
@@ -11,7 +10,6 @@
        url('./files/sniglet-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/sniglet-latin-400.svg#Sniglet') format('svg'); /* Legacy iOS */
 }
-    
 /* sniglet-800normal - latin */
 @font-face {
   font-family: 'Sniglet';
@@ -24,4 +22,3 @@
        url('./files/sniglet-latin-800.woff') format('woff'), /* Modern Browsers */
        url('./files/sniglet-latin-800.svg#Sniglet') format('svg'); /* Legacy iOS */
 }
-    

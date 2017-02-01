@@ -1,4 +1,3 @@
-
 /* macondo-400normal - latin */
 @font-face {
   font-family: 'Macondo';
@@ -11,4 +10,3 @@
        url('./files/macondo-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/macondo-latin-400.svg#Macondo') format('svg'); /* Legacy iOS */
 }
-    

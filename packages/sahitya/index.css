@@ -1,4 +1,3 @@
-
 /* sahitya-400normal - latin */
 @font-face {
   font-family: 'Sahitya';
@@ -11,7 +10,6 @@
        url('./files/sahitya-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/sahitya-latin-400.svg#Sahitya') format('svg'); /* Legacy iOS */
 }
-    
 /* sahitya-700normal - latin */
 @font-face {
   font-family: 'Sahitya';
@@ -24,4 +22,3 @@
        url('./files/sahitya-latin-700.woff') format('woff'), /* Modern Browsers */
        url('./files/sahitya-latin-700.svg#Sahitya') format('svg'); /* Legacy iOS */
 }
-    

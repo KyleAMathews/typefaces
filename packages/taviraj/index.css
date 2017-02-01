@@ -1,4 +1,3 @@
-
 /* taviraj-100normal - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -11,7 +10,6 @@
        url('./files/taviraj-latin-100.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-100.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-200normal - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -24,7 +22,6 @@
        url('./files/taviraj-latin-200.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-200.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-100italic - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -37,7 +34,6 @@
        url('./files/taviraj-latin-100italic.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-100italic.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-200italic - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -50,7 +46,6 @@
        url('./files/taviraj-latin-200italic.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-200italic.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-300normal - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -63,7 +58,6 @@
        url('./files/taviraj-latin-300.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-300.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-400normal - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -76,7 +70,6 @@
        url('./files/taviraj-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-400.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-300italic - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -89,7 +82,6 @@
        url('./files/taviraj-latin-300italic.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-300italic.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-400italic - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -102,7 +94,6 @@
        url('./files/taviraj-latin-400italic.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-400italic.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-500normal - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -115,7 +106,6 @@
        url('./files/taviraj-latin-500.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-500.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-600normal - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -128,7 +118,6 @@
        url('./files/taviraj-latin-600.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-600.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-500italic - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -141,20 +130,6 @@
        url('./files/taviraj-latin-500italic.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-500italic.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
-/* taviraj-600italic - latin */
-@font-face {
-  font-family: 'Taviraj';
-  font-style: italic;
-  font-weight: 600;
-  src: url('./files/taviraj-latin-600italic.eot'); /* IE9 Compat Modes */
-  src: local('Taviraj SemiBold italic'), local('Taviraj-SemiBolditalic'),
-       url('./files/taviraj-latin-600italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/taviraj-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/taviraj-latin-600italic.woff') format('woff'), /* Modern Browsers */
-       url('./files/taviraj-latin-600italic.svg#Taviraj') format('svg'); /* Legacy iOS */
-}
-    
 /* taviraj-700italic - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -167,7 +142,18 @@
        url('./files/taviraj-latin-700italic.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-700italic.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
+/* taviraj-600italic - latin */
+@font-face {
+  font-family: 'Taviraj';
+  font-style: italic;
+  font-weight: 600;
+  src: url('./files/taviraj-latin-600italic.eot'); /* IE9 Compat Modes */
+  src: local('Taviraj SemiBold italic'), local('Taviraj-SemiBolditalic'),
+       url('./files/taviraj-latin-600italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/taviraj-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/taviraj-latin-600italic.woff') format('woff'), /* Modern Browsers */
+       url('./files/taviraj-latin-600italic.svg#Taviraj') format('svg'); /* Legacy iOS */
+}
 /* taviraj-700normal - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -180,7 +166,6 @@
        url('./files/taviraj-latin-700.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-700.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-800normal - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -193,7 +178,6 @@
        url('./files/taviraj-latin-800.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-800.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
 /* taviraj-800italic - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -206,20 +190,6 @@
        url('./files/taviraj-latin-800italic.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-800italic.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
-/* taviraj-900normal - latin */
-@font-face {
-  font-family: 'Taviraj';
-  font-style: normal;
-  font-weight: 900;
-  src: url('./files/taviraj-latin-900.eot'); /* IE9 Compat Modes */
-  src: local('Taviraj Black '), local('Taviraj-Black'),
-       url('./files/taviraj-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/taviraj-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/taviraj-latin-900.woff') format('woff'), /* Modern Browsers */
-       url('./files/taviraj-latin-900.svg#Taviraj') format('svg'); /* Legacy iOS */
-}
-    
 /* taviraj-900italic - latin */
 @font-face {
   font-family: 'Taviraj';
@@ -232,4 +202,15 @@
        url('./files/taviraj-latin-900italic.woff') format('woff'), /* Modern Browsers */
        url('./files/taviraj-latin-900italic.svg#Taviraj') format('svg'); /* Legacy iOS */
 }
-    
+/* taviraj-900normal - latin */
+@font-face {
+  font-family: 'Taviraj';
+  font-style: normal;
+  font-weight: 900;
+  src: url('./files/taviraj-latin-900.eot'); /* IE9 Compat Modes */
+  src: local('Taviraj Black '), local('Taviraj-Black'),
+       url('./files/taviraj-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/taviraj-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/taviraj-latin-900.woff') format('woff'), /* Modern Browsers */
+       url('./files/taviraj-latin-900.svg#Taviraj') format('svg'); /* Legacy iOS */
+}

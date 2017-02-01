@@ -1,4 +1,3 @@
-
 /* over-the-rainbow-400normal - latin */
 @font-face {
   font-family: 'Over the Rainbow';
@@ -11,4 +10,3 @@
        url('./files/over-the-rainbow-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/over-the-rainbow-latin-400.svg#Over the Rainbow') format('svg'); /* Legacy iOS */
 }
-    

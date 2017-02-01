@@ -1,4 +1,3 @@
-
 /* eater-400normal - latin */
 @font-face {
   font-family: 'Eater';
@@ -11,4 +10,3 @@
        url('./files/eater-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/eater-latin-400.svg#Eater') format('svg'); /* Legacy iOS */
 }
-    

@@ -1,4 +1,3 @@
-
 /* arima-madurai-100normal - latin */
 @font-face {
   font-family: 'Arima Madurai';
@@ -11,20 +10,6 @@
        url('./files/arima-madurai-latin-100.woff') format('woff'), /* Modern Browsers */
        url('./files/arima-madurai-latin-100.svg#Arima Madurai') format('svg'); /* Legacy iOS */
 }
-    
-/* arima-madurai-200normal - latin */
-@font-face {
-  font-family: 'Arima Madurai';
-  font-style: normal;
-  font-weight: 200;
-  src: url('./files/arima-madurai-latin-200.eot'); /* IE9 Compat Modes */
-  src: local('Arima Madurai Extra Light '), local('Arima Madurai-Extra Light'),
-       url('./files/arima-madurai-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/arima-madurai-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/arima-madurai-latin-200.woff') format('woff'), /* Modern Browsers */
-       url('./files/arima-madurai-latin-200.svg#Arima Madurai') format('svg'); /* Legacy iOS */
-}
-    
 /* arima-madurai-300normal - latin */
 @font-face {
   font-family: 'Arima Madurai';
@@ -37,7 +22,18 @@
        url('./files/arima-madurai-latin-300.woff') format('woff'), /* Modern Browsers */
        url('./files/arima-madurai-latin-300.svg#Arima Madurai') format('svg'); /* Legacy iOS */
 }
-    
+/* arima-madurai-200normal - latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./files/arima-madurai-latin-200.eot'); /* IE9 Compat Modes */
+  src: local('Arima Madurai Extra Light '), local('Arima Madurai-Extra Light'),
+       url('./files/arima-madurai-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/arima-madurai-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/arima-madurai-latin-200.woff') format('woff'), /* Modern Browsers */
+       url('./files/arima-madurai-latin-200.svg#Arima Madurai') format('svg'); /* Legacy iOS */
+}
 /* arima-madurai-400normal - latin */
 @font-face {
   font-family: 'Arima Madurai';
@@ -50,7 +46,6 @@
        url('./files/arima-madurai-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/arima-madurai-latin-400.svg#Arima Madurai') format('svg'); /* Legacy iOS */
 }
-    
 /* arima-madurai-500normal - latin */
 @font-face {
   font-family: 'Arima Madurai';
@@ -63,20 +58,6 @@
        url('./files/arima-madurai-latin-500.woff') format('woff'), /* Modern Browsers */
        url('./files/arima-madurai-latin-500.svg#Arima Madurai') format('svg'); /* Legacy iOS */
 }
-    
-/* arima-madurai-700normal - latin */
-@font-face {
-  font-family: 'Arima Madurai';
-  font-style: normal;
-  font-weight: 700;
-  src: url('./files/arima-madurai-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Arima Madurai Bold '), local('Arima Madurai-Bold'),
-       url('./files/arima-madurai-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/arima-madurai-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/arima-madurai-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/arima-madurai-latin-700.svg#Arima Madurai') format('svg'); /* Legacy iOS */
-}
-    
 /* arima-madurai-800normal - latin */
 @font-face {
   font-family: 'Arima Madurai';
@@ -89,7 +70,18 @@
        url('./files/arima-madurai-latin-800.woff') format('woff'), /* Modern Browsers */
        url('./files/arima-madurai-latin-800.svg#Arima Madurai') format('svg'); /* Legacy iOS */
 }
-    
+/* arima-madurai-700normal - latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/arima-madurai-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Arima Madurai Bold '), local('Arima Madurai-Bold'),
+       url('./files/arima-madurai-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/arima-madurai-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/arima-madurai-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/arima-madurai-latin-700.svg#Arima Madurai') format('svg'); /* Legacy iOS */
+}
 /* arima-madurai-900normal - latin */
 @font-face {
   font-family: 'Arima Madurai';
@@ -102,4 +94,3 @@
        url('./files/arima-madurai-latin-900.woff') format('woff'), /* Modern Browsers */
        url('./files/arima-madurai-latin-900.svg#Arima Madurai') format('svg'); /* Legacy iOS */
 }
-    

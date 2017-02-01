@@ -1,4 +1,3 @@
-
 /* della-respira-400normal - latin */
 @font-face {
   font-family: 'Della Respira';
@@ -11,4 +10,3 @@
        url('./files/della-respira-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/della-respira-latin-400.svg#Della Respira') format('svg'); /* Legacy iOS */
 }
-    

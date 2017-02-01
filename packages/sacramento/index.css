@@ -1,4 +1,3 @@
-
 /* sacramento-400normal - latin */
 @font-face {
   font-family: 'Sacramento';
@@ -11,4 +10,3 @@
        url('./files/sacramento-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/sacramento-latin-400.svg#Sacramento') format('svg'); /* Legacy iOS */
 }
-    

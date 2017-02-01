@@ -1,4 +1,3 @@
-
 /* dhurjati-400normal - latin */
 @font-face {
   font-family: 'Dhurjati';
@@ -11,4 +10,3 @@
        url('./files/dhurjati-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/dhurjati-latin-400.svg#Dhurjati') format('svg'); /* Legacy iOS */
 }
-    

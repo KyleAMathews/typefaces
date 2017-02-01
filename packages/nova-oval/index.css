@@ -1,4 +1,3 @@
-
 /* nova-oval-400normal - latin */
 @font-face {
   font-family: 'Nova Oval';
@@ -11,4 +10,3 @@
        url('./files/nova-oval-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/nova-oval-latin-400.svg#Nova Oval') format('svg'); /* Legacy iOS */
 }
-    

@@ -1,4 +1,3 @@
-
 /* chivo-300normal - latin */
 @font-face {
   font-family: 'Chivo';
@@ -11,7 +10,6 @@
        url('./files/chivo-latin-300.woff') format('woff'), /* Modern Browsers */
        url('./files/chivo-latin-300.svg#Chivo') format('svg'); /* Legacy iOS */
 }
-    
 /* chivo-300italic - latin */
 @font-face {
   font-family: 'Chivo';
@@ -24,7 +22,6 @@
        url('./files/chivo-latin-300italic.woff') format('woff'), /* Modern Browsers */
        url('./files/chivo-latin-300italic.svg#Chivo') format('svg'); /* Legacy iOS */
 }
-    
 /* chivo-400normal - latin */
 @font-face {
   font-family: 'Chivo';
@@ -37,7 +34,6 @@
        url('./files/chivo-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/chivo-latin-400.svg#Chivo') format('svg'); /* Legacy iOS */
 }
-    
 /* chivo-400italic - latin */
 @font-face {
   font-family: 'Chivo';
@@ -50,20 +46,6 @@
        url('./files/chivo-latin-400italic.woff') format('woff'), /* Modern Browsers */
        url('./files/chivo-latin-400italic.svg#Chivo') format('svg'); /* Legacy iOS */
 }
-    
-/* chivo-700normal - latin */
-@font-face {
-  font-family: 'Chivo';
-  font-style: normal;
-  font-weight: 700;
-  src: url('./files/chivo-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Chivo Bold '), local('Chivo-Bold'),
-       url('./files/chivo-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/chivo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/chivo-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/chivo-latin-700.svg#Chivo') format('svg'); /* Legacy iOS */
-}
-    
 /* chivo-700italic - latin */
 @font-face {
   font-family: 'Chivo';
@@ -76,7 +58,6 @@
        url('./files/chivo-latin-700italic.woff') format('woff'), /* Modern Browsers */
        url('./files/chivo-latin-700italic.svg#Chivo') format('svg'); /* Legacy iOS */
 }
-    
 /* chivo-900normal - latin */
 @font-face {
   font-family: 'Chivo';
@@ -89,7 +70,18 @@
        url('./files/chivo-latin-900.woff') format('woff'), /* Modern Browsers */
        url('./files/chivo-latin-900.svg#Chivo') format('svg'); /* Legacy iOS */
 }
-    
+/* chivo-700normal - latin */
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/chivo-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Chivo Bold '), local('Chivo-Bold'),
+       url('./files/chivo-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./files/chivo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./files/chivo-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./files/chivo-latin-700.svg#Chivo') format('svg'); /* Legacy iOS */
+}
 /* chivo-900italic - latin */
 @font-face {
   font-family: 'Chivo';
@@ -102,4 +94,3 @@
        url('./files/chivo-latin-900italic.woff') format('woff'), /* Modern Browsers */
        url('./files/chivo-latin-900italic.svg#Chivo') format('svg'); /* Legacy iOS */
 }
-    

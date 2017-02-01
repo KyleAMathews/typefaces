@@ -1,4 +1,3 @@
-
 /* nobile-400normal - latin */
 @font-face {
   font-family: 'Nobile';
@@ -11,7 +10,6 @@
        url('./files/nobile-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/nobile-latin-400.svg#Nobile') format('svg'); /* Legacy iOS */
 }
-    
 /* nobile-400italic - latin */
 @font-face {
   font-family: 'Nobile';
@@ -24,7 +22,6 @@
        url('./files/nobile-latin-400italic.woff') format('woff'), /* Modern Browsers */
        url('./files/nobile-latin-400italic.svg#Nobile') format('svg'); /* Legacy iOS */
 }
-    
 /* nobile-700normal - latin */
 @font-face {
   font-family: 'Nobile';
@@ -37,7 +34,6 @@
        url('./files/nobile-latin-700.woff') format('woff'), /* Modern Browsers */
        url('./files/nobile-latin-700.svg#Nobile') format('svg'); /* Legacy iOS */
 }
-    
 /* nobile-700italic - latin */
 @font-face {
   font-family: 'Nobile';
@@ -50,4 +46,3 @@
        url('./files/nobile-latin-700italic.woff') format('woff'), /* Modern Browsers */
        url('./files/nobile-latin-700italic.svg#Nobile') format('svg'); /* Legacy iOS */
 }
-    

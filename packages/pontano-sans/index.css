@@ -1,4 +1,3 @@
-
 /* pontano-sans-400normal - latin */
 @font-face {
   font-family: 'Pontano Sans';
@@ -11,4 +10,3 @@
        url('./files/pontano-sans-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/pontano-sans-latin-400.svg#Pontano Sans') format('svg'); /* Legacy iOS */
 }
-    

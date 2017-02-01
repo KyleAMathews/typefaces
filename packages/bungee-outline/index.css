@@ -1,4 +1,3 @@
-
 /* bungee-outline-400normal - latin */
 @font-face {
   font-family: 'Bungee Outline';
@@ -11,4 +10,3 @@
        url('./files/bungee-outline-latin-400.woff') format('woff'), /* Modern Browsers */
        url('./files/bungee-outline-latin-400.svg#Bungee Outline') format('svg'); /* Legacy iOS */
 }
-    
