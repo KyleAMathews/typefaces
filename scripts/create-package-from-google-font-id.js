@@ -8,6 +8,7 @@ const path = require(`path`)
 const md5Dir = require(`md5-dir`)
 const log = require('single-line-log').stdout
 
+const { packageJson, fontFace } = require(`./templates`)
 const download = require(`./download-file`)
 const commonWeightNameMap = require(`./common-weight-name-map`)
 
@@ -81,19 +82,11 @@ async.map(typeface.variants, (item, callback) => {
     }))
 
     // Write out package.json file
-    const packageJSON = `
-{
-  "name": "typeface-${typeface.id}",
-  "version": "0.0.2",
-  "description": "${typeface.family} typeface",
-  "main": "index.css",
-  "keywords": [
-    "typeface",
-    "${typeface.id}"
-  ],
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "license": "MIT"
-}`
+    const packageJSON = packageJson({
+      templateId: typeface.id,
+      templateName: typeface.family,
+    })
+
     fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
     // Write out index.css file
@@ -102,20 +95,18 @@ async.map(typeface.variants, (item, callback) => {
       if (item.fontStyle !== `normal`) {
         style = item.fontStyle
       }
-      return `
-/* ${typeface.id}-${item.fontWeight}${item.fontStyle} - latin */
-@font-face {
-  font-family: '${typeface.family}';
-  font-style: ${item.fontStyle};
-  font-weight: ${item.fontWeight};
-  src: url('${makeFontFilePath(item, 'eot')}'); /* IE9 Compat Modes */
-  src: local('${typeface.family} ${commonWeightNameMap(item.fontWeight)} ${style}'), local('${typeface.family}-${commonWeightNameMap(item.fontWeight)}${style}'),
-       url('${makeFontFilePath(item, 'eot')}?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('${makeFontFilePath(item, 'woff2')}') format('woff2'), /* Super Modern Browsers */
-       url('${makeFontFilePath(item, 'woff')}') format('woff'), /* Modern Browsers */
-       url('${makeFontFilePath(item, 'svg')}#${typeface.family}') format('svg'); /* Legacy iOS */
-}
-    `
+      return fontFace({
+        typefaceId: typeface.id,
+        typefaceName: typeface.family,
+        style,
+        styleWithNormal: item.fontStyle,
+        weight: item.fontWeight,
+        commonWeightName: commonWeightNameMap(item.fontWeight),
+        eotPath: makeFontFilePath(item, 'eot'),
+        woffPath: makeFontFilePath(item, 'woff'),
+        woff2Path: makeFontFilePath(item, 'woff2'),
+        svgPath: makeFontFilePath(item, 'svg'),
+      })
     })
 
     fs.writeFileSync(`${typefaceDir}/index.css`, css.join(''))

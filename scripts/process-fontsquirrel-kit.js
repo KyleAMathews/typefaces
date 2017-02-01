@@ -5,6 +5,7 @@ const fs = require(`fs-extra`)
 const _ = require(`lodash`)
 const md5Dir = require(`md5-dir`)
 
+const { packageJson, fontFace } = require(`./templates`)
 const commonWeightNameMap = require(`./common-weight-name-map`)
 
 module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
@@ -114,18 +115,11 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
     }))
 
     // Write out package.json
-    const packageJSON = `{
-    "name": "typeface-${lowercaseId}",
-    "version": "0.0.2",
-    "description": "${familyName} typeface",
-    "main": "index.css",
-    "keywords": [
-      "typeface",
-      "${lowercaseId}"
-    ],
-    "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-    "license": "MIT"
-    }`
+    const packageJSON = packageJson({
+      templateId: lowercaseId,
+      templateName: familyName,
+    })
+
     fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
     // Write out index.css file
@@ -134,21 +128,18 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
       if (!style) {
         style = `normal`
       }
-      return `
-    /* ${lowercaseId}-${item.fontWeight}${style} - latin */
-    @font-face {
-    font-family: '${familyName}';
-    font-style: ${style};
-    font-weight: ${item.fontWeight};
-    src: url('${item['eot']}'); /* IE9 Compat Modes */
-    src: local('${familyName} ${commonWeightNameMap(item.fontWeight)} ${style}'), local('${familyName}-${commonWeightNameMap(item.fontWeight)}${style}'),
-         url('${item['eot']}?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('${item['woff2']}') format('woff2'), /* Super Modern Browsers */
-         url('${item['woff']}') format('woff'), /* Modern Browsers */
-         url('${item['ttf']}') format('truetype'),
-         url('${item['svg']}#${familyName}') format('svg'); /* Legacy iOS */
-    }
-      `
+      return fontFace({
+        typefaceId: lowercaseId,
+        typefaceName: familyName,
+        style,
+        styleWithNormal: item.fontStyle,
+        weight: item.fontWeight,
+        commonWeightName: commonWeightNameMap(item.fontWeight),
+        eotPath: item['eot'],
+        woffPath: item['woff'],
+        woff2Path: item['woff2'],
+        svgPath: item['svg'],
+      })
     })
 
     console.log(css)
