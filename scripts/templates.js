@@ -9,6 +9,9 @@ exports.packageJson = _.template(
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "<%= typefaceId %>"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
