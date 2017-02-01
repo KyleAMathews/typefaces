@@ -21,6 +21,9 @@ Typefaces.
 Each typeface package ships with all the necessary font files and css to
 serve an open source typeface.
 
+All Google Fonts have been added as well as a small but growing list of
+other open source fonts. Open an issue if you want a font added!
+
 ## How
 Couldn't be easier. This is how you'd add Open Sans.
 
