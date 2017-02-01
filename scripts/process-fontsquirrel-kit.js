@@ -5,8 +5,13 @@ const fs = require(`fs-extra`)
 const _ = require(`lodash`)
 const md5Dir = require(`md5-dir`)
 
-const { packageJson, fontFace } = require(`./templates`)
+const { packageJson, fontFace, readme } = require(`./templates`)
 const commonWeightNameMap = require(`./common-weight-name-map`)
+
+// Get current count of packages to put in the package README
+const dirs = p => fs.readdirSync(p).filter(f => fs.statSync(p+"/"+f).isDirectory())
+const packagesCount = dirs(`./packages`).length
+console.log(`package count`, packagesCount)
 
 module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
   // Try to copy the License file.
@@ -114,10 +119,19 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
       updatedAt: new Date().toJSON(),
     }))
 
+    // Write out the README.md
+    const packageReadme = readme({
+      typefaceId: lowercaseId,
+      typefaceName: familyName,
+      count: packagesCount,
+    })
+
+    fs.writeFileSync(`${typefaceDir}/README.md`, packageReadme)
+
     // Write out package.json
     const packageJSON = packageJson({
-      templateId: lowercaseId,
-      templateName: familyName,
+      typefaceId: lowercaseId,
+      typefaceName: familyName,
     })
 
     fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)

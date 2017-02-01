@@ -8,7 +8,7 @@ const path = require(`path`)
 const md5Dir = require(`md5-dir`)
 const log = require('single-line-log').stdout
 
-const { packageJson, fontFace } = require(`./templates`)
+const { packageJson, fontFace, readme } = require(`./templates`)
 const download = require(`./download-file`)
 const commonWeightNameMap = require(`./common-weight-name-map`)
 
@@ -18,6 +18,11 @@ if (!id) {
   console.warn(`You need to pass in the google font id as an argument`)
   process.exit()
 }
+
+// Get current count of packages to put in the package README
+const dirs = p => fs.readdirSync(p).filter(f => fs.statSync(p+"/"+f).isDirectory())
+const packagesCount = dirs(`./packages`).length
+console.log(`package count`, packagesCount)
 
 const res = requestSync(`GET`, baseurl + id)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
@@ -81,10 +86,19 @@ async.map(typeface.variants, (item, callback) => {
       updatedAt: new Date().toJSON(),
     }))
 
+    // Write out the README.md
+    const packageReadme = readme({
+      typefaceId: typeface.id,
+      typefaceName: typeface.family,
+      count: packagesCount,
+    })
+
+    fs.writeFileSync(`${typefaceDir}/README.md`, packageReadme)
+
     // Write out package.json file
     const packageJSON = packageJson({
-      templateId: typeface.id,
-      templateName: typeface.family,
+      typefaceId: typeface.id,
+      typefaceName: typeface.family,
     })
 
     fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
