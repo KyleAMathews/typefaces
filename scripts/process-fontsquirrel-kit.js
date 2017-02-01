@@ -7,7 +7,7 @@ const md5Dir = require(`md5-dir`)
 
 const commonWeightNameMap = require(`./common-weight-name-map`)
 
-module.exports = (extractionPath, typeface, typefaceDir, lowercaseId) => {
+module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
   // Try to copy the License file.
   const licenseFiles = glob.sync(`*license*`, {
     cwd: extractionPath,
@@ -23,9 +23,10 @@ module.exports = (extractionPath, typeface, typefaceDir, lowercaseId) => {
   const globOptions = {
     cwd: extractionPath,
   }
-  console.log(globPattern, globOptions)
+  //console.log(globPattern, globOptions)
 
   const fontFiles = glob.sync(globPattern, globOptions)
+  console.log(`found fontFiles`, fontFiles)
 
   // Copy files
   const variants = []
@@ -36,8 +37,22 @@ module.exports = (extractionPath, typeface, typefaceDir, lowercaseId) => {
     let weight
     if (fontFile.match(/regular/)) {
       weight = `400`
+    } else if (fontFile.match(/thin/)) {
+      weight = `100`
+    } else if (fontFile.match(/ultra_light/)) {
+      weight = `200`
+    } else if (fontFile.match(/light/)) {
+      weight = `300`
+    } else if (fontFile.match(/book/)) {
+      weight = `400`
+    } else if (fontFile.match(/medium/)) {
+      weight = `500`
+    } else if (fontFile.match(/semibold/)) {
+      weight = `600`
     } else if (fontFile.match(/bold/)) {
       weight = `700`
+    } else if (fontFile.match(/heavy/)) {
+      weight = `800`
     } else {
       weight = `400`
     }
@@ -68,7 +83,7 @@ module.exports = (extractionPath, typeface, typefaceDir, lowercaseId) => {
     // If this is a ttf file, use ttf2woff2 to make a woff2 version.
     if (parsedPath.ext === `.ttf`) {
       console.log(`converting .ttf file to .woff2`)
-      const input = fs.readFileSync(toPath)
+      const input = fs.readFileSync(fullPath)
       const woff2RelativePath = `./files/${lowercaseId}-${weight}${style}.woff2`
       variant['woff2'] = woff2RelativePath
       const woff2ToPath = path.join(typefaceDir, woff2RelativePath)
@@ -102,7 +117,7 @@ module.exports = (extractionPath, typeface, typefaceDir, lowercaseId) => {
     const packageJSON = `{
     "name": "typeface-${lowercaseId}",
     "version": "0.0.2",
-    "description": "${typeface[0].family_name} typeface",
+    "description": "${familyName} typeface",
     "main": "index.css",
     "keywords": [
       "typeface",
@@ -122,16 +137,16 @@ module.exports = (extractionPath, typeface, typefaceDir, lowercaseId) => {
       return `
     /* ${lowercaseId}-${item.fontWeight}${style} - latin */
     @font-face {
-    font-family: '${typeface[0].family_name}';
+    font-family: '${familyName}';
     font-style: ${style};
     font-weight: ${item.fontWeight};
     src: url('${item['eot']}'); /* IE9 Compat Modes */
-    src: local('${typeface[0].family_name} ${commonWeightNameMap(item.fontWeight)} ${style}'), local('${typeface[0].family_name}-${commonWeightNameMap(item.fontWeight)}${style}'),
+    src: local('${familyName} ${commonWeightNameMap(item.fontWeight)} ${style}'), local('${familyName}-${commonWeightNameMap(item.fontWeight)}${style}'),
          url('${item['eot']}?#iefix') format('embedded-opentype'), /* IE6-IE8 */
          url('${item['woff2']}') format('woff2'), /* Super Modern Browsers */
          url('${item['woff']}') format('woff'), /* Modern Browsers */
          url('${item['ttf']}') format('truetype'),
-         url('${item['svg']}#${typeface[0].family_name}') format('svg'); /* Legacy iOS */
+         url('${item['svg']}#${familyName}') format('svg'); /* Legacy iOS */
     }
       `
     })

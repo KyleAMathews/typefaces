@@ -37,5 +37,5 @@ const extractionPath = `${dest}_extracted`
 download(downloadUrl, dest, (err) => {
   console.log(`downloaded ${downloadUrl} to ${dest}`)
   exec(`unzip ${dest} -d ${extractionPath}`)
-  processFontsquirrelKit(extractionPath, typeface, typefaceDir, lowercaseId)
+  processFontsquirrelKit(extractionPath, typefaceDir, lowercaseId, typeface[0].family_name)
 })

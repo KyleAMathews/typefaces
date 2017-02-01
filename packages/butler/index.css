@@ -1,0 +1,71 @@
+
+    /* butler-400normal - latin */
+    @font-face {
+    font-family: 'Butler';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./files/butler-400.eot'); /* IE9 Compat Modes */
+    src: local('Butler Regular normal'), local('Butler-Regularnormal'),
+         url('./files/butler-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./files/butler-400.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./files/butler-400.woff') format('woff'), /* Modern Browsers */
+         url('./files/butler-400.ttf') format('truetype'),
+         url('./files/butler-400.svg#Butler') format('svg'); /* Legacy iOS */
+    }
+      
+    /* butler-700normal - latin */
+    @font-face {
+    font-family: 'Butler';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./files/butler-700.eot'); /* IE9 Compat Modes */
+    src: local('Butler Bold normal'), local('Butler-Boldnormal'),
+         url('./files/butler-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./files/butler-700.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./files/butler-700.woff') format('woff'), /* Modern Browsers */
+         url('./files/butler-700.ttf') format('truetype'),
+         url('./files/butler-700.svg#Butler') format('svg'); /* Legacy iOS */
+    }
+      
+    /* butler-300normal - latin */
+    @font-face {
+    font-family: 'Butler';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./files/butler-300.eot'); /* IE9 Compat Modes */
+    src: local('Butler Light normal'), local('Butler-Lightnormal'),
+         url('./files/butler-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./files/butler-300.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./files/butler-300.woff') format('woff'), /* Modern Browsers */
+         url('./files/butler-300.ttf') format('truetype'),
+         url('./files/butler-300.svg#Butler') format('svg'); /* Legacy iOS */
+    }
+      
+    /* butler-500normal - latin */
+    @font-face {
+    font-family: 'Butler';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./files/butler-500.eot'); /* IE9 Compat Modes */
+    src: local('Butler Medium normal'), local('Butler-Mediumnormal'),
+         url('./files/butler-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./files/butler-500.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./files/butler-500.woff') format('woff'), /* Modern Browsers */
+         url('./files/butler-500.ttf') format('truetype'),
+         url('./files/butler-500.svg#Butler') format('svg'); /* Legacy iOS */
+    }
+      
+    /* butler-200normal - latin */
+    @font-face {
+    font-family: 'Butler';
+    font-style: normal;
+    font-weight: 200;
+    src: url('./files/butler-200.eot'); /* IE9 Compat Modes */
+    src: local('Butler Extra Light normal'), local('Butler-Extra Lightnormal'),
+         url('./files/butler-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./files/butler-200.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./files/butler-200.woff') format('woff'), /* Modern Browsers */
+         url('./files/butler-200.ttf') format('truetype'),
+         url('./files/butler-200.svg#Butler') format('svg'); /* Legacy iOS */
+    }
+      
