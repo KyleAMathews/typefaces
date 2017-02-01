@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-gidole",
-  "version": "0.0.0",
+  "version": "0.0.18",
   "description": "Gidole typeface",
   "main": "index.css",
   "keywords": [

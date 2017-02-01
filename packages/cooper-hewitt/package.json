@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-cooper-hewitt",
-  "version": "0.0.0",
+  "version": "0.0.18",
   "description": "Cooper Hewitt typeface",
   "main": "index.css",
   "keywords": [
