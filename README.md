@@ -3,6 +3,8 @@
 NPM packages for Open Source typefaces — making it easier to self-host
 webfonts.
 
+https://www.bricolage.io/typefaces-easiest-way-to-self-host-fonts/
+
 ## Why
 
 * Self-hosting is *significantly faster*. Loading a typeface from Google
