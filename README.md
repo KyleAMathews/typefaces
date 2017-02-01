@@ -3,19 +3,22 @@ NPM packages for Open Source typefaces — making it easier to self-host
 webfonts.
 
 ## Why
+
 * Self-hosting is faster. Loading a typeface from Google Fonts or other
   hosted font service adds two extra network requests compared to
 self-hosting — one to load their css file and then to load fonts.
-Replacing Google Fonts with Typeface can speed page loads by
-~300 miliseconds on desktop and 1+ seconds on 3g.
+Replacing Google Fonts with Typeface can speed page loads by ~300
+miliseconds on desktop and 1+ seconds on 3g.
 * Works offline. It's annoying to start working on a web project on the
   train or airplane and have your interface be screwed up because you
 can't access Google fonts.
+* All web(site|app) dependencies should be managed through NPM whenever
+  possible. Tis the modern way.
 * Go beyond Google Fonts — there are many amazing fonts not on Google
   Fonts like [Clear Sans](https://01.org/clear-SANS), [Cooper
 Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/),
-and [Aleo](https://www.fontsquirrel.com/fonts/aleo). Now they're easy to use with
-Typefaces.
+and [Aleo](https://www.fontsquirrel.com/fonts/aleo). Now they're easy to
+use with Typefaces.
 
 ## What
 Each typeface package ships with all the necessary font files and css to
