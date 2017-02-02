@@ -4,45 +4,57 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/gfs-neohellenic-greek-400.eot'); /* IE9 Compat Modes */
-  src: local('GFS Neohellenic Regular '), local('GFS Neohellenic-Regular'),
-       url('./files/gfs-neohellenic-greek-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/gfs-neohellenic-greek-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/gfs-neohellenic-greek-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/gfs-neohellenic-greek-400.svg#GFS Neohellenic') format('svg'); /* Legacy iOS */
+  src:
+    local('GFS Neohellenic Regular '),
+    local('GFS Neohellenic-Regular'),
+    url('./files/gfs-neohellenic-greek-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/gfs-neohellenic-greek-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gfs-neohellenic-greek-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/gfs-neohellenic-greek-400.svg#gfs-neohellenic') format('svg'); /* Legacy iOS */
 }
+
 /* gfs-neohellenic-400italic - latin */
 @font-face {
   font-family: 'GFS Neohellenic';
   font-style: italic;
   font-weight: 400;
   src: url('./files/gfs-neohellenic-greek-400italic.eot'); /* IE9 Compat Modes */
-  src: local('GFS Neohellenic Regular italic'), local('GFS Neohellenic-Regularitalic'),
-       url('./files/gfs-neohellenic-greek-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/gfs-neohellenic-greek-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/gfs-neohellenic-greek-400italic.woff') format('woff'), /* Modern Browsers */
-       url('./files/gfs-neohellenic-greek-400italic.svg#GFS Neohellenic') format('svg'); /* Legacy iOS */
+  src:
+    local('GFS Neohellenic Regular italic'),
+    local('GFS Neohellenic-Regularitalic'),
+    url('./files/gfs-neohellenic-greek-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/gfs-neohellenic-greek-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gfs-neohellenic-greek-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/gfs-neohellenic-greek-400italic.svg#gfs-neohellenic') format('svg'); /* Legacy iOS */
 }
+
 /* gfs-neohellenic-700italic - latin */
 @font-face {
   font-family: 'GFS Neohellenic';
   font-style: italic;
   font-weight: 700;
   src: url('./files/gfs-neohellenic-greek-700italic.eot'); /* IE9 Compat Modes */
-  src: local('GFS Neohellenic Bold italic'), local('GFS Neohellenic-Bolditalic'),
-       url('./files/gfs-neohellenic-greek-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/gfs-neohellenic-greek-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/gfs-neohellenic-greek-700italic.woff') format('woff'), /* Modern Browsers */
-       url('./files/gfs-neohellenic-greek-700italic.svg#GFS Neohellenic') format('svg'); /* Legacy iOS */
+  src:
+    local('GFS Neohellenic Bold italic'),
+    local('GFS Neohellenic-Bolditalic'),
+    url('./files/gfs-neohellenic-greek-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/gfs-neohellenic-greek-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gfs-neohellenic-greek-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/gfs-neohellenic-greek-700italic.svg#gfs-neohellenic') format('svg'); /* Legacy iOS */
 }
+
 /* gfs-neohellenic-700normal - latin */
 @font-face {
   font-family: 'GFS Neohellenic';
   font-style: normal;
   font-weight: 700;
   src: url('./files/gfs-neohellenic-greek-700.eot'); /* IE9 Compat Modes */
-  src: local('GFS Neohellenic Bold '), local('GFS Neohellenic-Bold'),
-       url('./files/gfs-neohellenic-greek-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/gfs-neohellenic-greek-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/gfs-neohellenic-greek-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/gfs-neohellenic-greek-700.svg#GFS Neohellenic') format('svg'); /* Legacy iOS */
+  src:
+    local('GFS Neohellenic Bold '),
+    local('GFS Neohellenic-Bold'),
+    url('./files/gfs-neohellenic-greek-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/gfs-neohellenic-greek-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gfs-neohellenic-greek-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/gfs-neohellenic-greek-700.svg#gfs-neohellenic') format('svg'); /* Legacy iOS */
 }
+

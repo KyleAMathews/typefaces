@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/oleo-script-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Oleo Script Regular '), local('Oleo Script-Regular'),
-       url('./files/oleo-script-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/oleo-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/oleo-script-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/oleo-script-latin-400.svg#Oleo Script') format('svg'); /* Legacy iOS */
+  src:
+    local('Oleo Script Regular '),
+    local('Oleo Script-Regular'),
+    url('./files/oleo-script-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/oleo-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oleo-script-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/oleo-script-latin-400.svg#oleo-script') format('svg'); /* Legacy iOS */
 }
+
 /* oleo-script-700normal - latin */
 @font-face {
   font-family: 'Oleo Script';
   font-style: normal;
   font-weight: 700;
   src: url('./files/oleo-script-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Oleo Script Bold '), local('Oleo Script-Bold'),
-       url('./files/oleo-script-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/oleo-script-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/oleo-script-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/oleo-script-latin-700.svg#Oleo Script') format('svg'); /* Legacy iOS */
+  src:
+    local('Oleo Script Bold '),
+    local('Oleo Script-Bold'),
+    url('./files/oleo-script-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/oleo-script-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oleo-script-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/oleo-script-latin-700.svg#oleo-script') format('svg'); /* Legacy iOS */
 }
+

@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/kameron-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Kameron Regular '), local('Kameron-Regular'),
-       url('./files/kameron-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/kameron-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/kameron-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/kameron-latin-400.svg#Kameron') format('svg'); /* Legacy iOS */
+  src:
+    local('Kameron Regular '),
+    local('Kameron-Regular'),
+    url('./files/kameron-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/kameron-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kameron-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/kameron-latin-400.svg#kameron') format('svg'); /* Legacy iOS */
 }
+
 /* kameron-700normal - latin */
 @font-face {
   font-family: 'Kameron';
   font-style: normal;
   font-weight: 700;
   src: url('./files/kameron-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Kameron Bold '), local('Kameron-Bold'),
-       url('./files/kameron-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/kameron-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/kameron-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/kameron-latin-700.svg#Kameron') format('svg'); /* Legacy iOS */
+  src:
+    local('Kameron Bold '),
+    local('Kameron-Bold'),
+    url('./files/kameron-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/kameron-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kameron-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/kameron-latin-700.svg#kameron') format('svg'); /* Legacy iOS */
 }
+

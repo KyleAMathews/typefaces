@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/modern-antiqua-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Modern Antiqua Regular '), local('Modern Antiqua-Regular'),
-       url('./files/modern-antiqua-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/modern-antiqua-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/modern-antiqua-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/modern-antiqua-latin-400.svg#Modern Antiqua') format('svg'); /* Legacy iOS */
+  src:
+    local('Modern Antiqua Regular '),
+    local('Modern Antiqua-Regular'),
+    url('./files/modern-antiqua-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/modern-antiqua-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/modern-antiqua-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/modern-antiqua-latin-400.svg#modern-antiqua') format('svg'); /* Legacy iOS */
 }
+

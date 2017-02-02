@@ -4,105 +4,132 @@
   font-style: normal;
   font-weight: 100;
   src: url('./files/catamaran-latin-100.eot'); /* IE9 Compat Modes */
-  src: local('Catamaran Thin '), local('Catamaran-Thin'),
-       url('./files/catamaran-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/catamaran-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/catamaran-latin-100.woff') format('woff'), /* Modern Browsers */
-       url('./files/catamaran-latin-100.svg#Catamaran') format('svg'); /* Legacy iOS */
+  src:
+    local('Catamaran Thin '),
+    local('Catamaran-Thin'),
+    url('./files/catamaran-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/catamaran-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/catamaran-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-100.svg#catamaran') format('svg'); /* Legacy iOS */
 }
+
 /* catamaran-200normal - latin */
 @font-face {
   font-family: 'Catamaran';
   font-style: normal;
   font-weight: 200;
   src: url('./files/catamaran-latin-200.eot'); /* IE9 Compat Modes */
-  src: local('Catamaran Extra Light '), local('Catamaran-Extra Light'),
-       url('./files/catamaran-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/catamaran-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/catamaran-latin-200.woff') format('woff'), /* Modern Browsers */
-       url('./files/catamaran-latin-200.svg#Catamaran') format('svg'); /* Legacy iOS */
+  src:
+    local('Catamaran Extra Light '),
+    local('Catamaran-Extra Light'),
+    url('./files/catamaran-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/catamaran-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/catamaran-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-200.svg#catamaran') format('svg'); /* Legacy iOS */
 }
+
 /* catamaran-400normal - latin */
 @font-face {
   font-family: 'Catamaran';
   font-style: normal;
   font-weight: 400;
   src: url('./files/catamaran-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Catamaran Regular '), local('Catamaran-Regular'),
-       url('./files/catamaran-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/catamaran-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/catamaran-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/catamaran-latin-400.svg#Catamaran') format('svg'); /* Legacy iOS */
+  src:
+    local('Catamaran Regular '),
+    local('Catamaran-Regular'),
+    url('./files/catamaran-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/catamaran-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/catamaran-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-400.svg#catamaran') format('svg'); /* Legacy iOS */
 }
+
 /* catamaran-500normal - latin */
 @font-face {
   font-family: 'Catamaran';
   font-style: normal;
   font-weight: 500;
   src: url('./files/catamaran-latin-500.eot'); /* IE9 Compat Modes */
-  src: local('Catamaran Medium '), local('Catamaran-Medium'),
-       url('./files/catamaran-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/catamaran-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/catamaran-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./files/catamaran-latin-500.svg#Catamaran') format('svg'); /* Legacy iOS */
+  src:
+    local('Catamaran Medium '),
+    local('Catamaran-Medium'),
+    url('./files/catamaran-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/catamaran-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/catamaran-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-500.svg#catamaran') format('svg'); /* Legacy iOS */
 }
+
 /* catamaran-300normal - latin */
 @font-face {
   font-family: 'Catamaran';
   font-style: normal;
   font-weight: 300;
   src: url('./files/catamaran-latin-300.eot'); /* IE9 Compat Modes */
-  src: local('Catamaran Light '), local('Catamaran-Light'),
-       url('./files/catamaran-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/catamaran-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/catamaran-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./files/catamaran-latin-300.svg#Catamaran') format('svg'); /* Legacy iOS */
+  src:
+    local('Catamaran Light '),
+    local('Catamaran-Light'),
+    url('./files/catamaran-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/catamaran-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/catamaran-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-300.svg#catamaran') format('svg'); /* Legacy iOS */
 }
+
 /* catamaran-600normal - latin */
 @font-face {
   font-family: 'Catamaran';
   font-style: normal;
   font-weight: 600;
   src: url('./files/catamaran-latin-600.eot'); /* IE9 Compat Modes */
-  src: local('Catamaran SemiBold '), local('Catamaran-SemiBold'),
-       url('./files/catamaran-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/catamaran-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/catamaran-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('./files/catamaran-latin-600.svg#Catamaran') format('svg'); /* Legacy iOS */
+  src:
+    local('Catamaran SemiBold '),
+    local('Catamaran-SemiBold'),
+    url('./files/catamaran-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/catamaran-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/catamaran-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-600.svg#catamaran') format('svg'); /* Legacy iOS */
 }
+
 /* catamaran-700normal - latin */
 @font-face {
   font-family: 'Catamaran';
   font-style: normal;
   font-weight: 700;
   src: url('./files/catamaran-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Catamaran Bold '), local('Catamaran-Bold'),
-       url('./files/catamaran-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/catamaran-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/catamaran-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/catamaran-latin-700.svg#Catamaran') format('svg'); /* Legacy iOS */
+  src:
+    local('Catamaran Bold '),
+    local('Catamaran-Bold'),
+    url('./files/catamaran-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/catamaran-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/catamaran-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-700.svg#catamaran') format('svg'); /* Legacy iOS */
 }
+
 /* catamaran-800normal - latin */
 @font-face {
   font-family: 'Catamaran';
   font-style: normal;
   font-weight: 800;
   src: url('./files/catamaran-latin-800.eot'); /* IE9 Compat Modes */
-  src: local('Catamaran ExtraBold '), local('Catamaran-ExtraBold'),
-       url('./files/catamaran-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/catamaran-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/catamaran-latin-800.woff') format('woff'), /* Modern Browsers */
-       url('./files/catamaran-latin-800.svg#Catamaran') format('svg'); /* Legacy iOS */
+  src:
+    local('Catamaran ExtraBold '),
+    local('Catamaran-ExtraBold'),
+    url('./files/catamaran-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/catamaran-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/catamaran-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-800.svg#catamaran') format('svg'); /* Legacy iOS */
 }
+
 /* catamaran-900normal - latin */
 @font-face {
   font-family: 'Catamaran';
   font-style: normal;
   font-weight: 900;
   src: url('./files/catamaran-latin-900.eot'); /* IE9 Compat Modes */
-  src: local('Catamaran Black '), local('Catamaran-Black'),
-       url('./files/catamaran-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/catamaran-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/catamaran-latin-900.woff') format('woff'), /* Modern Browsers */
-       url('./files/catamaran-latin-900.svg#Catamaran') format('svg'); /* Legacy iOS */
+  src:
+    local('Catamaran Black '),
+    local('Catamaran-Black'),
+    url('./files/catamaran-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/catamaran-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/catamaran-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-900.svg#catamaran') format('svg'); /* Legacy iOS */
 }
+

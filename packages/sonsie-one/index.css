@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/sonsie-one-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Sonsie One Regular '), local('Sonsie One-Regular'),
-       url('./files/sonsie-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/sonsie-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/sonsie-one-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/sonsie-one-latin-400.svg#Sonsie One') format('svg'); /* Legacy iOS */
+  src:
+    local('Sonsie One Regular '),
+    local('Sonsie One-Regular'),
+    url('./files/sonsie-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/sonsie-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sonsie-one-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/sonsie-one-latin-400.svg#sonsie-one') format('svg'); /* Legacy iOS */
 }
+

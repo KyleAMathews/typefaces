@@ -4,45 +4,57 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/cabin-condensed-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Cabin Condensed Regular '), local('Cabin Condensed-Regular'),
-       url('./files/cabin-condensed-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/cabin-condensed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/cabin-condensed-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/cabin-condensed-latin-400.svg#Cabin Condensed') format('svg'); /* Legacy iOS */
+  src:
+    local('Cabin Condensed Regular '),
+    local('Cabin Condensed-Regular'),
+    url('./files/cabin-condensed-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/cabin-condensed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cabin-condensed-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-condensed-latin-400.svg#cabin-condensed') format('svg'); /* Legacy iOS */
 }
+
 /* cabin-condensed-500normal - latin */
 @font-face {
   font-family: 'Cabin Condensed';
   font-style: normal;
   font-weight: 500;
   src: url('./files/cabin-condensed-latin-500.eot'); /* IE9 Compat Modes */
-  src: local('Cabin Condensed Medium '), local('Cabin Condensed-Medium'),
-       url('./files/cabin-condensed-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/cabin-condensed-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/cabin-condensed-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./files/cabin-condensed-latin-500.svg#Cabin Condensed') format('svg'); /* Legacy iOS */
+  src:
+    local('Cabin Condensed Medium '),
+    local('Cabin Condensed-Medium'),
+    url('./files/cabin-condensed-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/cabin-condensed-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cabin-condensed-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-condensed-latin-500.svg#cabin-condensed') format('svg'); /* Legacy iOS */
 }
+
 /* cabin-condensed-600normal - latin */
 @font-face {
   font-family: 'Cabin Condensed';
   font-style: normal;
   font-weight: 600;
   src: url('./files/cabin-condensed-latin-600.eot'); /* IE9 Compat Modes */
-  src: local('Cabin Condensed SemiBold '), local('Cabin Condensed-SemiBold'),
-       url('./files/cabin-condensed-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/cabin-condensed-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/cabin-condensed-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('./files/cabin-condensed-latin-600.svg#Cabin Condensed') format('svg'); /* Legacy iOS */
+  src:
+    local('Cabin Condensed SemiBold '),
+    local('Cabin Condensed-SemiBold'),
+    url('./files/cabin-condensed-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/cabin-condensed-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cabin-condensed-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-condensed-latin-600.svg#cabin-condensed') format('svg'); /* Legacy iOS */
 }
+
 /* cabin-condensed-700normal - latin */
 @font-face {
   font-family: 'Cabin Condensed';
   font-style: normal;
   font-weight: 700;
   src: url('./files/cabin-condensed-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Cabin Condensed Bold '), local('Cabin Condensed-Bold'),
-       url('./files/cabin-condensed-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/cabin-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/cabin-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/cabin-condensed-latin-700.svg#Cabin Condensed') format('svg'); /* Legacy iOS */
+  src:
+    local('Cabin Condensed Bold '),
+    local('Cabin Condensed-Bold'),
+    url('./files/cabin-condensed-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/cabin-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cabin-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-condensed-latin-700.svg#cabin-condensed') format('svg'); /* Legacy iOS */
 }
+

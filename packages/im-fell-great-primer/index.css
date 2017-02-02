@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/im-fell-great-primer-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('IM Fell Great Primer Regular '), local('IM Fell Great Primer-Regular'),
-       url('./files/im-fell-great-primer-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/im-fell-great-primer-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/im-fell-great-primer-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/im-fell-great-primer-latin-400.svg#IM Fell Great Primer') format('svg'); /* Legacy iOS */
+  src:
+    local('IM Fell Great Primer Regular '),
+    local('IM Fell Great Primer-Regular'),
+    url('./files/im-fell-great-primer-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/im-fell-great-primer-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/im-fell-great-primer-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/im-fell-great-primer-latin-400.svg#im-fell-great-primer') format('svg'); /* Legacy iOS */
 }
+
 /* im-fell-great-primer-400italic - latin */
 @font-face {
   font-family: 'IM Fell Great Primer';
   font-style: italic;
   font-weight: 400;
   src: url('./files/im-fell-great-primer-latin-400italic.eot'); /* IE9 Compat Modes */
-  src: local('IM Fell Great Primer Regular italic'), local('IM Fell Great Primer-Regularitalic'),
-       url('./files/im-fell-great-primer-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/im-fell-great-primer-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/im-fell-great-primer-latin-400italic.woff') format('woff'), /* Modern Browsers */
-       url('./files/im-fell-great-primer-latin-400italic.svg#IM Fell Great Primer') format('svg'); /* Legacy iOS */
+  src:
+    local('IM Fell Great Primer Regular italic'),
+    local('IM Fell Great Primer-Regularitalic'),
+    url('./files/im-fell-great-primer-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/im-fell-great-primer-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/im-fell-great-primer-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/im-fell-great-primer-latin-400italic.svg#im-fell-great-primer') format('svg'); /* Legacy iOS */
 }
+

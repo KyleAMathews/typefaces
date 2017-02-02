@@ -4,45 +4,57 @@
   font-style: normal;
   font-weight: 300;
   src: url('./files/lemonada-latin-300.eot'); /* IE9 Compat Modes */
-  src: local('Lemonada Light '), local('Lemonada-Light'),
-       url('./files/lemonada-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/lemonada-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/lemonada-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./files/lemonada-latin-300.svg#Lemonada') format('svg'); /* Legacy iOS */
+  src:
+    local('Lemonada Light '),
+    local('Lemonada-Light'),
+    url('./files/lemonada-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/lemonada-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lemonada-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/lemonada-latin-300.svg#lemonada') format('svg'); /* Legacy iOS */
 }
+
 /* lemonada-600normal - latin */
 @font-face {
   font-family: 'Lemonada';
   font-style: normal;
   font-weight: 600;
   src: url('./files/lemonada-latin-600.eot'); /* IE9 Compat Modes */
-  src: local('Lemonada SemiBold '), local('Lemonada-SemiBold'),
-       url('./files/lemonada-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/lemonada-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/lemonada-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('./files/lemonada-latin-600.svg#Lemonada') format('svg'); /* Legacy iOS */
+  src:
+    local('Lemonada SemiBold '),
+    local('Lemonada-SemiBold'),
+    url('./files/lemonada-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/lemonada-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lemonada-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/lemonada-latin-600.svg#lemonada') format('svg'); /* Legacy iOS */
 }
+
 /* lemonada-400normal - latin */
 @font-face {
   font-family: 'Lemonada';
   font-style: normal;
   font-weight: 400;
   src: url('./files/lemonada-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Lemonada Regular '), local('Lemonada-Regular'),
-       url('./files/lemonada-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/lemonada-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/lemonada-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/lemonada-latin-400.svg#Lemonada') format('svg'); /* Legacy iOS */
+  src:
+    local('Lemonada Regular '),
+    local('Lemonada-Regular'),
+    url('./files/lemonada-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/lemonada-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lemonada-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/lemonada-latin-400.svg#lemonada') format('svg'); /* Legacy iOS */
 }
+
 /* lemonada-700normal - latin */
 @font-face {
   font-family: 'Lemonada';
   font-style: normal;
   font-weight: 700;
   src: url('./files/lemonada-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Lemonada Bold '), local('Lemonada-Bold'),
-       url('./files/lemonada-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/lemonada-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/lemonada-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/lemonada-latin-700.svg#Lemonada') format('svg'); /* Legacy iOS */
+  src:
+    local('Lemonada Bold '),
+    local('Lemonada-Bold'),
+    url('./files/lemonada-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/lemonada-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lemonada-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/lemonada-latin-700.svg#lemonada') format('svg'); /* Legacy iOS */
 }
+

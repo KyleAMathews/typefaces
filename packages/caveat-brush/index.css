@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/caveat-brush-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Caveat Brush Regular '), local('Caveat Brush-Regular'),
-       url('./files/caveat-brush-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/caveat-brush-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/caveat-brush-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/caveat-brush-latin-400.svg#Caveat Brush') format('svg'); /* Legacy iOS */
+  src:
+    local('Caveat Brush Regular '),
+    local('Caveat Brush-Regular'),
+    url('./files/caveat-brush-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/caveat-brush-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/caveat-brush-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/caveat-brush-latin-400.svg#caveat-brush') format('svg'); /* Legacy iOS */
 }
+

@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/amita-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Amita Regular '), local('Amita-Regular'),
-       url('./files/amita-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/amita-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/amita-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/amita-latin-400.svg#Amita') format('svg'); /* Legacy iOS */
+  src:
+    local('Amita Regular '),
+    local('Amita-Regular'),
+    url('./files/amita-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/amita-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amita-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/amita-latin-400.svg#amita') format('svg'); /* Legacy iOS */
 }
+
 /* amita-700normal - latin */
 @font-face {
   font-family: 'Amita';
   font-style: normal;
   font-weight: 700;
   src: url('./files/amita-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Amita Bold '), local('Amita-Bold'),
-       url('./files/amita-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/amita-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/amita-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/amita-latin-700.svg#Amita') format('svg'); /* Legacy iOS */
+  src:
+    local('Amita Bold '),
+    local('Amita-Bold'),
+    url('./files/amita-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/amita-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amita-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/amita-latin-700.svg#amita') format('svg'); /* Legacy iOS */
 }
+

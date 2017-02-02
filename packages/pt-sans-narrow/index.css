@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/pt-sans-narrow-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('PT Sans Narrow Regular '), local('PT Sans Narrow-Regular'),
-       url('./files/pt-sans-narrow-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/pt-sans-narrow-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/pt-sans-narrow-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/pt-sans-narrow-latin-400.svg#PT Sans Narrow') format('svg'); /* Legacy iOS */
+  src:
+    local('PT Sans Narrow Regular '),
+    local('PT Sans Narrow-Regular'),
+    url('./files/pt-sans-narrow-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/pt-sans-narrow-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/pt-sans-narrow-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/pt-sans-narrow-latin-400.svg#pt-sans-narrow') format('svg'); /* Legacy iOS */
 }
+
 /* pt-sans-narrow-700normal - latin */
 @font-face {
   font-family: 'PT Sans Narrow';
   font-style: normal;
   font-weight: 700;
   src: url('./files/pt-sans-narrow-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('PT Sans Narrow Bold '), local('PT Sans Narrow-Bold'),
-       url('./files/pt-sans-narrow-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/pt-sans-narrow-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/pt-sans-narrow-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/pt-sans-narrow-latin-700.svg#PT Sans Narrow') format('svg'); /* Legacy iOS */
+  src:
+    local('PT Sans Narrow Bold '),
+    local('PT Sans Narrow-Bold'),
+    url('./files/pt-sans-narrow-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/pt-sans-narrow-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/pt-sans-narrow-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/pt-sans-narrow-latin-700.svg#pt-sans-narrow') format('svg'); /* Legacy iOS */
 }
+

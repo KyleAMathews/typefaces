@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/baumans-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Baumans Regular '), local('Baumans-Regular'),
-       url('./files/baumans-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/baumans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/baumans-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/baumans-latin-400.svg#Baumans') format('svg'); /* Legacy iOS */
+  src:
+    local('Baumans Regular '),
+    local('Baumans-Regular'),
+    url('./files/baumans-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/baumans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baumans-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/baumans-latin-400.svg#baumans') format('svg'); /* Legacy iOS */
 }
+

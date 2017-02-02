@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/syncopate-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Syncopate Regular '), local('Syncopate-Regular'),
-       url('./files/syncopate-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/syncopate-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/syncopate-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/syncopate-latin-400.svg#Syncopate') format('svg'); /* Legacy iOS */
+  src:
+    local('Syncopate Regular '),
+    local('Syncopate-Regular'),
+    url('./files/syncopate-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/syncopate-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/syncopate-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/syncopate-latin-400.svg#syncopate') format('svg'); /* Legacy iOS */
 }
+
 /* syncopate-700normal - latin */
 @font-face {
   font-family: 'Syncopate';
   font-style: normal;
   font-weight: 700;
   src: url('./files/syncopate-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Syncopate Bold '), local('Syncopate-Bold'),
-       url('./files/syncopate-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/syncopate-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/syncopate-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/syncopate-latin-700.svg#Syncopate') format('svg'); /* Legacy iOS */
+  src:
+    local('Syncopate Bold '),
+    local('Syncopate-Bold'),
+    url('./files/syncopate-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/syncopate-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/syncopate-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/syncopate-latin-700.svg#syncopate') format('svg'); /* Legacy iOS */
 }
+

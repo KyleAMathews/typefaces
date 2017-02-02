@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/the-girl-next-door-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('The Girl Next Door Regular '), local('The Girl Next Door-Regular'),
-       url('./files/the-girl-next-door-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/the-girl-next-door-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/the-girl-next-door-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/the-girl-next-door-latin-400.svg#The Girl Next Door') format('svg'); /* Legacy iOS */
+  src:
+    local('The Girl Next Door Regular '),
+    local('The Girl Next Door-Regular'),
+    url('./files/the-girl-next-door-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/the-girl-next-door-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/the-girl-next-door-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/the-girl-next-door-latin-400.svg#the-girl-next-door') format('svg'); /* Legacy iOS */
 }
+

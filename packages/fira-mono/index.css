@@ -4,33 +4,42 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/fira-mono-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Fira Mono Regular '), local('Fira Mono-Regular'),
-       url('./files/fira-mono-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/fira-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/fira-mono-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/fira-mono-latin-400.svg#Fira Mono') format('svg'); /* Legacy iOS */
+  src:
+    local('Fira Mono Regular '),
+    local('Fira Mono-Regular'),
+    url('./files/fira-mono-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/fira-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-mono-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-mono-latin-400.svg#fira-mono') format('svg'); /* Legacy iOS */
 }
+
 /* fira-mono-500normal - latin */
 @font-face {
   font-family: 'Fira Mono';
   font-style: normal;
   font-weight: 500;
   src: url('./files/fira-mono-latin-500.eot'); /* IE9 Compat Modes */
-  src: local('Fira Mono Medium '), local('Fira Mono-Medium'),
-       url('./files/fira-mono-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/fira-mono-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/fira-mono-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./files/fira-mono-latin-500.svg#Fira Mono') format('svg'); /* Legacy iOS */
+  src:
+    local('Fira Mono Medium '),
+    local('Fira Mono-Medium'),
+    url('./files/fira-mono-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/fira-mono-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-mono-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-mono-latin-500.svg#fira-mono') format('svg'); /* Legacy iOS */
 }
+
 /* fira-mono-700normal - latin */
 @font-face {
   font-family: 'Fira Mono';
   font-style: normal;
   font-weight: 700;
   src: url('./files/fira-mono-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Fira Mono Bold '), local('Fira Mono-Bold'),
-       url('./files/fira-mono-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/fira-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/fira-mono-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/fira-mono-latin-700.svg#Fira Mono') format('svg'); /* Legacy iOS */
+  src:
+    local('Fira Mono Bold '),
+    local('Fira Mono-Bold'),
+    url('./files/fira-mono-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/fira-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-mono-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-mono-latin-700.svg#fira-mono') format('svg'); /* Legacy iOS */
 }
+

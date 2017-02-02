@@ -4,57 +4,72 @@
   font-style: normal;
   font-weight: 300;
   src: url('./files/rajdhani-latin-300.eot'); /* IE9 Compat Modes */
-  src: local('Rajdhani Light '), local('Rajdhani-Light'),
-       url('./files/rajdhani-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/rajdhani-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/rajdhani-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./files/rajdhani-latin-300.svg#Rajdhani') format('svg'); /* Legacy iOS */
+  src:
+    local('Rajdhani Light '),
+    local('Rajdhani-Light'),
+    url('./files/rajdhani-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/rajdhani-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/rajdhani-latin-300.svg#rajdhani') format('svg'); /* Legacy iOS */
 }
+
 /* rajdhani-400normal - latin */
 @font-face {
   font-family: 'Rajdhani';
   font-style: normal;
   font-weight: 400;
   src: url('./files/rajdhani-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Rajdhani Regular '), local('Rajdhani-Regular'),
-       url('./files/rajdhani-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/rajdhani-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/rajdhani-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/rajdhani-latin-400.svg#Rajdhani') format('svg'); /* Legacy iOS */
+  src:
+    local('Rajdhani Regular '),
+    local('Rajdhani-Regular'),
+    url('./files/rajdhani-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/rajdhani-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/rajdhani-latin-400.svg#rajdhani') format('svg'); /* Legacy iOS */
 }
+
 /* rajdhani-500normal - latin */
 @font-face {
   font-family: 'Rajdhani';
   font-style: normal;
   font-weight: 500;
   src: url('./files/rajdhani-latin-500.eot'); /* IE9 Compat Modes */
-  src: local('Rajdhani Medium '), local('Rajdhani-Medium'),
-       url('./files/rajdhani-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/rajdhani-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/rajdhani-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./files/rajdhani-latin-500.svg#Rajdhani') format('svg'); /* Legacy iOS */
+  src:
+    local('Rajdhani Medium '),
+    local('Rajdhani-Medium'),
+    url('./files/rajdhani-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/rajdhani-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/rajdhani-latin-500.svg#rajdhani') format('svg'); /* Legacy iOS */
 }
+
 /* rajdhani-600normal - latin */
 @font-face {
   font-family: 'Rajdhani';
   font-style: normal;
   font-weight: 600;
   src: url('./files/rajdhani-latin-600.eot'); /* IE9 Compat Modes */
-  src: local('Rajdhani SemiBold '), local('Rajdhani-SemiBold'),
-       url('./files/rajdhani-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/rajdhani-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/rajdhani-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('./files/rajdhani-latin-600.svg#Rajdhani') format('svg'); /* Legacy iOS */
+  src:
+    local('Rajdhani SemiBold '),
+    local('Rajdhani-SemiBold'),
+    url('./files/rajdhani-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/rajdhani-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/rajdhani-latin-600.svg#rajdhani') format('svg'); /* Legacy iOS */
 }
+
 /* rajdhani-700normal - latin */
 @font-face {
   font-family: 'Rajdhani';
   font-style: normal;
   font-weight: 700;
   src: url('./files/rajdhani-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Rajdhani Bold '), local('Rajdhani-Bold'),
-       url('./files/rajdhani-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/rajdhani-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/rajdhani-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/rajdhani-latin-700.svg#Rajdhani') format('svg'); /* Legacy iOS */
+  src:
+    local('Rajdhani Bold '),
+    local('Rajdhani-Bold'),
+    url('./files/rajdhani-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/rajdhani-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/rajdhani-latin-700.svg#rajdhani') format('svg'); /* Legacy iOS */
 }
+

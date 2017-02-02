@@ -4,45 +4,57 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/palanquin-dark-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Palanquin Dark Regular '), local('Palanquin Dark-Regular'),
-       url('./files/palanquin-dark-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/palanquin-dark-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/palanquin-dark-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/palanquin-dark-latin-400.svg#Palanquin Dark') format('svg'); /* Legacy iOS */
+  src:
+    local('Palanquin Dark Regular '),
+    local('Palanquin Dark-Regular'),
+    url('./files/palanquin-dark-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/palanquin-dark-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/palanquin-dark-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-dark-latin-400.svg#palanquin-dark') format('svg'); /* Legacy iOS */
 }
+
 /* palanquin-dark-500normal - latin */
 @font-face {
   font-family: 'Palanquin Dark';
   font-style: normal;
   font-weight: 500;
   src: url('./files/palanquin-dark-latin-500.eot'); /* IE9 Compat Modes */
-  src: local('Palanquin Dark Medium '), local('Palanquin Dark-Medium'),
-       url('./files/palanquin-dark-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/palanquin-dark-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/palanquin-dark-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./files/palanquin-dark-latin-500.svg#Palanquin Dark') format('svg'); /* Legacy iOS */
+  src:
+    local('Palanquin Dark Medium '),
+    local('Palanquin Dark-Medium'),
+    url('./files/palanquin-dark-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/palanquin-dark-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/palanquin-dark-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-dark-latin-500.svg#palanquin-dark') format('svg'); /* Legacy iOS */
 }
+
 /* palanquin-dark-600normal - latin */
 @font-face {
   font-family: 'Palanquin Dark';
   font-style: normal;
   font-weight: 600;
   src: url('./files/palanquin-dark-latin-600.eot'); /* IE9 Compat Modes */
-  src: local('Palanquin Dark SemiBold '), local('Palanquin Dark-SemiBold'),
-       url('./files/palanquin-dark-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/palanquin-dark-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/palanquin-dark-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('./files/palanquin-dark-latin-600.svg#Palanquin Dark') format('svg'); /* Legacy iOS */
+  src:
+    local('Palanquin Dark SemiBold '),
+    local('Palanquin Dark-SemiBold'),
+    url('./files/palanquin-dark-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/palanquin-dark-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/palanquin-dark-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-dark-latin-600.svg#palanquin-dark') format('svg'); /* Legacy iOS */
 }
+
 /* palanquin-dark-700normal - latin */
 @font-face {
   font-family: 'Palanquin Dark';
   font-style: normal;
   font-weight: 700;
   src: url('./files/palanquin-dark-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Palanquin Dark Bold '), local('Palanquin Dark-Bold'),
-       url('./files/palanquin-dark-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/palanquin-dark-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/palanquin-dark-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/palanquin-dark-latin-700.svg#Palanquin Dark') format('svg'); /* Legacy iOS */
+  src:
+    local('Palanquin Dark Bold '),
+    local('Palanquin Dark-Bold'),
+    url('./files/palanquin-dark-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/palanquin-dark-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/palanquin-dark-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-dark-latin-700.svg#palanquin-dark') format('svg'); /* Legacy iOS */
 }
+

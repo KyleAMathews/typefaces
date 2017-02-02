@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/ropa-sans-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Ropa Sans Regular '), local('Ropa Sans-Regular'),
-       url('./files/ropa-sans-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/ropa-sans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/ropa-sans-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/ropa-sans-latin-400.svg#Ropa Sans') format('svg'); /* Legacy iOS */
+  src:
+    local('Ropa Sans Regular '),
+    local('Ropa Sans-Regular'),
+    url('./files/ropa-sans-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/ropa-sans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ropa-sans-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/ropa-sans-latin-400.svg#ropa-sans') format('svg'); /* Legacy iOS */
 }
+
 /* ropa-sans-400italic - latin */
 @font-face {
   font-family: 'Ropa Sans';
   font-style: italic;
   font-weight: 400;
   src: url('./files/ropa-sans-latin-400italic.eot'); /* IE9 Compat Modes */
-  src: local('Ropa Sans Regular italic'), local('Ropa Sans-Regularitalic'),
-       url('./files/ropa-sans-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/ropa-sans-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/ropa-sans-latin-400italic.woff') format('woff'), /* Modern Browsers */
-       url('./files/ropa-sans-latin-400italic.svg#Ropa Sans') format('svg'); /* Legacy iOS */
+  src:
+    local('Ropa Sans Regular italic'),
+    local('Ropa Sans-Regularitalic'),
+    url('./files/ropa-sans-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/ropa-sans-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ropa-sans-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/ropa-sans-latin-400italic.svg#ropa-sans') format('svg'); /* Legacy iOS */
 }
+

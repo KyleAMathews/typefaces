@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/merienda-one-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Merienda One Regular '), local('Merienda One-Regular'),
-       url('./files/merienda-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/merienda-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/merienda-one-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/merienda-one-latin-400.svg#Merienda One') format('svg'); /* Legacy iOS */
+  src:
+    local('Merienda One Regular '),
+    local('Merienda One-Regular'),
+    url('./files/merienda-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/merienda-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merienda-one-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/merienda-one-latin-400.svg#merienda-one') format('svg'); /* Legacy iOS */
 }
+

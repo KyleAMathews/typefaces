@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/tangerine-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Tangerine Regular '), local('Tangerine-Regular'),
-       url('./files/tangerine-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/tangerine-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/tangerine-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/tangerine-latin-400.svg#Tangerine') format('svg'); /* Legacy iOS */
+  src:
+    local('Tangerine Regular '),
+    local('Tangerine-Regular'),
+    url('./files/tangerine-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/tangerine-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tangerine-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/tangerine-latin-400.svg#tangerine') format('svg'); /* Legacy iOS */
 }
+
 /* tangerine-700normal - latin */
 @font-face {
   font-family: 'Tangerine';
   font-style: normal;
   font-weight: 700;
   src: url('./files/tangerine-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Tangerine Bold '), local('Tangerine-Bold'),
-       url('./files/tangerine-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/tangerine-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/tangerine-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/tangerine-latin-700.svg#Tangerine') format('svg'); /* Legacy iOS */
+  src:
+    local('Tangerine Bold '),
+    local('Tangerine-Bold'),
+    url('./files/tangerine-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/tangerine-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tangerine-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/tangerine-latin-700.svg#tangerine') format('svg'); /* Legacy iOS */
 }
+

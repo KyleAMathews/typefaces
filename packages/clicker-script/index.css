@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/clicker-script-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Clicker Script Regular '), local('Clicker Script-Regular'),
-       url('./files/clicker-script-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/clicker-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/clicker-script-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/clicker-script-latin-400.svg#Clicker Script') format('svg'); /* Legacy iOS */
+  src:
+    local('Clicker Script Regular '),
+    local('Clicker Script-Regular'),
+    url('./files/clicker-script-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/clicker-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/clicker-script-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/clicker-script-latin-400.svg#clicker-script') format('svg'); /* Legacy iOS */
 }
+

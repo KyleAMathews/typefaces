@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/gorditas-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Gorditas Regular '), local('Gorditas-Regular'),
-       url('./files/gorditas-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/gorditas-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/gorditas-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/gorditas-latin-400.svg#Gorditas') format('svg'); /* Legacy iOS */
+  src:
+    local('Gorditas Regular '),
+    local('Gorditas-Regular'),
+    url('./files/gorditas-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/gorditas-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gorditas-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/gorditas-latin-400.svg#gorditas') format('svg'); /* Legacy iOS */
 }
+
 /* gorditas-700normal - latin */
 @font-face {
   font-family: 'Gorditas';
   font-style: normal;
   font-weight: 700;
   src: url('./files/gorditas-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Gorditas Bold '), local('Gorditas-Bold'),
-       url('./files/gorditas-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/gorditas-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/gorditas-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/gorditas-latin-700.svg#Gorditas') format('svg'); /* Legacy iOS */
+  src:
+    local('Gorditas Bold '),
+    local('Gorditas-Bold'),
+    url('./files/gorditas-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/gorditas-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gorditas-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/gorditas-latin-700.svg#gorditas') format('svg'); /* Legacy iOS */
 }
+

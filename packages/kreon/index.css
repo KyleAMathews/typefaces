@@ -4,33 +4,42 @@
   font-style: normal;
   font-weight: 300;
   src: url('./files/kreon-latin-300.eot'); /* IE9 Compat Modes */
-  src: local('Kreon Light '), local('Kreon-Light'),
-       url('./files/kreon-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/kreon-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/kreon-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./files/kreon-latin-300.svg#Kreon') format('svg'); /* Legacy iOS */
+  src:
+    local('Kreon Light '),
+    local('Kreon-Light'),
+    url('./files/kreon-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/kreon-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kreon-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/kreon-latin-300.svg#kreon') format('svg'); /* Legacy iOS */
 }
+
 /* kreon-400normal - latin */
 @font-face {
   font-family: 'Kreon';
   font-style: normal;
   font-weight: 400;
   src: url('./files/kreon-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Kreon Regular '), local('Kreon-Regular'),
-       url('./files/kreon-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/kreon-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/kreon-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/kreon-latin-400.svg#Kreon') format('svg'); /* Legacy iOS */
+  src:
+    local('Kreon Regular '),
+    local('Kreon-Regular'),
+    url('./files/kreon-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/kreon-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kreon-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/kreon-latin-400.svg#kreon') format('svg'); /* Legacy iOS */
 }
+
 /* kreon-700normal - latin */
 @font-face {
   font-family: 'Kreon';
   font-style: normal;
   font-weight: 700;
   src: url('./files/kreon-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Kreon Bold '), local('Kreon-Bold'),
-       url('./files/kreon-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/kreon-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/kreon-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/kreon-latin-700.svg#Kreon') format('svg'); /* Legacy iOS */
+  src:
+    local('Kreon Bold '),
+    local('Kreon-Bold'),
+    url('./files/kreon-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/kreon-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kreon-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/kreon-latin-700.svg#kreon') format('svg'); /* Legacy iOS */
 }
+

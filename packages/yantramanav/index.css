@@ -4,69 +4,87 @@
   font-style: normal;
   font-weight: 100;
   src: url('./files/yantramanav-latin-100.eot'); /* IE9 Compat Modes */
-  src: local('Yantramanav Thin '), local('Yantramanav-Thin'),
-       url('./files/yantramanav-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/yantramanav-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/yantramanav-latin-100.woff') format('woff'), /* Modern Browsers */
-       url('./files/yantramanav-latin-100.svg#Yantramanav') format('svg'); /* Legacy iOS */
+  src:
+    local('Yantramanav Thin '),
+    local('Yantramanav-Thin'),
+    url('./files/yantramanav-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/yantramanav-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/yantramanav-latin-100.svg#yantramanav') format('svg'); /* Legacy iOS */
 }
+
 /* yantramanav-300normal - latin */
 @font-face {
   font-family: 'Yantramanav';
   font-style: normal;
   font-weight: 300;
   src: url('./files/yantramanav-latin-300.eot'); /* IE9 Compat Modes */
-  src: local('Yantramanav Light '), local('Yantramanav-Light'),
-       url('./files/yantramanav-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/yantramanav-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/yantramanav-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./files/yantramanav-latin-300.svg#Yantramanav') format('svg'); /* Legacy iOS */
+  src:
+    local('Yantramanav Light '),
+    local('Yantramanav-Light'),
+    url('./files/yantramanav-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/yantramanav-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/yantramanav-latin-300.svg#yantramanav') format('svg'); /* Legacy iOS */
 }
+
 /* yantramanav-400normal - latin */
 @font-face {
   font-family: 'Yantramanav';
   font-style: normal;
   font-weight: 400;
   src: url('./files/yantramanav-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Yantramanav Regular '), local('Yantramanav-Regular'),
-       url('./files/yantramanav-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/yantramanav-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/yantramanav-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/yantramanav-latin-400.svg#Yantramanav') format('svg'); /* Legacy iOS */
+  src:
+    local('Yantramanav Regular '),
+    local('Yantramanav-Regular'),
+    url('./files/yantramanav-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/yantramanav-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/yantramanav-latin-400.svg#yantramanav') format('svg'); /* Legacy iOS */
 }
+
 /* yantramanav-500normal - latin */
 @font-face {
   font-family: 'Yantramanav';
   font-style: normal;
   font-weight: 500;
   src: url('./files/yantramanav-latin-500.eot'); /* IE9 Compat Modes */
-  src: local('Yantramanav Medium '), local('Yantramanav-Medium'),
-       url('./files/yantramanav-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/yantramanav-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/yantramanav-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./files/yantramanav-latin-500.svg#Yantramanav') format('svg'); /* Legacy iOS */
+  src:
+    local('Yantramanav Medium '),
+    local('Yantramanav-Medium'),
+    url('./files/yantramanav-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/yantramanav-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/yantramanav-latin-500.svg#yantramanav') format('svg'); /* Legacy iOS */
 }
+
 /* yantramanav-700normal - latin */
 @font-face {
   font-family: 'Yantramanav';
   font-style: normal;
   font-weight: 700;
   src: url('./files/yantramanav-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Yantramanav Bold '), local('Yantramanav-Bold'),
-       url('./files/yantramanav-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/yantramanav-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/yantramanav-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/yantramanav-latin-700.svg#Yantramanav') format('svg'); /* Legacy iOS */
+  src:
+    local('Yantramanav Bold '),
+    local('Yantramanav-Bold'),
+    url('./files/yantramanav-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/yantramanav-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/yantramanav-latin-700.svg#yantramanav') format('svg'); /* Legacy iOS */
 }
+
 /* yantramanav-900normal - latin */
 @font-face {
   font-family: 'Yantramanav';
   font-style: normal;
   font-weight: 900;
   src: url('./files/yantramanav-latin-900.eot'); /* IE9 Compat Modes */
-  src: local('Yantramanav Black '), local('Yantramanav-Black'),
-       url('./files/yantramanav-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/yantramanav-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/yantramanav-latin-900.woff') format('woff'), /* Modern Browsers */
-       url('./files/yantramanav-latin-900.svg#Yantramanav') format('svg'); /* Legacy iOS */
+  src:
+    local('Yantramanav Black '),
+    local('Yantramanav-Black'),
+    url('./files/yantramanav-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/yantramanav-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/yantramanav-latin-900.svg#yantramanav') format('svg'); /* Legacy iOS */
 }
+

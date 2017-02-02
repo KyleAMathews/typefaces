@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/dancing-script-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Dancing Script Regular '), local('Dancing Script-Regular'),
-       url('./files/dancing-script-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/dancing-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/dancing-script-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/dancing-script-latin-400.svg#Dancing Script') format('svg'); /* Legacy iOS */
+  src:
+    local('Dancing Script Regular '),
+    local('Dancing Script-Regular'),
+    url('./files/dancing-script-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/dancing-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dancing-script-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/dancing-script-latin-400.svg#dancing-script') format('svg'); /* Legacy iOS */
 }
+
 /* dancing-script-700normal - latin */
 @font-face {
   font-family: 'Dancing Script';
   font-style: normal;
   font-weight: 700;
   src: url('./files/dancing-script-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Dancing Script Bold '), local('Dancing Script-Bold'),
-       url('./files/dancing-script-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/dancing-script-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/dancing-script-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/dancing-script-latin-700.svg#Dancing Script') format('svg'); /* Legacy iOS */
+  src:
+    local('Dancing Script Bold '),
+    local('Dancing Script-Bold'),
+    url('./files/dancing-script-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/dancing-script-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dancing-script-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/dancing-script-latin-700.svg#dancing-script') format('svg'); /* Legacy iOS */
 }
+

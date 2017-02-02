@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/marcellus-sc-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Marcellus SC Regular '), local('Marcellus SC-Regular'),
-       url('./files/marcellus-sc-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/marcellus-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/marcellus-sc-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/marcellus-sc-latin-400.svg#Marcellus SC') format('svg'); /* Legacy iOS */
+  src:
+    local('Marcellus SC Regular '),
+    local('Marcellus SC-Regular'),
+    url('./files/marcellus-sc-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/marcellus-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/marcellus-sc-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/marcellus-sc-latin-400.svg#marcellus-sc') format('svg'); /* Legacy iOS */
 }
+

@@ -4,33 +4,42 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/tienne-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Tienne Regular '), local('Tienne-Regular'),
-       url('./files/tienne-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/tienne-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/tienne-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/tienne-latin-400.svg#Tienne') format('svg'); /* Legacy iOS */
+  src:
+    local('Tienne Regular '),
+    local('Tienne-Regular'),
+    url('./files/tienne-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/tienne-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tienne-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/tienne-latin-400.svg#tienne') format('svg'); /* Legacy iOS */
 }
+
 /* tienne-900normal - latin */
 @font-face {
   font-family: 'Tienne';
   font-style: normal;
   font-weight: 900;
   src: url('./files/tienne-latin-900.eot'); /* IE9 Compat Modes */
-  src: local('Tienne Black '), local('Tienne-Black'),
-       url('./files/tienne-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/tienne-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/tienne-latin-900.woff') format('woff'), /* Modern Browsers */
-       url('./files/tienne-latin-900.svg#Tienne') format('svg'); /* Legacy iOS */
+  src:
+    local('Tienne Black '),
+    local('Tienne-Black'),
+    url('./files/tienne-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/tienne-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tienne-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/tienne-latin-900.svg#tienne') format('svg'); /* Legacy iOS */
 }
+
 /* tienne-700normal - latin */
 @font-face {
   font-family: 'Tienne';
   font-style: normal;
   font-weight: 700;
   src: url('./files/tienne-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Tienne Bold '), local('Tienne-Bold'),
-       url('./files/tienne-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/tienne-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/tienne-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/tienne-latin-700.svg#Tienne') format('svg'); /* Legacy iOS */
+  src:
+    local('Tienne Bold '),
+    local('Tienne-Bold'),
+    url('./files/tienne-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/tienne-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tienne-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/tienne-latin-700.svg#tienne') format('svg'); /* Legacy iOS */
 }
+

@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/kdam-thmor-khmer-400.eot'); /* IE9 Compat Modes */
-  src: local('Kdam Thmor Regular '), local('Kdam Thmor-Regular'),
-       url('./files/kdam-thmor-khmer-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/kdam-thmor-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/kdam-thmor-khmer-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/kdam-thmor-khmer-400.svg#Kdam Thmor') format('svg'); /* Legacy iOS */
+  src:
+    local('Kdam Thmor Regular '),
+    local('Kdam Thmor-Regular'),
+    url('./files/kdam-thmor-khmer-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/kdam-thmor-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kdam-thmor-khmer-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/kdam-thmor-khmer-400.svg#kdam-thmor') format('svg'); /* Legacy iOS */
 }
+

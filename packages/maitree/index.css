@@ -4,69 +4,87 @@
   font-style: normal;
   font-weight: 200;
   src: url('./files/maitree-latin-200.eot'); /* IE9 Compat Modes */
-  src: local('Maitree Extra Light '), local('Maitree-Extra Light'),
-       url('./files/maitree-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/maitree-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/maitree-latin-200.woff') format('woff'), /* Modern Browsers */
-       url('./files/maitree-latin-200.svg#Maitree') format('svg'); /* Legacy iOS */
+  src:
+    local('Maitree Extra Light '),
+    local('Maitree-Extra Light'),
+    url('./files/maitree-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/maitree-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-200.svg#maitree') format('svg'); /* Legacy iOS */
 }
+
 /* maitree-300normal - latin */
 @font-face {
   font-family: 'Maitree';
   font-style: normal;
   font-weight: 300;
   src: url('./files/maitree-latin-300.eot'); /* IE9 Compat Modes */
-  src: local('Maitree Light '), local('Maitree-Light'),
-       url('./files/maitree-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/maitree-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/maitree-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./files/maitree-latin-300.svg#Maitree') format('svg'); /* Legacy iOS */
+  src:
+    local('Maitree Light '),
+    local('Maitree-Light'),
+    url('./files/maitree-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/maitree-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-300.svg#maitree') format('svg'); /* Legacy iOS */
 }
+
 /* maitree-400normal - latin */
 @font-face {
   font-family: 'Maitree';
   font-style: normal;
   font-weight: 400;
   src: url('./files/maitree-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Maitree Regular '), local('Maitree-Regular'),
-       url('./files/maitree-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/maitree-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/maitree-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/maitree-latin-400.svg#Maitree') format('svg'); /* Legacy iOS */
+  src:
+    local('Maitree Regular '),
+    local('Maitree-Regular'),
+    url('./files/maitree-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/maitree-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-400.svg#maitree') format('svg'); /* Legacy iOS */
 }
+
 /* maitree-500normal - latin */
 @font-face {
   font-family: 'Maitree';
   font-style: normal;
   font-weight: 500;
   src: url('./files/maitree-latin-500.eot'); /* IE9 Compat Modes */
-  src: local('Maitree Medium '), local('Maitree-Medium'),
-       url('./files/maitree-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/maitree-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/maitree-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./files/maitree-latin-500.svg#Maitree') format('svg'); /* Legacy iOS */
+  src:
+    local('Maitree Medium '),
+    local('Maitree-Medium'),
+    url('./files/maitree-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/maitree-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-500.svg#maitree') format('svg'); /* Legacy iOS */
 }
+
 /* maitree-600normal - latin */
 @font-face {
   font-family: 'Maitree';
   font-style: normal;
   font-weight: 600;
   src: url('./files/maitree-latin-600.eot'); /* IE9 Compat Modes */
-  src: local('Maitree SemiBold '), local('Maitree-SemiBold'),
-       url('./files/maitree-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/maitree-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/maitree-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('./files/maitree-latin-600.svg#Maitree') format('svg'); /* Legacy iOS */
+  src:
+    local('Maitree SemiBold '),
+    local('Maitree-SemiBold'),
+    url('./files/maitree-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/maitree-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-600.svg#maitree') format('svg'); /* Legacy iOS */
 }
+
 /* maitree-700normal - latin */
 @font-face {
   font-family: 'Maitree';
   font-style: normal;
   font-weight: 700;
   src: url('./files/maitree-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Maitree Bold '), local('Maitree-Bold'),
-       url('./files/maitree-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/maitree-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/maitree-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/maitree-latin-700.svg#Maitree') format('svg'); /* Legacy iOS */
+  src:
+    local('Maitree Bold '),
+    local('Maitree-Bold'),
+    url('./files/maitree-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/maitree-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-700.svg#maitree') format('svg'); /* Legacy iOS */
 }
+

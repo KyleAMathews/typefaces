@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/amatic-sc-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Amatic SC Regular '), local('Amatic SC-Regular'),
-       url('./files/amatic-sc-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/amatic-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/amatic-sc-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/amatic-sc-latin-400.svg#Amatic SC') format('svg'); /* Legacy iOS */
+  src:
+    local('Amatic SC Regular '),
+    local('Amatic SC-Regular'),
+    url('./files/amatic-sc-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/amatic-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amatic-sc-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/amatic-sc-latin-400.svg#amatic-sc') format('svg'); /* Legacy iOS */
 }
+
 /* amatic-sc-700normal - latin */
 @font-face {
   font-family: 'Amatic SC';
   font-style: normal;
   font-weight: 700;
   src: url('./files/amatic-sc-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Amatic SC Bold '), local('Amatic SC-Bold'),
-       url('./files/amatic-sc-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/amatic-sc-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/amatic-sc-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/amatic-sc-latin-700.svg#Amatic SC') format('svg'); /* Legacy iOS */
+  src:
+    local('Amatic SC Bold '),
+    local('Amatic SC-Bold'),
+    url('./files/amatic-sc-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/amatic-sc-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amatic-sc-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/amatic-sc-latin-700.svg#amatic-sc') format('svg'); /* Legacy iOS */
 }
+

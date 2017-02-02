@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/news-cycle-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('News Cycle Regular '), local('News Cycle-Regular'),
-       url('./files/news-cycle-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/news-cycle-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/news-cycle-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/news-cycle-latin-400.svg#News Cycle') format('svg'); /* Legacy iOS */
+  src:
+    local('News Cycle Regular '),
+    local('News Cycle-Regular'),
+    url('./files/news-cycle-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/news-cycle-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/news-cycle-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/news-cycle-latin-400.svg#news-cycle') format('svg'); /* Legacy iOS */
 }
+
 /* news-cycle-700normal - latin */
 @font-face {
   font-family: 'News Cycle';
   font-style: normal;
   font-weight: 700;
   src: url('./files/news-cycle-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('News Cycle Bold '), local('News Cycle-Bold'),
-       url('./files/news-cycle-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/news-cycle-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/news-cycle-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/news-cycle-latin-700.svg#News Cycle') format('svg'); /* Legacy iOS */
+  src:
+    local('News Cycle Bold '),
+    local('News Cycle-Bold'),
+    url('./files/news-cycle-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/news-cycle-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/news-cycle-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/news-cycle-latin-700.svg#news-cycle') format('svg'); /* Legacy iOS */
 }
+

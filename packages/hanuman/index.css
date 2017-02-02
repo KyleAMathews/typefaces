@@ -4,21 +4,27 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/hanuman-khmer-400.eot'); /* IE9 Compat Modes */
-  src: local('Hanuman Regular '), local('Hanuman-Regular'),
-       url('./files/hanuman-khmer-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/hanuman-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/hanuman-khmer-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/hanuman-khmer-400.svg#Hanuman') format('svg'); /* Legacy iOS */
+  src:
+    local('Hanuman Regular '),
+    local('Hanuman-Regular'),
+    url('./files/hanuman-khmer-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hanuman-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hanuman-khmer-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/hanuman-khmer-400.svg#hanuman') format('svg'); /* Legacy iOS */
 }
+
 /* hanuman-700normal - latin */
 @font-face {
   font-family: 'Hanuman';
   font-style: normal;
   font-weight: 700;
   src: url('./files/hanuman-khmer-700.eot'); /* IE9 Compat Modes */
-  src: local('Hanuman Bold '), local('Hanuman-Bold'),
-       url('./files/hanuman-khmer-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/hanuman-khmer-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/hanuman-khmer-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/hanuman-khmer-700.svg#Hanuman') format('svg'); /* Legacy iOS */
+  src:
+    local('Hanuman Bold '),
+    local('Hanuman-Bold'),
+    url('./files/hanuman-khmer-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hanuman-khmer-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hanuman-khmer-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/hanuman-khmer-700.svg#hanuman') format('svg'); /* Legacy iOS */
 }
+

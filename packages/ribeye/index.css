@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/ribeye-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Ribeye Regular '), local('Ribeye-Regular'),
-       url('./files/ribeye-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/ribeye-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/ribeye-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/ribeye-latin-400.svg#Ribeye') format('svg'); /* Legacy iOS */
+  src:
+    local('Ribeye Regular '),
+    local('Ribeye-Regular'),
+    url('./files/ribeye-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/ribeye-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ribeye-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/ribeye-latin-400.svg#ribeye') format('svg'); /* Legacy iOS */
 }
+

@@ -4,57 +4,72 @@
   font-style: normal;
   font-weight: 300;
   src: url('./files/hind-siliguri-latin-300.eot'); /* IE9 Compat Modes */
-  src: local('Hind Siliguri Light '), local('Hind Siliguri-Light'),
-       url('./files/hind-siliguri-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/hind-siliguri-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/hind-siliguri-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./files/hind-siliguri-latin-300.svg#Hind Siliguri') format('svg'); /* Legacy iOS */
+  src:
+    local('Hind Siliguri Light '),
+    local('Hind Siliguri-Light'),
+    url('./files/hind-siliguri-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hind-siliguri-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-siliguri-latin-300.svg#hind-siliguri') format('svg'); /* Legacy iOS */
 }
+
 /* hind-siliguri-400normal - latin */
 @font-face {
   font-family: 'Hind Siliguri';
   font-style: normal;
   font-weight: 400;
   src: url('./files/hind-siliguri-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('Hind Siliguri Regular '), local('Hind Siliguri-Regular'),
-       url('./files/hind-siliguri-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/hind-siliguri-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/hind-siliguri-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/hind-siliguri-latin-400.svg#Hind Siliguri') format('svg'); /* Legacy iOS */
+  src:
+    local('Hind Siliguri Regular '),
+    local('Hind Siliguri-Regular'),
+    url('./files/hind-siliguri-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hind-siliguri-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-siliguri-latin-400.svg#hind-siliguri') format('svg'); /* Legacy iOS */
 }
+
 /* hind-siliguri-500normal - latin */
 @font-face {
   font-family: 'Hind Siliguri';
   font-style: normal;
   font-weight: 500;
   src: url('./files/hind-siliguri-latin-500.eot'); /* IE9 Compat Modes */
-  src: local('Hind Siliguri Medium '), local('Hind Siliguri-Medium'),
-       url('./files/hind-siliguri-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/hind-siliguri-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/hind-siliguri-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./files/hind-siliguri-latin-500.svg#Hind Siliguri') format('svg'); /* Legacy iOS */
+  src:
+    local('Hind Siliguri Medium '),
+    local('Hind Siliguri-Medium'),
+    url('./files/hind-siliguri-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hind-siliguri-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-siliguri-latin-500.svg#hind-siliguri') format('svg'); /* Legacy iOS */
 }
+
 /* hind-siliguri-600normal - latin */
 @font-face {
   font-family: 'Hind Siliguri';
   font-style: normal;
   font-weight: 600;
   src: url('./files/hind-siliguri-latin-600.eot'); /* IE9 Compat Modes */
-  src: local('Hind Siliguri SemiBold '), local('Hind Siliguri-SemiBold'),
-       url('./files/hind-siliguri-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/hind-siliguri-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/hind-siliguri-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('./files/hind-siliguri-latin-600.svg#Hind Siliguri') format('svg'); /* Legacy iOS */
+  src:
+    local('Hind Siliguri SemiBold '),
+    local('Hind Siliguri-SemiBold'),
+    url('./files/hind-siliguri-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hind-siliguri-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-siliguri-latin-600.svg#hind-siliguri') format('svg'); /* Legacy iOS */
 }
+
 /* hind-siliguri-700normal - latin */
 @font-face {
   font-family: 'Hind Siliguri';
   font-style: normal;
   font-weight: 700;
   src: url('./files/hind-siliguri-latin-700.eot'); /* IE9 Compat Modes */
-  src: local('Hind Siliguri Bold '), local('Hind Siliguri-Bold'),
-       url('./files/hind-siliguri-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/hind-siliguri-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/hind-siliguri-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./files/hind-siliguri-latin-700.svg#Hind Siliguri') format('svg'); /* Legacy iOS */
+  src:
+    local('Hind Siliguri Bold '),
+    local('Hind Siliguri-Bold'),
+    url('./files/hind-siliguri-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hind-siliguri-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-siliguri-latin-700.svg#hind-siliguri') format('svg'); /* Legacy iOS */
 }
+

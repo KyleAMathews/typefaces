@@ -4,9 +4,12 @@
   font-style: normal;
   font-weight: 400;
   src: url('./files/medievalsharp-latin-400.eot'); /* IE9 Compat Modes */
-  src: local('MedievalSharp Regular '), local('MedievalSharp-Regular'),
-       url('./files/medievalsharp-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./files/medievalsharp-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./files/medievalsharp-latin-400.woff') format('woff'), /* Modern Browsers */
-       url('./files/medievalsharp-latin-400.svg#MedievalSharp') format('svg'); /* Legacy iOS */
+  src:
+    local('MedievalSharp Regular '),
+    local('MedievalSharp-Regular'),
+    url('./files/medievalsharp-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/medievalsharp-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/medievalsharp-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/medievalsharp-latin-400.svg#medievalsharp') format('svg'); /* Legacy iOS */
 }
+
