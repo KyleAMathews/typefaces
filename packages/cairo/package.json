@@ -1,6 +1,6 @@
 {
   "name": "typeface-cairo",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "Cairo typeface",
   "main": "index.css",
   "keywords": [
