@@ -85,7 +85,7 @@ API](https://www.fontsquirrel.com/blog/2010/12/the-font-squirrel-api).
 * Add subsetted version of every font.
 * Initially I’ve just added support for the Latin version of fonts.
   Would love to hear ideas for how to support other languages. Perhaps
-additional css files e.g. `require('open-sans/greek')`?
+additional css files e.g. `require('open-sans/greek.css')`?
 * Ship fallback css helpers — figuring out your fallback css isn’t
   particularly easy. Perhaps there’s a way to automate this. E.g. if
 you’re using typeface X at fontsize Y with fallback font Z, here’s a
