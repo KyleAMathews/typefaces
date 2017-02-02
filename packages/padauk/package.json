@@ -1,10 +1,13 @@
 {
   "name": "typeface-padauk",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Padauk typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "padauk"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

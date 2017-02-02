@@ -1,10 +1,13 @@
 {
   "name": "typeface-baloo-chettan",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Baloo Chettan typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "baloo-chettan"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

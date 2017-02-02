@@ -1,10 +1,13 @@
 {
   "name": "typeface-montserrat",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Montserrat typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "montserrat"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

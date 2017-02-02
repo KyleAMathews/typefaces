@@ -1,10 +1,13 @@
 {
   "name": "typeface-londrina-solid",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Londrina Solid typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "londrina-solid"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

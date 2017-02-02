@@ -1,10 +1,13 @@
 {
   "name": "typeface-allerta-stencil",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Allerta Stencil typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "allerta-stencil"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

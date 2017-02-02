@@ -1,10 +1,13 @@
 {
   "name": "typeface-just-another-hand",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Just Another Hand typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "just-another-hand"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

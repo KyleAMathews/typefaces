@@ -1,10 +1,13 @@
 {
   "name": "typeface-bowlby-one-sc",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Bowlby One SC typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "bowlby-one-sc"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

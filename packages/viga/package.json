@@ -1,10 +1,13 @@
 {
   "name": "typeface-viga",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Viga typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "viga"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

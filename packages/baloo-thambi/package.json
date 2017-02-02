@@ -1,10 +1,13 @@
 {
   "name": "typeface-baloo-thambi",
-  "version": "0.0.14",
+  "version": "0.0.21",
   "description": "Baloo Thambi typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "baloo-thambi"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

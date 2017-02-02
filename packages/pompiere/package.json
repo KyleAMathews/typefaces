@@ -1,10 +1,13 @@
 {
   "name": "typeface-pompiere",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Pompiere typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "pompiere"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

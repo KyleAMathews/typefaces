@@ -1,10 +1,13 @@
 {
   "name": "typeface-bungee-outline",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Bungee Outline typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "bungee-outline"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

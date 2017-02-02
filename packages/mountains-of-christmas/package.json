@@ -1,10 +1,13 @@
 {
   "name": "typeface-mountains-of-christmas",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Mountains of Christmas typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "mountains-of-christmas"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

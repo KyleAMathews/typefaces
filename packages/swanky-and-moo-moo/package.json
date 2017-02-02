@@ -1,10 +1,13 @@
 {
   "name": "typeface-swanky-and-moo-moo",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Swanky and Moo Moo typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "swanky-and-moo-moo"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

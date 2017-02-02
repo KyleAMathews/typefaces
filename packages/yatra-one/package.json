@@ -1,10 +1,13 @@
 {
   "name": "typeface-yatra-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Yatra One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "yatra-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-ruge-boogie",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Ruge Boogie typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "ruge-boogie"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

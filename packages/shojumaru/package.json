@@ -1,10 +1,13 @@
 {
   "name": "typeface-shojumaru",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Shojumaru typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "shojumaru"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

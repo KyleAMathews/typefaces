@@ -1,10 +1,13 @@
 {
   "name": "typeface-waiting-for-the-sunrise",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Waiting for the Sunrise typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "waiting-for-the-sunrise"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

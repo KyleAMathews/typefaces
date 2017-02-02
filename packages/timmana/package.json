@@ -1,10 +1,13 @@
 {
   "name": "typeface-timmana",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Timmana typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "timmana"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

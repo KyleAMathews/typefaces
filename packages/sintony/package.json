@@ -1,10 +1,13 @@
 {
   "name": "typeface-sintony",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Sintony typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "sintony"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

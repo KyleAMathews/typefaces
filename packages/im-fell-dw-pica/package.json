@@ -1,10 +1,13 @@
 {
   "name": "typeface-im-fell-dw-pica",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "IM Fell DW Pica typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "im-fell-dw-pica"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

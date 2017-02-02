@@ -1,10 +1,13 @@
 {
   "name": "typeface-covered-by-your-grace",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Covered By Your Grace typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "covered-by-your-grace"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

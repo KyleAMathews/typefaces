@@ -1,10 +1,13 @@
 {
   "name": "typeface-six-caps",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Six Caps typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "six-caps"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

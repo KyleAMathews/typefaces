@@ -1,10 +1,13 @@
 {
   "name": "typeface-tienne",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Tienne typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "tienne"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

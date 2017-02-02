@@ -1,10 +1,13 @@
 {
   "name": "typeface-libre-franklin",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Libre Franklin typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "libre-franklin"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

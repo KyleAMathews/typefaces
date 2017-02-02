@@ -1,10 +1,13 @@
 {
   "name": "typeface-rajdhani",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Rajdhani typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "rajdhani"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

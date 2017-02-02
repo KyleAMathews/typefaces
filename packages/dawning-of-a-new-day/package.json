@@ -1,10 +1,13 @@
 {
   "name": "typeface-dawning-of-a-new-day",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Dawning of a New Day typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "dawning-of-a-new-day"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

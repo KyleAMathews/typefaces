@@ -1,10 +1,13 @@
 {
   "name": "typeface-stint-ultra-expanded",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Stint Ultra Expanded typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "stint-ultra-expanded"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

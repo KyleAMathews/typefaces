@@ -1,10 +1,13 @@
 {
   "name": "typeface-sigmar-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Sigmar One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "sigmar-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

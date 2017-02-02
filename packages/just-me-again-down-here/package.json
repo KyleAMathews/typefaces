@@ -1,10 +1,13 @@
 {
   "name": "typeface-just-me-again-down-here",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Just Me Again Down Here typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "just-me-again-down-here"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

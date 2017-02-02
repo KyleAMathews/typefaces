@@ -1,10 +1,13 @@
 {
   "name": "typeface-baloo-bhaina",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Baloo Bhaina typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "baloo-bhaina"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

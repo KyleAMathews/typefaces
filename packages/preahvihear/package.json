@@ -1,10 +1,13 @@
 {
   "name": "typeface-preahvihear",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Preahvihear typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "preahvihear"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

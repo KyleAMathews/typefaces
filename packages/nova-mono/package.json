@@ -1,10 +1,13 @@
 {
   "name": "typeface-nova-mono",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Nova Mono typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "nova-mono"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

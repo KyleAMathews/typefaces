@@ -1,10 +1,13 @@
 {
   "name": "typeface-content",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Content typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "content"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

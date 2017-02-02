@@ -1,10 +1,13 @@
 {
   "name": "typeface-mada",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Mada typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "mada"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

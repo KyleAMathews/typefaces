@@ -1,10 +1,13 @@
 {
   "name": "typeface-taprom",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Taprom typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "taprom"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

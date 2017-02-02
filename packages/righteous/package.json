@@ -1,10 +1,13 @@
 {
   "name": "typeface-righteous",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Righteous typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "righteous"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

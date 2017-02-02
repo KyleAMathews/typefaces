@@ -1,10 +1,13 @@
 {
   "name": "typeface-lovers-quarrel",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Lovers Quarrel typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "lovers-quarrel"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

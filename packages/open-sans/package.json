@@ -1,10 +1,13 @@
 {
   "name": "typeface-open-sans",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Open Sans typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "open-sans"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-mrs-saint-delafield",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Mrs Saint Delafield typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "mrs-saint-delafield"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

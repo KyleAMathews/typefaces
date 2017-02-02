@@ -1,10 +1,13 @@
 {
   "name": "typeface-flamenco",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Flamenco typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "flamenco"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-work-sans",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Work Sans typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "work-sans"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

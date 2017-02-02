@@ -1,10 +1,13 @@
 {
   "name": "typeface-freckle-face",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Freckle Face typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "freckle-face"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

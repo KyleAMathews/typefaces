@@ -1,10 +1,13 @@
 {
   "name": "typeface-gidugu",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Gidugu typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "gidugu"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

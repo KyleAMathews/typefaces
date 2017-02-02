@@ -1,10 +1,13 @@
 {
   "name": "typeface-asul",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Asul typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "asul"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

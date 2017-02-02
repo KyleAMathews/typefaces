@@ -1,10 +1,13 @@
 {
   "name": "typeface-love-ya-like-a-sister",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Love Ya Like A Sister typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "love-ya-like-a-sister"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

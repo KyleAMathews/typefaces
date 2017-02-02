@@ -1,10 +1,13 @@
 {
   "name": "typeface-emblema-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Emblema One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "emblema-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

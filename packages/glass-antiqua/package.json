@@ -1,10 +1,13 @@
 {
   "name": "typeface-glass-antiqua",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Glass Antiqua typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "glass-antiqua"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

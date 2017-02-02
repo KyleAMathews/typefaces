@@ -1,10 +1,13 @@
 {
   "name": "typeface-nunito-sans",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Nunito Sans typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "nunito-sans"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-julius-sans-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Julius Sans One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "julius-sans-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

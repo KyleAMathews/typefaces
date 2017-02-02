@@ -1,10 +1,13 @@
 {
   "name": "typeface-coiny",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Coiny typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "coiny"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

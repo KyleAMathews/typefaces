@@ -1,10 +1,13 @@
 {
   "name": "typeface-loved-by-the-king",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Loved by the King typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "loved-by-the-king"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

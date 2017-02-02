@@ -1,10 +1,13 @@
 {
   "name": "typeface-sorts-mill-goudy",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Sorts Mill Goudy typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "sorts-mill-goudy"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

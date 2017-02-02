@@ -1,10 +1,13 @@
 {
   "name": "typeface-pathway-gothic-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Pathway Gothic One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "pathway-gothic-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-indie-flower",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Indie Flower typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "indie-flower"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

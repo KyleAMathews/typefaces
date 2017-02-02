@@ -1,10 +1,13 @@
 {
   "name": "typeface-griffy",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Griffy typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "griffy"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

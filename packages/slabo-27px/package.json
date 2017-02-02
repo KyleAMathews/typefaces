@@ -1,10 +1,13 @@
 {
   "name": "typeface-slabo-27px",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Slabo 27px typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "slabo-27px"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

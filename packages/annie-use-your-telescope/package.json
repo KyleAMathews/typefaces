@@ -1,10 +1,13 @@
 {
   "name": "typeface-annie-use-your-telescope",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Annie Use Your Telescope typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "annie-use-your-telescope"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

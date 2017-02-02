@@ -1,10 +1,13 @@
 {
   "name": "typeface-merriweather",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Merriweather typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "merriweather"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-arsenal",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Arsenal typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "arsenal"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

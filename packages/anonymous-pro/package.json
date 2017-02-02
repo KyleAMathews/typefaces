@@ -1,10 +1,13 @@
 {
   "name": "typeface-anonymous-pro",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Anonymous Pro typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "anonymous-pro"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

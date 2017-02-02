@@ -1,10 +1,13 @@
 {
   "name": "typeface-jockey-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Jockey One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "jockey-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

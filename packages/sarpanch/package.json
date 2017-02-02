@@ -1,10 +1,13 @@
 {
   "name": "typeface-sarpanch",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Sarpanch typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "sarpanch"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

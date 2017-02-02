@@ -1,10 +1,13 @@
 {
   "name": "typeface-pt-sans",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "PT Sans typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "pt-sans"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-slabo-13px",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Slabo 13px typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "slabo-13px"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

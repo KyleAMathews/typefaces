@@ -1,10 +1,13 @@
 {
   "name": "typeface-cormorant-infant",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Cormorant Infant typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "cormorant-infant"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

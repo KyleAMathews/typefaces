@@ -1,10 +1,13 @@
 {
   "name": "typeface-jacques-francois-shadow",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Jacques Francois Shadow typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "jacques-francois-shadow"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

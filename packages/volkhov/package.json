@@ -1,10 +1,13 @@
 {
   "name": "typeface-volkhov",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Volkhov typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "volkhov"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

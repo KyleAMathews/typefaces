@@ -1,10 +1,13 @@
 {
   "name": "typeface-josefin-slab",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Josefin Slab typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "josefin-slab"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-underdog",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Underdog typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "underdog"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

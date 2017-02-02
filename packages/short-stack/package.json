@@ -1,10 +1,13 @@
 {
   "name": "typeface-short-stack",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Short Stack typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "short-stack"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-great-vibes",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Great Vibes typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "great-vibes"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

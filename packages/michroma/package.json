@@ -1,10 +1,13 @@
 {
   "name": "typeface-michroma",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Michroma typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "michroma"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

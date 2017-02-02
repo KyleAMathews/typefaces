@@ -1,10 +1,13 @@
 {
   "name": "typeface-gfs-didot",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "GFS Didot typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "gfs-didot"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

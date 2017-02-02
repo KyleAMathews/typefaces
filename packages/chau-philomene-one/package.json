@@ -1,10 +1,13 @@
 {
   "name": "typeface-chau-philomene-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Chau Philomene One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "chau-philomene-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

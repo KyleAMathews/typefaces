@@ -1,10 +1,13 @@
 {
   "name": "typeface-purple-purse",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Purple Purse typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "purple-purse"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

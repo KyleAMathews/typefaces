@@ -1,10 +1,13 @@
 {
   "name": "typeface-yeseva-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Yeseva One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "yeseva-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

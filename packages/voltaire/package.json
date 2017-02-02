@@ -1,10 +1,13 @@
 {
   "name": "typeface-voltaire",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Voltaire typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "voltaire"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

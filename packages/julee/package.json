@@ -1,10 +1,13 @@
 {
   "name": "typeface-julee",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Julee typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "julee"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

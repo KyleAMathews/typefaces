@@ -1,10 +1,13 @@
 {
   "name": "typeface-dr-sugiyama",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Dr Sugiyama typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "dr-sugiyama"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

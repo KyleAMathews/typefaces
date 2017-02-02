@@ -1,10 +1,13 @@
 {
   "name": "typeface-im-fell-english",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "IM Fell English typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "im-fell-english"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

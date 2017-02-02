@@ -1,10 +1,13 @@
 {
   "name": "typeface-antic-slab",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Antic Slab typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "antic-slab"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

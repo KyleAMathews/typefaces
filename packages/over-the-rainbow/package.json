@@ -1,10 +1,13 @@
 {
   "name": "typeface-over-the-rainbow",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Over the Rainbow typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "over-the-rainbow"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

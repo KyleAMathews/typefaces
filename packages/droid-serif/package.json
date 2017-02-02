@@ -1,10 +1,13 @@
 {
   "name": "typeface-droid-serif",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Droid Serif typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "droid-serif"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

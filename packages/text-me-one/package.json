@@ -1,10 +1,13 @@
 {
   "name": "typeface-text-me-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Text Me One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "text-me-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

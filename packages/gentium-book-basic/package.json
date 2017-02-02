@@ -1,10 +1,13 @@
 {
   "name": "typeface-gentium-book-basic",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Gentium Book Basic typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "gentium-book-basic"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

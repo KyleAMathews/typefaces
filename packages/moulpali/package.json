@@ -1,10 +1,13 @@
 {
   "name": "typeface-moulpali",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Moulpali typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "moulpali"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

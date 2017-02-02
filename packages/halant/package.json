@@ -1,10 +1,13 @@
 {
   "name": "typeface-halant",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Halant typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "halant"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

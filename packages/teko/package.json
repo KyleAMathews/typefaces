@@ -1,10 +1,13 @@
 {
   "name": "typeface-teko",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Teko typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "teko"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

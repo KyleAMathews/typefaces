@@ -1,10 +1,13 @@
 {
   "name": "typeface-butterfly-kids",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Butterfly Kids typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "butterfly-kids"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

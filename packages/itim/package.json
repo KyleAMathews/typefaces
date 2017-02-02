@@ -1,10 +1,13 @@
 {
   "name": "typeface-itim",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Itim typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "itim"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

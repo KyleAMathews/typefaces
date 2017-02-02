@@ -1,10 +1,13 @@
 {
   "name": "typeface-jolly-lodger",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Jolly Lodger typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "jolly-lodger"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

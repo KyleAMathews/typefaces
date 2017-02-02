@@ -1,10 +1,13 @@
 {
   "name": "typeface-aref-ruqaa",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Aref Ruqaa typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "aref-ruqaa"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

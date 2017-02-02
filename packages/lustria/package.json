@@ -1,10 +1,13 @@
 {
   "name": "typeface-lustria",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Lustria typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "lustria"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-sue-ellen-francisco",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Sue Ellen Francisco typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "sue-ellen-francisco"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

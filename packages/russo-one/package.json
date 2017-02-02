@@ -1,10 +1,13 @@
 {
   "name": "typeface-russo-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Russo One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "russo-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

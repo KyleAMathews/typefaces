@@ -1,10 +1,13 @@
 {
   "name": "typeface-the-girl-next-door",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "The Girl Next Door typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "the-girl-next-door"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

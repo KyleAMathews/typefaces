@@ -1,10 +1,13 @@
 {
   "name": "typeface-eb-garamond",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "EB Garamond typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "eb-garamond"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

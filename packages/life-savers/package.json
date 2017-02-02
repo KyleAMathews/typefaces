@@ -1,10 +1,13 @@
 {
   "name": "typeface-life-savers",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Life Savers typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "life-savers"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

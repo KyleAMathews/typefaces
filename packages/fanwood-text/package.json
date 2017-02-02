@@ -1,10 +1,13 @@
 {
   "name": "typeface-fanwood-text",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Fanwood Text typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "fanwood-text"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

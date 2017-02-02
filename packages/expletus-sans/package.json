@@ -1,10 +1,13 @@
 {
   "name": "typeface-expletus-sans",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Expletus Sans typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "expletus-sans"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

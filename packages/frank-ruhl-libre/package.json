@@ -1,10 +1,13 @@
 {
   "name": "typeface-frank-ruhl-libre",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Frank Ruhl Libre typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "frank-ruhl-libre"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

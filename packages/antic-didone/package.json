@@ -1,10 +1,13 @@
 {
   "name": "typeface-antic-didone",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Antic Didone typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "antic-didone"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

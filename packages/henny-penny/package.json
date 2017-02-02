@@ -1,10 +1,13 @@
 {
   "name": "typeface-henny-penny",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Henny Penny typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "henny-penny"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

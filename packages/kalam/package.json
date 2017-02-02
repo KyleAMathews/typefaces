@@ -1,10 +1,13 @@
 {
   "name": "typeface-kalam",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Kalam typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "kalam"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

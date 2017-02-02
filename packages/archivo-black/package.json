@@ -1,10 +1,13 @@
 {
   "name": "typeface-archivo-black",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Archivo Black typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "archivo-black"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

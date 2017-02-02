@@ -1,10 +1,13 @@
 {
   "name": "typeface-dorsa",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Dorsa typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "dorsa"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

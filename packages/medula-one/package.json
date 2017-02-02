@@ -1,10 +1,13 @@
 {
   "name": "typeface-medula-one",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Medula One typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "medula-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

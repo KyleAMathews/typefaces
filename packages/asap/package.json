@@ -1,10 +1,13 @@
 {
   "name": "typeface-asap",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Asap typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "asap"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

@@ -1,10 +1,13 @@
 {
   "name": "typeface-forum",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Forum typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "forum"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

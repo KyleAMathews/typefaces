@@ -1,10 +1,13 @@
 {
   "name": "typeface-parisienne",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Parisienne typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "parisienne"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

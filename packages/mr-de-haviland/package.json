@@ -1,10 +1,13 @@
 {
   "name": "typeface-mr-de-haviland",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Mr De Haviland typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "mr-de-haviland"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

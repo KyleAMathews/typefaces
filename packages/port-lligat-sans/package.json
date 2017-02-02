@@ -1,10 +1,13 @@
 {
   "name": "typeface-port-lligat-sans",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Port Lligat Sans typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "port-lligat-sans"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

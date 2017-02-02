@@ -1,10 +1,13 @@
 {
   "name": "typeface-atma",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Atma typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "atma"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

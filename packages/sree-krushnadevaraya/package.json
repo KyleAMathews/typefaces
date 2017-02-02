@@ -1,10 +1,13 @@
 {
   "name": "typeface-sree-krushnadevaraya",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Sree Krushnadevaraya typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "sree-krushnadevaraya"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
