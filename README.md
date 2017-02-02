@@ -39,11 +39,15 @@ other open source fonts. Open an issue if you want a font added!
 
 Couldn’t be easier. This is how you’d add Open Sans.
 
-``` npm install --save typeface-open-sans ```
+```
+npm install --save typeface-open-sans
+```
 
 Then in your app or site’s entry file.
 
-```javascript require("typeface-open-sans") ```
+```javascript
+require("typeface-open-sans")
+```
 
 And that’s it! You’re now self-hosting Open Sans!
 
