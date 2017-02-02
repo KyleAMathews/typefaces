@@ -56,7 +56,7 @@ setup correctly you then just need to require the typeface in the entry
 file for your project.
 
 Many tools built with webpack such as
-[Gatsby](github.com/gatsbyjs/gatsby) and [Create React
+[Gatsby](https://github.com/gatsbyjs/gatsby) and [Create React
 App](https://github.com/facebookincubator/create-react-app) are already
 setup to work with Typefaces. Gatsby by default also embeds your CSS in
 your `<head>` for even faster loading.
