@@ -1,10 +1,14 @@
+
 {
   "name": "typeface-clear-sans",
-  "version": "0.0.18",
+  "version": "0.0.0",
   "description": "Clear Sans typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "clear-sans"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
