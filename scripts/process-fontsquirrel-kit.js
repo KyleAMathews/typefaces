@@ -146,7 +146,7 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
         typefaceId: lowercaseId,
         typefaceName: familyName,
         style,
-        styleWithNormal: item.fontStyle,
+        styleWithNormal: style,
         weight: item.fontWeight,
         commonWeightName: commonWeightNameMap(item.fontWeight),
         eotPath: item['eot'],

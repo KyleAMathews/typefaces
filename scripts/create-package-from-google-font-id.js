@@ -22,7 +22,6 @@ if (!id) {
 // Get current count of packages to put in the package README
 const dirs = p => fs.readdirSync(p).filter(f => fs.statSync(p+"/"+f).isDirectory())
 const packagesCount = dirs(`./packages`).length
-console.log(`package count`, packagesCount)
 
 const res = requestSync(`GET`, baseurl + id)
 const typeface = JSON.parse(res.getBody(`UTF-8`))
