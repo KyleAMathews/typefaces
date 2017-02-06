@@ -1,0 +1,75 @@
+/* noto-sans-tc-400normal - latin */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/noto-sans-tc-400.eot'); /* IE9 Compat Modes */
+  src:
+    local('Noto Sans TC Regular normal'),
+    local('Noto Sans TC-Regularnormal'),
+    url('./files/noto-sans-tc-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/noto-sans-tc-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-tc-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/noto-sans-tc-400.svg#noto-sans-tc') format('svg'); /* Legacy iOS */
+}
+
+/* noto-sans-tc-700normal - latin */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/noto-sans-tc-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Noto Sans TC Bold normal'),
+    local('Noto Sans TC-Boldnormal'),
+    url('./files/noto-sans-tc-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/noto-sans-tc-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-tc-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/noto-sans-tc-700.svg#noto-sans-tc') format('svg'); /* Legacy iOS */
+}
+
+/* noto-sans-tc-300normal - latin */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/noto-sans-tc-300.eot'); /* IE9 Compat Modes */
+  src:
+    local('Noto Sans TC Light normal'),
+    local('Noto Sans TC-Lightnormal'),
+    url('./files/noto-sans-tc-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/noto-sans-tc-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-tc-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/noto-sans-tc-300.svg#noto-sans-tc') format('svg'); /* Legacy iOS */
+}
+
+/* noto-sans-tc-500normal - latin */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/noto-sans-tc-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Noto Sans TC Medium normal'),
+    local('Noto Sans TC-Mediumnormal'),
+    url('./files/noto-sans-tc-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/noto-sans-tc-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-tc-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/noto-sans-tc-500.svg#noto-sans-tc') format('svg'); /* Legacy iOS */
+}
+
+/* noto-sans-tc-100normal - latin */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 100;
+  src: url('./files/noto-sans-tc-100.eot'); /* IE9 Compat Modes */
+  src:
+    local('Noto Sans TC Thin normal'),
+    local('Noto Sans TC-Thinnormal'),
+    url('./files/noto-sans-tc-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/noto-sans-tc-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-tc-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/noto-sans-tc-100.svg#noto-sans-tc') format('svg'); /* Legacy iOS */
+}
+

@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-noto-sans-tc",
+  "version": "0.0.0",
+  "description": "Noto Sans TC typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "noto-sans-tc"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
