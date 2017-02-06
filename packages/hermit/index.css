@@ -1,0 +1,45 @@
+/* hermit-700normal - latin */
+@font-face {
+  font-family: 'Hermit';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/hermit-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Hermit Bold normal'),
+    local('Hermit-Boldnormal'),
+    url('./files/hermit-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hermit-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hermit-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/hermit-700.svg#hermit') format('svg'); /* Legacy iOS */
+}
+
+/* hermit-300normal - latin */
+@font-face {
+  font-family: 'Hermit';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/hermit-300.eot'); /* IE9 Compat Modes */
+  src:
+    local('Hermit Light normal'),
+    local('Hermit-Lightnormal'),
+    url('./files/hermit-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hermit-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hermit-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/hermit-300.svg#hermit') format('svg'); /* Legacy iOS */
+}
+
+/* hermit-500normal - latin */
+@font-face {
+  font-family: 'Hermit';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/hermit-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Hermit Medium normal'),
+    local('Hermit-Mediumnormal'),
+    url('./files/hermit-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/hermit-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hermit-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/hermit-500.svg#hermit') format('svg'); /* Legacy iOS */
+}
+
