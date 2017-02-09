@@ -7,6 +7,7 @@ const fs = require(`fs`)
 const path = require(`path`)
 const md5Dir = require(`md5-dir`)
 const log = require('single-line-log').stdout
+const _ = require('lodash')
 
 const { packageJson, fontFace, readme } = require(`./templates`)
 const download = require(`./download-file`)
@@ -104,7 +105,14 @@ async.map(typeface.variants, (item, callback) => {
     fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
     // Write out index.css file
-    css = typeface.variants.map((item) => {
+    const variants = _.sortBy(typeface.variants, (item) => {
+      let sortString = item.fontWeight
+      if (item.fontStyle === `italic`) {
+        sortString += item.fontStyle
+      }
+      return sortString
+    })
+    css = variants.map((item) => {
       let style = ""
       if (item.fontStyle !== `normal`) {
         style = item.fontStyle

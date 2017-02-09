@@ -35,7 +35,7 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
   console.log(`found fontFiles`, fontFiles)
 
   // Copy files
-  const variants = []
+  let variants = []
   fontFiles.forEach((fontFile) => {
     const fullPath = extractionPath + `/` + fontFile
 
@@ -137,6 +137,14 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
     fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
     // Write out index.css file
+    // Sort variants first.
+    variants = _.sortBy(typeface.variants, (item) => {
+      let sortString = item.fontWeight
+      if (item.fontStyle === `italic`) {
+        sortString += item.fontStyle
+      }
+      return sortString
+    })
     css = variants.map((item) => {
       let style = item.fontStyle
       if (!style) {
