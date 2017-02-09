@@ -13,6 +13,36 @@
     url('./files/podkova-latin-400.svg#podkova') format('svg'); /* Legacy iOS */
 }
 
+/* podkova-500normal - latin */
+@font-face {
+  font-family: 'Podkova';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/podkova-latin-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Podkova Medium '),
+    local('Podkova-Medium'),
+    url('./files/podkova-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/podkova-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/podkova-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/podkova-latin-500.svg#podkova') format('svg'); /* Legacy iOS */
+}
+
+/* podkova-600normal - latin */
+@font-face {
+  font-family: 'Podkova';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/podkova-latin-600.eot'); /* IE9 Compat Modes */
+  src:
+    local('Podkova SemiBold '),
+    local('Podkova-SemiBold'),
+    url('./files/podkova-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/podkova-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/podkova-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/podkova-latin-600.svg#podkova') format('svg'); /* Legacy iOS */
+}
+
 /* podkova-700normal - latin */
 @font-face {
   font-family: 'Podkova';
@@ -26,5 +56,20 @@
     url('./files/podkova-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/podkova-latin-700.woff') format('woff'), /* Modern Browsers */
     url('./files/podkova-latin-700.svg#podkova') format('svg'); /* Legacy iOS */
+}
+
+/* podkova-800normal - latin */
+@font-face {
+  font-family: 'Podkova';
+  font-style: normal;
+  font-weight: 800;
+  src: url('./files/podkova-latin-800.eot'); /* IE9 Compat Modes */
+  src:
+    local('Podkova ExtraBold '),
+    local('Podkova-ExtraBold'),
+    url('./files/podkova-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/podkova-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/podkova-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/podkova-latin-800.svg#podkova') format('svg'); /* Legacy iOS */
 }
 

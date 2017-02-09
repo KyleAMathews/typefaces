@@ -13,21 +13,6 @@
     url('./files/arima-madurai-latin-100.svg#arima-madurai') format('svg'); /* Legacy iOS */
 }
 
-/* arima-madurai-300normal - latin */
-@font-face {
-  font-family: 'Arima Madurai';
-  font-style: normal;
-  font-weight: 300;
-  src: url('./files/arima-madurai-latin-300.eot'); /* IE9 Compat Modes */
-  src:
-    local('Arima Madurai Light '),
-    local('Arima Madurai-Light'),
-    url('./files/arima-madurai-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/arima-madurai-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/arima-madurai-latin-300.svg#arima-madurai') format('svg'); /* Legacy iOS */
-}
-
 /* arima-madurai-200normal - latin */
 @font-face {
   font-family: 'Arima Madurai';
@@ -41,6 +26,21 @@
     url('./files/arima-madurai-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/arima-madurai-latin-200.woff') format('woff'), /* Modern Browsers */
     url('./files/arima-madurai-latin-200.svg#arima-madurai') format('svg'); /* Legacy iOS */
+}
+
+/* arima-madurai-300normal - latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/arima-madurai-latin-300.eot'); /* IE9 Compat Modes */
+  src:
+    local('Arima Madurai Light '),
+    local('Arima Madurai-Light'),
+    url('./files/arima-madurai-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/arima-madurai-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/arima-madurai-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-300.svg#arima-madurai') format('svg'); /* Legacy iOS */
 }
 
 /* arima-madurai-400normal - latin */
@@ -73,21 +73,6 @@
     url('./files/arima-madurai-latin-500.svg#arima-madurai') format('svg'); /* Legacy iOS */
 }
 
-/* arima-madurai-800normal - latin */
-@font-face {
-  font-family: 'Arima Madurai';
-  font-style: normal;
-  font-weight: 800;
-  src: url('./files/arima-madurai-latin-800.eot'); /* IE9 Compat Modes */
-  src:
-    local('Arima Madurai ExtraBold '),
-    local('Arima Madurai-ExtraBold'),
-    url('./files/arima-madurai-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/arima-madurai-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/arima-madurai-latin-800.svg#arima-madurai') format('svg'); /* Legacy iOS */
-}
-
 /* arima-madurai-700normal - latin */
 @font-face {
   font-family: 'Arima Madurai';
@@ -101,6 +86,21 @@
     url('./files/arima-madurai-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/arima-madurai-latin-700.woff') format('woff'), /* Modern Browsers */
     url('./files/arima-madurai-latin-700.svg#arima-madurai') format('svg'); /* Legacy iOS */
+}
+
+/* arima-madurai-800normal - latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 800;
+  src: url('./files/arima-madurai-latin-800.eot'); /* IE9 Compat Modes */
+  src:
+    local('Arima Madurai ExtraBold '),
+    local('Arima Madurai-ExtraBold'),
+    url('./files/arima-madurai-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/arima-madurai-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/arima-madurai-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-800.svg#arima-madurai') format('svg'); /* Legacy iOS */
 }
 
 /* arima-madurai-900normal - latin */

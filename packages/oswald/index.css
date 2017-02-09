@@ -1,3 +1,18 @@
+/* oswald-200normal - latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./files/oswald-latin-200.eot'); /* IE9 Compat Modes */
+  src:
+    local('Oswald Extra Light '),
+    local('Oswald-Extra Light'),
+    url('./files/oswald-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/oswald-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oswald-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/oswald-latin-200.svg#oswald') format('svg'); /* Legacy iOS */
+}
+
 /* oswald-300normal - latin */
 @font-face {
   font-family: 'Oswald';
@@ -26,6 +41,36 @@
     url('./files/oswald-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/oswald-latin-400.woff') format('woff'), /* Modern Browsers */
     url('./files/oswald-latin-400.svg#oswald') format('svg'); /* Legacy iOS */
+}
+
+/* oswald-500normal - latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/oswald-latin-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Oswald Medium '),
+    local('Oswald-Medium'),
+    url('./files/oswald-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/oswald-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oswald-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/oswald-latin-500.svg#oswald') format('svg'); /* Legacy iOS */
+}
+
+/* oswald-600normal - latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/oswald-latin-600.eot'); /* IE9 Compat Modes */
+  src:
+    local('Oswald SemiBold '),
+    local('Oswald-SemiBold'),
+    url('./files/oswald-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/oswald-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oswald-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/oswald-latin-600.svg#oswald') format('svg'); /* Legacy iOS */
 }
 
 /* oswald-700normal - latin */
