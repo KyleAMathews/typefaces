@@ -83,6 +83,8 @@ module.exports = {
 }
 ```
 
+You'll also need to npm install -SD these packages: `style-loader`, `css-loader`, `url-loader`, `file-loader`.
+
 If you’re not using webpack or equivalent tool that allows you to
 require css, then you’ll need to manually integrate the index.css and
 font files from the package into your build system.
