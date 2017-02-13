@@ -1,7 +1,7 @@
 {
-  "name": "typeface-lato",
+  "name": "typeface-lato-regular",
   "version": "0.0.25",
-  "description": "Lato typeface",
+  "description": "Lato typeface regular",
   "main": "index.css",
   "keywords": [
     "typeface",
