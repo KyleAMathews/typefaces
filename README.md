@@ -65,6 +65,24 @@ App](https://github.com/facebookincubator/create-react-app) are already
 setup to work with Typefaces. Gatsby by default also embeds your CSS in
 your `<head>` for even faster loading.
 
+## Minimal config
+
+If you don't have Webpack config for CSS loading already, here's a minimalistic webpack.config.js config:
+```
+module.exports = {
+  module: {
+    loaders: [
+      {
+        test: /\.css$/,
+        loader:'style!css!'
+      },
+      { test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "url-loader" },
+      { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "url-loader" },
+    ],
+  },
+}
+```
+
 If you’re not using webpack or equivalent tool that allows you to
 require css, then you’ll need to manually integrate the index.css and
 font files from the package into your build system.
