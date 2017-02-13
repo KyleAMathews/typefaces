@@ -1,0 +1,15 @@
+{
+  "name": "typeface-lato",
+  "version": "0.0.25",
+  "description": "Lato typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "lato"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
