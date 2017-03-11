@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-heuristica",
+  "version": "0.0.0",
+  "description": "Heuristica typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "heuristica"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
