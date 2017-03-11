@@ -138,7 +138,7 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
 
     // Write out index.css file
     // Sort variants first.
-    variants = _.sortBy(typeface.variants, (item) => {
+    variants = _.sortBy(variants, (item) => {
       let sortString = item.fontWeight
       if (item.fontStyle === `italic`) {
         sortString += item.fontStyle
