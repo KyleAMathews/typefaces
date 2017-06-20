@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-finger-paint",
-  "version": "0.0.0",
+  "version": "0.0.28",
   "description": "Finger Paint typeface",
   "main": "index.css",
   "keywords": [
