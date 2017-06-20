@@ -13,21 +13,6 @@
     url('./files/averia-sans-libre-latin-300.svg#averia-sans-libre') format('svg'); /* Legacy iOS */
 }
 
-/* averia-sans-libre-400normal - latin */
-@font-face {
-  font-family: 'Averia Sans Libre';
-  font-style: normal;
-  font-weight: 400;
-  src: url('./files/averia-sans-libre-latin-400.eot'); /* IE9 Compat Modes */
-  src:
-    local('Averia Sans Libre Regular '),
-    local('Averia Sans Libre-Regular'),
-    url('./files/averia-sans-libre-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/averia-sans-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-sans-libre-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/averia-sans-libre-latin-400.svg#averia-sans-libre') format('svg'); /* Legacy iOS */
-}
-
 /* averia-sans-libre-300italic - latin */
 @font-face {
   font-family: 'Averia Sans Libre';
@@ -41,6 +26,21 @@
     url('./files/averia-sans-libre-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/averia-sans-libre-latin-300italic.woff') format('woff'), /* Modern Browsers */
     url('./files/averia-sans-libre-latin-300italic.svg#averia-sans-libre') format('svg'); /* Legacy iOS */
+}
+
+/* averia-sans-libre-400normal - latin */
+@font-face {
+  font-family: 'Averia Sans Libre';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/averia-sans-libre-latin-400.eot'); /* IE9 Compat Modes */
+  src:
+    local('Averia Sans Libre Regular '),
+    local('Averia Sans Libre-Regular'),
+    url('./files/averia-sans-libre-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/averia-sans-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/averia-sans-libre-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-sans-libre-latin-400.svg#averia-sans-libre') format('svg'); /* Legacy iOS */
 }
 
 /* averia-sans-libre-400italic - latin */

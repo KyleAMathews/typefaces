@@ -13,21 +13,6 @@
     url('./files/fira-sans-condensed-latin-100.svg#fira-sans-condensed') format('svg'); /* Legacy iOS */
 }
 
-/* fira-sans-condensed-200normal - latin */
-@font-face {
-  font-family: 'Fira Sans Condensed';
-  font-style: normal;
-  font-weight: 200;
-  src: url('./files/fira-sans-condensed-latin-200.eot'); /* IE9 Compat Modes */
-  src:
-    local('Fira Sans Condensed Extra Light '),
-    local('Fira Sans Condensed-Extra Light'),
-    url('./files/fira-sans-condensed-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/fira-sans-condensed-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-condensed-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/fira-sans-condensed-latin-200.svg#fira-sans-condensed') format('svg'); /* Legacy iOS */
-}
-
 /* fira-sans-condensed-100italic - latin */
 @font-face {
   font-family: 'Fira Sans Condensed';
@@ -41,6 +26,21 @@
     url('./files/fira-sans-condensed-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fira-sans-condensed-latin-100italic.woff') format('woff'), /* Modern Browsers */
     url('./files/fira-sans-condensed-latin-100italic.svg#fira-sans-condensed') format('svg'); /* Legacy iOS */
+}
+
+/* fira-sans-condensed-200normal - latin */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./files/fira-sans-condensed-latin-200.eot'); /* IE9 Compat Modes */
+  src:
+    local('Fira Sans Condensed Extra Light '),
+    local('Fira Sans Condensed-Extra Light'),
+    url('./files/fira-sans-condensed-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/fira-sans-condensed-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-condensed-latin-200.svg#fira-sans-condensed') format('svg'); /* Legacy iOS */
 }
 
 /* fira-sans-condensed-200italic - latin */

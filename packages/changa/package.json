@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-changa",
+  "version": "0.0.0",
+  "description": "Changa typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "changa"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

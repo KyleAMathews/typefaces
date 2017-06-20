@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-jomhuria",
+  "version": "0.0.0",
+  "description": "Jomhuria typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "jomhuria"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

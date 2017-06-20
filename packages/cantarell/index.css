@@ -13,21 +13,6 @@
     url('./files/cantarell-latin-400.svg#cantarell') format('svg'); /* Legacy iOS */
 }
 
-/* cantarell-700normal - latin */
-@font-face {
-  font-family: 'Cantarell';
-  font-style: normal;
-  font-weight: 700;
-  src: url('./files/cantarell-latin-700.eot'); /* IE9 Compat Modes */
-  src:
-    local('Cantarell Bold '),
-    local('Cantarell-Bold'),
-    url('./files/cantarell-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/cantarell-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cantarell-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/cantarell-latin-700.svg#cantarell') format('svg'); /* Legacy iOS */
-}
-
 /* cantarell-400italic - latin */
 @font-face {
   font-family: 'Cantarell';
@@ -41,6 +26,21 @@
     url('./files/cantarell-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cantarell-latin-400italic.woff') format('woff'), /* Modern Browsers */
     url('./files/cantarell-latin-400italic.svg#cantarell') format('svg'); /* Legacy iOS */
+}
+
+/* cantarell-700normal - latin */
+@font-face {
+  font-family: 'Cantarell';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/cantarell-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Cantarell Bold '),
+    local('Cantarell-Bold'),
+    url('./files/cantarell-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/cantarell-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cantarell-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cantarell-latin-700.svg#cantarell') format('svg'); /* Legacy iOS */
 }
 
 /* cantarell-700italic - latin */

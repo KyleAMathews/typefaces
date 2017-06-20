@@ -13,21 +13,6 @@
     url('./files/vesper-libre-latin-400.svg#vesper-libre') format('svg'); /* Legacy iOS */
 }
 
-/* vesper-libre-700normal - latin */
-@font-face {
-  font-family: 'Vesper Libre';
-  font-style: normal;
-  font-weight: 700;
-  src: url('./files/vesper-libre-latin-700.eot'); /* IE9 Compat Modes */
-  src:
-    local('Vesper Libre Bold '),
-    local('Vesper Libre-Bold'),
-    url('./files/vesper-libre-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/vesper-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vesper-libre-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/vesper-libre-latin-700.svg#vesper-libre') format('svg'); /* Legacy iOS */
-}
-
 /* vesper-libre-500normal - latin */
 @font-face {
   font-family: 'Vesper Libre';
@@ -41,6 +26,21 @@
     url('./files/vesper-libre-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vesper-libre-latin-500.woff') format('woff'), /* Modern Browsers */
     url('./files/vesper-libre-latin-500.svg#vesper-libre') format('svg'); /* Legacy iOS */
+}
+
+/* vesper-libre-700normal - latin */
+@font-face {
+  font-family: 'Vesper Libre';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/vesper-libre-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Vesper Libre Bold '),
+    local('Vesper Libre-Bold'),
+    url('./files/vesper-libre-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/vesper-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/vesper-libre-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/vesper-libre-latin-700.svg#vesper-libre') format('svg'); /* Legacy iOS */
 }
 
 /* vesper-libre-900normal - latin */

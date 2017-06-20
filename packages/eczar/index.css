@@ -13,21 +13,6 @@
     url('./files/eczar-latin-400.svg#eczar') format('svg'); /* Legacy iOS */
 }
 
-/* eczar-600normal - latin */
-@font-face {
-  font-family: 'Eczar';
-  font-style: normal;
-  font-weight: 600;
-  src: url('./files/eczar-latin-600.eot'); /* IE9 Compat Modes */
-  src:
-    local('Eczar SemiBold '),
-    local('Eczar-SemiBold'),
-    url('./files/eczar-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/eczar-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/eczar-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/eczar-latin-600.svg#eczar') format('svg'); /* Legacy iOS */
-}
-
 /* eczar-500normal - latin */
 @font-face {
   font-family: 'Eczar';
@@ -41,6 +26,21 @@
     url('./files/eczar-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eczar-latin-500.woff') format('woff'), /* Modern Browsers */
     url('./files/eczar-latin-500.svg#eczar') format('svg'); /* Legacy iOS */
+}
+
+/* eczar-600normal - latin */
+@font-face {
+  font-family: 'Eczar';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/eczar-latin-600.eot'); /* IE9 Compat Modes */
+  src:
+    local('Eczar SemiBold '),
+    local('Eczar-SemiBold'),
+    url('./files/eczar-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/eczar-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/eczar-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/eczar-latin-600.svg#eczar') format('svg'); /* Legacy iOS */
 }
 
 /* eczar-700normal - latin */

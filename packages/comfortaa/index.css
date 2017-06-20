@@ -13,21 +13,6 @@
     url('./files/comfortaa-latin-300.svg#comfortaa') format('svg'); /* Legacy iOS */
 }
 
-/* comfortaa-700normal - latin */
-@font-face {
-  font-family: 'Comfortaa';
-  font-style: normal;
-  font-weight: 700;
-  src: url('./files/comfortaa-latin-700.eot'); /* IE9 Compat Modes */
-  src:
-    local('Comfortaa Bold '),
-    local('Comfortaa-Bold'),
-    url('./files/comfortaa-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/comfortaa-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/comfortaa-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/comfortaa-latin-700.svg#comfortaa') format('svg'); /* Legacy iOS */
-}
-
 /* comfortaa-400normal - latin */
 @font-face {
   font-family: 'Comfortaa';
@@ -41,5 +26,20 @@
     url('./files/comfortaa-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/comfortaa-latin-400.woff') format('woff'), /* Modern Browsers */
     url('./files/comfortaa-latin-400.svg#comfortaa') format('svg'); /* Legacy iOS */
+}
+
+/* comfortaa-700normal - latin */
+@font-face {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/comfortaa-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Comfortaa Bold '),
+    local('Comfortaa-Bold'),
+    url('./files/comfortaa-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/comfortaa-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/comfortaa-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/comfortaa-latin-700.svg#comfortaa') format('svg'); /* Legacy iOS */
 }
 

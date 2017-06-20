@@ -1,0 +1,210 @@
+/* spectral-200normal - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./files/spectral-latin-200.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Extra Light '),
+    local('Spectral-Extra Light'),
+    url('./files/spectral-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-200.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-200italic - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 200;
+  src: url('./files/spectral-latin-200italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Extra Light italic'),
+    local('Spectral-Extra Lightitalic'),
+    url('./files/spectral-latin-200italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-200italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-200italic.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-300normal - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/spectral-latin-300.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Light '),
+    local('Spectral-Light'),
+    url('./files/spectral-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-300.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-300italic - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 300;
+  src: url('./files/spectral-latin-300italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Light italic'),
+    local('Spectral-Lightitalic'),
+    url('./files/spectral-latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-300italic.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-400normal - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/spectral-latin-400.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Regular '),
+    local('Spectral-Regular'),
+    url('./files/spectral-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-400.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-400italic - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 400;
+  src: url('./files/spectral-latin-400italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Regular italic'),
+    local('Spectral-Regularitalic'),
+    url('./files/spectral-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-400italic.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-500normal - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/spectral-latin-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Medium '),
+    local('Spectral-Medium'),
+    url('./files/spectral-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-500.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-500italic - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 500;
+  src: url('./files/spectral-latin-500italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Medium italic'),
+    local('Spectral-Mediumitalic'),
+    url('./files/spectral-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-500italic.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-600normal - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/spectral-latin-600.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral SemiBold '),
+    local('Spectral-SemiBold'),
+    url('./files/spectral-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-600.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-600italic - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 600;
+  src: url('./files/spectral-latin-600italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral SemiBold italic'),
+    local('Spectral-SemiBolditalic'),
+    url('./files/spectral-latin-600italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-600italic.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-700normal - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/spectral-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Bold '),
+    local('Spectral-Bold'),
+    url('./files/spectral-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-700.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-700italic - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 700;
+  src: url('./files/spectral-latin-700italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral Bold italic'),
+    local('Spectral-Bolditalic'),
+    url('./files/spectral-latin-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-700italic.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-800normal - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 800;
+  src: url('./files/spectral-latin-800.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral ExtraBold '),
+    local('Spectral-ExtraBold'),
+    url('./files/spectral-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-800.svg#spectral') format('svg'); /* Legacy iOS */
+}
+
+/* spectral-800italic - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 800;
+  src: url('./files/spectral-latin-800italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Spectral ExtraBold italic'),
+    local('Spectral-ExtraBolditalic'),
+    url('./files/spectral-latin-800italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/spectral-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-latin-800italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/spectral-latin-800italic.svg#spectral') format('svg'); /* Legacy iOS */
+}
+

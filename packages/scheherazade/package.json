@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-scheherazade",
+  "version": "0.0.0",
+  "description": "Scheherazade typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "scheherazade"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

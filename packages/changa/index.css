@@ -1,0 +1,105 @@
+/* changa-200normal - latin */
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./files/changa-latin-200.eot'); /* IE9 Compat Modes */
+  src:
+    local('Changa Extra Light '),
+    local('Changa-Extra Light'),
+    url('./files/changa-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/changa-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/changa-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-200.svg#changa') format('svg'); /* Legacy iOS */
+}
+
+/* changa-300normal - latin */
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/changa-latin-300.eot'); /* IE9 Compat Modes */
+  src:
+    local('Changa Light '),
+    local('Changa-Light'),
+    url('./files/changa-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/changa-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/changa-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-300.svg#changa') format('svg'); /* Legacy iOS */
+}
+
+/* changa-400normal - latin */
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/changa-latin-400.eot'); /* IE9 Compat Modes */
+  src:
+    local('Changa Regular '),
+    local('Changa-Regular'),
+    url('./files/changa-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/changa-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/changa-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-400.svg#changa') format('svg'); /* Legacy iOS */
+}
+
+/* changa-500normal - latin */
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/changa-latin-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Changa Medium '),
+    local('Changa-Medium'),
+    url('./files/changa-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/changa-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/changa-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-500.svg#changa') format('svg'); /* Legacy iOS */
+}
+
+/* changa-600normal - latin */
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./files/changa-latin-600.eot'); /* IE9 Compat Modes */
+  src:
+    local('Changa SemiBold '),
+    local('Changa-SemiBold'),
+    url('./files/changa-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/changa-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/changa-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-600.svg#changa') format('svg'); /* Legacy iOS */
+}
+
+/* changa-700normal - latin */
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/changa-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Changa Bold '),
+    local('Changa-Bold'),
+    url('./files/changa-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/changa-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/changa-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-700.svg#changa') format('svg'); /* Legacy iOS */
+}
+
+/* changa-800normal - latin */
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 800;
+  src: url('./files/changa-latin-800.eot'); /* IE9 Compat Modes */
+  src:
+    local('Changa ExtraBold '),
+    local('Changa-ExtraBold'),
+    url('./files/changa-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/changa-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/changa-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-800.svg#changa') format('svg'); /* Legacy iOS */
+}
+

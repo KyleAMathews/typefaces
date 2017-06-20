@@ -13,21 +13,6 @@
     url('./files/archivo-narrow-latin-400.svg#archivo-narrow') format('svg'); /* Legacy iOS */
 }
 
-/* archivo-narrow-700normal - latin */
-@font-face {
-  font-family: 'Archivo Narrow';
-  font-style: normal;
-  font-weight: 700;
-  src: url('./files/archivo-narrow-latin-700.eot'); /* IE9 Compat Modes */
-  src:
-    local('Archivo Narrow Bold '),
-    local('Archivo Narrow-Bold'),
-    url('./files/archivo-narrow-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/archivo-narrow-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/archivo-narrow-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/archivo-narrow-latin-700.svg#archivo-narrow') format('svg'); /* Legacy iOS */
-}
-
 /* archivo-narrow-400italic - latin */
 @font-face {
   font-family: 'Archivo Narrow';
@@ -41,6 +26,21 @@
     url('./files/archivo-narrow-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/archivo-narrow-latin-400italic.woff') format('woff'), /* Modern Browsers */
     url('./files/archivo-narrow-latin-400italic.svg#archivo-narrow') format('svg'); /* Legacy iOS */
+}
+
+/* archivo-narrow-700normal - latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/archivo-narrow-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Archivo Narrow Bold '),
+    local('Archivo Narrow-Bold'),
+    url('./files/archivo-narrow-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/archivo-narrow-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-narrow-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/archivo-narrow-latin-700.svg#archivo-narrow') format('svg'); /* Legacy iOS */
 }
 
 /* archivo-narrow-700italic - latin */

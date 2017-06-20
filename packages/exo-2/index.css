@@ -13,21 +13,6 @@
     url('./files/exo-2-latin-100.svg#exo-2') format('svg'); /* Legacy iOS */
 }
 
-/* exo-2-200normal - latin */
-@font-face {
-  font-family: 'Exo 2';
-  font-style: normal;
-  font-weight: 200;
-  src: url('./files/exo-2-latin-200.eot'); /* IE9 Compat Modes */
-  src:
-    local('Exo 2 Extra Light '),
-    local('Exo 2-Extra Light'),
-    url('./files/exo-2-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/exo-2-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/exo-2-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/exo-2-latin-200.svg#exo-2') format('svg'); /* Legacy iOS */
-}
-
 /* exo-2-100italic - latin */
 @font-face {
   font-family: 'Exo 2';
@@ -41,6 +26,21 @@
     url('./files/exo-2-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/exo-2-latin-100italic.woff') format('woff'), /* Modern Browsers */
     url('./files/exo-2-latin-100italic.svg#exo-2') format('svg'); /* Legacy iOS */
+}
+
+/* exo-2-200normal - latin */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./files/exo-2-latin-200.eot'); /* IE9 Compat Modes */
+  src:
+    local('Exo 2 Extra Light '),
+    local('Exo 2-Extra Light'),
+    url('./files/exo-2-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/exo-2-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/exo-2-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/exo-2-latin-200.svg#exo-2') format('svg'); /* Legacy iOS */
 }
 
 /* exo-2-200italic - latin */
@@ -73,21 +73,6 @@
     url('./files/exo-2-latin-300.svg#exo-2') format('svg'); /* Legacy iOS */
 }
 
-/* exo-2-400normal - latin */
-@font-face {
-  font-family: 'Exo 2';
-  font-style: normal;
-  font-weight: 400;
-  src: url('./files/exo-2-latin-400.eot'); /* IE9 Compat Modes */
-  src:
-    local('Exo 2 Regular '),
-    local('Exo 2-Regular'),
-    url('./files/exo-2-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/exo-2-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/exo-2-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/exo-2-latin-400.svg#exo-2') format('svg'); /* Legacy iOS */
-}
-
 /* exo-2-300italic - latin */
 @font-face {
   font-family: 'Exo 2';
@@ -101,6 +86,21 @@
     url('./files/exo-2-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/exo-2-latin-300italic.woff') format('woff'), /* Modern Browsers */
     url('./files/exo-2-latin-300italic.svg#exo-2') format('svg'); /* Legacy iOS */
+}
+
+/* exo-2-400normal - latin */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/exo-2-latin-400.eot'); /* IE9 Compat Modes */
+  src:
+    local('Exo 2 Regular '),
+    local('Exo 2-Regular'),
+    url('./files/exo-2-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/exo-2-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/exo-2-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/exo-2-latin-400.svg#exo-2') format('svg'); /* Legacy iOS */
 }
 
 /* exo-2-400italic - latin */
@@ -118,21 +118,6 @@
     url('./files/exo-2-latin-400italic.svg#exo-2') format('svg'); /* Legacy iOS */
 }
 
-/* exo-2-500italic - latin */
-@font-face {
-  font-family: 'Exo 2';
-  font-style: italic;
-  font-weight: 500;
-  src: url('./files/exo-2-latin-500italic.eot'); /* IE9 Compat Modes */
-  src:
-    local('Exo 2 Medium italic'),
-    local('Exo 2-Mediumitalic'),
-    url('./files/exo-2-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/exo-2-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/exo-2-latin-500italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/exo-2-latin-500italic.svg#exo-2') format('svg'); /* Legacy iOS */
-}
-
 /* exo-2-500normal - latin */
 @font-face {
   font-family: 'Exo 2';
@@ -146,6 +131,21 @@
     url('./files/exo-2-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/exo-2-latin-500.woff') format('woff'), /* Modern Browsers */
     url('./files/exo-2-latin-500.svg#exo-2') format('svg'); /* Legacy iOS */
+}
+
+/* exo-2-500italic - latin */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-weight: 500;
+  src: url('./files/exo-2-latin-500italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Exo 2 Medium italic'),
+    local('Exo 2-Mediumitalic'),
+    url('./files/exo-2-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/exo-2-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/exo-2-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/exo-2-latin-500italic.svg#exo-2') format('svg'); /* Legacy iOS */
 }
 
 /* exo-2-600normal - latin */

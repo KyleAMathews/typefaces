@@ -13,21 +13,6 @@
     url('./files/advent-pro-latin-100.svg#advent-pro') format('svg'); /* Legacy iOS */
 }
 
-/* advent-pro-300normal - latin */
-@font-face {
-  font-family: 'Advent Pro';
-  font-style: normal;
-  font-weight: 300;
-  src: url('./files/advent-pro-latin-300.eot'); /* IE9 Compat Modes */
-  src:
-    local('Advent Pro Light '),
-    local('Advent Pro-Light'),
-    url('./files/advent-pro-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/advent-pro-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/advent-pro-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/advent-pro-latin-300.svg#advent-pro') format('svg'); /* Legacy iOS */
-}
-
 /* advent-pro-200normal - latin */
 @font-face {
   font-family: 'Advent Pro';
@@ -41,6 +26,21 @@
     url('./files/advent-pro-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/advent-pro-latin-200.woff') format('woff'), /* Modern Browsers */
     url('./files/advent-pro-latin-200.svg#advent-pro') format('svg'); /* Legacy iOS */
+}
+
+/* advent-pro-300normal - latin */
+@font-face {
+  font-family: 'Advent Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./files/advent-pro-latin-300.eot'); /* IE9 Compat Modes */
+  src:
+    local('Advent Pro Light '),
+    local('Advent Pro-Light'),
+    url('./files/advent-pro-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/advent-pro-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/advent-pro-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/advent-pro-latin-300.svg#advent-pro') format('svg'); /* Legacy iOS */
 }
 
 /* advent-pro-400normal - latin */
@@ -73,21 +73,6 @@
     url('./files/advent-pro-latin-500.svg#advent-pro') format('svg'); /* Legacy iOS */
 }
 
-/* advent-pro-700normal - latin */
-@font-face {
-  font-family: 'Advent Pro';
-  font-style: normal;
-  font-weight: 700;
-  src: url('./files/advent-pro-latin-700.eot'); /* IE9 Compat Modes */
-  src:
-    local('Advent Pro Bold '),
-    local('Advent Pro-Bold'),
-    url('./files/advent-pro-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/advent-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/advent-pro-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/advent-pro-latin-700.svg#advent-pro') format('svg'); /* Legacy iOS */
-}
-
 /* advent-pro-600normal - latin */
 @font-face {
   font-family: 'Advent Pro';
@@ -101,5 +86,20 @@
     url('./files/advent-pro-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/advent-pro-latin-600.woff') format('woff'), /* Modern Browsers */
     url('./files/advent-pro-latin-600.svg#advent-pro') format('svg'); /* Legacy iOS */
+}
+
+/* advent-pro-700normal - latin */
+@font-face {
+  font-family: 'Advent Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/advent-pro-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Advent Pro Bold '),
+    local('Advent Pro-Bold'),
+    url('./files/advent-pro-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/advent-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/advent-pro-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/advent-pro-latin-700.svg#advent-pro') format('svg'); /* Legacy iOS */
 }
 

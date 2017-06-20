@@ -1,3 +1,18 @@
+/* roboto-100normal - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: url('./files/roboto-latin-100.eot'); /* IE9 Compat Modes */
+  src:
+    local('Roboto Thin '),
+    local('Roboto-Thin'),
+    url('./files/roboto-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/roboto-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/roboto-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-latin-100.svg#roboto') format('svg'); /* Legacy iOS */
+}
+
 /* roboto-100italic - latin */
 @font-face {
   font-family: 'Roboto';
@@ -161,20 +176,5 @@
     url('./files/roboto-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-latin-900italic.woff') format('woff'), /* Modern Browsers */
     url('./files/roboto-latin-900italic.svg#roboto') format('svg'); /* Legacy iOS */
-}
-
-/* roboto-100normal - latin */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 100;
-  src: url('./files/roboto-latin-100.eot'); /* IE9 Compat Modes */
-  src:
-    local('Roboto Thin '),
-    local('Roboto-Thin'),
-    url('./files/roboto-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/roboto-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-latin-100.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-latin-100.svg#roboto') format('svg'); /* Legacy iOS */
 }
 

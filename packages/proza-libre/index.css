@@ -13,21 +13,6 @@
     url('./files/proza-libre-latin-400.svg#proza-libre') format('svg'); /* Legacy iOS */
 }
 
-/* proza-libre-500normal - latin */
-@font-face {
-  font-family: 'Proza Libre';
-  font-style: normal;
-  font-weight: 500;
-  src: url('./files/proza-libre-latin-500.eot'); /* IE9 Compat Modes */
-  src:
-    local('Proza Libre Medium '),
-    local('Proza Libre-Medium'),
-    url('./files/proza-libre-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/proza-libre-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/proza-libre-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/proza-libre-latin-500.svg#proza-libre') format('svg'); /* Legacy iOS */
-}
-
 /* proza-libre-400italic - latin */
 @font-face {
   font-family: 'Proza Libre';
@@ -41,6 +26,21 @@
     url('./files/proza-libre-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/proza-libre-latin-400italic.woff') format('woff'), /* Modern Browsers */
     url('./files/proza-libre-latin-400italic.svg#proza-libre') format('svg'); /* Legacy iOS */
+}
+
+/* proza-libre-500normal - latin */
+@font-face {
+  font-family: 'Proza Libre';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/proza-libre-latin-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Proza Libre Medium '),
+    local('Proza Libre-Medium'),
+    url('./files/proza-libre-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/proza-libre-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/proza-libre-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/proza-libre-latin-500.svg#proza-libre') format('svg'); /* Legacy iOS */
 }
 
 /* proza-libre-500italic - latin */
@@ -73,21 +73,6 @@
     url('./files/proza-libre-latin-600.svg#proza-libre') format('svg'); /* Legacy iOS */
 }
 
-/* proza-libre-700normal - latin */
-@font-face {
-  font-family: 'Proza Libre';
-  font-style: normal;
-  font-weight: 700;
-  src: url('./files/proza-libre-latin-700.eot'); /* IE9 Compat Modes */
-  src:
-    local('Proza Libre Bold '),
-    local('Proza Libre-Bold'),
-    url('./files/proza-libre-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/proza-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/proza-libre-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/proza-libre-latin-700.svg#proza-libre') format('svg'); /* Legacy iOS */
-}
-
 /* proza-libre-600italic - latin */
 @font-face {
   font-family: 'Proza Libre';
@@ -101,6 +86,21 @@
     url('./files/proza-libre-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/proza-libre-latin-600italic.woff') format('woff'), /* Modern Browsers */
     url('./files/proza-libre-latin-600italic.svg#proza-libre') format('svg'); /* Legacy iOS */
+}
+
+/* proza-libre-700normal - latin */
+@font-face {
+  font-family: 'Proza Libre';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/proza-libre-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Proza Libre Bold '),
+    local('Proza Libre-Bold'),
+    url('./files/proza-libre-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/proza-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/proza-libre-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/proza-libre-latin-700.svg#proza-libre') format('svg'); /* Legacy iOS */
 }
 
 /* proza-libre-700italic - latin */

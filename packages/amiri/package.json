@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-amiri",
+  "version": "0.0.0",
+  "description": "Amiri typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "amiri"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
