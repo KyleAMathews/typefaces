@@ -13,21 +13,6 @@
     url('./files/jura-latin-300.svg#jura') format('svg'); /* Legacy iOS */
 }
 
-/* jura-500normal - latin */
-@font-face {
-  font-family: 'Jura';
-  font-style: normal;
-  font-weight: 500;
-  src: url('./files/jura-latin-500.eot'); /* IE9 Compat Modes */
-  src:
-    local('Jura Medium '),
-    local('Jura-Medium'),
-    url('./files/jura-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/jura-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/jura-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/jura-latin-500.svg#jura') format('svg'); /* Legacy iOS */
-}
-
 /* jura-400normal - latin */
 @font-face {
   font-family: 'Jura';
@@ -43,6 +28,21 @@
     url('./files/jura-latin-400.svg#jura') format('svg'); /* Legacy iOS */
 }
 
+/* jura-500normal - latin */
+@font-face {
+  font-family: 'Jura';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/jura-latin-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Jura Medium '),
+    local('Jura-Medium'),
+    url('./files/jura-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/jura-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/jura-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/jura-latin-500.svg#jura') format('svg'); /* Legacy iOS */
+}
+
 /* jura-600normal - latin */
 @font-face {
   font-family: 'Jura';
@@ -56,5 +56,20 @@
     url('./files/jura-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/jura-latin-600.woff') format('woff'), /* Modern Browsers */
     url('./files/jura-latin-600.svg#jura') format('svg'); /* Legacy iOS */
+}
+
+/* jura-700normal - latin */
+@font-face {
+  font-family: 'Jura';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/jura-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Jura Bold '),
+    local('Jura-Bold'),
+    url('./files/jura-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/jura-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/jura-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/jura-latin-700.svg#jura') format('svg'); /* Legacy iOS */
 }
 

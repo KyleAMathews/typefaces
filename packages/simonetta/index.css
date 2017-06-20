@@ -13,21 +13,6 @@
     url('./files/simonetta-latin-400.svg#simonetta') format('svg'); /* Legacy iOS */
 }
 
-/* simonetta-900normal - latin */
-@font-face {
-  font-family: 'Simonetta';
-  font-style: normal;
-  font-weight: 900;
-  src: url('./files/simonetta-latin-900.eot'); /* IE9 Compat Modes */
-  src:
-    local('Simonetta Black '),
-    local('Simonetta-Black'),
-    url('./files/simonetta-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/simonetta-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/simonetta-latin-900.woff') format('woff'), /* Modern Browsers */
-    url('./files/simonetta-latin-900.svg#simonetta') format('svg'); /* Legacy iOS */
-}
-
 /* simonetta-400italic - latin */
 @font-face {
   font-family: 'Simonetta';
@@ -41,6 +26,21 @@
     url('./files/simonetta-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/simonetta-latin-400italic.woff') format('woff'), /* Modern Browsers */
     url('./files/simonetta-latin-400italic.svg#simonetta') format('svg'); /* Legacy iOS */
+}
+
+/* simonetta-900normal - latin */
+@font-face {
+  font-family: 'Simonetta';
+  font-style: normal;
+  font-weight: 900;
+  src: url('./files/simonetta-latin-900.eot'); /* IE9 Compat Modes */
+  src:
+    local('Simonetta Black '),
+    local('Simonetta-Black'),
+    url('./files/simonetta-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/simonetta-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/simonetta-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/simonetta-latin-900.svg#simonetta') format('svg'); /* Legacy iOS */
 }
 
 /* simonetta-900italic - latin */

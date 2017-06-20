@@ -13,6 +13,21 @@
     url('./files/trirong-latin-100.svg#trirong') format('svg'); /* Legacy iOS */
 }
 
+/* trirong-100italic - latin */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-weight: 100;
+  src: url('./files/trirong-latin-100italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Trirong Thin italic'),
+    local('Trirong-Thinitalic'),
+    url('./files/trirong-latin-100italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/trirong-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-latin-100italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/trirong-latin-100italic.svg#trirong') format('svg'); /* Legacy iOS */
+}
+
 /* trirong-200normal - latin */
 @font-face {
   font-family: 'Trirong';
@@ -41,21 +56,6 @@
     url('./files/trirong-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/trirong-latin-200italic.woff') format('woff'), /* Modern Browsers */
     url('./files/trirong-latin-200italic.svg#trirong') format('svg'); /* Legacy iOS */
-}
-
-/* trirong-100italic - latin */
-@font-face {
-  font-family: 'Trirong';
-  font-style: italic;
-  font-weight: 100;
-  src: url('./files/trirong-latin-100italic.eot'); /* IE9 Compat Modes */
-  src:
-    local('Trirong Thin italic'),
-    local('Trirong-Thinitalic'),
-    url('./files/trirong-latin-100italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/trirong-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/trirong-latin-100italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/trirong-latin-100italic.svg#trirong') format('svg'); /* Legacy iOS */
 }
 
 /* trirong-300normal - latin */
@@ -103,6 +103,21 @@
     url('./files/trirong-latin-400.svg#trirong') format('svg'); /* Legacy iOS */
 }
 
+/* trirong-400italic - latin */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-weight: 400;
+  src: url('./files/trirong-latin-400italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Trirong Regular italic'),
+    local('Trirong-Regularitalic'),
+    url('./files/trirong-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/trirong-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/trirong-latin-400italic.svg#trirong') format('svg'); /* Legacy iOS */
+}
+
 /* trirong-500normal - latin */
 @font-face {
   font-family: 'Trirong';
@@ -131,21 +146,6 @@
     url('./files/trirong-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/trirong-latin-500italic.woff') format('woff'), /* Modern Browsers */
     url('./files/trirong-latin-500italic.svg#trirong') format('svg'); /* Legacy iOS */
-}
-
-/* trirong-400italic - latin */
-@font-face {
-  font-family: 'Trirong';
-  font-style: italic;
-  font-weight: 400;
-  src: url('./files/trirong-latin-400italic.eot'); /* IE9 Compat Modes */
-  src:
-    local('Trirong Regular italic'),
-    local('Trirong-Regularitalic'),
-    url('./files/trirong-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/trirong-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/trirong-latin-400italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/trirong-latin-400italic.svg#trirong') format('svg'); /* Legacy iOS */
 }
 
 /* trirong-600normal - latin */

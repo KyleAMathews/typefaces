@@ -28,21 +28,6 @@
     url('./files/cabin-latin-400italic.svg#cabin') format('svg'); /* Legacy iOS */
 }
 
-/* cabin-500italic - latin */
-@font-face {
-  font-family: 'Cabin';
-  font-style: italic;
-  font-weight: 500;
-  src: url('./files/cabin-latin-500italic.eot'); /* IE9 Compat Modes */
-  src:
-    local('Cabin Medium italic'),
-    local('Cabin-Mediumitalic'),
-    url('./files/cabin-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/cabin-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-latin-500italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/cabin-latin-500italic.svg#cabin') format('svg'); /* Legacy iOS */
-}
-
 /* cabin-500normal - latin */
 @font-face {
   font-family: 'Cabin';
@@ -56,6 +41,21 @@
     url('./files/cabin-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cabin-latin-500.woff') format('woff'), /* Modern Browsers */
     url('./files/cabin-latin-500.svg#cabin') format('svg'); /* Legacy iOS */
+}
+
+/* cabin-500italic - latin */
+@font-face {
+  font-family: 'Cabin';
+  font-style: italic;
+  font-weight: 500;
+  src: url('./files/cabin-latin-500italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Cabin Medium italic'),
+    local('Cabin-Mediumitalic'),
+    url('./files/cabin-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/cabin-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cabin-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-latin-500italic.svg#cabin') format('svg'); /* Legacy iOS */
 }
 
 /* cabin-600normal - latin */
