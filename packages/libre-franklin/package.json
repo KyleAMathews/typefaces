@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-libre-franklin",
-  "version": "0.0.0",
+  "version": "0.0.29",
   "description": "Libre Franklin typeface",
   "main": "index.css",
   "keywords": [

@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-inknut-antiqua",
-  "version": "0.0.0",
+  "version": "0.0.29",
   "description": "Inknut Antiqua typeface",
   "main": "index.css",
   "keywords": [

@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-courgette",
-  "version": "0.0.0",
+  "version": "0.0.29",
   "description": "Courgette typeface",
   "main": "index.css",
   "keywords": [

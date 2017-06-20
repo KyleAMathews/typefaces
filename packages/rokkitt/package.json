@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-rokkitt",
-  "version": "0.0.0",
+  "version": "0.0.29",
   "description": "Rokkitt typeface",
   "main": "index.css",
   "keywords": [

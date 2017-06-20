@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-arvo",
-  "version": "0.0.0",
+  "version": "0.0.29",
   "description": "Arvo typeface",
   "main": "index.css",
   "keywords": [

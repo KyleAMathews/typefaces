@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-cambay",
-  "version": "0.0.0",
+  "version": "0.0.29",
   "description": "Cambay typeface",
   "main": "index.css",
   "keywords": [
