@@ -10,6 +10,6 @@
     url('./files/rubik-mono-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rubik-mono-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rubik-mono-one-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/rubik-mono-one-latin-400.svg#rubik-mono-one') format('svg'); /* Legacy iOS */
+    url('./files/rubik-mono-one-latin-400.svg#RubikMonoOne') format('svg'); /* Legacy iOS */
 }
 

@@ -10,6 +10,6 @@
     url('./files/gochi-hand-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/gochi-hand-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/gochi-hand-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/gochi-hand-latin-400.svg#gochi-hand') format('svg'); /* Legacy iOS */
+    url('./files/gochi-hand-latin-400.svg#GochiHand') format('svg'); /* Legacy iOS */
 }
 

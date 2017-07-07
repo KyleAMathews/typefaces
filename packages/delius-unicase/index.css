@@ -10,7 +10,7 @@
     url('./files/delius-unicase-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/delius-unicase-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/delius-unicase-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/delius-unicase-latin-400.svg#delius-unicase') format('svg'); /* Legacy iOS */
+    url('./files/delius-unicase-latin-400.svg#DeliusUnicase') format('svg'); /* Legacy iOS */
 }
 
 /* delius-unicase-700normal - latin */
@@ -25,6 +25,6 @@
     url('./files/delius-unicase-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/delius-unicase-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/delius-unicase-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/delius-unicase-latin-700.svg#delius-unicase') format('svg'); /* Legacy iOS */
+    url('./files/delius-unicase-latin-700.svg#DeliusUnicase') format('svg'); /* Legacy iOS */
 }
 

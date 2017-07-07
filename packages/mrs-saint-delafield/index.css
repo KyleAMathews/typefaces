@@ -10,6 +10,6 @@
     url('./files/mrs-saint-delafield-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mrs-saint-delafield-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mrs-saint-delafield-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/mrs-saint-delafield-latin-400.svg#mrs-saint-delafield') format('svg'); /* Legacy iOS */
+    url('./files/mrs-saint-delafield-latin-400.svg#MrsSaintDelafield') format('svg'); /* Legacy iOS */
 }
 

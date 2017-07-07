@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-zilla-slab",
+  "version": "0.0.0",
+  "description": "Zilla Slab typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "zilla-slab"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

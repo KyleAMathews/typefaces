@@ -10,7 +10,7 @@
     url('./files/im-fell-french-canon-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/im-fell-french-canon-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/im-fell-french-canon-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/im-fell-french-canon-latin-400.svg#im-fell-french-canon') format('svg'); /* Legacy iOS */
+    url('./files/im-fell-french-canon-latin-400.svg#ImFellFrenchCanon') format('svg'); /* Legacy iOS */
 }
 
 /* im-fell-french-canon-400italic - latin */
@@ -25,6 +25,6 @@
     url('./files/im-fell-french-canon-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/im-fell-french-canon-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/im-fell-french-canon-latin-400italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/im-fell-french-canon-latin-400italic.svg#im-fell-french-canon') format('svg'); /* Legacy iOS */
+    url('./files/im-fell-french-canon-latin-400italic.svg#ImFellFrenchCanon') format('svg'); /* Legacy iOS */
 }
 

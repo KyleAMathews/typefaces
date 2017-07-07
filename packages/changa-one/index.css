@@ -10,7 +10,7 @@
     url('./files/changa-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/changa-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/changa-one-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/changa-one-latin-400.svg#changa-one') format('svg'); /* Legacy iOS */
+    url('./files/changa-one-latin-400.svg#ChangaOne') format('svg'); /* Legacy iOS */
 }
 
 /* changa-one-400italic - latin */
@@ -25,6 +25,6 @@
     url('./files/changa-one-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/changa-one-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/changa-one-latin-400italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/changa-one-latin-400italic.svg#changa-one') format('svg'); /* Legacy iOS */
+    url('./files/changa-one-latin-400italic.svg#ChangaOne') format('svg'); /* Legacy iOS */
 }
 

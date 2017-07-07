@@ -10,7 +10,7 @@
     url('./files/passion-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/passion-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/passion-one-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/passion-one-latin-400.svg#passion-one') format('svg'); /* Legacy iOS */
+    url('./files/passion-one-latin-400.svg#PassionOne') format('svg'); /* Legacy iOS */
 }
 
 /* passion-one-700normal - latin */
@@ -25,7 +25,7 @@
     url('./files/passion-one-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/passion-one-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/passion-one-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/passion-one-latin-700.svg#passion-one') format('svg'); /* Legacy iOS */
+    url('./files/passion-one-latin-700.svg#PassionOne') format('svg'); /* Legacy iOS */
 }
 
 /* passion-one-900normal - latin */
@@ -40,6 +40,6 @@
     url('./files/passion-one-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/passion-one-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/passion-one-latin-900.woff') format('woff'), /* Modern Browsers */
-    url('./files/passion-one-latin-900.svg#passion-one') format('svg'); /* Legacy iOS */
+    url('./files/passion-one-latin-900.svg#PassionOne') format('svg'); /* Legacy iOS */
 }
 

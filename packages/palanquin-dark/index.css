@@ -10,7 +10,7 @@
     url('./files/palanquin-dark-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-dark-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-dark-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-dark-latin-400.svg#palanquin-dark') format('svg'); /* Legacy iOS */
+    url('./files/palanquin-dark-latin-400.svg#PalanquinDark') format('svg'); /* Legacy iOS */
 }
 
 /* palanquin-dark-500normal - latin */
@@ -25,7 +25,7 @@
     url('./files/palanquin-dark-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-dark-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-dark-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-dark-latin-500.svg#palanquin-dark') format('svg'); /* Legacy iOS */
+    url('./files/palanquin-dark-latin-500.svg#PalanquinDark') format('svg'); /* Legacy iOS */
 }
 
 /* palanquin-dark-600normal - latin */
@@ -40,7 +40,7 @@
     url('./files/palanquin-dark-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-dark-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-dark-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-dark-latin-600.svg#palanquin-dark') format('svg'); /* Legacy iOS */
+    url('./files/palanquin-dark-latin-600.svg#PalanquinDark') format('svg'); /* Legacy iOS */
 }
 
 /* palanquin-dark-700normal - latin */
@@ -55,6 +55,6 @@
     url('./files/palanquin-dark-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-dark-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-dark-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-dark-latin-700.svg#palanquin-dark') format('svg'); /* Legacy iOS */
+    url('./files/palanquin-dark-latin-700.svg#PalanquinDark') format('svg'); /* Legacy iOS */
 }
 

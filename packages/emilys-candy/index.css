@@ -10,6 +10,6 @@
     url('./files/emilys-candy-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/emilys-candy-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/emilys-candy-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/emilys-candy-latin-400.svg#emilys-candy') format('svg'); /* Legacy iOS */
+    url('./files/emilys-candy-latin-400.svg#EmilysCandy') format('svg'); /* Legacy iOS */
 }
 

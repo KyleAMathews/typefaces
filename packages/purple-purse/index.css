@@ -10,6 +10,6 @@
     url('./files/purple-purse-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/purple-purse-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/purple-purse-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/purple-purse-latin-400.svg#purple-purse') format('svg'); /* Legacy iOS */
+    url('./files/purple-purse-latin-400.svg#PurplePurse') format('svg'); /* Legacy iOS */
 }
 

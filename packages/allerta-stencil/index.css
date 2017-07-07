@@ -10,6 +10,6 @@
     url('./files/allerta-stencil-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/allerta-stencil-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/allerta-stencil-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/allerta-stencil-latin-400.svg#allerta-stencil') format('svg'); /* Legacy iOS */
+    url('./files/allerta-stencil-latin-400.svg#AllertaStencil') format('svg'); /* Legacy iOS */
 }
 

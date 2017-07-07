@@ -10,7 +10,7 @@
     url('./files/im-fell-dw-pica-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/im-fell-dw-pica-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/im-fell-dw-pica-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/im-fell-dw-pica-latin-400.svg#im-fell-dw-pica') format('svg'); /* Legacy iOS */
+    url('./files/im-fell-dw-pica-latin-400.svg#ImFellDwPica') format('svg'); /* Legacy iOS */
 }
 
 /* im-fell-dw-pica-400italic - latin */
@@ -25,6 +25,6 @@
     url('./files/im-fell-dw-pica-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/im-fell-dw-pica-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/im-fell-dw-pica-latin-400italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/im-fell-dw-pica-latin-400italic.svg#im-fell-dw-pica') format('svg'); /* Legacy iOS */
+    url('./files/im-fell-dw-pica-latin-400italic.svg#ImFellDwPica') format('svg'); /* Legacy iOS */
 }
 

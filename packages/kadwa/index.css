@@ -10,7 +10,7 @@
     url('./files/kadwa-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/kadwa-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kadwa-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/kadwa-latin-400.svg#kadwa') format('svg'); /* Legacy iOS */
+    url('./files/kadwa-latin-400.svg#Kadwa') format('svg'); /* Legacy iOS */
 }
 
 /* kadwa-700normal - latin */
@@ -25,6 +25,6 @@
     url('./files/kadwa-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/kadwa-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kadwa-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/kadwa-latin-700.svg#kadwa') format('svg'); /* Legacy iOS */
+    url('./files/kadwa-latin-700.svg#Kadwa') format('svg'); /* Legacy iOS */
 }
 

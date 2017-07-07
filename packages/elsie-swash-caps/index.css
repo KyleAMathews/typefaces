@@ -10,7 +10,7 @@
     url('./files/elsie-swash-caps-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/elsie-swash-caps-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/elsie-swash-caps-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/elsie-swash-caps-latin-400.svg#elsie-swash-caps') format('svg'); /* Legacy iOS */
+    url('./files/elsie-swash-caps-latin-400.svg#ElsieSwashCaps') format('svg'); /* Legacy iOS */
 }
 
 /* elsie-swash-caps-900normal - latin */
@@ -25,6 +25,6 @@
     url('./files/elsie-swash-caps-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/elsie-swash-caps-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/elsie-swash-caps-latin-900.woff') format('woff'), /* Modern Browsers */
-    url('./files/elsie-swash-caps-latin-900.svg#elsie-swash-caps') format('svg'); /* Legacy iOS */
+    url('./files/elsie-swash-caps-latin-900.svg#ElsieSwashCaps') format('svg'); /* Legacy iOS */
 }
 

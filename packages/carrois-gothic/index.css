@@ -10,6 +10,6 @@
     url('./files/carrois-gothic-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/carrois-gothic-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/carrois-gothic-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/carrois-gothic-latin-400.svg#carrois-gothic') format('svg'); /* Legacy iOS */
+    url('./files/carrois-gothic-latin-400.svg#CarroisGothic') format('svg'); /* Legacy iOS */
 }
 

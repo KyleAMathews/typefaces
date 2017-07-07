@@ -10,7 +10,7 @@
     url('./files/rasa-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rasa-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/rasa-latin-300.svg#rasa') format('svg'); /* Legacy iOS */
+    url('./files/rasa-latin-300.svg#Rasa') format('svg'); /* Legacy iOS */
 }
 
 /* rasa-400normal - latin */
@@ -25,7 +25,7 @@
     url('./files/rasa-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rasa-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/rasa-latin-400.svg#rasa') format('svg'); /* Legacy iOS */
+    url('./files/rasa-latin-400.svg#Rasa') format('svg'); /* Legacy iOS */
 }
 
 /* rasa-500normal - latin */
@@ -40,7 +40,7 @@
     url('./files/rasa-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rasa-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/rasa-latin-500.svg#rasa') format('svg'); /* Legacy iOS */
+    url('./files/rasa-latin-500.svg#Rasa') format('svg'); /* Legacy iOS */
 }
 
 /* rasa-600normal - latin */
@@ -55,7 +55,7 @@
     url('./files/rasa-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rasa-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/rasa-latin-600.svg#rasa') format('svg'); /* Legacy iOS */
+    url('./files/rasa-latin-600.svg#Rasa') format('svg'); /* Legacy iOS */
 }
 
 /* rasa-700normal - latin */
@@ -70,6 +70,6 @@
     url('./files/rasa-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rasa-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/rasa-latin-700.svg#rasa') format('svg'); /* Legacy iOS */
+    url('./files/rasa-latin-700.svg#Rasa') format('svg'); /* Legacy iOS */
 }
 

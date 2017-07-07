@@ -10,7 +10,7 @@
     url('./files/inknut-antiqua-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/inknut-antiqua-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/inknut-antiqua-latin-300.svg#inknut-antiqua') format('svg'); /* Legacy iOS */
+    url('./files/inknut-antiqua-latin-300.svg#InknutAntiqua') format('svg'); /* Legacy iOS */
 }
 
 /* inknut-antiqua-400normal - latin */
@@ -25,7 +25,7 @@
     url('./files/inknut-antiqua-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/inknut-antiqua-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/inknut-antiqua-latin-400.svg#inknut-antiqua') format('svg'); /* Legacy iOS */
+    url('./files/inknut-antiqua-latin-400.svg#InknutAntiqua') format('svg'); /* Legacy iOS */
 }
 
 /* inknut-antiqua-500normal - latin */
@@ -40,7 +40,7 @@
     url('./files/inknut-antiqua-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/inknut-antiqua-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/inknut-antiqua-latin-500.svg#inknut-antiqua') format('svg'); /* Legacy iOS */
+    url('./files/inknut-antiqua-latin-500.svg#InknutAntiqua') format('svg'); /* Legacy iOS */
 }
 
 /* inknut-antiqua-600normal - latin */
@@ -55,7 +55,7 @@
     url('./files/inknut-antiqua-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/inknut-antiqua-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/inknut-antiqua-latin-600.svg#inknut-antiqua') format('svg'); /* Legacy iOS */
+    url('./files/inknut-antiqua-latin-600.svg#InknutAntiqua') format('svg'); /* Legacy iOS */
 }
 
 /* inknut-antiqua-700normal - latin */
@@ -70,7 +70,7 @@
     url('./files/inknut-antiqua-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/inknut-antiqua-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/inknut-antiqua-latin-700.svg#inknut-antiqua') format('svg'); /* Legacy iOS */
+    url('./files/inknut-antiqua-latin-700.svg#InknutAntiqua') format('svg'); /* Legacy iOS */
 }
 
 /* inknut-antiqua-800normal - latin */
@@ -85,7 +85,7 @@
     url('./files/inknut-antiqua-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/inknut-antiqua-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/inknut-antiqua-latin-800.svg#inknut-antiqua') format('svg'); /* Legacy iOS */
+    url('./files/inknut-antiqua-latin-800.svg#InknutAntiqua') format('svg'); /* Legacy iOS */
 }
 
 /* inknut-antiqua-900normal - latin */
@@ -100,6 +100,6 @@
     url('./files/inknut-antiqua-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/inknut-antiqua-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-900.woff') format('woff'), /* Modern Browsers */
-    url('./files/inknut-antiqua-latin-900.svg#inknut-antiqua') format('svg'); /* Legacy iOS */
+    url('./files/inknut-antiqua-latin-900.svg#InknutAntiqua') format('svg'); /* Legacy iOS */
 }
 

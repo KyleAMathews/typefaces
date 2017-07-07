@@ -10,6 +10,6 @@
     url('./files/francois-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/francois-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/francois-one-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/francois-one-latin-400.svg#francois-one') format('svg'); /* Legacy iOS */
+    url('./files/francois-one-latin-400.svg#FrancoisOne') format('svg'); /* Legacy iOS */
 }
 

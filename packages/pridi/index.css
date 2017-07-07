@@ -10,7 +10,7 @@
     url('./files/pridi-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/pridi-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pridi-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/pridi-latin-200.svg#pridi') format('svg'); /* Legacy iOS */
+    url('./files/pridi-latin-200.svg#Pridi') format('svg'); /* Legacy iOS */
 }
 
 /* pridi-300normal - latin */
@@ -25,7 +25,7 @@
     url('./files/pridi-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/pridi-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pridi-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/pridi-latin-300.svg#pridi') format('svg'); /* Legacy iOS */
+    url('./files/pridi-latin-300.svg#Pridi') format('svg'); /* Legacy iOS */
 }
 
 /* pridi-400normal - latin */
@@ -40,7 +40,7 @@
     url('./files/pridi-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/pridi-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pridi-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/pridi-latin-400.svg#pridi') format('svg'); /* Legacy iOS */
+    url('./files/pridi-latin-400.svg#Pridi') format('svg'); /* Legacy iOS */
 }
 
 /* pridi-500normal - latin */
@@ -55,7 +55,7 @@
     url('./files/pridi-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/pridi-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pridi-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/pridi-latin-500.svg#pridi') format('svg'); /* Legacy iOS */
+    url('./files/pridi-latin-500.svg#Pridi') format('svg'); /* Legacy iOS */
 }
 
 /* pridi-600normal - latin */
@@ -70,7 +70,7 @@
     url('./files/pridi-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/pridi-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pridi-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/pridi-latin-600.svg#pridi') format('svg'); /* Legacy iOS */
+    url('./files/pridi-latin-600.svg#Pridi') format('svg'); /* Legacy iOS */
 }
 
 /* pridi-700normal - latin */
@@ -85,6 +85,6 @@
     url('./files/pridi-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/pridi-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pridi-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/pridi-latin-700.svg#pridi') format('svg'); /* Legacy iOS */
+    url('./files/pridi-latin-700.svg#Pridi') format('svg'); /* Legacy iOS */
 }
 

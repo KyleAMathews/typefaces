@@ -10,7 +10,7 @@
     url('./files/tillana-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/tillana-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/tillana-latin-400.svg#tillana') format('svg'); /* Legacy iOS */
+    url('./files/tillana-latin-400.svg#Tillana') format('svg'); /* Legacy iOS */
 }
 
 /* tillana-500normal - latin */
@@ -25,7 +25,7 @@
     url('./files/tillana-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/tillana-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/tillana-latin-500.svg#tillana') format('svg'); /* Legacy iOS */
+    url('./files/tillana-latin-500.svg#Tillana') format('svg'); /* Legacy iOS */
 }
 
 /* tillana-600normal - latin */
@@ -40,7 +40,7 @@
     url('./files/tillana-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/tillana-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/tillana-latin-600.svg#tillana') format('svg'); /* Legacy iOS */
+    url('./files/tillana-latin-600.svg#Tillana') format('svg'); /* Legacy iOS */
 }
 
 /* tillana-700normal - latin */
@@ -55,7 +55,7 @@
     url('./files/tillana-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/tillana-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/tillana-latin-700.svg#tillana') format('svg'); /* Legacy iOS */
+    url('./files/tillana-latin-700.svg#Tillana') format('svg'); /* Legacy iOS */
 }
 
 /* tillana-800normal - latin */
@@ -70,6 +70,6 @@
     url('./files/tillana-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/tillana-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/tillana-latin-800.svg#tillana') format('svg'); /* Legacy iOS */
+    url('./files/tillana-latin-800.svg#Tillana') format('svg'); /* Legacy iOS */
 }
 

@@ -10,6 +10,6 @@
     url('./files/bilbo-swash-caps-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/bilbo-swash-caps-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/bilbo-swash-caps-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/bilbo-swash-caps-latin-400.svg#bilbo-swash-caps') format('svg'); /* Legacy iOS */
+    url('./files/bilbo-swash-caps-latin-400.svg#BilboSwashCaps') format('svg'); /* Legacy iOS */
 }
 

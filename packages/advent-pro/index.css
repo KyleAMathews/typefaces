@@ -10,7 +10,7 @@
     url('./files/advent-pro-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/advent-pro-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/advent-pro-latin-100.woff') format('woff'), /* Modern Browsers */
-    url('./files/advent-pro-latin-100.svg#advent-pro') format('svg'); /* Legacy iOS */
+    url('./files/advent-pro-latin-100.svg#AdventPro') format('svg'); /* Legacy iOS */
 }
 
 /* advent-pro-200normal - latin */
@@ -25,7 +25,7 @@
     url('./files/advent-pro-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/advent-pro-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/advent-pro-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/advent-pro-latin-200.svg#advent-pro') format('svg'); /* Legacy iOS */
+    url('./files/advent-pro-latin-200.svg#AdventPro') format('svg'); /* Legacy iOS */
 }
 
 /* advent-pro-300normal - latin */
@@ -40,7 +40,7 @@
     url('./files/advent-pro-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/advent-pro-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/advent-pro-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/advent-pro-latin-300.svg#advent-pro') format('svg'); /* Legacy iOS */
+    url('./files/advent-pro-latin-300.svg#AdventPro') format('svg'); /* Legacy iOS */
 }
 
 /* advent-pro-400normal - latin */
@@ -55,7 +55,7 @@
     url('./files/advent-pro-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/advent-pro-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/advent-pro-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/advent-pro-latin-400.svg#advent-pro') format('svg'); /* Legacy iOS */
+    url('./files/advent-pro-latin-400.svg#AdventPro') format('svg'); /* Legacy iOS */
 }
 
 /* advent-pro-500normal - latin */
@@ -70,7 +70,7 @@
     url('./files/advent-pro-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/advent-pro-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/advent-pro-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/advent-pro-latin-500.svg#advent-pro') format('svg'); /* Legacy iOS */
+    url('./files/advent-pro-latin-500.svg#AdventPro') format('svg'); /* Legacy iOS */
 }
 
 /* advent-pro-600normal - latin */
@@ -85,7 +85,7 @@
     url('./files/advent-pro-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/advent-pro-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/advent-pro-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/advent-pro-latin-600.svg#advent-pro') format('svg'); /* Legacy iOS */
+    url('./files/advent-pro-latin-600.svg#AdventPro') format('svg'); /* Legacy iOS */
 }
 
 /* advent-pro-700normal - latin */
@@ -100,6 +100,6 @@
     url('./files/advent-pro-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/advent-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/advent-pro-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/advent-pro-latin-700.svg#advent-pro') format('svg'); /* Legacy iOS */
+    url('./files/advent-pro-latin-700.svg#AdventPro') format('svg'); /* Legacy iOS */
 }
 

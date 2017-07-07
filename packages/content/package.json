@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-content",
-  "version": "0.0.29",
+  "version": "0.0.0",
   "description": "Content typeface",
   "main": "index.css",
   "keywords": [

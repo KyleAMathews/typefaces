@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-inconsolata",
-  "version": "0.0.22",
+  "version": "0.0.0",
   "description": "Inconsolata typeface",
   "main": "index.css",
   "keywords": [

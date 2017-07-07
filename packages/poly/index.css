@@ -10,7 +10,7 @@
     url('./files/poly-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/poly-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/poly-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/poly-latin-400.svg#poly') format('svg'); /* Legacy iOS */
+    url('./files/poly-latin-400.svg#Poly') format('svg'); /* Legacy iOS */
 }
 
 /* poly-400italic - latin */
@@ -25,6 +25,6 @@
     url('./files/poly-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/poly-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/poly-latin-400italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/poly-latin-400italic.svg#poly') format('svg'); /* Legacy iOS */
+    url('./files/poly-latin-400italic.svg#Poly') format('svg'); /* Legacy iOS */
 }
 

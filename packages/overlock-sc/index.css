@@ -10,6 +10,6 @@
     url('./files/overlock-sc-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/overlock-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overlock-sc-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/overlock-sc-latin-400.svg#overlock-sc') format('svg'); /* Legacy iOS */
+    url('./files/overlock-sc-latin-400.svg#OverlockSc') format('svg'); /* Legacy iOS */
 }
 

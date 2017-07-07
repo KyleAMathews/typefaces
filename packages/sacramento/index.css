@@ -10,6 +10,6 @@
     url('./files/sacramento-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/sacramento-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sacramento-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/sacramento-latin-400.svg#sacramento') format('svg'); /* Legacy iOS */
+    url('./files/sacramento-latin-400.svg#Sacramento') format('svg'); /* Legacy iOS */
 }
 

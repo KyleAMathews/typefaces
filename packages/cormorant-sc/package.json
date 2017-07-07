@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-cormorant-sc",
-  "version": "0.0.22",
+  "version": "0.0.0",
   "description": "Cormorant SC typeface",
   "main": "index.css",
   "keywords": [

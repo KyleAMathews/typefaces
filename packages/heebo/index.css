@@ -10,7 +10,7 @@
     url('./files/heebo-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/heebo-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-100.woff') format('woff'), /* Modern Browsers */
-    url('./files/heebo-latin-100.svg#heebo') format('svg'); /* Legacy iOS */
+    url('./files/heebo-latin-100.svg#Heebo') format('svg'); /* Legacy iOS */
 }
 
 /* heebo-300normal - latin */
@@ -25,7 +25,7 @@
     url('./files/heebo-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/heebo-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/heebo-latin-300.svg#heebo') format('svg'); /* Legacy iOS */
+    url('./files/heebo-latin-300.svg#Heebo') format('svg'); /* Legacy iOS */
 }
 
 /* heebo-400normal - latin */
@@ -40,7 +40,7 @@
     url('./files/heebo-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/heebo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/heebo-latin-400.svg#heebo') format('svg'); /* Legacy iOS */
+    url('./files/heebo-latin-400.svg#Heebo') format('svg'); /* Legacy iOS */
 }
 
 /* heebo-500normal - latin */
@@ -55,7 +55,7 @@
     url('./files/heebo-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/heebo-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/heebo-latin-500.svg#heebo') format('svg'); /* Legacy iOS */
+    url('./files/heebo-latin-500.svg#Heebo') format('svg'); /* Legacy iOS */
 }
 
 /* heebo-700normal - latin */
@@ -70,7 +70,7 @@
     url('./files/heebo-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/heebo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/heebo-latin-700.svg#heebo') format('svg'); /* Legacy iOS */
+    url('./files/heebo-latin-700.svg#Heebo') format('svg'); /* Legacy iOS */
 }
 
 /* heebo-800normal - latin */
@@ -85,7 +85,7 @@
     url('./files/heebo-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/heebo-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/heebo-latin-800.svg#heebo') format('svg'); /* Legacy iOS */
+    url('./files/heebo-latin-800.svg#Heebo') format('svg'); /* Legacy iOS */
 }
 
 /* heebo-900normal - latin */
@@ -100,6 +100,6 @@
     url('./files/heebo-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/heebo-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-900.woff') format('woff'), /* Modern Browsers */
-    url('./files/heebo-latin-900.svg#heebo') format('svg'); /* Legacy iOS */
+    url('./files/heebo-latin-900.svg#Heebo') format('svg'); /* Legacy iOS */
 }
 

@@ -10,7 +10,7 @@
     url('./files/glegoo-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/glegoo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/glegoo-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/glegoo-latin-400.svg#glegoo') format('svg'); /* Legacy iOS */
+    url('./files/glegoo-latin-400.svg#Glegoo') format('svg'); /* Legacy iOS */
 }
 
 /* glegoo-700normal - latin */
@@ -25,6 +25,6 @@
     url('./files/glegoo-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/glegoo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/glegoo-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/glegoo-latin-700.svg#glegoo') format('svg'); /* Legacy iOS */
+    url('./files/glegoo-latin-700.svg#Glegoo') format('svg'); /* Legacy iOS */
 }
 

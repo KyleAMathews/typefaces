@@ -10,7 +10,7 @@
     url('./files/linden-hill-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/linden-hill-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/linden-hill-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/linden-hill-latin-400.svg#linden-hill') format('svg'); /* Legacy iOS */
+    url('./files/linden-hill-latin-400.svg#LindenHill') format('svg'); /* Legacy iOS */
 }
 
 /* linden-hill-400italic - latin */
@@ -25,6 +25,6 @@
     url('./files/linden-hill-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/linden-hill-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/linden-hill-latin-400italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/linden-hill-latin-400italic.svg#linden-hill') format('svg'); /* Legacy iOS */
+    url('./files/linden-hill-latin-400italic.svg#LindenHill') format('svg'); /* Legacy iOS */
 }
 

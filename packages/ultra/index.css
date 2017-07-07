@@ -10,6 +10,6 @@
     url('./files/ultra-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/ultra-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/ultra-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/ultra-latin-400.svg#ultra') format('svg'); /* Legacy iOS */
+    url('./files/ultra-latin-400.svg#Ultra') format('svg'); /* Legacy iOS */
 }
 

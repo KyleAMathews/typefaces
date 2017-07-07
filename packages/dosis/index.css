@@ -10,7 +10,7 @@
     url('./files/dosis-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/dosis-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/dosis-latin-200.svg#dosis') format('svg'); /* Legacy iOS */
+    url('./files/dosis-latin-200.svg#Dosis') format('svg'); /* Legacy iOS */
 }
 
 /* dosis-300normal - latin */
@@ -25,7 +25,7 @@
     url('./files/dosis-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/dosis-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/dosis-latin-300.svg#dosis') format('svg'); /* Legacy iOS */
+    url('./files/dosis-latin-300.svg#Dosis') format('svg'); /* Legacy iOS */
 }
 
 /* dosis-400normal - latin */
@@ -40,7 +40,7 @@
     url('./files/dosis-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/dosis-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/dosis-latin-400.svg#dosis') format('svg'); /* Legacy iOS */
+    url('./files/dosis-latin-400.svg#Dosis') format('svg'); /* Legacy iOS */
 }
 
 /* dosis-500normal - latin */
@@ -55,7 +55,7 @@
     url('./files/dosis-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/dosis-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/dosis-latin-500.svg#dosis') format('svg'); /* Legacy iOS */
+    url('./files/dosis-latin-500.svg#Dosis') format('svg'); /* Legacy iOS */
 }
 
 /* dosis-600normal - latin */
@@ -70,7 +70,7 @@
     url('./files/dosis-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/dosis-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/dosis-latin-600.svg#dosis') format('svg'); /* Legacy iOS */
+    url('./files/dosis-latin-600.svg#Dosis') format('svg'); /* Legacy iOS */
 }
 
 /* dosis-700normal - latin */
@@ -85,7 +85,7 @@
     url('./files/dosis-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/dosis-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/dosis-latin-700.svg#dosis') format('svg'); /* Legacy iOS */
+    url('./files/dosis-latin-700.svg#Dosis') format('svg'); /* Legacy iOS */
 }
 
 /* dosis-800normal - latin */
@@ -100,6 +100,6 @@
     url('./files/dosis-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/dosis-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/dosis-latin-800.svg#dosis') format('svg'); /* Legacy iOS */
+    url('./files/dosis-latin-800.svg#Dosis') format('svg'); /* Legacy iOS */
 }
 

@@ -10,7 +10,7 @@
     url('./files/unkempt-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/unkempt-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/unkempt-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/unkempt-latin-400.svg#unkempt') format('svg'); /* Legacy iOS */
+    url('./files/unkempt-latin-400.svg#Unkempt') format('svg'); /* Legacy iOS */
 }
 
 /* unkempt-700normal - latin */
@@ -25,6 +25,6 @@
     url('./files/unkempt-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/unkempt-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/unkempt-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/unkempt-latin-700.svg#unkempt') format('svg'); /* Legacy iOS */
+    url('./files/unkempt-latin-700.svg#Unkempt') format('svg'); /* Legacy iOS */
 }
 

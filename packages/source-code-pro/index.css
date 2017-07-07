@@ -10,22 +10,7 @@
     url('./files/source-code-pro-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/source-code-pro-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-code-pro-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/source-code-pro-latin-200.svg#source-code-pro') format('svg'); /* Legacy iOS */
-}
-
-/* source-code-pro-400normal - latin */
-@font-face {
-  font-family: 'Source Code Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: url('./files/source-code-pro-latin-400.eot'); /* IE9 Compat Modes */
-  src:
-    local('Source Code Pro Regular '),
-    local('Source Code Pro-Regular'),
-    url('./files/source-code-pro-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/source-code-pro-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/source-code-pro-latin-400.svg#source-code-pro') format('svg'); /* Legacy iOS */
+    url('./files/source-code-pro-latin-200.svg#SourceCodePro') format('svg'); /* Legacy iOS */
 }
 
 /* source-code-pro-300normal - latin */
@@ -40,7 +25,22 @@
     url('./files/source-code-pro-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/source-code-pro-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-code-pro-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/source-code-pro-latin-300.svg#source-code-pro') format('svg'); /* Legacy iOS */
+    url('./files/source-code-pro-latin-300.svg#SourceCodePro') format('svg'); /* Legacy iOS */
+}
+
+/* source-code-pro-400normal - latin */
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/source-code-pro-latin-400.eot'); /* IE9 Compat Modes */
+  src:
+    local('Source Code Pro Regular '),
+    local('Source Code Pro-Regular'),
+    url('./files/source-code-pro-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/source-code-pro-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-code-pro-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/source-code-pro-latin-400.svg#SourceCodePro') format('svg'); /* Legacy iOS */
 }
 
 /* source-code-pro-500normal - latin */
@@ -55,22 +55,7 @@
     url('./files/source-code-pro-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/source-code-pro-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-code-pro-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/source-code-pro-latin-500.svg#source-code-pro') format('svg'); /* Legacy iOS */
-}
-
-/* source-code-pro-700normal - latin */
-@font-face {
-  font-family: 'Source Code Pro';
-  font-style: normal;
-  font-weight: 700;
-  src: url('./files/source-code-pro-latin-700.eot'); /* IE9 Compat Modes */
-  src:
-    local('Source Code Pro Bold '),
-    local('Source Code Pro-Bold'),
-    url('./files/source-code-pro-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('./files/source-code-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/source-code-pro-latin-700.svg#source-code-pro') format('svg'); /* Legacy iOS */
+    url('./files/source-code-pro-latin-500.svg#SourceCodePro') format('svg'); /* Legacy iOS */
 }
 
 /* source-code-pro-600normal - latin */
@@ -85,7 +70,22 @@
     url('./files/source-code-pro-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/source-code-pro-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-code-pro-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/source-code-pro-latin-600.svg#source-code-pro') format('svg'); /* Legacy iOS */
+    url('./files/source-code-pro-latin-600.svg#SourceCodePro') format('svg'); /* Legacy iOS */
+}
+
+/* source-code-pro-700normal - latin */
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/source-code-pro-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Source Code Pro Bold '),
+    local('Source Code Pro-Bold'),
+    url('./files/source-code-pro-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/source-code-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-code-pro-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/source-code-pro-latin-700.svg#SourceCodePro') format('svg'); /* Legacy iOS */
 }
 
 /* source-code-pro-900normal - latin */
@@ -100,6 +100,6 @@
     url('./files/source-code-pro-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/source-code-pro-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-code-pro-latin-900.woff') format('woff'), /* Modern Browsers */
-    url('./files/source-code-pro-latin-900.svg#source-code-pro') format('svg'); /* Legacy iOS */
+    url('./files/source-code-pro-latin-900.svg#SourceCodePro') format('svg'); /* Legacy iOS */
 }
 

@@ -10,7 +10,7 @@
     url('./files/fira-mono-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/fira-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fira-mono-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/fira-mono-latin-400.svg#fira-mono') format('svg'); /* Legacy iOS */
+    url('./files/fira-mono-latin-400.svg#FiraMono') format('svg'); /* Legacy iOS */
 }
 
 /* fira-mono-500normal - latin */
@@ -25,7 +25,7 @@
     url('./files/fira-mono-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/fira-mono-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fira-mono-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/fira-mono-latin-500.svg#fira-mono') format('svg'); /* Legacy iOS */
+    url('./files/fira-mono-latin-500.svg#FiraMono') format('svg'); /* Legacy iOS */
 }
 
 /* fira-mono-700normal - latin */
@@ -40,6 +40,6 @@
     url('./files/fira-mono-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/fira-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fira-mono-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/fira-mono-latin-700.svg#fira-mono') format('svg'); /* Legacy iOS */
+    url('./files/fira-mono-latin-700.svg#FiraMono') format('svg'); /* Legacy iOS */
 }
 

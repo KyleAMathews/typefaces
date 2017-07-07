@@ -10,6 +10,6 @@
     url('./files/donegal-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/donegal-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/donegal-one-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/donegal-one-latin-400.svg#donegal-one') format('svg'); /* Legacy iOS */
+    url('./files/donegal-one-latin-400.svg#DonegalOne') format('svg'); /* Legacy iOS */
 }
 

@@ -10,7 +10,7 @@
     url('./files/yanone-kaffeesatz-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/yanone-kaffeesatz-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yanone-kaffeesatz-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/yanone-kaffeesatz-latin-200.svg#yanone-kaffeesatz') format('svg'); /* Legacy iOS */
+    url('./files/yanone-kaffeesatz-latin-200.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */
 }
 
 /* yanone-kaffeesatz-300normal - latin */
@@ -25,7 +25,7 @@
     url('./files/yanone-kaffeesatz-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/yanone-kaffeesatz-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yanone-kaffeesatz-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/yanone-kaffeesatz-latin-300.svg#yanone-kaffeesatz') format('svg'); /* Legacy iOS */
+    url('./files/yanone-kaffeesatz-latin-300.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */
 }
 
 /* yanone-kaffeesatz-400normal - latin */
@@ -40,7 +40,7 @@
     url('./files/yanone-kaffeesatz-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/yanone-kaffeesatz-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yanone-kaffeesatz-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/yanone-kaffeesatz-latin-400.svg#yanone-kaffeesatz') format('svg'); /* Legacy iOS */
+    url('./files/yanone-kaffeesatz-latin-400.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */
 }
 
 /* yanone-kaffeesatz-700normal - latin */
@@ -55,6 +55,6 @@
     url('./files/yanone-kaffeesatz-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/yanone-kaffeesatz-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yanone-kaffeesatz-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/yanone-kaffeesatz-latin-700.svg#yanone-kaffeesatz') format('svg'); /* Legacy iOS */
+    url('./files/yanone-kaffeesatz-latin-700.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */
 }
 
