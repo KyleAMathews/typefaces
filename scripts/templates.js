@@ -1,7 +1,7 @@
 const _ = require(`lodash`)
 
 exports.packageJson = _.template(
-`
+  `
 {
   "name": "typeface-<%= typefaceId %>",
   "version": "0.0.0",
@@ -21,7 +21,7 @@ exports.packageJson = _.template(
 )
 
 exports.fontFace = _.template(
-`/* <%= typefaceId %>-<%= weight %><%= styleWithNormal %> - latin */
+  `/* <%= typefaceId %>-<%= weight %><%= styleWithNormal %> - latin */
 @font-face {
   font-family: '<%= typefaceName %>';
   font-style: <%= styleWithNormal %>;
@@ -33,14 +33,14 @@ exports.fontFace = _.template(
     url('<%= eotPath %>?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('<%= woff2Path %>') format('woff2'), /* Super Modern Browsers */
     url('<%= woffPath %>') format('woff'), /* Modern Browsers */
-    url('<%= svgPath %>#<%= typefaceId %>') format('svg'); /* Legacy iOS */
+    url('<%= svgPath %>#<%= _.upperFirst(_.camelCase(typefaceId)) %>') format('svg'); /* Legacy iOS */
 }
 
 `
 )
 
 exports.readme = _.template(
-`
+  `
 # typeface-<%= typefaceId %>
 
 The CSS and web font files to easily self-host “<%= typefaceName %>”.
