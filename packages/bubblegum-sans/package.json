@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-bubblegum-sans",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Bubblegum Sans typeface",
   "main": "index.css",
   "keywords": [

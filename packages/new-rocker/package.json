@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-new-rocker",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "New Rocker typeface",
   "main": "index.css",
   "keywords": [

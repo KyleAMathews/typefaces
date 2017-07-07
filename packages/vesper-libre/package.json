@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-vesper-libre",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Vesper Libre typeface",
   "main": "index.css",
   "keywords": [

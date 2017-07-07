@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-source-code-pro",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Source Code Pro typeface",
   "main": "index.css",
   "keywords": [

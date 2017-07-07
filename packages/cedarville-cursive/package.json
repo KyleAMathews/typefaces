@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-cedarville-cursive",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Cedarville Cursive typeface",
   "main": "index.css",
   "keywords": [

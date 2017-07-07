@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-mogra",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Mogra typeface",
   "main": "index.css",
   "keywords": [

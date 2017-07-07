@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-fredoka-one",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Fredoka One typeface",
   "main": "index.css",
   "keywords": [

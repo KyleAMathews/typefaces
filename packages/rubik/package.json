@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-rubik",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Rubik typeface",
   "main": "index.css",
   "keywords": [

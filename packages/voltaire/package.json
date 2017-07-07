@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-voltaire",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Voltaire typeface",
   "main": "index.css",
   "keywords": [

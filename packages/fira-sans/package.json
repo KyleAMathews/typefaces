@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-fira-sans",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Fira Sans typeface",
   "main": "index.css",
   "keywords": [

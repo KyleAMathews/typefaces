@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-baloo",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Baloo typeface",
   "main": "index.css",
   "keywords": [

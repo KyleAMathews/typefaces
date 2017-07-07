@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-viga",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Viga typeface",
   "main": "index.css",
   "keywords": [

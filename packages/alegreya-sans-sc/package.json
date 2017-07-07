@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-alegreya-sans-sc",
-  "version": "0.0.0",
+  "version": "0.0.31",
   "description": "Alegreya Sans SC typeface",
   "main": "index.css",
   "keywords": [
