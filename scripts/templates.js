@@ -25,6 +25,7 @@ exports.fontFace = _.template(
 @font-face {
   font-family: '<%= typefaceName %>';
   font-style: <%= styleWithNormal %>;
+  font-display: swap;
   font-weight: <%= weight %>;
   src: url('<%= eotPath %>'); /* IE9 Compat Modes */
   src:
