@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: normal;
+  font-display: swap;
   font-weight: 200;
   src: url('./files/titillium-web-latin-200.eot'); /* IE9 Compat Modes */
   src:
@@ -17,6 +18,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: italic;
+  font-display: swap;
   font-weight: 200;
   src: url('./files/titillium-web-latin-200italic.eot'); /* IE9 Compat Modes */
   src:
@@ -32,6 +34,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
   src: url('./files/titillium-web-latin-300.eot'); /* IE9 Compat Modes */
   src:
@@ -47,6 +50,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: italic;
+  font-display: swap;
   font-weight: 300;
   src: url('./files/titillium-web-latin-300italic.eot'); /* IE9 Compat Modes */
   src:
@@ -62,6 +66,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/titillium-web-latin-400.eot'); /* IE9 Compat Modes */
   src:
@@ -77,6 +82,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: italic;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/titillium-web-latin-400italic.eot'); /* IE9 Compat Modes */
   src:
@@ -92,6 +98,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: normal;
+  font-display: swap;
   font-weight: 600;
   src: url('./files/titillium-web-latin-600.eot'); /* IE9 Compat Modes */
   src:
@@ -107,6 +114,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: italic;
+  font-display: swap;
   font-weight: 600;
   src: url('./files/titillium-web-latin-600italic.eot'); /* IE9 Compat Modes */
   src:
@@ -122,6 +130,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
   src: url('./files/titillium-web-latin-700.eot'); /* IE9 Compat Modes */
   src:
@@ -137,6 +146,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: italic;
+  font-display: swap;
   font-weight: 700;
   src: url('./files/titillium-web-latin-700italic.eot'); /* IE9 Compat Modes */
   src:
@@ -152,6 +162,7 @@
 @font-face {
   font-family: 'Titillium Web';
   font-style: normal;
+  font-display: swap;
   font-weight: 900;
   src: url('./files/titillium-web-latin-900.eot'); /* IE9 Compat Modes */
   src:

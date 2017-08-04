@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-ubuntu",
-  "version": "0.0.31",
+  "version": "0.0.0",
   "description": "Ubuntu typeface",
   "main": "index.css",
   "keywords": [

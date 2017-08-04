@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Archivo Narrow';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/archivo-narrow-latin-400.eot'); /* IE9 Compat Modes */
   src:
@@ -17,6 +18,7 @@
 @font-face {
   font-family: 'Archivo Narrow';
   font-style: italic;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/archivo-narrow-latin-400italic.eot'); /* IE9 Compat Modes */
   src:
@@ -28,10 +30,75 @@
     url('./files/archivo-narrow-latin-400italic.svg#ArchivoNarrow') format('svg'); /* Legacy iOS */
 }
 
+/* archivo-narrow-500normal - latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url('./files/archivo-narrow-latin-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Archivo Narrow Medium '),
+    local('Archivo Narrow-Medium'),
+    url('./files/archivo-narrow-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/archivo-narrow-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-narrow-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/archivo-narrow-latin-500.svg#ArchivoNarrow') format('svg'); /* Legacy iOS */
+}
+
+/* archivo-narrow-500italic - latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: url('./files/archivo-narrow-latin-500italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Archivo Narrow Medium italic'),
+    local('Archivo Narrow-Mediumitalic'),
+    url('./files/archivo-narrow-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/archivo-narrow-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-narrow-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/archivo-narrow-latin-500italic.svg#ArchivoNarrow') format('svg'); /* Legacy iOS */
+}
+
+/* archivo-narrow-600normal - latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url('./files/archivo-narrow-latin-600.eot'); /* IE9 Compat Modes */
+  src:
+    local('Archivo Narrow SemiBold '),
+    local('Archivo Narrow-SemiBold'),
+    url('./files/archivo-narrow-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/archivo-narrow-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-narrow-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/archivo-narrow-latin-600.svg#ArchivoNarrow') format('svg'); /* Legacy iOS */
+}
+
+/* archivo-narrow-600italic - latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src: url('./files/archivo-narrow-latin-600italic.eot'); /* IE9 Compat Modes */
+  src:
+    local('Archivo Narrow SemiBold italic'),
+    local('Archivo Narrow-SemiBolditalic'),
+    url('./files/archivo-narrow-latin-600italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/archivo-narrow-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-narrow-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/archivo-narrow-latin-600italic.svg#ArchivoNarrow') format('svg'); /* Legacy iOS */
+}
+
 /* archivo-narrow-700normal - latin */
 @font-face {
   font-family: 'Archivo Narrow';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
   src: url('./files/archivo-narrow-latin-700.eot'); /* IE9 Compat Modes */
   src:
@@ -47,6 +114,7 @@
 @font-face {
   font-family: 'Archivo Narrow';
   font-style: italic;
+  font-display: swap;
   font-weight: 700;
   src: url('./files/archivo-narrow-latin-700italic.eot'); /* IE9 Compat Modes */
   src:

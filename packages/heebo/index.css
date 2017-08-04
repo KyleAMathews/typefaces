@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Heebo';
   font-style: normal;
+  font-display: swap;
   font-weight: 100;
   src: url('./files/heebo-latin-100.eot'); /* IE9 Compat Modes */
   src:
@@ -17,6 +18,7 @@
 @font-face {
   font-family: 'Heebo';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
   src: url('./files/heebo-latin-300.eot'); /* IE9 Compat Modes */
   src:
@@ -32,6 +34,7 @@
 @font-face {
   font-family: 'Heebo';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/heebo-latin-400.eot'); /* IE9 Compat Modes */
   src:
@@ -47,6 +50,7 @@
 @font-face {
   font-family: 'Heebo';
   font-style: normal;
+  font-display: swap;
   font-weight: 500;
   src: url('./files/heebo-latin-500.eot'); /* IE9 Compat Modes */
   src:
@@ -62,6 +66,7 @@
 @font-face {
   font-family: 'Heebo';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
   src: url('./files/heebo-latin-700.eot'); /* IE9 Compat Modes */
   src:
@@ -77,6 +82,7 @@
 @font-face {
   font-family: 'Heebo';
   font-style: normal;
+  font-display: swap;
   font-weight: 800;
   src: url('./files/heebo-latin-800.eot'); /* IE9 Compat Modes */
   src:
@@ -92,6 +98,7 @@
 @font-face {
   font-family: 'Heebo';
   font-style: normal;
+  font-display: swap;
   font-weight: 900;
   src: url('./files/heebo-latin-900.eot'); /* IE9 Compat Modes */
   src:
