@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-raleway",
-  "version": "0.0.0",
+  "version": "0.0.32",
   "description": "Raleway typeface",
   "main": "index.css",
   "keywords": [

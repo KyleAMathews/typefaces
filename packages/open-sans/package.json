@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-open-sans",
-  "version": "0.0.0",
+  "version": "0.0.32",
   "description": "Open Sans typeface",
   "main": "index.css",
   "keywords": [

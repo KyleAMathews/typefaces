@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-catamaran",
-  "version": "0.0.0",
+  "version": "0.0.32",
   "description": "Catamaran typeface",
   "main": "index.css",
   "keywords": [

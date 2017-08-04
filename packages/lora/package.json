@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-lora",
-  "version": "0.0.0",
+  "version": "0.0.32",
   "description": "Lora typeface",
   "main": "index.css",
   "keywords": [
