@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-herr-von-muellerhoff",
-  "version": "0.0.0",
+  "version": "0.0.33",
   "description": "Herr Von Muellerhoff typeface",
   "main": "index.css",
   "keywords": [

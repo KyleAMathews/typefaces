@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-eczar",
-  "version": "0.0.0",
+  "version": "0.0.33",
   "description": "Eczar typeface",
   "main": "index.css",
   "keywords": [

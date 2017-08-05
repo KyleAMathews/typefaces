@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-sansita",
-  "version": "0.0.0",
+  "version": "0.0.33",
   "description": "Sansita typeface",
   "main": "index.css",
   "keywords": [
