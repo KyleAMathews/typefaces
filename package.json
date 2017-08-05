@@ -1,20 +1,20 @@
 {
   "devDependencies": {
     "eslint": "^3.17.1",
-    "lerna": "^2.0.0-beta.38"
+    "lerna": "^2.0.0"
   },
   "dependencies": {
     "async": "^2.1.5",
     "bluebird": "^3.5.0",
     "fs-extra": "^2.0.0",
-    "glob": "^7.1.1",
+    "glob": "^7.1.2",
     "lodash": "^4.17.4",
     "md5-dir": "^0.1.0",
     "request": "^2.81.0",
-    "request-promise": "^4.1.1",
-    "shelljs": "^0.7.7",
+    "request-promise": "^4.2.1",
+    "shelljs": "^0.7.8",
     "single-line-log": "^1.1.2",
-    "sync-request": "^4.0.1",
+    "sync-request": "^4.1.0",
     "ttf2woff2": "^2.0.3"
   }
 }
