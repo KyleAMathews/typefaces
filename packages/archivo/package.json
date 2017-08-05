@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-archivo",
+  "version": "0.0.0",
+  "description": "Archivo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "archivo"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-asap-condensed",
+  "version": "0.0.0",
+  "description": "Asap Condensed typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "asap-condensed"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

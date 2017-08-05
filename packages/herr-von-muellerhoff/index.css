@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Herr Von Muellerhoff';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/herr-von-muellerhoff-latin-400.eot'); /* IE9 Compat Modes */
   src:

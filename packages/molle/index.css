@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Molle';
   font-style: italic;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/molle-latin-400italic.eot'); /* IE9 Compat Modes */
   src:

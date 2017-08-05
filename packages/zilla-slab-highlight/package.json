@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-zilla-slab-highlight",
+  "version": "0.0.0",
+  "description": "Zilla Slab Highlight typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "zilla-slab-highlight"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

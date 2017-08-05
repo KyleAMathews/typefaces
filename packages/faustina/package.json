@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-faustina",
+  "version": "0.0.0",
+  "description": "Faustina typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "faustina"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

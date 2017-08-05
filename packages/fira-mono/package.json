@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-fira-mono",
-  "version": "0.0.31",
+  "version": "0.0.0",
   "description": "Fira Mono typeface",
   "main": "index.css",
   "keywords": [

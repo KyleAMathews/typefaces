@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Khula';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
   src: url('./files/khula-latin-300.eot'); /* IE9 Compat Modes */
   src:
@@ -17,6 +18,7 @@
 @font-face {
   font-family: 'Khula';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/khula-latin-400.eot'); /* IE9 Compat Modes */
   src:
@@ -32,6 +34,7 @@
 @font-face {
   font-family: 'Khula';
   font-style: normal;
+  font-display: swap;
   font-weight: 600;
   src: url('./files/khula-latin-600.eot'); /* IE9 Compat Modes */
   src:
@@ -47,6 +50,7 @@
 @font-face {
   font-family: 'Khula';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
   src: url('./files/khula-latin-700.eot'); /* IE9 Compat Modes */
   src:
@@ -62,6 +66,7 @@
 @font-face {
   font-family: 'Khula';
   font-style: normal;
+  font-display: swap;
   font-weight: 800;
   src: url('./files/khula-latin-800.eot'); /* IE9 Compat Modes */
   src:

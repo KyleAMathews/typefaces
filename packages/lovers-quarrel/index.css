@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Lovers Quarrel';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/lovers-quarrel-latin-400.eot'); /* IE9 Compat Modes */
   src:

@@ -1,7 +1,24 @@
+/* mada-200normal - latin */
+@font-face {
+  font-family: 'Mada';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url('./files/mada-latin-200.eot'); /* IE9 Compat Modes */
+  src:
+    local('Mada Extra Light '),
+    local('Mada-Extra Light'),
+    url('./files/mada-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/mada-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mada-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-200.svg#Mada') format('svg'); /* Legacy iOS */
+}
+
 /* mada-300normal - latin */
 @font-face {
   font-family: 'Mada';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
   src: url('./files/mada-latin-300.eot'); /* IE9 Compat Modes */
   src:
@@ -17,6 +34,7 @@
 @font-face {
   font-family: 'Mada';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/mada-latin-400.eot'); /* IE9 Compat Modes */
   src:
@@ -32,6 +50,7 @@
 @font-face {
   font-family: 'Mada';
   font-style: normal;
+  font-display: swap;
   font-weight: 500;
   src: url('./files/mada-latin-500.eot'); /* IE9 Compat Modes */
   src:
@@ -43,10 +62,43 @@
     url('./files/mada-latin-500.svg#Mada') format('svg'); /* Legacy iOS */
 }
 
+/* mada-600normal - latin */
+@font-face {
+  font-family: 'Mada';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url('./files/mada-latin-600.eot'); /* IE9 Compat Modes */
+  src:
+    local('Mada SemiBold '),
+    local('Mada-SemiBold'),
+    url('./files/mada-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/mada-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mada-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-600.svg#Mada') format('svg'); /* Legacy iOS */
+}
+
+/* mada-700normal - latin */
+@font-face {
+  font-family: 'Mada';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('./files/mada-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Mada Bold '),
+    local('Mada-Bold'),
+    url('./files/mada-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/mada-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mada-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-700.svg#Mada') format('svg'); /* Legacy iOS */
+}
+
 /* mada-900normal - latin */
 @font-face {
   font-family: 'Mada';
   font-style: normal;
+  font-display: swap;
   font-weight: 900;
   src: url('./files/mada-latin-900.eot'); /* IE9 Compat Modes */
   src:

@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-merriweather",
-  "version": "0.0.32",
+  "version": "0.0.0",
   "description": "Merriweather typeface",
   "main": "index.css",
   "keywords": [

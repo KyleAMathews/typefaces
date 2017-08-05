@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Hanuman';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/hanuman-khmer-400.eot'); /* IE9 Compat Modes */
   src:
@@ -17,6 +18,7 @@
 @font-face {
   font-family: 'Hanuman';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
   src: url('./files/hanuman-khmer-700.eot'); /* IE9 Compat Modes */
   src:

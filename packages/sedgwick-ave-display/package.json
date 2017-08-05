@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-sedgwick-ave-display",
+  "version": "0.0.0",
+  "description": "Sedgwick Ave Display typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "sedgwick-ave-display"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

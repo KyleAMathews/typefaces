@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Geostar Fill';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/geostar-fill-latin-400.eot'); /* IE9 Compat Modes */
   src:

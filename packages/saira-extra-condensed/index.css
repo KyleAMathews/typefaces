@@ -1,0 +1,144 @@
+/* saira-extra-condensed-100normal - latin */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: url('./files/saira-extra-condensed-latin-100.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Extra Condensed Thin '),
+    local('Saira Extra Condensed-Thin'),
+    url('./files/saira-extra-condensed-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-extra-condensed-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-extra-condensed-latin-100.svg#SairaExtraCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-extra-condensed-200normal - latin */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url('./files/saira-extra-condensed-latin-200.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Extra Condensed Extra Light '),
+    local('Saira Extra Condensed-Extra Light'),
+    url('./files/saira-extra-condensed-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-extra-condensed-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-extra-condensed-latin-200.svg#SairaExtraCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-extra-condensed-300normal - latin */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url('./files/saira-extra-condensed-latin-300.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Extra Condensed Light '),
+    local('Saira Extra Condensed-Light'),
+    url('./files/saira-extra-condensed-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-extra-condensed-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-extra-condensed-latin-300.svg#SairaExtraCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-extra-condensed-400normal - latin */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/saira-extra-condensed-latin-400.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Extra Condensed Regular '),
+    local('Saira Extra Condensed-Regular'),
+    url('./files/saira-extra-condensed-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-extra-condensed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-extra-condensed-latin-400.svg#SairaExtraCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-extra-condensed-500normal - latin */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url('./files/saira-extra-condensed-latin-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Extra Condensed Medium '),
+    local('Saira Extra Condensed-Medium'),
+    url('./files/saira-extra-condensed-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-extra-condensed-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-extra-condensed-latin-500.svg#SairaExtraCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-extra-condensed-600normal - latin */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url('./files/saira-extra-condensed-latin-600.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Extra Condensed SemiBold '),
+    local('Saira Extra Condensed-SemiBold'),
+    url('./files/saira-extra-condensed-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-extra-condensed-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-extra-condensed-latin-600.svg#SairaExtraCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-extra-condensed-700normal - latin */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('./files/saira-extra-condensed-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Extra Condensed Bold '),
+    local('Saira Extra Condensed-Bold'),
+    url('./files/saira-extra-condensed-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-extra-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-extra-condensed-latin-700.svg#SairaExtraCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-extra-condensed-800normal - latin */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url('./files/saira-extra-condensed-latin-800.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Extra Condensed ExtraBold '),
+    local('Saira Extra Condensed-ExtraBold'),
+    url('./files/saira-extra-condensed-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-extra-condensed-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-extra-condensed-latin-800.svg#SairaExtraCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-extra-condensed-900normal - latin */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url('./files/saira-extra-condensed-latin-900.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Extra Condensed Black '),
+    local('Saira Extra Condensed-Black'),
+    url('./files/saira-extra-condensed-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-extra-condensed-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-extra-condensed-latin-900.svg#SairaExtraCondensed') format('svg'); /* Legacy iOS */
+}
+

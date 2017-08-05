@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Almendra SC';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/almendra-sc-latin-400.eot'); /* IE9 Compat Modes */
   src:

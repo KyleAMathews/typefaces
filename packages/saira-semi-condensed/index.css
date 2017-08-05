@@ -1,0 +1,144 @@
+/* saira-semi-condensed-100normal - latin */
+@font-face {
+  font-family: 'Saira Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: url('./files/saira-semi-condensed-latin-100.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Semi Condensed Thin '),
+    local('Saira Semi Condensed-Thin'),
+    url('./files/saira-semi-condensed-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-semi-condensed-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-semi-condensed-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-semi-condensed-latin-100.svg#SairaSemiCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-semi-condensed-200normal - latin */
+@font-face {
+  font-family: 'Saira Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url('./files/saira-semi-condensed-latin-200.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Semi Condensed Extra Light '),
+    local('Saira Semi Condensed-Extra Light'),
+    url('./files/saira-semi-condensed-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-semi-condensed-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-semi-condensed-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-semi-condensed-latin-200.svg#SairaSemiCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-semi-condensed-300normal - latin */
+@font-face {
+  font-family: 'Saira Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url('./files/saira-semi-condensed-latin-300.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Semi Condensed Light '),
+    local('Saira Semi Condensed-Light'),
+    url('./files/saira-semi-condensed-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-semi-condensed-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-semi-condensed-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-semi-condensed-latin-300.svg#SairaSemiCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-semi-condensed-400normal - latin */
+@font-face {
+  font-family: 'Saira Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/saira-semi-condensed-latin-400.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Semi Condensed Regular '),
+    local('Saira Semi Condensed-Regular'),
+    url('./files/saira-semi-condensed-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-semi-condensed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-semi-condensed-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-semi-condensed-latin-400.svg#SairaSemiCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-semi-condensed-500normal - latin */
+@font-face {
+  font-family: 'Saira Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url('./files/saira-semi-condensed-latin-500.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Semi Condensed Medium '),
+    local('Saira Semi Condensed-Medium'),
+    url('./files/saira-semi-condensed-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-semi-condensed-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-semi-condensed-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-semi-condensed-latin-500.svg#SairaSemiCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-semi-condensed-600normal - latin */
+@font-face {
+  font-family: 'Saira Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url('./files/saira-semi-condensed-latin-600.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Semi Condensed SemiBold '),
+    local('Saira Semi Condensed-SemiBold'),
+    url('./files/saira-semi-condensed-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-semi-condensed-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-semi-condensed-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-semi-condensed-latin-600.svg#SairaSemiCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-semi-condensed-700normal - latin */
+@font-face {
+  font-family: 'Saira Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('./files/saira-semi-condensed-latin-700.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Semi Condensed Bold '),
+    local('Saira Semi Condensed-Bold'),
+    url('./files/saira-semi-condensed-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-semi-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-semi-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-semi-condensed-latin-700.svg#SairaSemiCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-semi-condensed-800normal - latin */
+@font-face {
+  font-family: 'Saira Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url('./files/saira-semi-condensed-latin-800.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Semi Condensed ExtraBold '),
+    local('Saira Semi Condensed-ExtraBold'),
+    url('./files/saira-semi-condensed-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-semi-condensed-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-semi-condensed-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-semi-condensed-latin-800.svg#SairaSemiCondensed') format('svg'); /* Legacy iOS */
+}
+
+/* saira-semi-condensed-900normal - latin */
+@font-face {
+  font-family: 'Saira Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url('./files/saira-semi-condensed-latin-900.eot'); /* IE9 Compat Modes */
+  src:
+    local('Saira Semi Condensed Black '),
+    local('Saira Semi Condensed-Black'),
+    url('./files/saira-semi-condensed-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./files/saira-semi-condensed-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-semi-condensed-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-semi-condensed-latin-900.svg#SairaSemiCondensed') format('svg'); /* Legacy iOS */
+}
+

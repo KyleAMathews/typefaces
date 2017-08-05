@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-saira-semi-condensed",
+  "version": "0.0.0",
+  "description": "Saira Semi Condensed typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "saira-semi-condensed"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

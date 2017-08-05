@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Fasthand';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: url('./files/fasthand-khmer-400.eot'); /* IE9 Compat Modes */
   src:
