@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Wallpoet';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/wallpoet-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Wallpoet Regular '),
     local('Wallpoet-Regular'),
-    url('./files/wallpoet-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/wallpoet-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/wallpoet-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/wallpoet-latin-400.svg#Wallpoet') format('svg'); /* Legacy iOS */
 }
 

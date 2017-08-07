@@ -4,14 +4,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 100;
-  src: url('./files/rokkitt-latin-100.eot'); /* IE9 Compat Modes */
   src:
     local('Rokkitt Thin '),
     local('Rokkitt-Thin'),
-    url('./files/rokkitt-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rokkitt-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rokkitt-latin-100.woff') format('woff'), /* Modern Browsers */
-    url('./files/rokkitt-latin-100.svg#Rokkitt') format('svg'); /* Legacy iOS */
 }
 
 /* rokkitt-200normal - latin */
@@ -20,14 +17,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src: url('./files/rokkitt-latin-200.eot'); /* IE9 Compat Modes */
   src:
     local('Rokkitt Extra Light '),
     local('Rokkitt-Extra Light'),
-    url('./files/rokkitt-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rokkitt-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rokkitt-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/rokkitt-latin-200.svg#Rokkitt') format('svg'); /* Legacy iOS */
 }
 
 /* rokkitt-300normal - latin */
@@ -36,14 +30,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url('./files/rokkitt-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Rokkitt Light '),
     local('Rokkitt-Light'),
-    url('./files/rokkitt-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rokkitt-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rokkitt-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/rokkitt-latin-300.svg#Rokkitt') format('svg'); /* Legacy iOS */
 }
 
 /* rokkitt-400normal - latin */
@@ -52,14 +43,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('./files/rokkitt-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Rokkitt Regular '),
     local('Rokkitt-Regular'),
-    url('./files/rokkitt-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rokkitt-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rokkitt-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/rokkitt-latin-400.svg#Rokkitt') format('svg'); /* Legacy iOS */
 }
 
 /* rokkitt-500normal - latin */
@@ -68,14 +56,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url('./files/rokkitt-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Rokkitt Medium '),
     local('Rokkitt-Medium'),
-    url('./files/rokkitt-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rokkitt-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rokkitt-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/rokkitt-latin-500.svg#Rokkitt') format('svg'); /* Legacy iOS */
 }
 
 /* rokkitt-600normal - latin */
@@ -84,14 +69,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url('./files/rokkitt-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Rokkitt SemiBold '),
     local('Rokkitt-SemiBold'),
-    url('./files/rokkitt-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rokkitt-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rokkitt-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/rokkitt-latin-600.svg#Rokkitt') format('svg'); /* Legacy iOS */
 }
 
 /* rokkitt-700normal - latin */
@@ -100,14 +82,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url('./files/rokkitt-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Rokkitt Bold '),
     local('Rokkitt-Bold'),
-    url('./files/rokkitt-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rokkitt-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rokkitt-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/rokkitt-latin-700.svg#Rokkitt') format('svg'); /* Legacy iOS */
 }
 
 /* rokkitt-800normal - latin */
@@ -116,14 +95,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src: url('./files/rokkitt-latin-800.eot'); /* IE9 Compat Modes */
   src:
     local('Rokkitt ExtraBold '),
     local('Rokkitt-ExtraBold'),
-    url('./files/rokkitt-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rokkitt-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rokkitt-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/rokkitt-latin-800.svg#Rokkitt') format('svg'); /* Legacy iOS */
 }
 
 /* rokkitt-900normal - latin */
@@ -132,13 +108,10 @@
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src: url('./files/rokkitt-latin-900.eot'); /* IE9 Compat Modes */
   src:
     local('Rokkitt Black '),
     local('Rokkitt-Black'),
-    url('./files/rokkitt-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/rokkitt-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rokkitt-latin-900.woff') format('woff'), /* Modern Browsers */
-    url('./files/rokkitt-latin-900.svg#Rokkitt') format('svg'); /* Legacy iOS */
 }
 

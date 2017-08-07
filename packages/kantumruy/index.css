@@ -2,44 +2,38 @@
 @font-face {
   font-family: 'Kantumruy';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
-  src: url('./files/kantumruy-khmer-300.eot'); /* IE9 Compat Modes */
   src:
     local('Kantumruy Light '),
     local('Kantumruy-Light'),
-    url('./files/kantumruy-khmer-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/kantumruy-khmer-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kantumruy-khmer-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/kantumruy-khmer-300.svg#Kantumruy') format('svg'); /* Legacy iOS */
 }
 
 /* kantumruy-400normal - latin */
 @font-face {
   font-family: 'Kantumruy';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/kantumruy-khmer-400.eot'); /* IE9 Compat Modes */
   src:
     local('Kantumruy Regular '),
     local('Kantumruy-Regular'),
-    url('./files/kantumruy-khmer-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/kantumruy-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kantumruy-khmer-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/kantumruy-khmer-400.svg#Kantumruy') format('svg'); /* Legacy iOS */
 }
 
 /* kantumruy-700normal - latin */
 @font-face {
   font-family: 'Kantumruy';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/kantumruy-khmer-700.eot'); /* IE9 Compat Modes */
   src:
     local('Kantumruy Bold '),
     local('Kantumruy-Bold'),
-    url('./files/kantumruy-khmer-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/kantumruy-khmer-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kantumruy-khmer-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/kantumruy-khmer-700.svg#Kantumruy') format('svg'); /* Legacy iOS */
 }
 

@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-prompt",
-  "version": "0.0.33",
+  "version": "0.0.0",
   "description": "Prompt typeface",
   "main": "index.css",
   "keywords": [

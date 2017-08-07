@@ -2,29 +2,25 @@
 @font-face {
   font-family: 'Glegoo';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/glegoo-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Glegoo Regular '),
     local('Glegoo-Regular'),
-    url('./files/glegoo-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/glegoo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/glegoo-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/glegoo-latin-400.svg#Glegoo') format('svg'); /* Legacy iOS */
 }
 
 /* glegoo-700normal - latin */
 @font-face {
   font-family: 'Glegoo';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/glegoo-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Glegoo Bold '),
     local('Glegoo-Bold'),
-    url('./files/glegoo-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/glegoo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/glegoo-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/glegoo-latin-700.svg#Glegoo') format('svg'); /* Legacy iOS */
 }
 

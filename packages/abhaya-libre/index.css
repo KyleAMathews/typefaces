@@ -2,74 +2,64 @@
 @font-face {
   font-family: 'Abhaya Libre';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/abhaya-libre-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Abhaya Libre Regular '),
     local('Abhaya Libre-Regular'),
-    url('./files/abhaya-libre-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/abhaya-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/abhaya-libre-latin-400.svg#AbhayaLibre') format('svg'); /* Legacy iOS */
 }
 
 /* abhaya-libre-500normal - latin */
 @font-face {
   font-family: 'Abhaya Libre';
   font-style: normal;
+  font-display: swap;
   font-weight: 500;
-  src: url('./files/abhaya-libre-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Abhaya Libre Medium '),
     local('Abhaya Libre-Medium'),
-    url('./files/abhaya-libre-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/abhaya-libre-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/abhaya-libre-latin-500.svg#AbhayaLibre') format('svg'); /* Legacy iOS */
 }
 
 /* abhaya-libre-600normal - latin */
 @font-face {
   font-family: 'Abhaya Libre';
   font-style: normal;
+  font-display: swap;
   font-weight: 600;
-  src: url('./files/abhaya-libre-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Abhaya Libre SemiBold '),
     local('Abhaya Libre-SemiBold'),
-    url('./files/abhaya-libre-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/abhaya-libre-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/abhaya-libre-latin-600.svg#AbhayaLibre') format('svg'); /* Legacy iOS */
 }
 
 /* abhaya-libre-700normal - latin */
 @font-face {
   font-family: 'Abhaya Libre';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/abhaya-libre-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Abhaya Libre Bold '),
     local('Abhaya Libre-Bold'),
-    url('./files/abhaya-libre-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/abhaya-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/abhaya-libre-latin-700.svg#AbhayaLibre') format('svg'); /* Legacy iOS */
 }
 
 /* abhaya-libre-800normal - latin */
 @font-face {
   font-family: 'Abhaya Libre';
   font-style: normal;
+  font-display: swap;
   font-weight: 800;
-  src: url('./files/abhaya-libre-latin-800.eot'); /* IE9 Compat Modes */
   src:
     local('Abhaya Libre ExtraBold '),
     local('Abhaya Libre-ExtraBold'),
-    url('./files/abhaya-libre-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/abhaya-libre-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/abhaya-libre-latin-800.svg#AbhayaLibre') format('svg'); /* Legacy iOS */
 }
 

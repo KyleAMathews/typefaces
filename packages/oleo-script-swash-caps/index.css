@@ -2,29 +2,25 @@
 @font-face {
   font-family: 'Oleo Script Swash Caps';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/oleo-script-swash-caps-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Oleo Script Swash Caps Regular '),
     local('Oleo Script Swash Caps-Regular'),
-    url('./files/oleo-script-swash-caps-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/oleo-script-swash-caps-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/oleo-script-swash-caps-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/oleo-script-swash-caps-latin-400.svg#OleoScriptSwashCaps') format('svg'); /* Legacy iOS */
 }
 
 /* oleo-script-swash-caps-700normal - latin */
 @font-face {
   font-family: 'Oleo Script Swash Caps';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/oleo-script-swash-caps-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Oleo Script Swash Caps Bold '),
     local('Oleo Script Swash Caps-Bold'),
-    url('./files/oleo-script-swash-caps-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/oleo-script-swash-caps-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/oleo-script-swash-caps-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/oleo-script-swash-caps-latin-700.svg#OleoScriptSwashCaps') format('svg'); /* Legacy iOS */
 }
 

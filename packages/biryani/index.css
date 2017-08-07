@@ -2,104 +2,90 @@
 @font-face {
   font-family: 'Biryani';
   font-style: normal;
+  font-display: swap;
   font-weight: 200;
-  src: url('./files/biryani-latin-200.eot'); /* IE9 Compat Modes */
   src:
     local('Biryani Extra Light '),
     local('Biryani-Extra Light'),
-    url('./files/biryani-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biryani-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biryani-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/biryani-latin-200.svg#Biryani') format('svg'); /* Legacy iOS */
 }
 
 /* biryani-300normal - latin */
 @font-face {
   font-family: 'Biryani';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
-  src: url('./files/biryani-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Biryani Light '),
     local('Biryani-Light'),
-    url('./files/biryani-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biryani-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biryani-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/biryani-latin-300.svg#Biryani') format('svg'); /* Legacy iOS */
 }
 
 /* biryani-400normal - latin */
 @font-face {
   font-family: 'Biryani';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/biryani-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Biryani Regular '),
     local('Biryani-Regular'),
-    url('./files/biryani-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biryani-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biryani-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/biryani-latin-400.svg#Biryani') format('svg'); /* Legacy iOS */
 }
 
 /* biryani-600normal - latin */
 @font-face {
   font-family: 'Biryani';
   font-style: normal;
+  font-display: swap;
   font-weight: 600;
-  src: url('./files/biryani-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Biryani SemiBold '),
     local('Biryani-SemiBold'),
-    url('./files/biryani-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biryani-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biryani-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/biryani-latin-600.svg#Biryani') format('svg'); /* Legacy iOS */
 }
 
 /* biryani-700normal - latin */
 @font-face {
   font-family: 'Biryani';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/biryani-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Biryani Bold '),
     local('Biryani-Bold'),
-    url('./files/biryani-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biryani-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biryani-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/biryani-latin-700.svg#Biryani') format('svg'); /* Legacy iOS */
 }
 
 /* biryani-800normal - latin */
 @font-face {
   font-family: 'Biryani';
   font-style: normal;
+  font-display: swap;
   font-weight: 800;
-  src: url('./files/biryani-latin-800.eot'); /* IE9 Compat Modes */
   src:
     local('Biryani ExtraBold '),
     local('Biryani-ExtraBold'),
-    url('./files/biryani-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biryani-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biryani-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/biryani-latin-800.svg#Biryani') format('svg'); /* Legacy iOS */
 }
 
 /* biryani-900normal - latin */
 @font-face {
   font-family: 'Biryani';
   font-style: normal;
+  font-display: swap;
   font-weight: 900;
-  src: url('./files/biryani-latin-900.eot'); /* IE9 Compat Modes */
   src:
     local('Biryani Black '),
     local('Biryani-Black'),
-    url('./files/biryani-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biryani-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biryani-latin-900.woff') format('woff'), /* Modern Browsers */
-    url('./files/biryani-latin-900.svg#Biryani') format('svg'); /* Legacy iOS */
 }
 

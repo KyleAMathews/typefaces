@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Marck Script';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/marck-script-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Marck Script Regular '),
     local('Marck Script-Regular'),
-    url('./files/marck-script-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/marck-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/marck-script-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/marck-script-latin-400.svg#MarckScript') format('svg'); /* Legacy iOS */
 }
 

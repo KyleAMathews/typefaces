@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Doppio One';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/doppio-one-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Doppio One Regular '),
     local('Doppio One-Regular'),
-    url('./files/doppio-one-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/doppio-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/doppio-one-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/doppio-one-latin-400.svg#DoppioOne') format('svg'); /* Legacy iOS */
 }
 

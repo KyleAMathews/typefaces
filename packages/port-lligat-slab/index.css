@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Port Lligat Slab';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/port-lligat-slab-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Port Lligat Slab Regular '),
     local('Port Lligat Slab-Regular'),
-    url('./files/port-lligat-slab-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/port-lligat-slab-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/port-lligat-slab-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/port-lligat-slab-latin-400.svg#PortLligatSlab') format('svg'); /* Legacy iOS */
 }
 

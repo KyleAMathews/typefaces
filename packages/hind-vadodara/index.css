@@ -2,74 +2,64 @@
 @font-face {
   font-family: 'Hind Vadodara';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
-  src: url('./files/hind-vadodara-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Hind Vadodara Light '),
     local('Hind Vadodara-Light'),
-    url('./files/hind-vadodara-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/hind-vadodara-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-vadodara-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/hind-vadodara-latin-300.svg#HindVadodara') format('svg'); /* Legacy iOS */
 }
 
 /* hind-vadodara-400normal - latin */
 @font-face {
   font-family: 'Hind Vadodara';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/hind-vadodara-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Hind Vadodara Regular '),
     local('Hind Vadodara-Regular'),
-    url('./files/hind-vadodara-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/hind-vadodara-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-vadodara-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/hind-vadodara-latin-400.svg#HindVadodara') format('svg'); /* Legacy iOS */
 }
 
 /* hind-vadodara-500normal - latin */
 @font-face {
   font-family: 'Hind Vadodara';
   font-style: normal;
+  font-display: swap;
   font-weight: 500;
-  src: url('./files/hind-vadodara-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Hind Vadodara Medium '),
     local('Hind Vadodara-Medium'),
-    url('./files/hind-vadodara-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/hind-vadodara-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-vadodara-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/hind-vadodara-latin-500.svg#HindVadodara') format('svg'); /* Legacy iOS */
 }
 
 /* hind-vadodara-600normal - latin */
 @font-face {
   font-family: 'Hind Vadodara';
   font-style: normal;
+  font-display: swap;
   font-weight: 600;
-  src: url('./files/hind-vadodara-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Hind Vadodara SemiBold '),
     local('Hind Vadodara-SemiBold'),
-    url('./files/hind-vadodara-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/hind-vadodara-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-vadodara-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/hind-vadodara-latin-600.svg#HindVadodara') format('svg'); /* Legacy iOS */
 }
 
 /* hind-vadodara-700normal - latin */
 @font-face {
   font-family: 'Hind Vadodara';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/hind-vadodara-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Hind Vadodara Bold '),
     local('Hind Vadodara-Bold'),
-    url('./files/hind-vadodara-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/hind-vadodara-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-vadodara-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/hind-vadodara-latin-700.svg#HindVadodara') format('svg'); /* Legacy iOS */
 }
 

@@ -2,74 +2,64 @@
 @font-face {
   font-family: 'BioRhyme';
   font-style: normal;
+  font-display: swap;
   font-weight: 200;
-  src: url('./files/biorhyme-latin-200.eot'); /* IE9 Compat Modes */
   src:
     local('BioRhyme Extra Light '),
     local('BioRhyme-Extra Light'),
-    url('./files/biorhyme-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biorhyme-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biorhyme-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/biorhyme-latin-200.svg#Biorhyme') format('svg'); /* Legacy iOS */
 }
 
 /* biorhyme-300normal - latin */
 @font-face {
   font-family: 'BioRhyme';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
-  src: url('./files/biorhyme-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('BioRhyme Light '),
     local('BioRhyme-Light'),
-    url('./files/biorhyme-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biorhyme-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biorhyme-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/biorhyme-latin-300.svg#Biorhyme') format('svg'); /* Legacy iOS */
 }
 
 /* biorhyme-400normal - latin */
 @font-face {
   font-family: 'BioRhyme';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/biorhyme-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('BioRhyme Regular '),
     local('BioRhyme-Regular'),
-    url('./files/biorhyme-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biorhyme-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biorhyme-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/biorhyme-latin-400.svg#Biorhyme') format('svg'); /* Legacy iOS */
 }
 
 /* biorhyme-700normal - latin */
 @font-face {
   font-family: 'BioRhyme';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/biorhyme-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('BioRhyme Bold '),
     local('BioRhyme-Bold'),
-    url('./files/biorhyme-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biorhyme-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biorhyme-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/biorhyme-latin-700.svg#Biorhyme') format('svg'); /* Legacy iOS */
 }
 
 /* biorhyme-800normal - latin */
 @font-face {
   font-family: 'BioRhyme';
   font-style: normal;
+  font-display: swap;
   font-weight: 800;
-  src: url('./files/biorhyme-latin-800.eot'); /* IE9 Compat Modes */
   src:
     local('BioRhyme ExtraBold '),
     local('BioRhyme-ExtraBold'),
-    url('./files/biorhyme-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/biorhyme-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/biorhyme-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/biorhyme-latin-800.svg#Biorhyme') format('svg'); /* Legacy iOS */
 }
 

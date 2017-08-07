@@ -4,14 +4,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url('./files/signika-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Signika Light '),
     local('Signika-Light'),
-    url('./files/signika-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/signika-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/signika-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/signika-latin-300.svg#Signika') format('svg'); /* Legacy iOS */
 }
 
 /* signika-400normal - latin */
@@ -20,14 +17,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('./files/signika-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Signika Regular '),
     local('Signika-Regular'),
-    url('./files/signika-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/signika-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/signika-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/signika-latin-400.svg#Signika') format('svg'); /* Legacy iOS */
 }
 
 /* signika-600normal - latin */
@@ -36,14 +30,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url('./files/signika-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Signika SemiBold '),
     local('Signika-SemiBold'),
-    url('./files/signika-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/signika-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/signika-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/signika-latin-600.svg#Signika') format('svg'); /* Legacy iOS */
 }
 
 /* signika-700normal - latin */
@@ -52,13 +43,10 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url('./files/signika-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Signika Bold '),
     local('Signika-Bold'),
-    url('./files/signika-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/signika-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/signika-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/signika-latin-700.svg#Signika') format('svg'); /* Legacy iOS */
 }
 

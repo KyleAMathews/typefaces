@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Peddana';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/peddana-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Peddana Regular '),
     local('Peddana-Regular'),
-    url('./files/peddana-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/peddana-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/peddana-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/peddana-latin-400.svg#Peddana') format('svg'); /* Legacy iOS */
 }
 

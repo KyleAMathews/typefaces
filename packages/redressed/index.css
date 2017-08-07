@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Redressed';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/redressed-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Redressed Regular '),
     local('Redressed-Regular'),
-    url('./files/redressed-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/redressed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/redressed-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/redressed-latin-400.svg#Redressed') format('svg'); /* Legacy iOS */
 }
 

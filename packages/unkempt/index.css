@@ -2,29 +2,25 @@
 @font-face {
   font-family: 'Unkempt';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/unkempt-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Unkempt Regular '),
     local('Unkempt-Regular'),
-    url('./files/unkempt-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/unkempt-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/unkempt-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/unkempt-latin-400.svg#Unkempt') format('svg'); /* Legacy iOS */
 }
 
 /* unkempt-700normal - latin */
 @font-face {
   font-family: 'Unkempt';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/unkempt-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Unkempt Bold '),
     local('Unkempt-Bold'),
-    url('./files/unkempt-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/unkempt-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/unkempt-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/unkempt-latin-700.svg#Unkempt') format('svg'); /* Legacy iOS */
 }
 

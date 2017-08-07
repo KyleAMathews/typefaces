@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Pinyon Script';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/pinyon-script-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Pinyon Script Regular '),
     local('Pinyon Script-Regular'),
-    url('./files/pinyon-script-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/pinyon-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pinyon-script-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/pinyon-script-latin-400.svg#PinyonScript') format('svg'); /* Legacy iOS */
 }
 

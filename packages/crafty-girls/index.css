@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Crafty Girls';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/crafty-girls-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Crafty Girls Regular '),
     local('Crafty Girls-Regular'),
-    url('./files/crafty-girls-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/crafty-girls-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/crafty-girls-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/crafty-girls-latin-400.svg#CraftyGirls') format('svg'); /* Legacy iOS */
 }
 

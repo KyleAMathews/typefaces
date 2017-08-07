@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Trocchi';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/trocchi-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Trocchi Regular '),
     local('Trocchi-Regular'),
-    url('./files/trocchi-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/trocchi-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/trocchi-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/trocchi-latin-400.svg#Trocchi') format('svg'); /* Legacy iOS */
 }
 

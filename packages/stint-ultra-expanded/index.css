@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Stint Ultra Expanded';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/stint-ultra-expanded-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Stint Ultra Expanded Regular '),
     local('Stint Ultra Expanded-Regular'),
-    url('./files/stint-ultra-expanded-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/stint-ultra-expanded-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/stint-ultra-expanded-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/stint-ultra-expanded-latin-400.svg#StintUltraExpanded') format('svg'); /* Legacy iOS */
 }
 

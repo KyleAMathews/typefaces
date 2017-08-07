@@ -2,74 +2,64 @@
 @font-face {
   font-family: 'Laila';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
-  src: url('./files/laila-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Laila Light '),
     local('Laila-Light'),
-    url('./files/laila-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/laila-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/laila-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/laila-latin-300.svg#Laila') format('svg'); /* Legacy iOS */
 }
 
 /* laila-400normal - latin */
 @font-face {
   font-family: 'Laila';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/laila-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Laila Regular '),
     local('Laila-Regular'),
-    url('./files/laila-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/laila-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/laila-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/laila-latin-400.svg#Laila') format('svg'); /* Legacy iOS */
 }
 
 /* laila-500normal - latin */
 @font-face {
   font-family: 'Laila';
   font-style: normal;
+  font-display: swap;
   font-weight: 500;
-  src: url('./files/laila-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Laila Medium '),
     local('Laila-Medium'),
-    url('./files/laila-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/laila-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/laila-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/laila-latin-500.svg#Laila') format('svg'); /* Legacy iOS */
 }
 
 /* laila-600normal - latin */
 @font-face {
   font-family: 'Laila';
   font-style: normal;
+  font-display: swap;
   font-weight: 600;
-  src: url('./files/laila-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Laila SemiBold '),
     local('Laila-SemiBold'),
-    url('./files/laila-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/laila-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/laila-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/laila-latin-600.svg#Laila') format('svg'); /* Legacy iOS */
 }
 
 /* laila-700normal - latin */
 @font-face {
   font-family: 'Laila';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/laila-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Laila Bold '),
     local('Laila-Bold'),
-    url('./files/laila-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/laila-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/laila-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/laila-latin-700.svg#Laila') format('svg'); /* Legacy iOS */
 }
 

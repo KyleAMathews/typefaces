@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-asset",
-  "version": "0.0.31",
+  "version": "0.0.0",
   "description": "Asset typeface",
   "main": "index.css",
   "keywords": [

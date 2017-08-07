@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Fresca';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/fresca-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Fresca Regular '),
     local('Fresca-Regular'),
-    url('./files/fresca-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/fresca-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fresca-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/fresca-latin-400.svg#Fresca') format('svg'); /* Legacy iOS */
 }
 

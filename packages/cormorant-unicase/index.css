@@ -4,14 +4,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url('./files/cormorant-unicase-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Cormorant Unicase Light '),
     local('Cormorant Unicase-Light'),
-    url('./files/cormorant-unicase-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/cormorant-unicase-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/cormorant-unicase-latin-300.svg#CormorantUnicase') format('svg'); /* Legacy iOS */
 }
 
 /* cormorant-unicase-400normal - latin */
@@ -20,14 +17,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('./files/cormorant-unicase-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Cormorant Unicase Regular '),
     local('Cormorant Unicase-Regular'),
-    url('./files/cormorant-unicase-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/cormorant-unicase-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/cormorant-unicase-latin-400.svg#CormorantUnicase') format('svg'); /* Legacy iOS */
 }
 
 /* cormorant-unicase-500normal - latin */
@@ -36,14 +30,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url('./files/cormorant-unicase-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Cormorant Unicase Medium '),
     local('Cormorant Unicase-Medium'),
-    url('./files/cormorant-unicase-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/cormorant-unicase-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/cormorant-unicase-latin-500.svg#CormorantUnicase') format('svg'); /* Legacy iOS */
 }
 
 /* cormorant-unicase-600normal - latin */
@@ -52,14 +43,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url('./files/cormorant-unicase-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Cormorant Unicase SemiBold '),
     local('Cormorant Unicase-SemiBold'),
-    url('./files/cormorant-unicase-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/cormorant-unicase-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/cormorant-unicase-latin-600.svg#CormorantUnicase') format('svg'); /* Legacy iOS */
 }
 
 /* cormorant-unicase-700normal - latin */
@@ -68,13 +56,10 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url('./files/cormorant-unicase-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Cormorant Unicase Bold '),
     local('Cormorant Unicase-Bold'),
-    url('./files/cormorant-unicase-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/cormorant-unicase-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/cormorant-unicase-latin-700.svg#CormorantUnicase') format('svg'); /* Legacy iOS */
 }
 

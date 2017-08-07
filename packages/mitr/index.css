@@ -2,89 +2,77 @@
 @font-face {
   font-family: 'Mitr';
   font-style: normal;
+  font-display: swap;
   font-weight: 200;
-  src: url('./files/mitr-latin-200.eot'); /* IE9 Compat Modes */
   src:
     local('Mitr Extra Light '),
     local('Mitr-Extra Light'),
-    url('./files/mitr-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mitr-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mitr-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/mitr-latin-200.svg#Mitr') format('svg'); /* Legacy iOS */
 }
 
 /* mitr-300normal - latin */
 @font-face {
   font-family: 'Mitr';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
-  src: url('./files/mitr-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Mitr Light '),
     local('Mitr-Light'),
-    url('./files/mitr-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mitr-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mitr-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/mitr-latin-300.svg#Mitr') format('svg'); /* Legacy iOS */
 }
 
 /* mitr-400normal - latin */
 @font-face {
   font-family: 'Mitr';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/mitr-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Mitr Regular '),
     local('Mitr-Regular'),
-    url('./files/mitr-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mitr-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mitr-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/mitr-latin-400.svg#Mitr') format('svg'); /* Legacy iOS */
 }
 
 /* mitr-500normal - latin */
 @font-face {
   font-family: 'Mitr';
   font-style: normal;
+  font-display: swap;
   font-weight: 500;
-  src: url('./files/mitr-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Mitr Medium '),
     local('Mitr-Medium'),
-    url('./files/mitr-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mitr-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mitr-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/mitr-latin-500.svg#Mitr') format('svg'); /* Legacy iOS */
 }
 
 /* mitr-600normal - latin */
 @font-face {
   font-family: 'Mitr';
   font-style: normal;
+  font-display: swap;
   font-weight: 600;
-  src: url('./files/mitr-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Mitr SemiBold '),
     local('Mitr-SemiBold'),
-    url('./files/mitr-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mitr-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mitr-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/mitr-latin-600.svg#Mitr') format('svg'); /* Legacy iOS */
 }
 
 /* mitr-700normal - latin */
 @font-face {
   font-family: 'Mitr';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/mitr-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Mitr Bold '),
     local('Mitr-Bold'),
-    url('./files/mitr-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mitr-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mitr-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/mitr-latin-700.svg#Mitr') format('svg'); /* Legacy iOS */
 }
 

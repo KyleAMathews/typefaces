@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Asar';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/asar-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Asar Regular '),
     local('Asar-Regular'),
-    url('./files/asar-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/asar-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/asar-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/asar-latin-400.svg#Asar') format('svg'); /* Legacy iOS */
 }
 

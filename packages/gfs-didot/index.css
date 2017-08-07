@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'GFS Didot';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/gfs-didot-greek-400.eot'); /* IE9 Compat Modes */
   src:
     local('GFS Didot Regular '),
     local('GFS Didot-Regular'),
-    url('./files/gfs-didot-greek-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/gfs-didot-greek-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/gfs-didot-greek-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/gfs-didot-greek-400.svg#GfsDidot') format('svg'); /* Legacy iOS */
 }
 

@@ -2,59 +2,51 @@
 @font-face {
   font-family: 'Mirza';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/mirza-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Mirza Regular '),
     local('Mirza-Regular'),
-    url('./files/mirza-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mirza-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mirza-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/mirza-latin-400.svg#Mirza') format('svg'); /* Legacy iOS */
 }
 
 /* mirza-500normal - latin */
 @font-face {
   font-family: 'Mirza';
   font-style: normal;
+  font-display: swap;
   font-weight: 500;
-  src: url('./files/mirza-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Mirza Medium '),
     local('Mirza-Medium'),
-    url('./files/mirza-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mirza-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mirza-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/mirza-latin-500.svg#Mirza') format('svg'); /* Legacy iOS */
 }
 
 /* mirza-600normal - latin */
 @font-face {
   font-family: 'Mirza';
   font-style: normal;
+  font-display: swap;
   font-weight: 600;
-  src: url('./files/mirza-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Mirza SemiBold '),
     local('Mirza-SemiBold'),
-    url('./files/mirza-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mirza-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mirza-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/mirza-latin-600.svg#Mirza') format('svg'); /* Legacy iOS */
 }
 
 /* mirza-700normal - latin */
 @font-face {
   font-family: 'Mirza';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/mirza-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Mirza Bold '),
     local('Mirza-Bold'),
-    url('./files/mirza-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/mirza-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mirza-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/mirza-latin-700.svg#Mirza') format('svg'); /* Legacy iOS */
 }
 

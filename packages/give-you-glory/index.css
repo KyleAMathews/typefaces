@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Give You Glory';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/give-you-glory-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Give You Glory Regular '),
     local('Give You Glory-Regular'),
-    url('./files/give-you-glory-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/give-you-glory-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/give-you-glory-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/give-you-glory-latin-400.svg#GiveYouGlory') format('svg'); /* Legacy iOS */
 }
 

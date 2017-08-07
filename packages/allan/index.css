@@ -2,29 +2,25 @@
 @font-face {
   font-family: 'Allan';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/allan-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Allan Regular '),
     local('Allan-Regular'),
-    url('./files/allan-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/allan-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/allan-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/allan-latin-400.svg#Allan') format('svg'); /* Legacy iOS */
 }
 
 /* allan-700normal - latin */
 @font-face {
   font-family: 'Allan';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/allan-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Allan Bold '),
     local('Allan-Bold'),
-    url('./files/allan-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/allan-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/allan-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/allan-latin-700.svg#Allan') format('svg'); /* Legacy iOS */
 }
 

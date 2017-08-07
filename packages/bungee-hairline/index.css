@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Bungee Hairline';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/bungee-hairline-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Bungee Hairline Regular '),
     local('Bungee Hairline-Regular'),
-    url('./files/bungee-hairline-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/bungee-hairline-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/bungee-hairline-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/bungee-hairline-latin-400.svg#BungeeHairline') format('svg'); /* Legacy iOS */
 }
 

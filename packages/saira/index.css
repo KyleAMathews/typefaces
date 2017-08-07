@@ -4,14 +4,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 100;
-  src: url('./files/saira-latin-100.eot'); /* IE9 Compat Modes */
   src:
     local('Saira Thin '),
     local('Saira-Thin'),
-    url('./files/saira-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/saira-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/saira-latin-100.woff') format('woff'), /* Modern Browsers */
-    url('./files/saira-latin-100.svg#Saira') format('svg'); /* Legacy iOS */
 }
 
 /* saira-200normal - latin */
@@ -20,14 +17,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src: url('./files/saira-latin-200.eot'); /* IE9 Compat Modes */
   src:
     local('Saira Extra Light '),
     local('Saira-Extra Light'),
-    url('./files/saira-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/saira-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/saira-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/saira-latin-200.svg#Saira') format('svg'); /* Legacy iOS */
 }
 
 /* saira-300normal - latin */
@@ -36,14 +30,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url('./files/saira-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Saira Light '),
     local('Saira-Light'),
-    url('./files/saira-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/saira-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/saira-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/saira-latin-300.svg#Saira') format('svg'); /* Legacy iOS */
 }
 
 /* saira-400normal - latin */
@@ -52,14 +43,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('./files/saira-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Saira Regular '),
     local('Saira-Regular'),
-    url('./files/saira-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/saira-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/saira-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/saira-latin-400.svg#Saira') format('svg'); /* Legacy iOS */
 }
 
 /* saira-500normal - latin */
@@ -68,14 +56,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url('./files/saira-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Saira Medium '),
     local('Saira-Medium'),
-    url('./files/saira-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/saira-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/saira-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/saira-latin-500.svg#Saira') format('svg'); /* Legacy iOS */
 }
 
 /* saira-600normal - latin */
@@ -84,14 +69,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url('./files/saira-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Saira SemiBold '),
     local('Saira-SemiBold'),
-    url('./files/saira-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/saira-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/saira-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/saira-latin-600.svg#Saira') format('svg'); /* Legacy iOS */
 }
 
 /* saira-700normal - latin */
@@ -100,14 +82,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url('./files/saira-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Saira Bold '),
     local('Saira-Bold'),
-    url('./files/saira-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/saira-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/saira-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/saira-latin-700.svg#Saira') format('svg'); /* Legacy iOS */
 }
 
 /* saira-800normal - latin */
@@ -116,14 +95,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src: url('./files/saira-latin-800.eot'); /* IE9 Compat Modes */
   src:
     local('Saira ExtraBold '),
     local('Saira-ExtraBold'),
-    url('./files/saira-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/saira-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/saira-latin-800.woff') format('woff'), /* Modern Browsers */
-    url('./files/saira-latin-800.svg#Saira') format('svg'); /* Legacy iOS */
 }
 
 /* saira-900normal - latin */
@@ -132,13 +108,10 @@
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src: url('./files/saira-latin-900.eot'); /* IE9 Compat Modes */
   src:
     local('Saira Black '),
     local('Saira-Black'),
-    url('./files/saira-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/saira-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/saira-latin-900.woff') format('woff'), /* Modern Browsers */
-    url('./files/saira-latin-900.svg#Saira') format('svg'); /* Legacy iOS */
 }
 

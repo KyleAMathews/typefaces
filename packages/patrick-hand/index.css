@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Patrick Hand';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/patrick-hand-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Patrick Hand Regular '),
     local('Patrick Hand-Regular'),
-    url('./files/patrick-hand-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/patrick-hand-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/patrick-hand-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/patrick-hand-latin-400.svg#PatrickHand') format('svg'); /* Legacy iOS */
 }
 

@@ -2,14 +2,12 @@
 @font-face {
   font-family: 'Short Stack';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/short-stack-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Short Stack Regular '),
     local('Short Stack-Regular'),
-    url('./files/short-stack-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/short-stack-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/short-stack-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/short-stack-latin-400.svg#ShortStack') format('svg'); /* Legacy iOS */
 }
 

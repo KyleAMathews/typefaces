@@ -2,29 +2,25 @@
 @font-face {
   font-family: 'Sintony';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/sintony-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Sintony Regular '),
     local('Sintony-Regular'),
-    url('./files/sintony-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/sintony-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sintony-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/sintony-latin-400.svg#Sintony') format('svg'); /* Legacy iOS */
 }
 
 /* sintony-700normal - latin */
 @font-face {
   font-family: 'Sintony';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/sintony-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Sintony Bold '),
     local('Sintony-Bold'),
-    url('./files/sintony-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/sintony-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sintony-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/sintony-latin-700.svg#Sintony') format('svg'); /* Legacy iOS */
 }
 

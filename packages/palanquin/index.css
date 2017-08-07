@@ -2,104 +2,90 @@
 @font-face {
   font-family: 'Palanquin';
   font-style: normal;
+  font-display: swap;
   font-weight: 100;
-  src: url('./files/palanquin-latin-100.eot'); /* IE9 Compat Modes */
   src:
     local('Palanquin Thin '),
     local('Palanquin-Thin'),
-    url('./files/palanquin-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-latin-100.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-latin-100.svg#Palanquin') format('svg'); /* Legacy iOS */
 }
 
 /* palanquin-200normal - latin */
 @font-face {
   font-family: 'Palanquin';
   font-style: normal;
+  font-display: swap;
   font-weight: 200;
-  src: url('./files/palanquin-latin-200.eot'); /* IE9 Compat Modes */
   src:
     local('Palanquin Extra Light '),
     local('Palanquin-Extra Light'),
-    url('./files/palanquin-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-latin-200.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-latin-200.svg#Palanquin') format('svg'); /* Legacy iOS */
 }
 
 /* palanquin-300normal - latin */
 @font-face {
   font-family: 'Palanquin';
   font-style: normal;
+  font-display: swap;
   font-weight: 300;
-  src: url('./files/palanquin-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Palanquin Light '),
     local('Palanquin-Light'),
-    url('./files/palanquin-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-latin-300.svg#Palanquin') format('svg'); /* Legacy iOS */
 }
 
 /* palanquin-400normal - latin */
 @font-face {
   font-family: 'Palanquin';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/palanquin-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Palanquin Regular '),
     local('Palanquin-Regular'),
-    url('./files/palanquin-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-latin-400.svg#Palanquin') format('svg'); /* Legacy iOS */
 }
 
 /* palanquin-500normal - latin */
 @font-face {
   font-family: 'Palanquin';
   font-style: normal;
+  font-display: swap;
   font-weight: 500;
-  src: url('./files/palanquin-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Palanquin Medium '),
     local('Palanquin-Medium'),
-    url('./files/palanquin-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-latin-500.svg#Palanquin') format('svg'); /* Legacy iOS */
 }
 
 /* palanquin-600normal - latin */
 @font-face {
   font-family: 'Palanquin';
   font-style: normal;
+  font-display: swap;
   font-weight: 600;
-  src: url('./files/palanquin-latin-600.eot'); /* IE9 Compat Modes */
   src:
     local('Palanquin SemiBold '),
     local('Palanquin-SemiBold'),
-    url('./files/palanquin-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-latin-600.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-latin-600.svg#Palanquin') format('svg'); /* Legacy iOS */
 }
 
 /* palanquin-700normal - latin */
 @font-face {
   font-family: 'Palanquin';
   font-style: normal;
+  font-display: swap;
   font-weight: 700;
-  src: url('./files/palanquin-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Palanquin Bold '),
     local('Palanquin-Bold'),
-    url('./files/palanquin-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/palanquin-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/palanquin-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/palanquin-latin-700.svg#Palanquin') format('svg'); /* Legacy iOS */
 }
 

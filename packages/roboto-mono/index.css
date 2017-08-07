@@ -4,14 +4,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 100;
-  src: url('./files/roboto-mono-latin-100.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Thin '),
     local('Roboto Mono-Thin'),
-    url('./files/roboto-mono-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-100.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-100.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
 /* roboto-mono-100italic - latin */
@@ -20,14 +17,11 @@
   font-style: italic;
   font-display: swap;
   font-weight: 100;
-  src: url('./files/roboto-mono-latin-100italic.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Thin italic'),
     local('Roboto Mono-Thinitalic'),
-    url('./files/roboto-mono-latin-100italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-100italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-100italic.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
 /* roboto-mono-300normal - latin */
@@ -36,14 +30,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url('./files/roboto-mono-latin-300.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Light '),
     local('Roboto Mono-Light'),
-    url('./files/roboto-mono-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-300.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-300.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
 /* roboto-mono-300italic - latin */
@@ -52,14 +43,11 @@
   font-style: italic;
   font-display: swap;
   font-weight: 300;
-  src: url('./files/roboto-mono-latin-300italic.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Light italic'),
     local('Roboto Mono-Lightitalic'),
-    url('./files/roboto-mono-latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-300italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-300italic.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
 /* roboto-mono-400normal - latin */
@@ -68,14 +56,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('./files/roboto-mono-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Regular '),
     local('Roboto Mono-Regular'),
-    url('./files/roboto-mono-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-400.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
 /* roboto-mono-400italic - latin */
@@ -84,14 +69,11 @@
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src: url('./files/roboto-mono-latin-400italic.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Regular italic'),
     local('Roboto Mono-Regularitalic'),
-    url('./files/roboto-mono-latin-400italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-400italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-400italic.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
 /* roboto-mono-500normal - latin */
@@ -100,14 +82,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url('./files/roboto-mono-latin-500.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Medium '),
     local('Roboto Mono-Medium'),
-    url('./files/roboto-mono-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-500.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-500.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
 /* roboto-mono-500italic - latin */
@@ -116,14 +95,11 @@
   font-style: italic;
   font-display: swap;
   font-weight: 500;
-  src: url('./files/roboto-mono-latin-500italic.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Medium italic'),
     local('Roboto Mono-Mediumitalic'),
-    url('./files/roboto-mono-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-500italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-500italic.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
 /* roboto-mono-700normal - latin */
@@ -132,14 +108,11 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url('./files/roboto-mono-latin-700.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Bold '),
     local('Roboto Mono-Bold'),
-    url('./files/roboto-mono-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-700.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-700.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
 /* roboto-mono-700italic - latin */
@@ -148,13 +121,10 @@
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src: url('./files/roboto-mono-latin-700italic.eot'); /* IE9 Compat Modes */
   src:
     local('Roboto Mono Bold italic'),
     local('Roboto Mono-Bolditalic'),
-    url('./files/roboto-mono-latin-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/roboto-mono-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/roboto-mono-latin-700italic.woff') format('woff'), /* Modern Browsers */
-    url('./files/roboto-mono-latin-700italic.svg#RobotoMono') format('svg'); /* Legacy iOS */
 }
 
