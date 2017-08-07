@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-molengo",
-  "version": "0.0.0",
+  "version": "0.0.34",
   "description": "Molengo typeface",
   "main": "index.css",
   "keywords": [

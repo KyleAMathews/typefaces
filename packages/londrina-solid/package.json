@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-londrina-solid",
-  "version": "0.0.0",
+  "version": "0.0.34",
   "description": "Londrina Solid typeface",
   "main": "index.css",
   "keywords": [

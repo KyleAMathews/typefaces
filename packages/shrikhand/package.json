@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-shrikhand",
-  "version": "0.0.0",
+  "version": "0.0.34",
   "description": "Shrikhand typeface",
   "main": "index.css",
   "keywords": [

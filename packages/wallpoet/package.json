@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-wallpoet",
-  "version": "0.0.0",
+  "version": "0.0.34",
   "description": "Wallpoet typeface",
   "main": "index.css",
   "keywords": [

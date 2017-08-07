@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-modak",
-  "version": "0.0.0",
+  "version": "0.0.34",
   "description": "Modak typeface",
   "main": "index.css",
   "keywords": [

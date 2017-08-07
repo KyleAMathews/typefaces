@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-megrim",
-  "version": "0.0.0",
+  "version": "0.0.34",
   "description": "Megrim typeface",
   "main": "index.css",
   "keywords": [

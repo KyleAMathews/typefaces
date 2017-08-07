@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-mate-sc",
-  "version": "0.0.0",
+  "version": "0.0.34",
   "description": "Mate SC typeface",
   "main": "index.css",
   "keywords": [

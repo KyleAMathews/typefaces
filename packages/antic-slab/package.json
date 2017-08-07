@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-antic-slab",
-  "version": "0.0.0",
+  "version": "0.0.34",
   "description": "Antic Slab typeface",
   "main": "index.css",
   "keywords": [

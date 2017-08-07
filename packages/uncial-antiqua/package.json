@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-uncial-antiqua",
-  "version": "0.0.0",
+  "version": "0.0.34",
   "description": "Uncial Antiqua typeface",
   "main": "index.css",
   "keywords": [
