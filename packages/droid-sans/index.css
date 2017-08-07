@@ -8,7 +8,7 @@
     local('Droid Sans Regular '),
     local('Droid Sans-Regular'),
     url('./files/droid-sans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/droid-sans-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/droid-sans-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* droid-sans-700normal - latin */
@@ -21,6 +21,6 @@
     local('Droid Sans Bold '),
     local('Droid Sans-Bold'),
     url('./files/droid-sans-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/droid-sans-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/droid-sans-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

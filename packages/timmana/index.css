@@ -8,6 +8,6 @@
     local('Timmana Regular '),
     local('Timmana-Regular'),
     url('./files/timmana-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/timmana-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/timmana-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

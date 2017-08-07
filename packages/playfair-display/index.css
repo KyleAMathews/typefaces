@@ -8,7 +8,7 @@
     local('Playfair Display Regular '),
     local('Playfair Display-Regular'),
     url('./files/playfair-display-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/playfair-display-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* playfair-display-400italic - latin */
@@ -21,7 +21,7 @@
     local('Playfair Display Regular italic'),
     local('Playfair Display-Regularitalic'),
     url('./files/playfair-display-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/playfair-display-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* playfair-display-700normal - latin */
@@ -34,7 +34,7 @@
     local('Playfair Display Bold '),
     local('Playfair Display-Bold'),
     url('./files/playfair-display-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/playfair-display-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* playfair-display-700italic - latin */
@@ -47,7 +47,7 @@
     local('Playfair Display Bold italic'),
     local('Playfair Display-Bolditalic'),
     url('./files/playfair-display-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/playfair-display-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* playfair-display-900normal - latin */
@@ -60,7 +60,7 @@
     local('Playfair Display Black '),
     local('Playfair Display-Black'),
     url('./files/playfair-display-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/playfair-display-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* playfair-display-900italic - latin */
@@ -73,6 +73,6 @@
     local('Playfair Display Black italic'),
     local('Playfair Display-Blackitalic'),
     url('./files/playfair-display-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/playfair-display-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Kanit Thin '),
     local('Kanit-Thin'),
     url('./files/kanit-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-100italic - latin */
@@ -21,7 +21,7 @@
     local('Kanit Thin italic'),
     local('Kanit-Thinitalic'),
     url('./files/kanit-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-100italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-100italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-200normal - latin */
@@ -34,7 +34,7 @@
     local('Kanit Extra Light '),
     local('Kanit-Extra Light'),
     url('./files/kanit-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-200italic - latin */
@@ -47,7 +47,7 @@
     local('Kanit Extra Light italic'),
     local('Kanit-Extra Lightitalic'),
     url('./files/kanit-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-200italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-200italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-300normal - latin */
@@ -60,7 +60,7 @@
     local('Kanit Light '),
     local('Kanit-Light'),
     url('./files/kanit-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-300italic - latin */
@@ -73,7 +73,7 @@
     local('Kanit Light italic'),
     local('Kanit-Lightitalic'),
     url('./files/kanit-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-400normal - latin */
@@ -86,7 +86,7 @@
     local('Kanit Regular '),
     local('Kanit-Regular'),
     url('./files/kanit-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-400italic - latin */
@@ -99,7 +99,7 @@
     local('Kanit Regular italic'),
     local('Kanit-Regularitalic'),
     url('./files/kanit-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-500normal - latin */
@@ -112,7 +112,7 @@
     local('Kanit Medium '),
     local('Kanit-Medium'),
     url('./files/kanit-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-500italic - latin */
@@ -125,7 +125,7 @@
     local('Kanit Medium italic'),
     local('Kanit-Mediumitalic'),
     url('./files/kanit-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-600normal - latin */
@@ -138,7 +138,7 @@
     local('Kanit SemiBold '),
     local('Kanit-SemiBold'),
     url('./files/kanit-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-600italic - latin */
@@ -151,7 +151,7 @@
     local('Kanit SemiBold italic'),
     local('Kanit-SemiBolditalic'),
     url('./files/kanit-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-700normal - latin */
@@ -164,7 +164,7 @@
     local('Kanit Bold '),
     local('Kanit-Bold'),
     url('./files/kanit-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-700italic - latin */
@@ -177,7 +177,7 @@
     local('Kanit Bold italic'),
     local('Kanit-Bolditalic'),
     url('./files/kanit-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-800normal - latin */
@@ -190,7 +190,7 @@
     local('Kanit ExtraBold '),
     local('Kanit-ExtraBold'),
     url('./files/kanit-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-800italic - latin */
@@ -203,7 +203,7 @@
     local('Kanit ExtraBold italic'),
     local('Kanit-ExtraBolditalic'),
     url('./files/kanit-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-800italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-900normal - latin */
@@ -216,7 +216,7 @@
     local('Kanit Black '),
     local('Kanit-Black'),
     url('./files/kanit-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kanit-900italic - latin */
@@ -229,6 +229,6 @@
     local('Kanit Black italic'),
     local('Kanit-Blackitalic'),
     url('./files/kanit-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kanit-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/kanit-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

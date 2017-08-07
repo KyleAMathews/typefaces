@@ -8,7 +8,7 @@
     local('Cinzel Regular '),
     local('Cinzel-Regular'),
     url('./files/cinzel-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cinzel-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cinzel-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cinzel-700normal - latin */
@@ -21,7 +21,7 @@
     local('Cinzel Bold '),
     local('Cinzel-Bold'),
     url('./files/cinzel-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cinzel-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cinzel-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cinzel-900normal - latin */
@@ -34,6 +34,6 @@
     local('Cinzel Black '),
     local('Cinzel-Black'),
     url('./files/cinzel-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cinzel-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/cinzel-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

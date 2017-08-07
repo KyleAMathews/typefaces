@@ -8,7 +8,7 @@
     local('Alef Regular '),
     local('Alef-Regular'),
     url('./files/alef-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alef-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/alef-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alef-700normal - latin */
@@ -21,6 +21,6 @@
     local('Alef Bold '),
     local('Alef-Bold'),
     url('./files/alef-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alef-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/alef-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Merriweather Light '),
     local('Merriweather-Light'),
     url('./files/merriweather-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merriweather-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/merriweather-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* merriweather-300italic - latin */
@@ -21,7 +21,7 @@
     local('Merriweather Light italic'),
     local('Merriweather-Lightitalic'),
     url('./files/merriweather-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merriweather-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/merriweather-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* merriweather-400normal - latin */
@@ -34,7 +34,7 @@
     local('Merriweather Regular '),
     local('Merriweather-Regular'),
     url('./files/merriweather-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merriweather-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/merriweather-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* merriweather-400italic - latin */
@@ -47,7 +47,7 @@
     local('Merriweather Regular italic'),
     local('Merriweather-Regularitalic'),
     url('./files/merriweather-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merriweather-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/merriweather-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* merriweather-700normal - latin */
@@ -60,7 +60,7 @@
     local('Merriweather Bold '),
     local('Merriweather-Bold'),
     url('./files/merriweather-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merriweather-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/merriweather-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* merriweather-700italic - latin */
@@ -73,7 +73,7 @@
     local('Merriweather Bold italic'),
     local('Merriweather-Bolditalic'),
     url('./files/merriweather-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merriweather-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/merriweather-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* merriweather-900normal - latin */
@@ -86,7 +86,7 @@
     local('Merriweather Black '),
     local('Merriweather-Black'),
     url('./files/merriweather-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merriweather-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/merriweather-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* merriweather-900italic - latin */
@@ -99,6 +99,6 @@
     local('Merriweather Black italic'),
     local('Merriweather-Blackitalic'),
     url('./files/merriweather-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merriweather-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/merriweather-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,6 +8,6 @@
     local('Secular One Regular '),
     local('Secular One-Regular'),
     url('./files/secular-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/secular-one-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/secular-one-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

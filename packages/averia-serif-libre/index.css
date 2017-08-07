@@ -8,7 +8,7 @@
     local('Averia Serif Libre Light '),
     local('Averia Serif Libre-Light'),
     url('./files/averia-serif-libre-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-serif-libre-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-serif-libre-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* averia-serif-libre-300italic - latin */
@@ -21,7 +21,7 @@
     local('Averia Serif Libre Light italic'),
     local('Averia Serif Libre-Lightitalic'),
     url('./files/averia-serif-libre-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-serif-libre-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-serif-libre-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* averia-serif-libre-400normal - latin */
@@ -34,7 +34,7 @@
     local('Averia Serif Libre Regular '),
     local('Averia Serif Libre-Regular'),
     url('./files/averia-serif-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-serif-libre-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-serif-libre-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 false/* averia-serif-libre-700normal - latin */
@@ -47,7 +47,7 @@ false/* averia-serif-libre-700normal - latin */
     local('Averia Serif Libre Bold '),
     local('Averia Serif Libre-Bold'),
     url('./files/averia-serif-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-serif-libre-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-serif-libre-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* averia-serif-libre-700italic - latin */
@@ -60,6 +60,6 @@ false/* averia-serif-libre-700normal - latin */
     local('Averia Serif Libre Bold italic'),
     local('Averia Serif Libre-Bolditalic'),
     url('./files/averia-serif-libre-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-serif-libre-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-serif-libre-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

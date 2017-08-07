@@ -8,7 +8,7 @@
     local('Ubuntu Light '),
     local('Ubuntu-Light'),
     url('./files/ubuntu-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/ubuntu-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ubuntu-300italic - latin */
@@ -21,7 +21,7 @@
     local('Ubuntu Light italic'),
     local('Ubuntu-Lightitalic'),
     url('./files/ubuntu-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/ubuntu-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ubuntu-400normal - latin */
@@ -34,7 +34,7 @@
     local('Ubuntu Regular '),
     local('Ubuntu-Regular'),
     url('./files/ubuntu-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/ubuntu-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ubuntu-400italic - latin */
@@ -47,7 +47,7 @@
     local('Ubuntu Regular italic'),
     local('Ubuntu-Regularitalic'),
     url('./files/ubuntu-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/ubuntu-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ubuntu-500normal - latin */
@@ -60,7 +60,7 @@
     local('Ubuntu Medium '),
     local('Ubuntu-Medium'),
     url('./files/ubuntu-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/ubuntu-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ubuntu-500italic - latin */
@@ -73,7 +73,7 @@
     local('Ubuntu Medium italic'),
     local('Ubuntu-Mediumitalic'),
     url('./files/ubuntu-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/ubuntu-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ubuntu-700normal - latin */
@@ -86,7 +86,7 @@
     local('Ubuntu Bold '),
     local('Ubuntu-Bold'),
     url('./files/ubuntu-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/ubuntu-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ubuntu-700italic - latin */
@@ -99,6 +99,6 @@
     local('Ubuntu Bold italic'),
     local('Ubuntu-Bolditalic'),
     url('./files/ubuntu-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/ubuntu-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

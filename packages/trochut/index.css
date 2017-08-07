@@ -8,7 +8,7 @@
     local('Trochut Regular '),
     local('Trochut-Regular'),
     url('./files/trochut-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/trochut-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/trochut-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* trochut-400italic - latin */
@@ -21,7 +21,7 @@
     local('Trochut Regular italic'),
     local('Trochut-Regularitalic'),
     url('./files/trochut-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/trochut-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/trochut-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* trochut-700normal - latin */
@@ -34,6 +34,6 @@
     local('Trochut Bold '),
     local('Trochut-Bold'),
     url('./files/trochut-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/trochut-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/trochut-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

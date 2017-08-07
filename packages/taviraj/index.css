@@ -8,7 +8,7 @@
     local('Taviraj Thin '),
     local('Taviraj-Thin'),
     url('./files/taviraj-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-100italic - latin */
@@ -21,7 +21,7 @@
     local('Taviraj Thin italic'),
     local('Taviraj-Thinitalic'),
     url('./files/taviraj-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-100italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-100italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-200normal - latin */
@@ -34,7 +34,7 @@
     local('Taviraj Extra Light '),
     local('Taviraj-Extra Light'),
     url('./files/taviraj-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-200italic - latin */
@@ -47,7 +47,7 @@
     local('Taviraj Extra Light italic'),
     local('Taviraj-Extra Lightitalic'),
     url('./files/taviraj-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-200italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-200italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-300normal - latin */
@@ -60,7 +60,7 @@
     local('Taviraj Light '),
     local('Taviraj-Light'),
     url('./files/taviraj-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-300italic - latin */
@@ -73,7 +73,7 @@
     local('Taviraj Light italic'),
     local('Taviraj-Lightitalic'),
     url('./files/taviraj-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-400normal - latin */
@@ -86,7 +86,7 @@
     local('Taviraj Regular '),
     local('Taviraj-Regular'),
     url('./files/taviraj-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-400italic - latin */
@@ -99,7 +99,7 @@
     local('Taviraj Regular italic'),
     local('Taviraj-Regularitalic'),
     url('./files/taviraj-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-500normal - latin */
@@ -112,7 +112,7 @@
     local('Taviraj Medium '),
     local('Taviraj-Medium'),
     url('./files/taviraj-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-500italic - latin */
@@ -125,7 +125,7 @@
     local('Taviraj Medium italic'),
     local('Taviraj-Mediumitalic'),
     url('./files/taviraj-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-600normal - latin */
@@ -138,7 +138,7 @@
     local('Taviraj SemiBold '),
     local('Taviraj-SemiBold'),
     url('./files/taviraj-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-600italic - latin */
@@ -151,7 +151,7 @@
     local('Taviraj SemiBold italic'),
     local('Taviraj-SemiBolditalic'),
     url('./files/taviraj-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-700normal - latin */
@@ -164,7 +164,7 @@
     local('Taviraj Bold '),
     local('Taviraj-Bold'),
     url('./files/taviraj-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-700italic - latin */
@@ -177,7 +177,7 @@
     local('Taviraj Bold italic'),
     local('Taviraj-Bolditalic'),
     url('./files/taviraj-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-800normal - latin */
@@ -190,7 +190,7 @@
     local('Taviraj ExtraBold '),
     local('Taviraj-ExtraBold'),
     url('./files/taviraj-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-800italic - latin */
@@ -203,7 +203,7 @@
     local('Taviraj ExtraBold italic'),
     local('Taviraj-ExtraBolditalic'),
     url('./files/taviraj-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-800italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-900normal - latin */
@@ -216,7 +216,7 @@
     local('Taviraj Black '),
     local('Taviraj-Black'),
     url('./files/taviraj-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* taviraj-900italic - latin */
@@ -229,6 +229,6 @@
     local('Taviraj Black italic'),
     local('Taviraj-Blackitalic'),
     url('./files/taviraj-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/taviraj-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/taviraj-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

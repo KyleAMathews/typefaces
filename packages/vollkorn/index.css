@@ -8,7 +8,7 @@
     local('Vollkorn Regular '),
     local('Vollkorn-Regular'),
     url('./files/vollkorn-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vollkorn-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/vollkorn-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* vollkorn-400italic - latin */
@@ -21,7 +21,7 @@
     local('Vollkorn Regular italic'),
     local('Vollkorn-Regularitalic'),
     url('./files/vollkorn-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vollkorn-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/vollkorn-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* vollkorn-700normal - latin */
@@ -34,7 +34,7 @@
     local('Vollkorn Bold '),
     local('Vollkorn-Bold'),
     url('./files/vollkorn-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vollkorn-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/vollkorn-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* vollkorn-700italic - latin */
@@ -47,6 +47,6 @@
     local('Vollkorn Bold italic'),
     local('Vollkorn-Bolditalic'),
     url('./files/vollkorn-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vollkorn-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/vollkorn-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

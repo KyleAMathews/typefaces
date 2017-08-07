@@ -8,7 +8,7 @@
     local('Khand Light '),
     local('Khand-Light'),
     url('./files/khand-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khand-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/khand-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* khand-400normal - latin */
@@ -21,7 +21,7 @@
     local('Khand Regular '),
     local('Khand-Regular'),
     url('./files/khand-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khand-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/khand-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* khand-500normal - latin */
@@ -34,7 +34,7 @@
     local('Khand Medium '),
     local('Khand-Medium'),
     url('./files/khand-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khand-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/khand-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* khand-600normal - latin */
@@ -47,7 +47,7 @@
     local('Khand SemiBold '),
     local('Khand-SemiBold'),
     url('./files/khand-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khand-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/khand-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* khand-700normal - latin */
@@ -60,6 +60,6 @@
     local('Khand Bold '),
     local('Khand-Bold'),
     url('./files/khand-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khand-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/khand-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

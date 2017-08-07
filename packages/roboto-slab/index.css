@@ -8,7 +8,7 @@
     local('Roboto Slab Thin '),
     local('Roboto Slab-Thin'),
     url('./files/roboto-slab-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-slab-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-slab-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-slab-300normal - latin */
@@ -21,7 +21,7 @@
     local('Roboto Slab Light '),
     local('Roboto Slab-Light'),
     url('./files/roboto-slab-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-slab-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-slab-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-slab-400normal - latin */
@@ -34,7 +34,7 @@
     local('Roboto Slab Regular '),
     local('Roboto Slab-Regular'),
     url('./files/roboto-slab-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-slab-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-slab-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-slab-700normal - latin */
@@ -47,6 +47,6 @@
     local('Roboto Slab Bold '),
     local('Roboto Slab-Bold'),
     url('./files/roboto-slab-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-slab-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-slab-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

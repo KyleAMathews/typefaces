@@ -8,7 +8,7 @@
     local('Libre Franklin Thin '),
     local('Libre Franklin-Thin'),
     url('./files/libre-franklin-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-100italic - latin */
@@ -21,7 +21,7 @@
     local('Libre Franklin Thin italic'),
     local('Libre Franklin-Thinitalic'),
     url('./files/libre-franklin-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-100italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-100italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-200normal - latin */
@@ -34,7 +34,7 @@
     local('Libre Franklin Extra Light '),
     local('Libre Franklin-Extra Light'),
     url('./files/libre-franklin-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-200italic - latin */
@@ -47,7 +47,7 @@
     local('Libre Franklin Extra Light italic'),
     local('Libre Franklin-Extra Lightitalic'),
     url('./files/libre-franklin-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-200italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-200italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-300normal - latin */
@@ -60,7 +60,7 @@
     local('Libre Franklin Light '),
     local('Libre Franklin-Light'),
     url('./files/libre-franklin-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-300italic - latin */
@@ -73,7 +73,7 @@
     local('Libre Franklin Light italic'),
     local('Libre Franklin-Lightitalic'),
     url('./files/libre-franklin-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-400normal - latin */
@@ -86,7 +86,7 @@
     local('Libre Franklin Regular '),
     local('Libre Franklin-Regular'),
     url('./files/libre-franklin-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-400italic - latin */
@@ -99,7 +99,7 @@
     local('Libre Franklin Regular italic'),
     local('Libre Franklin-Regularitalic'),
     url('./files/libre-franklin-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-500normal - latin */
@@ -112,7 +112,7 @@
     local('Libre Franklin Medium '),
     local('Libre Franklin-Medium'),
     url('./files/libre-franklin-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-500italic - latin */
@@ -125,7 +125,7 @@
     local('Libre Franklin Medium italic'),
     local('Libre Franklin-Mediumitalic'),
     url('./files/libre-franklin-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-600normal - latin */
@@ -138,7 +138,7 @@
     local('Libre Franklin SemiBold '),
     local('Libre Franklin-SemiBold'),
     url('./files/libre-franklin-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-600italic - latin */
@@ -151,7 +151,7 @@
     local('Libre Franklin SemiBold italic'),
     local('Libre Franklin-SemiBolditalic'),
     url('./files/libre-franklin-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-700normal - latin */
@@ -164,7 +164,7 @@
     local('Libre Franklin Bold '),
     local('Libre Franklin-Bold'),
     url('./files/libre-franklin-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-700italic - latin */
@@ -177,7 +177,7 @@
     local('Libre Franklin Bold italic'),
     local('Libre Franklin-Bolditalic'),
     url('./files/libre-franklin-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-800normal - latin */
@@ -190,7 +190,7 @@
     local('Libre Franklin ExtraBold '),
     local('Libre Franklin-ExtraBold'),
     url('./files/libre-franklin-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-800italic - latin */
@@ -203,7 +203,7 @@
     local('Libre Franklin ExtraBold italic'),
     local('Libre Franklin-ExtraBolditalic'),
     url('./files/libre-franklin-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-800italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-900normal - latin */
@@ -216,7 +216,7 @@
     local('Libre Franklin Black '),
     local('Libre Franklin-Black'),
     url('./files/libre-franklin-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-franklin-900italic - latin */
@@ -229,6 +229,6 @@
     local('Libre Franklin Black italic'),
     local('Libre Franklin-Blackitalic'),
     url('./files/libre-franklin-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-franklin-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-franklin-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

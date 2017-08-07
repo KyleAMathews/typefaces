@@ -8,7 +8,7 @@
     local('Mirza Regular '),
     local('Mirza-Regular'),
     url('./files/mirza-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mirza-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/mirza-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mirza-500normal - latin */
@@ -21,7 +21,7 @@
     local('Mirza Medium '),
     local('Mirza-Medium'),
     url('./files/mirza-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mirza-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/mirza-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mirza-600normal - latin */
@@ -34,7 +34,7 @@
     local('Mirza SemiBold '),
     local('Mirza-SemiBold'),
     url('./files/mirza-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mirza-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/mirza-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mirza-700normal - latin */
@@ -47,6 +47,6 @@
     local('Mirza Bold '),
     local('Mirza-Bold'),
     url('./files/mirza-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mirza-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/mirza-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Ranga Regular '),
     local('Ranga-Regular'),
     url('./files/ranga-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ranga-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/ranga-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ranga-700normal - latin */
@@ -21,6 +21,6 @@
     local('Ranga Bold '),
     local('Ranga-Bold'),
     url('./files/ranga-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ranga-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/ranga-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

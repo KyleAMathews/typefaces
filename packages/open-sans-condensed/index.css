@@ -8,7 +8,7 @@
     local('Open Sans Condensed Light '),
     local('Open Sans Condensed-Light'),
     url('./files/open-sans-condensed-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/open-sans-condensed-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/open-sans-condensed-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* open-sans-condensed-300italic - latin */
@@ -21,7 +21,7 @@
     local('Open Sans Condensed Light italic'),
     local('Open Sans Condensed-Lightitalic'),
     url('./files/open-sans-condensed-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/open-sans-condensed-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/open-sans-condensed-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* open-sans-condensed-700normal - latin */
@@ -34,6 +34,6 @@
     local('Open Sans Condensed Bold '),
     local('Open Sans Condensed-Bold'),
     url('./files/open-sans-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/open-sans-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/open-sans-condensed-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

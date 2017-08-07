@@ -8,7 +8,7 @@
     local('Maven Pro Regular '),
     local('Maven Pro-Regular'),
     url('./files/maven-pro-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maven-pro-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/maven-pro-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* maven-pro-500normal - latin */
@@ -21,7 +21,7 @@
     local('Maven Pro Medium '),
     local('Maven Pro-Medium'),
     url('./files/maven-pro-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maven-pro-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/maven-pro-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* maven-pro-700normal - latin */
@@ -34,7 +34,7 @@
     local('Maven Pro Bold '),
     local('Maven Pro-Bold'),
     url('./files/maven-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maven-pro-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/maven-pro-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* maven-pro-900normal - latin */
@@ -47,6 +47,6 @@
     local('Maven Pro Black '),
     local('Maven Pro-Black'),
     url('./files/maven-pro-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maven-pro-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/maven-pro-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

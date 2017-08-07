@@ -8,7 +8,7 @@
     local('BioRhyme Expanded Extra Light '),
     local('BioRhyme Expanded-Extra Light'),
     url('./files/biorhyme-expanded-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/biorhyme-expanded-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/biorhyme-expanded-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* biorhyme-expanded-300normal - latin */
@@ -21,7 +21,7 @@
     local('BioRhyme Expanded Light '),
     local('BioRhyme Expanded-Light'),
     url('./files/biorhyme-expanded-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/biorhyme-expanded-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/biorhyme-expanded-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* biorhyme-expanded-400normal - latin */
@@ -34,7 +34,7 @@
     local('BioRhyme Expanded Regular '),
     local('BioRhyme Expanded-Regular'),
     url('./files/biorhyme-expanded-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/biorhyme-expanded-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/biorhyme-expanded-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* biorhyme-expanded-700normal - latin */
@@ -47,7 +47,7 @@
     local('BioRhyme Expanded Bold '),
     local('BioRhyme Expanded-Bold'),
     url('./files/biorhyme-expanded-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/biorhyme-expanded-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/biorhyme-expanded-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* biorhyme-expanded-800normal - latin */
@@ -60,6 +60,6 @@
     local('BioRhyme Expanded ExtraBold '),
     local('BioRhyme Expanded-ExtraBold'),
     url('./files/biorhyme-expanded-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/biorhyme-expanded-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/biorhyme-expanded-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 

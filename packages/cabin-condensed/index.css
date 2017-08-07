@@ -8,7 +8,7 @@
     local('Cabin Condensed Regular '),
     local('Cabin Condensed-Regular'),
     url('./files/cabin-condensed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-condensed-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-condensed-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cabin-condensed-500normal - latin */
@@ -21,7 +21,7 @@
     local('Cabin Condensed Medium '),
     local('Cabin Condensed-Medium'),
     url('./files/cabin-condensed-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-condensed-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-condensed-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cabin-condensed-600normal - latin */
@@ -34,7 +34,7 @@
     local('Cabin Condensed SemiBold '),
     local('Cabin Condensed-SemiBold'),
     url('./files/cabin-condensed-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-condensed-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-condensed-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cabin-condensed-700normal - latin */
@@ -47,6 +47,6 @@
     local('Cabin Condensed Bold '),
     local('Cabin Condensed-Bold'),
     url('./files/cabin-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-condensed-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

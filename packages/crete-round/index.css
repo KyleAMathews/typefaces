@@ -8,7 +8,7 @@
     local('Crete Round Regular '),
     local('Crete Round-Regular'),
     url('./files/crete-round-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/crete-round-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/crete-round-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* crete-round-400italic - latin */
@@ -21,6 +21,6 @@
     local('Crete Round Regular italic'),
     local('Crete Round-Regularitalic'),
     url('./files/crete-round-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/crete-round-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/crete-round-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 

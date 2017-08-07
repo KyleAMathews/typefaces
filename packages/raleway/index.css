@@ -8,7 +8,7 @@
     local('Raleway Thin '),
     local('Raleway-Thin'),
     url('./files/raleway-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-100italic - latin */
@@ -21,7 +21,7 @@
     local('Raleway Thin italic'),
     local('Raleway-Thinitalic'),
     url('./files/raleway-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-100italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-100italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-200normal - latin */
@@ -34,7 +34,7 @@
     local('Raleway Extra Light '),
     local('Raleway-Extra Light'),
     url('./files/raleway-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-200italic - latin */
@@ -47,7 +47,7 @@
     local('Raleway Extra Light italic'),
     local('Raleway-Extra Lightitalic'),
     url('./files/raleway-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-200italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-200italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-300normal - latin */
@@ -60,7 +60,7 @@
     local('Raleway Light '),
     local('Raleway-Light'),
     url('./files/raleway-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-300italic - latin */
@@ -73,7 +73,7 @@
     local('Raleway Light italic'),
     local('Raleway-Lightitalic'),
     url('./files/raleway-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-400normal - latin */
@@ -86,7 +86,7 @@
     local('Raleway Regular '),
     local('Raleway-Regular'),
     url('./files/raleway-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-400italic - latin */
@@ -99,7 +99,7 @@
     local('Raleway Regular italic'),
     local('Raleway-Regularitalic'),
     url('./files/raleway-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-500normal - latin */
@@ -112,7 +112,7 @@
     local('Raleway Medium '),
     local('Raleway-Medium'),
     url('./files/raleway-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-500italic - latin */
@@ -125,7 +125,7 @@
     local('Raleway Medium italic'),
     local('Raleway-Mediumitalic'),
     url('./files/raleway-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-600normal - latin */
@@ -138,7 +138,7 @@
     local('Raleway SemiBold '),
     local('Raleway-SemiBold'),
     url('./files/raleway-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-600italic - latin */
@@ -151,7 +151,7 @@
     local('Raleway SemiBold italic'),
     local('Raleway-SemiBolditalic'),
     url('./files/raleway-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-700normal - latin */
@@ -164,7 +164,7 @@
     local('Raleway Bold '),
     local('Raleway-Bold'),
     url('./files/raleway-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-700italic - latin */
@@ -177,7 +177,7 @@
     local('Raleway Bold italic'),
     local('Raleway-Bolditalic'),
     url('./files/raleway-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-800normal - latin */
@@ -190,7 +190,7 @@
     local('Raleway ExtraBold '),
     local('Raleway-ExtraBold'),
     url('./files/raleway-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-800italic - latin */
@@ -203,7 +203,7 @@
     local('Raleway ExtraBold italic'),
     local('Raleway-ExtraBolditalic'),
     url('./files/raleway-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-800italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-900normal - latin */
@@ -216,7 +216,7 @@
     local('Raleway Black '),
     local('Raleway-Black'),
     url('./files/raleway-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* raleway-900italic - latin */
@@ -229,6 +229,6 @@
     local('Raleway Black italic'),
     local('Raleway-Blackitalic'),
     url('./files/raleway-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/raleway-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/raleway-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

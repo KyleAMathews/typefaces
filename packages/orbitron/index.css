@@ -8,7 +8,7 @@
     local('Orbitron Regular '),
     local('Orbitron-Regular'),
     url('./files/orbitron-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/orbitron-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/orbitron-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* orbitron-500normal - latin */
@@ -21,7 +21,7 @@
     local('Orbitron Medium '),
     local('Orbitron-Medium'),
     url('./files/orbitron-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/orbitron-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/orbitron-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* orbitron-700normal - latin */
@@ -34,7 +34,7 @@
     local('Orbitron Bold '),
     local('Orbitron-Bold'),
     url('./files/orbitron-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/orbitron-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/orbitron-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* orbitron-900normal - latin */
@@ -47,6 +47,6 @@
     local('Orbitron Black '),
     local('Orbitron-Black'),
     url('./files/orbitron-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/orbitron-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/orbitron-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

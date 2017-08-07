@@ -8,7 +8,7 @@
     local('Ropa Sans Regular '),
     local('Ropa Sans-Regular'),
     url('./files/ropa-sans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ropa-sans-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/ropa-sans-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ropa-sans-400italic - latin */
@@ -21,6 +21,6 @@
     local('Ropa Sans Regular italic'),
     local('Ropa Sans-Regularitalic'),
     url('./files/ropa-sans-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ropa-sans-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/ropa-sans-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 

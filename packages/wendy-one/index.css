@@ -8,6 +8,6 @@
     local('Wendy One Regular '),
     local('Wendy One-Regular'),
     url('./files/wendy-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/wendy-one-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/wendy-one-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

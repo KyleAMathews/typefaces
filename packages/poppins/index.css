@@ -8,7 +8,7 @@
     local('Poppins Light '),
     local('Poppins-Light'),
     url('./files/poppins-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/poppins-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* poppins-400normal - latin */
@@ -21,7 +21,7 @@
     local('Poppins Regular '),
     local('Poppins-Regular'),
     url('./files/poppins-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/poppins-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* poppins-500normal - latin */
@@ -34,7 +34,7 @@
     local('Poppins Medium '),
     local('Poppins-Medium'),
     url('./files/poppins-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/poppins-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* poppins-600normal - latin */
@@ -47,7 +47,7 @@
     local('Poppins SemiBold '),
     local('Poppins-SemiBold'),
     url('./files/poppins-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/poppins-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* poppins-700normal - latin */
@@ -60,6 +60,6 @@
     local('Poppins Bold '),
     local('Poppins-Bold'),
     url('./files/poppins-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/poppins-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

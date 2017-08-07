@@ -8,7 +8,7 @@
     local('Tillana Regular '),
     local('Tillana-Regular'),
     url('./files/tillana-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/tillana-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/tillana-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* tillana-500normal - latin */
@@ -21,7 +21,7 @@
     local('Tillana Medium '),
     local('Tillana-Medium'),
     url('./files/tillana-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/tillana-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/tillana-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* tillana-600normal - latin */
@@ -34,7 +34,7 @@
     local('Tillana SemiBold '),
     local('Tillana-SemiBold'),
     url('./files/tillana-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/tillana-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/tillana-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* tillana-700normal - latin */
@@ -47,7 +47,7 @@
     local('Tillana Bold '),
     local('Tillana-Bold'),
     url('./files/tillana-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/tillana-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/tillana-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* tillana-800normal - latin */
@@ -60,6 +60,6 @@
     local('Tillana ExtraBold '),
     local('Tillana-ExtraBold'),
     url('./files/tillana-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/tillana-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/tillana-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Averia Libre Light '),
     local('Averia Libre-Light'),
     url('./files/averia-libre-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-libre-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-libre-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* averia-libre-300italic - latin */
@@ -21,7 +21,7 @@
     local('Averia Libre Light italic'),
     local('Averia Libre-Lightitalic'),
     url('./files/averia-libre-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-libre-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-libre-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* averia-libre-400normal - latin */
@@ -34,7 +34,7 @@
     local('Averia Libre Regular '),
     local('Averia Libre-Regular'),
     url('./files/averia-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-libre-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-libre-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 false/* averia-libre-700normal - latin */
@@ -47,7 +47,7 @@ false/* averia-libre-700normal - latin */
     local('Averia Libre Bold '),
     local('Averia Libre-Bold'),
     url('./files/averia-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-libre-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-libre-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* averia-libre-700italic - latin */
@@ -60,6 +60,6 @@ false/* averia-libre-700normal - latin */
     local('Averia Libre Bold italic'),
     local('Averia Libre-Bolditalic'),
     url('./files/averia-libre-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-libre-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-libre-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

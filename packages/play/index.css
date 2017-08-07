@@ -8,7 +8,7 @@
     local('Play Regular '),
     local('Play-Regular'),
     url('./files/play-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/play-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/play-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* play-700normal - latin */
@@ -21,6 +21,6 @@
     local('Play Bold '),
     local('Play-Bold'),
     url('./files/play-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/play-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/play-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

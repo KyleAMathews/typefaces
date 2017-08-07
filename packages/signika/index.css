@@ -8,7 +8,7 @@
     local('Signika Light '),
     local('Signika-Light'),
     url('./files/signika-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/signika-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/signika-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* signika-400normal - latin */
@@ -21,7 +21,7 @@
     local('Signika Regular '),
     local('Signika-Regular'),
     url('./files/signika-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/signika-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/signika-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* signika-600normal - latin */
@@ -34,7 +34,7 @@
     local('Signika SemiBold '),
     local('Signika-SemiBold'),
     url('./files/signika-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/signika-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/signika-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* signika-700normal - latin */
@@ -47,6 +47,6 @@
     local('Signika Bold '),
     local('Signika-Bold'),
     url('./files/signika-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/signika-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/signika-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

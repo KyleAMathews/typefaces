@@ -8,7 +8,7 @@
     local('Expletus Sans Regular '),
     local('Expletus Sans-Regular'),
     url('./files/expletus-sans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/expletus-sans-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/expletus-sans-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* expletus-sans-400italic - latin */
@@ -21,7 +21,7 @@
     local('Expletus Sans Regular italic'),
     local('Expletus Sans-Regularitalic'),
     url('./files/expletus-sans-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/expletus-sans-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/expletus-sans-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* expletus-sans-500normal - latin */
@@ -34,7 +34,7 @@
     local('Expletus Sans Medium '),
     local('Expletus Sans-Medium'),
     url('./files/expletus-sans-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/expletus-sans-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/expletus-sans-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* expletus-sans-500italic - latin */
@@ -47,7 +47,7 @@
     local('Expletus Sans Medium italic'),
     local('Expletus Sans-Mediumitalic'),
     url('./files/expletus-sans-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/expletus-sans-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/expletus-sans-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* expletus-sans-600normal - latin */
@@ -60,7 +60,7 @@
     local('Expletus Sans SemiBold '),
     local('Expletus Sans-SemiBold'),
     url('./files/expletus-sans-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/expletus-sans-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/expletus-sans-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* expletus-sans-600italic - latin */
@@ -73,7 +73,7 @@
     local('Expletus Sans SemiBold italic'),
     local('Expletus Sans-SemiBolditalic'),
     url('./files/expletus-sans-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/expletus-sans-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/expletus-sans-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* expletus-sans-700normal - latin */
@@ -86,7 +86,7 @@
     local('Expletus Sans Bold '),
     local('Expletus Sans-Bold'),
     url('./files/expletus-sans-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/expletus-sans-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/expletus-sans-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* expletus-sans-700italic - latin */
@@ -99,6 +99,6 @@
     local('Expletus Sans Bold italic'),
     local('Expletus Sans-Bolditalic'),
     url('./files/expletus-sans-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/expletus-sans-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/expletus-sans-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

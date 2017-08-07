@@ -8,7 +8,7 @@
     local('Cairo Extra Light '),
     local('Cairo-Extra Light'),
     url('./files/cairo-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cairo-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/cairo-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cairo-300normal - latin */
@@ -21,7 +21,7 @@
     local('Cairo Light '),
     local('Cairo-Light'),
     url('./files/cairo-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cairo-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/cairo-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cairo-400normal - latin */
@@ -34,7 +34,7 @@
     local('Cairo Regular '),
     local('Cairo-Regular'),
     url('./files/cairo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cairo-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cairo-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cairo-600normal - latin */
@@ -47,7 +47,7 @@
     local('Cairo SemiBold '),
     local('Cairo-SemiBold'),
     url('./files/cairo-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cairo-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/cairo-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cairo-700normal - latin */
@@ -60,7 +60,7 @@
     local('Cairo Bold '),
     local('Cairo-Bold'),
     url('./files/cairo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cairo-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cairo-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cairo-900normal - latin */
@@ -73,6 +73,6 @@
     local('Cairo Black '),
     local('Cairo-Black'),
     url('./files/cairo-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cairo-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/cairo-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

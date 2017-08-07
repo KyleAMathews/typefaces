@@ -8,7 +8,7 @@
     local('Lora Regular '),
     local('Lora-Regular'),
     url('./files/lora-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/lora-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/lora-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* lora-400italic - latin */
@@ -21,7 +21,7 @@
     local('Lora Regular italic'),
     local('Lora-Regularitalic'),
     url('./files/lora-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/lora-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/lora-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* lora-700normal - latin */
@@ -34,7 +34,7 @@
     local('Lora Bold '),
     local('Lora-Bold'),
     url('./files/lora-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/lora-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/lora-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* lora-700italic - latin */
@@ -47,6 +47,6 @@
     local('Lora Bold italic'),
     local('Lora-Bolditalic'),
     url('./files/lora-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/lora-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/lora-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

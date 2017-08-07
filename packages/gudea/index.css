@@ -8,7 +8,7 @@
     local('Gudea Regular '),
     local('Gudea-Regular'),
     url('./files/gudea-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gudea-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/gudea-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* gudea-400italic - latin */
@@ -21,7 +21,7 @@
     local('Gudea Regular italic'),
     local('Gudea-Regularitalic'),
     url('./files/gudea-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gudea-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/gudea-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* gudea-700normal - latin */
@@ -34,6 +34,6 @@
     local('Gudea Bold '),
     local('Gudea-Bold'),
     url('./files/gudea-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gudea-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/gudea-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Sarpanch Regular '),
     local('Sarpanch-Regular'),
     url('./files/sarpanch-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarpanch-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/sarpanch-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sarpanch-500normal - latin */
@@ -21,7 +21,7 @@
     local('Sarpanch Medium '),
     local('Sarpanch-Medium'),
     url('./files/sarpanch-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarpanch-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/sarpanch-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sarpanch-600normal - latin */
@@ -34,7 +34,7 @@
     local('Sarpanch SemiBold '),
     local('Sarpanch-SemiBold'),
     url('./files/sarpanch-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarpanch-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/sarpanch-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sarpanch-700normal - latin */
@@ -47,7 +47,7 @@
     local('Sarpanch Bold '),
     local('Sarpanch-Bold'),
     url('./files/sarpanch-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarpanch-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/sarpanch-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sarpanch-800normal - latin */
@@ -60,7 +60,7 @@
     local('Sarpanch ExtraBold '),
     local('Sarpanch-ExtraBold'),
     url('./files/sarpanch-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarpanch-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/sarpanch-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sarpanch-900normal - latin */
@@ -73,6 +73,6 @@
     local('Sarpanch Black '),
     local('Sarpanch-Black'),
     url('./files/sarpanch-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarpanch-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/sarpanch-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

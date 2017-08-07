@@ -8,7 +8,7 @@
     local('Rokkitt Thin '),
     local('Rokkitt-Thin'),
     url('./files/rokkitt-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rokkitt-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/rokkitt-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rokkitt-200normal - latin */
@@ -21,7 +21,7 @@
     local('Rokkitt Extra Light '),
     local('Rokkitt-Extra Light'),
     url('./files/rokkitt-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rokkitt-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/rokkitt-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rokkitt-300normal - latin */
@@ -34,7 +34,7 @@
     local('Rokkitt Light '),
     local('Rokkitt-Light'),
     url('./files/rokkitt-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rokkitt-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/rokkitt-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rokkitt-400normal - latin */
@@ -47,7 +47,7 @@
     local('Rokkitt Regular '),
     local('Rokkitt-Regular'),
     url('./files/rokkitt-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rokkitt-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/rokkitt-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rokkitt-500normal - latin */
@@ -60,7 +60,7 @@
     local('Rokkitt Medium '),
     local('Rokkitt-Medium'),
     url('./files/rokkitt-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rokkitt-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/rokkitt-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rokkitt-600normal - latin */
@@ -73,7 +73,7 @@
     local('Rokkitt SemiBold '),
     local('Rokkitt-SemiBold'),
     url('./files/rokkitt-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rokkitt-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/rokkitt-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rokkitt-700normal - latin */
@@ -86,7 +86,7 @@
     local('Rokkitt Bold '),
     local('Rokkitt-Bold'),
     url('./files/rokkitt-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rokkitt-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/rokkitt-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rokkitt-800normal - latin */
@@ -99,7 +99,7 @@
     local('Rokkitt ExtraBold '),
     local('Rokkitt-ExtraBold'),
     url('./files/rokkitt-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rokkitt-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/rokkitt-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rokkitt-900normal - latin */
@@ -112,6 +112,6 @@
     local('Rokkitt Black '),
     local('Rokkitt-Black'),
     url('./files/rokkitt-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rokkitt-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/rokkitt-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

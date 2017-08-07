@@ -8,7 +8,7 @@
     local('Noticia Text Regular '),
     local('Noticia Text-Regular'),
     url('./files/noticia-text-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noticia-text-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/noticia-text-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* noticia-text-400italic - latin */
@@ -21,7 +21,7 @@
     local('Noticia Text Regular italic'),
     local('Noticia Text-Regularitalic'),
     url('./files/noticia-text-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noticia-text-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/noticia-text-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* noticia-text-700normal - latin */
@@ -34,7 +34,7 @@
     local('Noticia Text Bold '),
     local('Noticia Text-Bold'),
     url('./files/noticia-text-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noticia-text-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/noticia-text-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* noticia-text-700italic - latin */
@@ -47,6 +47,6 @@
     local('Noticia Text Bold italic'),
     local('Noticia Text-Bolditalic'),
     url('./files/noticia-text-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noticia-text-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/noticia-text-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

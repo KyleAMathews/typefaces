@@ -8,6 +8,6 @@
     local('Patua One Regular '),
     local('Patua One-Regular'),
     url('./files/patua-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/patua-one-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/patua-one-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

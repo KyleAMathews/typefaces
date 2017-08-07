@@ -8,7 +8,7 @@
     local('Cuprum Regular '),
     local('Cuprum-Regular'),
     url('./files/cuprum-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cuprum-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cuprum-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cuprum-400italic - latin */
@@ -21,7 +21,7 @@
     local('Cuprum Regular italic'),
     local('Cuprum-Regularitalic'),
     url('./files/cuprum-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cuprum-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cuprum-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cuprum-700normal - latin */
@@ -34,7 +34,7 @@
     local('Cuprum Bold '),
     local('Cuprum-Bold'),
     url('./files/cuprum-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cuprum-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cuprum-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cuprum-700italic - latin */
@@ -47,6 +47,6 @@
     local('Cuprum Bold italic'),
     local('Cuprum-Bolditalic'),
     url('./files/cuprum-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cuprum-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cuprum-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

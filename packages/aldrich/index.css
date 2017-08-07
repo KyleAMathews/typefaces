@@ -8,6 +8,6 @@
     local('Aldrich Regular '),
     local('Aldrich-Regular'),
     url('./files/aldrich-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/aldrich-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/aldrich-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

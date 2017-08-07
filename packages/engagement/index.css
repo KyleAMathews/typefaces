@@ -8,6 +8,6 @@
     local('Engagement Regular '),
     local('Engagement-Regular'),
     url('./files/engagement-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/engagement-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/engagement-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Cousine Regular '),
     local('Cousine-Regular'),
     url('./files/cousine-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cousine-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cousine-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cousine-400italic - latin */
@@ -21,7 +21,7 @@
     local('Cousine Regular italic'),
     local('Cousine-Regularitalic'),
     url('./files/cousine-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cousine-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cousine-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cousine-700normal - latin */
@@ -34,7 +34,7 @@
     local('Cousine Bold '),
     local('Cousine-Bold'),
     url('./files/cousine-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cousine-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cousine-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cousine-700italic - latin */
@@ -47,6 +47,6 @@
     local('Cousine Bold italic'),
     local('Cousine-Bolditalic'),
     url('./files/cousine-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cousine-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cousine-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

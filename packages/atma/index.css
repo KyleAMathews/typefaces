@@ -8,7 +8,7 @@
     local('Atma Light '),
     local('Atma-Light'),
     url('./files/atma-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/atma-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/atma-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* atma-400normal - latin */
@@ -21,7 +21,7 @@
     local('Atma Regular '),
     local('Atma-Regular'),
     url('./files/atma-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/atma-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/atma-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* atma-500normal - latin */
@@ -34,7 +34,7 @@
     local('Atma Medium '),
     local('Atma-Medium'),
     url('./files/atma-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/atma-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/atma-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* atma-600normal - latin */
@@ -47,7 +47,7 @@
     local('Atma SemiBold '),
     local('Atma-SemiBold'),
     url('./files/atma-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/atma-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/atma-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* atma-700normal - latin */
@@ -60,6 +60,6 @@
     local('Atma Bold '),
     local('Atma-Bold'),
     url('./files/atma-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/atma-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/atma-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

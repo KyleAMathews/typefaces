@@ -8,7 +8,7 @@
     local('Crimson Text Regular '),
     local('Crimson Text-Regular'),
     url('./files/crimson-text-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/crimson-text-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/crimson-text-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* crimson-text-400italic - latin */
@@ -21,7 +21,7 @@
     local('Crimson Text Regular italic'),
     local('Crimson Text-Regularitalic'),
     url('./files/crimson-text-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/crimson-text-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/crimson-text-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* crimson-text-600normal - latin */
@@ -34,7 +34,7 @@
     local('Crimson Text SemiBold '),
     local('Crimson Text-SemiBold'),
     url('./files/crimson-text-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/crimson-text-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/crimson-text-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* crimson-text-600italic - latin */
@@ -47,7 +47,7 @@
     local('Crimson Text SemiBold italic'),
     local('Crimson Text-SemiBolditalic'),
     url('./files/crimson-text-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/crimson-text-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/crimson-text-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* crimson-text-700normal - latin */
@@ -60,7 +60,7 @@
     local('Crimson Text Bold '),
     local('Crimson Text-Bold'),
     url('./files/crimson-text-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/crimson-text-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/crimson-text-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* crimson-text-700italic - latin */
@@ -73,6 +73,6 @@
     local('Crimson Text Bold italic'),
     local('Crimson Text-Bolditalic'),
     url('./files/crimson-text-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/crimson-text-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/crimson-text-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

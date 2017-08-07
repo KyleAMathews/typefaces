@@ -8,7 +8,7 @@
     local('Alegreya Regular '),
     local('Alegreya-Regular'),
     url('./files/alegreya-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-400italic - latin */
@@ -21,7 +21,7 @@
     local('Alegreya Regular italic'),
     local('Alegreya-Regularitalic'),
     url('./files/alegreya-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-700normal - latin */
@@ -34,7 +34,7 @@
     local('Alegreya Bold '),
     local('Alegreya-Bold'),
     url('./files/alegreya-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-700italic - latin */
@@ -47,7 +47,7 @@
     local('Alegreya Bold italic'),
     local('Alegreya-Bolditalic'),
     url('./files/alegreya-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-900normal - latin */
@@ -60,7 +60,7 @@
     local('Alegreya Black '),
     local('Alegreya-Black'),
     url('./files/alegreya-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-900italic - latin */
@@ -73,6 +73,6 @@
     local('Alegreya Black italic'),
     local('Alegreya-Blackitalic'),
     url('./files/alegreya-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

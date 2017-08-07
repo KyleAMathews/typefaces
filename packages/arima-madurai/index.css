@@ -8,7 +8,7 @@
     local('Arima Madurai Thin '),
     local('Arima Madurai-Thin'),
     url('./files/arima-madurai-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arima-madurai-200normal - latin */
@@ -21,7 +21,7 @@
     local('Arima Madurai Extra Light '),
     local('Arima Madurai-Extra Light'),
     url('./files/arima-madurai-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arima-madurai-300normal - latin */
@@ -34,7 +34,7 @@
     local('Arima Madurai Light '),
     local('Arima Madurai-Light'),
     url('./files/arima-madurai-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arima-madurai-400normal - latin */
@@ -47,7 +47,7 @@
     local('Arima Madurai Regular '),
     local('Arima Madurai-Regular'),
     url('./files/arima-madurai-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arima-madurai-500normal - latin */
@@ -60,7 +60,7 @@
     local('Arima Madurai Medium '),
     local('Arima Madurai-Medium'),
     url('./files/arima-madurai-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arima-madurai-700normal - latin */
@@ -73,7 +73,7 @@
     local('Arima Madurai Bold '),
     local('Arima Madurai-Bold'),
     url('./files/arima-madurai-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arima-madurai-800normal - latin */
@@ -86,7 +86,7 @@
     local('Arima Madurai ExtraBold '),
     local('Arima Madurai-ExtraBold'),
     url('./files/arima-madurai-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arima-madurai-900normal - latin */
@@ -99,6 +99,6 @@
     local('Arima Madurai Black '),
     local('Arima Madurai-Black'),
     url('./files/arima-madurai-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arima-madurai-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/arima-madurai-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

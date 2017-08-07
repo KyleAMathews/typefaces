@@ -8,6 +8,6 @@
     local('Fontdiner Swanky Regular '),
     local('Fontdiner Swanky-Regular'),
     url('./files/fontdiner-swanky-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fontdiner-swanky-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/fontdiner-swanky-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

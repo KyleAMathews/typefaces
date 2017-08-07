@@ -8,6 +8,6 @@
     local('Sacramento Regular '),
     local('Sacramento-Regular'),
     url('./files/sacramento-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sacramento-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/sacramento-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Cabin Sketch Regular '),
     local('Cabin Sketch-Regular'),
     url('./files/cabin-sketch-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-sketch-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-sketch-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cabin-sketch-700normal - latin */
@@ -21,6 +21,6 @@
     local('Cabin Sketch Bold '),
     local('Cabin Sketch-Bold'),
     url('./files/cabin-sketch-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-sketch-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cabin-sketch-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

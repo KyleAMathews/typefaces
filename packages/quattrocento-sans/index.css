@@ -8,7 +8,7 @@
     local('Quattrocento Sans Regular '),
     local('Quattrocento Sans-Regular'),
     url('./files/quattrocento-sans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-sans-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/quattrocento-sans-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quattrocento-sans-400italic - latin */
@@ -21,7 +21,7 @@
     local('Quattrocento Sans Regular italic'),
     local('Quattrocento Sans-Regularitalic'),
     url('./files/quattrocento-sans-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-sans-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/quattrocento-sans-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quattrocento-sans-700normal - latin */
@@ -34,7 +34,7 @@
     local('Quattrocento Sans Bold '),
     local('Quattrocento Sans-Bold'),
     url('./files/quattrocento-sans-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-sans-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/quattrocento-sans-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quattrocento-sans-700italic - latin */
@@ -47,6 +47,6 @@
     local('Quattrocento Sans Bold italic'),
     local('Quattrocento Sans-Bolditalic'),
     url('./files/quattrocento-sans-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-sans-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/quattrocento-sans-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

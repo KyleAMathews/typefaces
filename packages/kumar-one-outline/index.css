@@ -8,6 +8,6 @@
     local('Kumar One Outline Regular '),
     local('Kumar One Outline-Regular'),
     url('./files/kumar-one-outline-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kumar-one-outline-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/kumar-one-outline-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

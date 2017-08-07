@@ -8,6 +8,6 @@
     local('Pirata One Regular '),
     local('Pirata One-Regular'),
     url('./files/pirata-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pirata-one-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/pirata-one-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

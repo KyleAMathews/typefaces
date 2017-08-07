@@ -8,6 +8,6 @@
     local('Over the Rainbow Regular '),
     local('Over the Rainbow-Regular'),
     url('./files/over-the-rainbow-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/over-the-rainbow-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/over-the-rainbow-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

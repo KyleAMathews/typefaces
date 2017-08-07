@@ -8,7 +8,7 @@
     local('Anonymous Pro Regular '),
     local('Anonymous Pro-Regular'),
     url('./files/anonymous-pro-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/anonymous-pro-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/anonymous-pro-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* anonymous-pro-400italic - latin */
@@ -21,7 +21,7 @@
     local('Anonymous Pro Regular italic'),
     local('Anonymous Pro-Regularitalic'),
     url('./files/anonymous-pro-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/anonymous-pro-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/anonymous-pro-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* anonymous-pro-700normal - latin */
@@ -34,7 +34,7 @@
     local('Anonymous Pro Bold '),
     local('Anonymous Pro-Bold'),
     url('./files/anonymous-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/anonymous-pro-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/anonymous-pro-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* anonymous-pro-700italic - latin */
@@ -47,6 +47,6 @@
     local('Anonymous Pro Bold italic'),
     local('Anonymous Pro-Bolditalic'),
     url('./files/anonymous-pro-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/anonymous-pro-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/anonymous-pro-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

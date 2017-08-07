@@ -8,6 +8,6 @@
     local('Ultra Regular '),
     local('Ultra-Regular'),
     url('./files/ultra-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ultra-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/ultra-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

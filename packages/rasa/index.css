@@ -8,7 +8,7 @@
     local('Rasa Light '),
     local('Rasa-Light'),
     url('./files/rasa-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rasa-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/rasa-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rasa-400normal - latin */
@@ -21,7 +21,7 @@
     local('Rasa Regular '),
     local('Rasa-Regular'),
     url('./files/rasa-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rasa-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/rasa-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rasa-500normal - latin */
@@ -34,7 +34,7 @@
     local('Rasa Medium '),
     local('Rasa-Medium'),
     url('./files/rasa-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rasa-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/rasa-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rasa-600normal - latin */
@@ -47,7 +47,7 @@
     local('Rasa SemiBold '),
     local('Rasa-SemiBold'),
     url('./files/rasa-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rasa-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/rasa-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rasa-700normal - latin */
@@ -60,6 +60,6 @@
     local('Rasa Bold '),
     local('Rasa-Bold'),
     url('./files/rasa-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rasa-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/rasa-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

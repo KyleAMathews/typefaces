@@ -8,7 +8,7 @@
     local('Gentium Basic Regular '),
     local('Gentium Basic-Regular'),
     url('./files/gentium-basic-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-basic-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/gentium-basic-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* gentium-basic-400italic - latin */
@@ -21,7 +21,7 @@
     local('Gentium Basic Regular italic'),
     local('Gentium Basic-Regularitalic'),
     url('./files/gentium-basic-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-basic-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/gentium-basic-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* gentium-basic-700normal - latin */
@@ -34,7 +34,7 @@
     local('Gentium Basic Bold '),
     local('Gentium Basic-Bold'),
     url('./files/gentium-basic-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-basic-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/gentium-basic-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* gentium-basic-700italic - latin */
@@ -47,6 +47,6 @@
     local('Gentium Basic Bold italic'),
     local('Gentium Basic-Bolditalic'),
     url('./files/gentium-basic-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-basic-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/gentium-basic-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

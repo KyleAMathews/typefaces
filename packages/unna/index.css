@@ -8,7 +8,7 @@
     local('Unna Regular '),
     local('Unna-Regular'),
     url('./files/unna-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/unna-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/unna-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* unna-400italic - latin */
@@ -21,7 +21,7 @@
     local('Unna Regular italic'),
     local('Unna-Regularitalic'),
     url('./files/unna-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/unna-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/unna-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* unna-700normal - latin */
@@ -34,7 +34,7 @@
     local('Unna Bold '),
     local('Unna-Bold'),
     url('./files/unna-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/unna-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/unna-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* unna-700italic - latin */
@@ -47,6 +47,6 @@
     local('Unna Bold italic'),
     local('Unna-Bolditalic'),
     url('./files/unna-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/unna-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/unna-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Roboto Condensed Light '),
     local('Roboto Condensed-Light'),
     url('./files/roboto-condensed-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-condensed-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-condensed-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-condensed-300italic - latin */
@@ -21,7 +21,7 @@
     local('Roboto Condensed Light italic'),
     local('Roboto Condensed-Lightitalic'),
     url('./files/roboto-condensed-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-condensed-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-condensed-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-condensed-400normal - latin */
@@ -34,7 +34,7 @@
     local('Roboto Condensed Regular '),
     local('Roboto Condensed-Regular'),
     url('./files/roboto-condensed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-condensed-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-condensed-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-condensed-400italic - latin */
@@ -47,7 +47,7 @@
     local('Roboto Condensed Regular italic'),
     local('Roboto Condensed-Regularitalic'),
     url('./files/roboto-condensed-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-condensed-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-condensed-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-condensed-700normal - latin */
@@ -60,7 +60,7 @@
     local('Roboto Condensed Bold '),
     local('Roboto Condensed-Bold'),
     url('./files/roboto-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-condensed-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-condensed-700italic - latin */
@@ -73,6 +73,6 @@
     local('Roboto Condensed Bold italic'),
     local('Roboto Condensed-Bolditalic'),
     url('./files/roboto-condensed-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-condensed-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-condensed-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

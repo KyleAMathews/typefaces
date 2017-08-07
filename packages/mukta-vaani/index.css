@@ -8,7 +8,7 @@
     local('Mukta Vaani Extra Light '),
     local('Mukta Vaani-Extra Light'),
     url('./files/mukta-vaani-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-vaani-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/mukta-vaani-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mukta-vaani-300normal - latin */
@@ -21,7 +21,7 @@
     local('Mukta Vaani Light '),
     local('Mukta Vaani-Light'),
     url('./files/mukta-vaani-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-vaani-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/mukta-vaani-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mukta-vaani-400normal - latin */
@@ -34,7 +34,7 @@
     local('Mukta Vaani Regular '),
     local('Mukta Vaani-Regular'),
     url('./files/mukta-vaani-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-vaani-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/mukta-vaani-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mukta-vaani-500normal - latin */
@@ -47,7 +47,7 @@
     local('Mukta Vaani Medium '),
     local('Mukta Vaani-Medium'),
     url('./files/mukta-vaani-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-vaani-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/mukta-vaani-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mukta-vaani-600normal - latin */
@@ -60,7 +60,7 @@
     local('Mukta Vaani SemiBold '),
     local('Mukta Vaani-SemiBold'),
     url('./files/mukta-vaani-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-vaani-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/mukta-vaani-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mukta-vaani-700normal - latin */
@@ -73,7 +73,7 @@
     local('Mukta Vaani Bold '),
     local('Mukta Vaani-Bold'),
     url('./files/mukta-vaani-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-vaani-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/mukta-vaani-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mukta-vaani-800normal - latin */
@@ -86,6 +86,6 @@
     local('Mukta Vaani ExtraBold '),
     local('Mukta Vaani-ExtraBold'),
     url('./files/mukta-vaani-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-vaani-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/mukta-vaani-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 

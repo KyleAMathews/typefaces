@@ -8,7 +8,7 @@
     local('Josefin Slab Thin '),
     local('Josefin Slab-Thin'),
     url('./files/josefin-slab-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-slab-100italic - latin */
@@ -21,7 +21,7 @@
     local('Josefin Slab Thin italic'),
     local('Josefin Slab-Thinitalic'),
     url('./files/josefin-slab-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-100italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-100italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-slab-300normal - latin */
@@ -34,7 +34,7 @@
     local('Josefin Slab Light '),
     local('Josefin Slab-Light'),
     url('./files/josefin-slab-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-slab-300italic - latin */
@@ -47,7 +47,7 @@
     local('Josefin Slab Light italic'),
     local('Josefin Slab-Lightitalic'),
     url('./files/josefin-slab-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-slab-400normal - latin */
@@ -60,7 +60,7 @@
     local('Josefin Slab Regular '),
     local('Josefin Slab-Regular'),
     url('./files/josefin-slab-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-slab-400italic - latin */
@@ -73,7 +73,7 @@
     local('Josefin Slab Regular italic'),
     local('Josefin Slab-Regularitalic'),
     url('./files/josefin-slab-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-slab-600normal - latin */
@@ -86,7 +86,7 @@
     local('Josefin Slab SemiBold '),
     local('Josefin Slab-SemiBold'),
     url('./files/josefin-slab-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-slab-600italic - latin */
@@ -99,7 +99,7 @@
     local('Josefin Slab SemiBold italic'),
     local('Josefin Slab-SemiBolditalic'),
     url('./files/josefin-slab-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-slab-700normal - latin */
@@ -112,7 +112,7 @@
     local('Josefin Slab Bold '),
     local('Josefin Slab-Bold'),
     url('./files/josefin-slab-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-slab-700italic - latin */
@@ -125,6 +125,6 @@
     local('Josefin Slab Bold italic'),
     local('Josefin Slab-Bolditalic'),
     url('./files/josefin-slab-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/josefin-slab-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/josefin-slab-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

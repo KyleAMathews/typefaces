@@ -8,7 +8,7 @@
     local('Cormorant Upright Light '),
     local('Cormorant Upright-Light'),
     url('./files/cormorant-upright-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-upright-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-upright-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-upright-400normal - latin */
@@ -21,7 +21,7 @@
     local('Cormorant Upright Regular '),
     local('Cormorant Upright-Regular'),
     url('./files/cormorant-upright-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-upright-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-upright-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-upright-500normal - latin */
@@ -34,7 +34,7 @@
     local('Cormorant Upright Medium '),
     local('Cormorant Upright-Medium'),
     url('./files/cormorant-upright-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-upright-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-upright-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-upright-600normal - latin */
@@ -47,7 +47,7 @@
     local('Cormorant Upright SemiBold '),
     local('Cormorant Upright-SemiBold'),
     url('./files/cormorant-upright-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-upright-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-upright-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-upright-700normal - latin */
@@ -60,6 +60,6 @@
     local('Cormorant Upright Bold '),
     local('Cormorant Upright-Bold'),
     url('./files/cormorant-upright-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-upright-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-upright-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

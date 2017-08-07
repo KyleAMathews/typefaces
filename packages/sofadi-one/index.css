@@ -8,6 +8,6 @@
     local('Sofadi One Regular '),
     local('Sofadi One-Regular'),
     url('./files/sofadi-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sofadi-one-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/sofadi-one-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

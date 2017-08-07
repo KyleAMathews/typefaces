@@ -8,6 +8,6 @@
     local('Balthazar Regular '),
     local('Balthazar-Regular'),
     url('./files/balthazar-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/balthazar-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/balthazar-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,6 +8,6 @@
     local('Erica One Regular '),
     local('Erica One-Regular'),
     url('./files/erica-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/erica-one-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/erica-one-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

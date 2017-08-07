@@ -8,7 +8,7 @@
     local('Hind Madurai Light '),
     local('Hind Madurai-Light'),
     url('./files/hind-madurai-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/hind-madurai-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-madurai-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* hind-madurai-400normal - latin */
@@ -21,7 +21,7 @@
     local('Hind Madurai Regular '),
     local('Hind Madurai-Regular'),
     url('./files/hind-madurai-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/hind-madurai-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-madurai-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* hind-madurai-500normal - latin */
@@ -34,7 +34,7 @@
     local('Hind Madurai Medium '),
     local('Hind Madurai-Medium'),
     url('./files/hind-madurai-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/hind-madurai-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-madurai-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* hind-madurai-600normal - latin */
@@ -47,7 +47,7 @@
     local('Hind Madurai SemiBold '),
     local('Hind Madurai-SemiBold'),
     url('./files/hind-madurai-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/hind-madurai-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-madurai-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* hind-madurai-700normal - latin */
@@ -60,6 +60,6 @@
     local('Hind Madurai Bold '),
     local('Hind Madurai-Bold'),
     url('./files/hind-madurai-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/hind-madurai-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/hind-madurai-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

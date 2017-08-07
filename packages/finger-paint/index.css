@@ -8,6 +8,6 @@
     local('Finger Paint Regular '),
     local('Finger Paint-Regular'),
     url('./files/finger-paint-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/finger-paint-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/finger-paint-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

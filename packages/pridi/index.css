@@ -8,7 +8,7 @@
     local('Pridi Extra Light '),
     local('Pridi-Extra Light'),
     url('./files/pridi-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pridi-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/pridi-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* pridi-300normal - latin */
@@ -21,7 +21,7 @@
     local('Pridi Light '),
     local('Pridi-Light'),
     url('./files/pridi-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pridi-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/pridi-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* pridi-400normal - latin */
@@ -34,7 +34,7 @@
     local('Pridi Regular '),
     local('Pridi-Regular'),
     url('./files/pridi-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pridi-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/pridi-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* pridi-500normal - latin */
@@ -47,7 +47,7 @@
     local('Pridi Medium '),
     local('Pridi-Medium'),
     url('./files/pridi-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pridi-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/pridi-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* pridi-600normal - latin */
@@ -60,7 +60,7 @@
     local('Pridi SemiBold '),
     local('Pridi-SemiBold'),
     url('./files/pridi-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pridi-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/pridi-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* pridi-700normal - latin */
@@ -73,6 +73,6 @@
     local('Pridi Bold '),
     local('Pridi-Bold'),
     url('./files/pridi-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pridi-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/pridi-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
