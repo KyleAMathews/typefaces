@@ -3,7 +3,7 @@ require("shelljs").config.silent = true
 const requestSync = require(`sync-request`)
 const request = require(`request`)
 const async = require(`async`)
-const fs = require(`fs`)
+const fs = require(`fs-extra`)
 const path = require(`path`)
 const md5Dir = require(`md5-dir`)
 const log = require("single-line-log").stdout
@@ -32,8 +32,8 @@ const typeface = JSON.parse(res.getBody(`UTF-8`))
 const typefaceDir = `packages/${typeface.id}`
 
 // Create the directories for this typeface.
-mkdir(typefaceDir)
-mkdir(typefaceDir + `/files`)
+fs.ensureDirSync(typefaceDir)
+fs.ensureDirSync(typefaceDir + `/files`)
 
 // Make git ignore typeface files so we're not checking in GBs of data.
 fs.writeFileSync(typefaceDir + `/.gitignore`, "/files")
@@ -52,22 +52,29 @@ const makeFontFilePath = (item, extension) => {
 async.map(
   typeface.variants,
   (item, callback) => {
-    // Download eot, svg, woff, and woff2 in parallal.
-    const downloads = [`eot`, `svg`, `woff`, `woff2`].map(extension => {
+    // Download woff, and woff2 in parallal.
+    const downloads = [`woff`, `woff2`].map(extension => {
       const dest = path.join(typefaceDir, makeFontFilePath(item, extension))
       const url = item[extension]
       return {
+        extension,
         url,
         dest,
       }
     })
+    item.errored = false
     async.map(
       downloads,
       (d, downloadDone) => {
-        const { url, dest } = d
+        const { url, dest, extension } = d
         download(url, dest, err => {
-          log(`Finished downloading "${url}" to "${dest}"`)
-          downloadDone(err)
+          if (err) {
+            console.log("error downloading", typeface.id, url, err)
+            // Track if a download errored.
+            item.errored = true
+          }
+          // log(`Finished downloading "${url}" to "${dest}"`)
+          downloadDone()
         })
       },
       callback
@@ -85,9 +92,9 @@ async.map(
         )
         if (filesHashJson.hash === filesHash) {
           // Exit
-          console.log(
-            `The md5 hash of the new font files haven't changed (meaning no font files have changed) so exiting`
-          )
+          // console.log(
+          // `The md5 hash of the new font files haven't changed (meaning no font files have changed) so exiting`
+          // )
           process.exit()
         } else {
         }
@@ -128,6 +135,9 @@ async.map(
         return sortString
       })
       css = variants.map(item => {
+        if (item.errored) {
+          return false
+        }
         let style = ""
         if (item.fontStyle !== `normal`) {
           style = item.fontStyle
@@ -139,15 +149,15 @@ async.map(
           styleWithNormal: item.fontStyle,
           weight: item.fontWeight,
           commonWeightName: commonWeightNameMap(item.fontWeight),
-          eotPath: makeFontFilePath(item, "eot"),
           woffPath: makeFontFilePath(item, "woff"),
           woff2Path: makeFontFilePath(item, "woff2"),
-          svgPath: makeFontFilePath(item, "svg"),
         })
       })
 
+      const cssPath = `${typefaceDir}/index.css`
+      fs.unlinkSync(cssPath)
       fs.writeFileSync(`${typefaceDir}/index.css`, css.join(""))
-      console.log(`\nfinished`)
+      console.log("finished downloading", typeface.family)
     })
   }
 )

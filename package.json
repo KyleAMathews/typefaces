@@ -10,6 +10,7 @@
     "glob": "^7.1.2",
     "lodash": "^4.17.4",
     "md5-dir": "^0.1.0",
+    "mt-files-downloader": "^0.2.5",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
     "shelljs": "^0.7.8",

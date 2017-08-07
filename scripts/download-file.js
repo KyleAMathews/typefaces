@@ -1,41 +1,27 @@
 var fs = require("fs")
+const Downloader = require("mt-files-downloader")
 var request = require("request")
 
 module.exports = function(url, dest, cb) {
-  var file = fs.createWriteStream(dest)
-  var sendReq = request.get(url)
-
-  // verify response code
-  sendReq.on("response", function(response) {
-    if (response.statusCode !== 200) {
-      console.log("response from", url, response.statusCode)
-      // return cb("Response status was " + response.statusCode)
-    }
+  const downloader = new Downloader()
+  const dl = downloader.download(url, dest).start()
+  dl.on("error", function() {
+    // Retry download after 5 seconds
+    setTimeout(() => {
+      const dl2 = downloader.download(url, dest).start()
+      dl2.on("error", function() {
+        console.log("ERROR2 - Download " + dest)
+        cb(true)
+      })
+      dl2.on("end", () => {
+        console.log("retried download worked")
+        console.log(dest)
+        cb()
+      })
+    }, 5000)
   })
-
-  // check for request errors
-  sendReq.on("error", function(err) {
-    fs.unlink(dest)
-
-    if (cb) {
-      console.log("request error", err.message)
-      return cb(err.message)
-    }
-  })
-
-  sendReq.pipe(file)
-
-  file.on("finish", function() {
-    file.close(cb) // close() is async, call cb after close completes.
-  })
-
-  file.on("error", function(err) {
-    // Handle errors
-    fs.unlink(dest)
-
-    // Delete the file async. (But we don't check the result)
-    if (cb) {
-      return cb(err.message)
-    }
+  dl.on("end", function() {
+    // console.log("EVENT - Download " + dest + " finished !")
+    cb()
   })
 }

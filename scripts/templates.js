@@ -27,14 +27,11 @@ exports.fontFace = _.template(
   font-style: <%= styleWithNormal %>;
   font-display: swap;
   font-weight: <%= weight %>;
-  src: url('<%= eotPath %>'); /* IE9 Compat Modes */
   src:
     local('<%= typefaceName %> <%= commonWeightName %> <%= style %>'),
     local('<%= typefaceName %>-<%= commonWeightName %><%= style %>'),
-    url('<%= eotPath %>?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('<%= woff2Path %>') format('woff2'), /* Super Modern Browsers */
     url('<%= woffPath %>') format('woff'), /* Modern Browsers */
-    url('<%= svgPath %>#<%= _.upperFirst(_.camelCase(typefaceId)) %>') format('svg'); /* Legacy iOS */
 }
 
 `
