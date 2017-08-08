@@ -8,7 +8,7 @@
     local('Libre Baskerville Regular '),
     local('Libre Baskerville-Regular'),
     url('./files/libre-baskerville-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-baskerville-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-baskerville-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-baskerville-400italic - latin */
@@ -21,7 +21,7 @@
     local('Libre Baskerville Regular italic'),
     local('Libre Baskerville-Regularitalic'),
     url('./files/libre-baskerville-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-baskerville-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-baskerville-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* libre-baskerville-700normal - latin */
@@ -34,6 +34,6 @@
     local('Libre Baskerville Bold '),
     local('Libre Baskerville-Bold'),
     url('./files/libre-baskerville-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-baskerville-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/libre-baskerville-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

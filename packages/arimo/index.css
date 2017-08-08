@@ -8,7 +8,7 @@
     local('Arimo Regular '),
     local('Arimo-Regular'),
     url('./files/arimo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arimo-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/arimo-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arimo-400italic - latin */
@@ -21,7 +21,7 @@
     local('Arimo Regular italic'),
     local('Arimo-Regularitalic'),
     url('./files/arimo-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arimo-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/arimo-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arimo-700normal - latin */
@@ -34,7 +34,7 @@
     local('Arimo Bold '),
     local('Arimo-Bold'),
     url('./files/arimo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arimo-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/arimo-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arimo-700italic - latin */
@@ -47,6 +47,6 @@
     local('Arimo Bold italic'),
     local('Arimo-Bolditalic'),
     url('./files/arimo-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arimo-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/arimo-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

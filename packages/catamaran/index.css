@@ -8,7 +8,7 @@
     local('Catamaran Thin '),
     local('Catamaran-Thin'),
     url('./files/catamaran-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* catamaran-200normal - latin */
@@ -21,7 +21,7 @@
     local('Catamaran Extra Light '),
     local('Catamaran-Extra Light'),
     url('./files/catamaran-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* catamaran-300normal - latin */
@@ -34,7 +34,7 @@
     local('Catamaran Light '),
     local('Catamaran-Light'),
     url('./files/catamaran-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* catamaran-400normal - latin */
@@ -47,7 +47,7 @@
     local('Catamaran Regular '),
     local('Catamaran-Regular'),
     url('./files/catamaran-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* catamaran-500normal - latin */
@@ -60,7 +60,7 @@
     local('Catamaran Medium '),
     local('Catamaran-Medium'),
     url('./files/catamaran-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* catamaran-600normal - latin */
@@ -73,7 +73,7 @@
     local('Catamaran SemiBold '),
     local('Catamaran-SemiBold'),
     url('./files/catamaran-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* catamaran-700normal - latin */
@@ -86,7 +86,7 @@
     local('Catamaran Bold '),
     local('Catamaran-Bold'),
     url('./files/catamaran-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* catamaran-800normal - latin */
@@ -99,7 +99,7 @@
     local('Catamaran ExtraBold '),
     local('Catamaran-ExtraBold'),
     url('./files/catamaran-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* catamaran-900normal - latin */
@@ -112,6 +112,6 @@
     local('Catamaran Black '),
     local('Catamaran-Black'),
     url('./files/catamaran-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/catamaran-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

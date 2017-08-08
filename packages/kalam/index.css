@@ -8,7 +8,7 @@
     local('Kalam Light '),
     local('Kalam-Light'),
     url('./files/kalam-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kalam-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/kalam-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kalam-400normal - latin */
@@ -21,7 +21,7 @@
     local('Kalam Regular '),
     local('Kalam-Regular'),
     url('./files/kalam-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kalam-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/kalam-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kalam-700normal - latin */
@@ -34,6 +34,6 @@
     local('Kalam Bold '),
     local('Kalam-Bold'),
     url('./files/kalam-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kalam-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/kalam-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

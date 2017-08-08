@@ -8,6 +8,6 @@
     local('Baloo Chettan Regular '),
     local('Baloo Chettan-Regular'),
     url('./files/baloo-chettan-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/baloo-chettan-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/baloo-chettan-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

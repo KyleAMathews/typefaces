@@ -8,7 +8,7 @@
     local('Assistant Extra Light '),
     local('Assistant-Extra Light'),
     url('./files/assistant-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/assistant-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/assistant-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* assistant-300normal - latin */
@@ -21,7 +21,7 @@
     local('Assistant Light '),
     local('Assistant-Light'),
     url('./files/assistant-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/assistant-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/assistant-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* assistant-400normal - latin */
@@ -34,7 +34,7 @@
     local('Assistant Regular '),
     local('Assistant-Regular'),
     url('./files/assistant-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/assistant-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/assistant-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* assistant-600normal - latin */
@@ -47,7 +47,7 @@
     local('Assistant SemiBold '),
     local('Assistant-SemiBold'),
     url('./files/assistant-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/assistant-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/assistant-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* assistant-700normal - latin */
@@ -60,7 +60,7 @@
     local('Assistant Bold '),
     local('Assistant-Bold'),
     url('./files/assistant-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/assistant-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/assistant-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* assistant-800normal - latin */
@@ -73,6 +73,6 @@
     local('Assistant ExtraBold '),
     local('Assistant-ExtraBold'),
     url('./files/assistant-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/assistant-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/assistant-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 

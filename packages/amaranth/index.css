@@ -8,7 +8,7 @@
     local('Amaranth Regular '),
     local('Amaranth-Regular'),
     url('./files/amaranth-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/amaranth-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/amaranth-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* amaranth-400italic - latin */
@@ -21,7 +21,7 @@
     local('Amaranth Regular italic'),
     local('Amaranth-Regularitalic'),
     url('./files/amaranth-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/amaranth-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/amaranth-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* amaranth-700normal - latin */
@@ -34,7 +34,7 @@
     local('Amaranth Bold '),
     local('Amaranth-Bold'),
     url('./files/amaranth-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/amaranth-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/amaranth-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* amaranth-700italic - latin */
@@ -47,6 +47,6 @@
     local('Amaranth Bold italic'),
     local('Amaranth-Bolditalic'),
     url('./files/amaranth-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/amaranth-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/amaranth-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

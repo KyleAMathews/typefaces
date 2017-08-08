@@ -8,6 +8,6 @@
     local('Mouse Memoirs Regular '),
     local('Mouse Memoirs-Regular'),
     url('./files/mouse-memoirs-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mouse-memoirs-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/mouse-memoirs-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

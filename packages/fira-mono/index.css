@@ -8,7 +8,7 @@
     local('Fira Mono Regular '),
     local('Fira Mono-Regular'),
     url('./files/fira-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-mono-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-mono-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-mono-500normal - latin */
@@ -21,7 +21,7 @@
     local('Fira Mono Medium '),
     local('Fira Mono-Medium'),
     url('./files/fira-mono-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-mono-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-mono-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-mono-700normal - latin */
@@ -34,6 +34,6 @@
     local('Fira Mono Bold '),
     local('Fira Mono-Bold'),
     url('./files/fira-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-mono-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-mono-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

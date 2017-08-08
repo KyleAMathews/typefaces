@@ -8,6 +8,6 @@
     local('La Belle Aurore Regular '),
     local('La Belle Aurore-Regular'),
     url('./files/la-belle-aurore-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/la-belle-aurore-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/la-belle-aurore-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

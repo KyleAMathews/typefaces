@@ -8,7 +8,7 @@
     local('Elsie Swash Caps Regular '),
     local('Elsie Swash Caps-Regular'),
     url('./files/elsie-swash-caps-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/elsie-swash-caps-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/elsie-swash-caps-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* elsie-swash-caps-900normal - latin */
@@ -21,6 +21,6 @@
     local('Elsie Swash Caps Black '),
     local('Elsie Swash Caps-Black'),
     url('./files/elsie-swash-caps-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/elsie-swash-caps-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/elsie-swash-caps-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

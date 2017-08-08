@@ -8,7 +8,7 @@
     local('IM Fell English Regular '),
     local('IM Fell English-Regular'),
     url('./files/im-fell-english-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/im-fell-english-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/im-fell-english-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* im-fell-english-400italic - latin */
@@ -21,6 +21,6 @@
     local('IM Fell English Regular italic'),
     local('IM Fell English-Regularitalic'),
     url('./files/im-fell-english-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/im-fell-english-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/im-fell-english-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 

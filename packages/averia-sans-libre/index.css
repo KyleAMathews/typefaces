@@ -8,7 +8,7 @@
     local('Averia Sans Libre Light '),
     local('Averia Sans Libre-Light'),
     url('./files/averia-sans-libre-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-sans-libre-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-sans-libre-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* averia-sans-libre-300italic - latin */
@@ -21,7 +21,7 @@
     local('Averia Sans Libre Light italic'),
     local('Averia Sans Libre-Lightitalic'),
     url('./files/averia-sans-libre-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-sans-libre-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-sans-libre-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* averia-sans-libre-400normal - latin */
@@ -34,7 +34,7 @@
     local('Averia Sans Libre Regular '),
     local('Averia Sans Libre-Regular'),
     url('./files/averia-sans-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-sans-libre-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-sans-libre-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 false/* averia-sans-libre-700normal - latin */
@@ -47,7 +47,7 @@ false/* averia-sans-libre-700normal - latin */
     local('Averia Sans Libre Bold '),
     local('Averia Sans Libre-Bold'),
     url('./files/averia-sans-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-sans-libre-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-sans-libre-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* averia-sans-libre-700italic - latin */
@@ -60,6 +60,6 @@ false/* averia-sans-libre-700normal - latin */
     local('Averia Sans Libre Bold italic'),
     local('Averia Sans Libre-Bolditalic'),
     url('./files/averia-sans-libre-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/averia-sans-libre-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/averia-sans-libre-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

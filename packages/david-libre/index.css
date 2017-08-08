@@ -8,7 +8,7 @@
     local('David Libre Regular '),
     local('David Libre-Regular'),
     url('./files/david-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/david-libre-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/david-libre-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* david-libre-500normal - latin */
@@ -21,7 +21,7 @@
     local('David Libre Medium '),
     local('David Libre-Medium'),
     url('./files/david-libre-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/david-libre-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/david-libre-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* david-libre-700normal - latin */
@@ -34,6 +34,6 @@
     local('David Libre Bold '),
     local('David Libre-Bold'),
     url('./files/david-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/david-libre-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/david-libre-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

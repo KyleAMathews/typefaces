@@ -8,7 +8,7 @@
     local('Nunito Extra Light '),
     local('Nunito-Extra Light'),
     url('./files/nunito-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-200italic - latin */
@@ -21,7 +21,7 @@
     local('Nunito Extra Light italic'),
     local('Nunito-Extra Lightitalic'),
     url('./files/nunito-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-200italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-200italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-300normal - latin */
@@ -34,7 +34,7 @@
     local('Nunito Light '),
     local('Nunito-Light'),
     url('./files/nunito-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-300italic - latin */
@@ -47,7 +47,7 @@
     local('Nunito Light italic'),
     local('Nunito-Lightitalic'),
     url('./files/nunito-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-400normal - latin */
@@ -60,7 +60,7 @@
     local('Nunito Regular '),
     local('Nunito-Regular'),
     url('./files/nunito-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-400italic - latin */
@@ -73,7 +73,7 @@
     local('Nunito Regular italic'),
     local('Nunito-Regularitalic'),
     url('./files/nunito-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-600normal - latin */
@@ -86,7 +86,7 @@
     local('Nunito SemiBold '),
     local('Nunito-SemiBold'),
     url('./files/nunito-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-600italic - latin */
@@ -99,7 +99,7 @@
     local('Nunito SemiBold italic'),
     local('Nunito-SemiBolditalic'),
     url('./files/nunito-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-700normal - latin */
@@ -112,7 +112,7 @@
     local('Nunito Bold '),
     local('Nunito-Bold'),
     url('./files/nunito-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-700italic - latin */
@@ -125,7 +125,7 @@
     local('Nunito Bold italic'),
     local('Nunito-Bolditalic'),
     url('./files/nunito-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-800normal - latin */
@@ -138,7 +138,7 @@
     local('Nunito ExtraBold '),
     local('Nunito-ExtraBold'),
     url('./files/nunito-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-800italic - latin */
@@ -151,7 +151,7 @@
     local('Nunito ExtraBold italic'),
     local('Nunito-ExtraBolditalic'),
     url('./files/nunito-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-800italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-900normal - latin */
@@ -164,7 +164,7 @@
     local('Nunito Black '),
     local('Nunito-Black'),
     url('./files/nunito-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* nunito-900italic - latin */
@@ -177,6 +177,6 @@
     local('Nunito Black italic'),
     local('Nunito-Blackitalic'),
     url('./files/nunito-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/nunito-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

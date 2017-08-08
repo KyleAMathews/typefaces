@@ -8,7 +8,7 @@
     local('Fira Sans Extra Condensed Thin '),
     local('Fira Sans Extra Condensed-Thin'),
     url('./files/fira-sans-extra-condensed-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-100italic - latin */
@@ -21,7 +21,7 @@
     local('Fira Sans Extra Condensed Thin italic'),
     local('Fira Sans Extra Condensed-Thinitalic'),
     url('./files/fira-sans-extra-condensed-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-100italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-100italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-200normal - latin */
@@ -34,7 +34,7 @@
     local('Fira Sans Extra Condensed Extra Light '),
     local('Fira Sans Extra Condensed-Extra Light'),
     url('./files/fira-sans-extra-condensed-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-200italic - latin */
@@ -47,7 +47,7 @@
     local('Fira Sans Extra Condensed Extra Light italic'),
     local('Fira Sans Extra Condensed-Extra Lightitalic'),
     url('./files/fira-sans-extra-condensed-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-200italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-200italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-300normal - latin */
@@ -60,7 +60,7 @@
     local('Fira Sans Extra Condensed Light '),
     local('Fira Sans Extra Condensed-Light'),
     url('./files/fira-sans-extra-condensed-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-300italic - latin */
@@ -73,7 +73,7 @@
     local('Fira Sans Extra Condensed Light italic'),
     local('Fira Sans Extra Condensed-Lightitalic'),
     url('./files/fira-sans-extra-condensed-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-400normal - latin */
@@ -86,7 +86,7 @@
     local('Fira Sans Extra Condensed Regular '),
     local('Fira Sans Extra Condensed-Regular'),
     url('./files/fira-sans-extra-condensed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-400italic - latin */
@@ -99,7 +99,7 @@
     local('Fira Sans Extra Condensed Regular italic'),
     local('Fira Sans Extra Condensed-Regularitalic'),
     url('./files/fira-sans-extra-condensed-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-500normal - latin */
@@ -112,7 +112,7 @@
     local('Fira Sans Extra Condensed Medium '),
     local('Fira Sans Extra Condensed-Medium'),
     url('./files/fira-sans-extra-condensed-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-500italic - latin */
@@ -125,7 +125,7 @@
     local('Fira Sans Extra Condensed Medium italic'),
     local('Fira Sans Extra Condensed-Mediumitalic'),
     url('./files/fira-sans-extra-condensed-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-600normal - latin */
@@ -138,7 +138,7 @@
     local('Fira Sans Extra Condensed SemiBold '),
     local('Fira Sans Extra Condensed-SemiBold'),
     url('./files/fira-sans-extra-condensed-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-600italic - latin */
@@ -151,7 +151,7 @@
     local('Fira Sans Extra Condensed SemiBold italic'),
     local('Fira Sans Extra Condensed-SemiBolditalic'),
     url('./files/fira-sans-extra-condensed-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-700normal - latin */
@@ -164,7 +164,7 @@
     local('Fira Sans Extra Condensed Bold '),
     local('Fira Sans Extra Condensed-Bold'),
     url('./files/fira-sans-extra-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-700italic - latin */
@@ -177,7 +177,7 @@
     local('Fira Sans Extra Condensed Bold italic'),
     local('Fira Sans Extra Condensed-Bolditalic'),
     url('./files/fira-sans-extra-condensed-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-800normal - latin */
@@ -190,7 +190,7 @@
     local('Fira Sans Extra Condensed ExtraBold '),
     local('Fira Sans Extra Condensed-ExtraBold'),
     url('./files/fira-sans-extra-condensed-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-800italic - latin */
@@ -203,7 +203,7 @@
     local('Fira Sans Extra Condensed ExtraBold italic'),
     local('Fira Sans Extra Condensed-ExtraBolditalic'),
     url('./files/fira-sans-extra-condensed-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-800italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-900normal - latin */
@@ -216,7 +216,7 @@
     local('Fira Sans Extra Condensed Black '),
     local('Fira Sans Extra Condensed-Black'),
     url('./files/fira-sans-extra-condensed-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* fira-sans-extra-condensed-900italic - latin */
@@ -229,6 +229,6 @@
     local('Fira Sans Extra Condensed Black italic'),
     local('Fira Sans Extra Condensed-Blackitalic'),
     url('./files/fira-sans-extra-condensed-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/fira-sans-extra-condensed-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/fira-sans-extra-condensed-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

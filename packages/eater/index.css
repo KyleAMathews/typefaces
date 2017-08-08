@@ -8,6 +8,6 @@
     local('Eater Regular '),
     local('Eater-Regular'),
     url('./files/eater-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/eater-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/eater-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

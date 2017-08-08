@@ -8,7 +8,7 @@
     local('Space Mono Regular '),
     local('Space Mono-Regular'),
     url('./files/space-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/space-mono-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/space-mono-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* space-mono-400italic - latin */
@@ -21,7 +21,7 @@
     local('Space Mono Regular italic'),
     local('Space Mono-Regularitalic'),
     url('./files/space-mono-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/space-mono-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/space-mono-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* space-mono-700normal - latin */
@@ -34,7 +34,7 @@
     local('Space Mono Bold '),
     local('Space Mono-Bold'),
     url('./files/space-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/space-mono-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/space-mono-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* space-mono-700italic - latin */
@@ -47,6 +47,6 @@
     local('Space Mono Bold italic'),
     local('Space Mono-Bolditalic'),
     url('./files/space-mono-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/space-mono-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/space-mono-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

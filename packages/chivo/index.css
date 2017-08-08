@@ -8,7 +8,7 @@
     local('Chivo Light '),
     local('Chivo-Light'),
     url('./files/chivo-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chivo-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/chivo-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chivo-300italic - latin */
@@ -21,7 +21,7 @@
     local('Chivo Light italic'),
     local('Chivo-Lightitalic'),
     url('./files/chivo-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chivo-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/chivo-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chivo-400normal - latin */
@@ -34,7 +34,7 @@
     local('Chivo Regular '),
     local('Chivo-Regular'),
     url('./files/chivo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chivo-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/chivo-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chivo-400italic - latin */
@@ -47,7 +47,7 @@
     local('Chivo Regular italic'),
     local('Chivo-Regularitalic'),
     url('./files/chivo-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chivo-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/chivo-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chivo-700normal - latin */
@@ -60,7 +60,7 @@
     local('Chivo Bold '),
     local('Chivo-Bold'),
     url('./files/chivo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chivo-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/chivo-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chivo-700italic - latin */
@@ -73,7 +73,7 @@
     local('Chivo Bold italic'),
     local('Chivo-Bolditalic'),
     url('./files/chivo-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chivo-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/chivo-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chivo-900normal - latin */
@@ -86,7 +86,7 @@
     local('Chivo Black '),
     local('Chivo-Black'),
     url('./files/chivo-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chivo-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/chivo-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chivo-900italic - latin */
@@ -99,6 +99,6 @@
     local('Chivo Black italic'),
     local('Chivo-Blackitalic'),
     url('./files/chivo-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chivo-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/chivo-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

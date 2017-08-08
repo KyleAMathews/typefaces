@@ -8,7 +8,7 @@
     local('Alegreya SC Regular '),
     local('Alegreya SC-Regular'),
     url('./files/alegreya-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sc-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sc-400italic - latin */
@@ -21,7 +21,7 @@
     local('Alegreya SC Regular italic'),
     local('Alegreya SC-Regularitalic'),
     url('./files/alegreya-sc-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sc-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sc-700normal - latin */
@@ -34,7 +34,7 @@
     local('Alegreya SC Bold '),
     local('Alegreya SC-Bold'),
     url('./files/alegreya-sc-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sc-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sc-700italic - latin */
@@ -47,7 +47,7 @@
     local('Alegreya SC Bold italic'),
     local('Alegreya SC-Bolditalic'),
     url('./files/alegreya-sc-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sc-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sc-900normal - latin */
@@ -60,7 +60,7 @@
     local('Alegreya SC Black '),
     local('Alegreya SC-Black'),
     url('./files/alegreya-sc-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sc-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sc-900italic - latin */
@@ -73,6 +73,6 @@
     local('Alegreya SC Black italic'),
     local('Alegreya SC-Blackitalic'),
     url('./files/alegreya-sc-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sc-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

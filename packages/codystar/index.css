@@ -8,7 +8,7 @@
     local('Codystar Light '),
     local('Codystar-Light'),
     url('./files/codystar-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/codystar-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/codystar-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* codystar-400normal - latin */
@@ -21,6 +21,6 @@
     local('Codystar Regular '),
     local('Codystar-Regular'),
     url('./files/codystar-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/codystar-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/codystar-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

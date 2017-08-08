@@ -8,7 +8,7 @@
     local('Cormorant Infant Light '),
     local('Cormorant Infant-Light'),
     url('./files/cormorant-infant-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-infant-300italic - latin */
@@ -21,7 +21,7 @@
     local('Cormorant Infant Light italic'),
     local('Cormorant Infant-Lightitalic'),
     url('./files/cormorant-infant-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-infant-400normal - latin */
@@ -34,7 +34,7 @@
     local('Cormorant Infant Regular '),
     local('Cormorant Infant-Regular'),
     url('./files/cormorant-infant-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-infant-400italic - latin */
@@ -47,7 +47,7 @@
     local('Cormorant Infant Regular italic'),
     local('Cormorant Infant-Regularitalic'),
     url('./files/cormorant-infant-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-infant-500normal - latin */
@@ -60,7 +60,7 @@
     local('Cormorant Infant Medium '),
     local('Cormorant Infant-Medium'),
     url('./files/cormorant-infant-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-infant-500italic - latin */
@@ -73,7 +73,7 @@
     local('Cormorant Infant Medium italic'),
     local('Cormorant Infant-Mediumitalic'),
     url('./files/cormorant-infant-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-infant-600normal - latin */
@@ -86,7 +86,7 @@
     local('Cormorant Infant SemiBold '),
     local('Cormorant Infant-SemiBold'),
     url('./files/cormorant-infant-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-infant-600italic - latin */
@@ -99,7 +99,7 @@
     local('Cormorant Infant SemiBold italic'),
     local('Cormorant Infant-SemiBolditalic'),
     url('./files/cormorant-infant-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-infant-700normal - latin */
@@ -112,7 +112,7 @@
     local('Cormorant Infant Bold '),
     local('Cormorant Infant-Bold'),
     url('./files/cormorant-infant-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-infant-700italic - latin */
@@ -125,6 +125,6 @@
     local('Cormorant Infant Bold italic'),
     local('Cormorant Infant-Bolditalic'),
     url('./files/cormorant-infant-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-infant-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-infant-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

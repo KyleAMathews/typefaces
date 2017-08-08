@@ -8,7 +8,7 @@
     local('Simonetta Regular '),
     local('Simonetta-Regular'),
     url('./files/simonetta-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/simonetta-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/simonetta-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* simonetta-400italic - latin */
@@ -21,7 +21,7 @@
     local('Simonetta Regular italic'),
     local('Simonetta-Regularitalic'),
     url('./files/simonetta-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/simonetta-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/simonetta-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* simonetta-900normal - latin */
@@ -34,7 +34,7 @@
     local('Simonetta Black '),
     local('Simonetta-Black'),
     url('./files/simonetta-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/simonetta-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/simonetta-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* simonetta-900italic - latin */
@@ -47,6 +47,6 @@
     local('Simonetta Black italic'),
     local('Simonetta-Blackitalic'),
     url('./files/simonetta-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/simonetta-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/simonetta-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

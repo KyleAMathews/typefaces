@@ -8,7 +8,7 @@
     local('Buenard Regular '),
     local('Buenard-Regular'),
     url('./files/buenard-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/buenard-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/buenard-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* buenard-700normal - latin */
@@ -21,6 +21,6 @@
     local('Buenard Bold '),
     local('Buenard-Bold'),
     url('./files/buenard-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/buenard-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/buenard-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

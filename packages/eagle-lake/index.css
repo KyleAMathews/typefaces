@@ -8,6 +8,6 @@
     local('Eagle Lake Regular '),
     local('Eagle Lake-Regular'),
     url('./files/eagle-lake-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/eagle-lake-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/eagle-lake-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

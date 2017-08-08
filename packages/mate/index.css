@@ -8,7 +8,7 @@
     local('Mate Regular '),
     local('Mate-Regular'),
     url('./files/mate-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mate-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/mate-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mate-400italic - latin */
@@ -21,6 +21,6 @@
     local('Mate Regular italic'),
     local('Mate-Regularitalic'),
     url('./files/mate-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mate-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/mate-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 

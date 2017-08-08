@@ -8,6 +8,6 @@
     local('Handlee Regular '),
     local('Handlee-Regular'),
     url('./files/handlee-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/handlee-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/handlee-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

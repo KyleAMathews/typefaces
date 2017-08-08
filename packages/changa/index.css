@@ -8,7 +8,7 @@
     local('Changa Extra Light '),
     local('Changa-Extra Light'),
     url('./files/changa-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/changa-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* changa-300normal - latin */
@@ -21,7 +21,7 @@
     local('Changa Light '),
     local('Changa-Light'),
     url('./files/changa-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/changa-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* changa-400normal - latin */
@@ -34,7 +34,7 @@
     local('Changa Regular '),
     local('Changa-Regular'),
     url('./files/changa-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/changa-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* changa-500normal - latin */
@@ -47,7 +47,7 @@
     local('Changa Medium '),
     local('Changa-Medium'),
     url('./files/changa-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/changa-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* changa-600normal - latin */
@@ -60,7 +60,7 @@
     local('Changa SemiBold '),
     local('Changa-SemiBold'),
     url('./files/changa-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/changa-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* changa-700normal - latin */
@@ -73,7 +73,7 @@
     local('Changa Bold '),
     local('Changa-Bold'),
     url('./files/changa-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/changa-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* changa-800normal - latin */
@@ -86,6 +86,6 @@
     local('Changa ExtraBold '),
     local('Changa-ExtraBold'),
     url('./files/changa-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/changa-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/changa-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 

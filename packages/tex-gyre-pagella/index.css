@@ -12,7 +12,7 @@
        url('./files/tex-gyre-pagella-700.ttf') format('truetype'),
        url('./files/tex-gyre-pagella-700.svg#TeX Gyre Pagella') format('svg'); /* Legacy iOS */
   }
-    
+
   /* tex-gyre-pagella-700italic - latin */
   @font-face {
   font-family: 'TeX Gyre Pagella';
@@ -26,7 +26,7 @@
        url('./files/tex-gyre-pagella-700italic.ttf') format('truetype'),
        url('./files/tex-gyre-pagella-700italic.svg#TeX Gyre Pagella') format('svg'); /* Legacy iOS */
   }
-    
+
   /* tex-gyre-pagella-400italic - latin */
   @font-face {
   font-family: 'TeX Gyre Pagella';
@@ -40,7 +40,7 @@
        url('./files/tex-gyre-pagella-400italic.ttf') format('truetype'),
        url('./files/tex-gyre-pagella-400italic.svg#TeX Gyre Pagella') format('svg'); /* Legacy iOS */
   }
-    
+
   /* tex-gyre-pagella-400normal - latin */
   @font-face {
   font-family: 'TeX Gyre Pagella';
@@ -54,4 +54,3 @@
        url('./files/tex-gyre-pagella-400.ttf') format('truetype'),
        url('./files/tex-gyre-pagella-400.svg#TeX Gyre Pagella') format('svg'); /* Legacy iOS */
   }
-    

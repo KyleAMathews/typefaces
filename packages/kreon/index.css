@@ -8,7 +8,7 @@
     local('Kreon Light '),
     local('Kreon-Light'),
     url('./files/kreon-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kreon-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/kreon-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kreon-400normal - latin */
@@ -21,7 +21,7 @@
     local('Kreon Regular '),
     local('Kreon-Regular'),
     url('./files/kreon-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kreon-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/kreon-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* kreon-700normal - latin */
@@ -34,6 +34,6 @@
     local('Kreon Bold '),
     local('Kreon-Bold'),
     url('./files/kreon-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kreon-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/kreon-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Karla Regular '),
     local('Karla-Regular'),
     url('./files/karla-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/karla-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/karla-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* karla-400italic - latin */
@@ -21,7 +21,7 @@
     local('Karla Regular italic'),
     local('Karla-Regularitalic'),
     url('./files/karla-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/karla-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/karla-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* karla-700normal - latin */
@@ -34,7 +34,7 @@
     local('Karla Bold '),
     local('Karla-Bold'),
     url('./files/karla-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/karla-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/karla-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* karla-700italic - latin */
@@ -47,6 +47,6 @@
     local('Karla Bold italic'),
     local('Karla-Bolditalic'),
     url('./files/karla-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/karla-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/karla-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

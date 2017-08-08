@@ -8,6 +8,6 @@
     local('Goudy Bookletter 1911 Regular '),
     local('Goudy Bookletter 1911-Regular'),
     url('./files/goudy-bookletter-1911-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/goudy-bookletter-1911-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/goudy-bookletter-1911-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

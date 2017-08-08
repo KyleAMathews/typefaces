@@ -8,7 +8,7 @@
     local('Laila Light '),
     local('Laila-Light'),
     url('./files/laila-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/laila-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/laila-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* laila-400normal - latin */
@@ -21,7 +21,7 @@
     local('Laila Regular '),
     local('Laila-Regular'),
     url('./files/laila-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/laila-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/laila-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* laila-500normal - latin */
@@ -34,7 +34,7 @@
     local('Laila Medium '),
     local('Laila-Medium'),
     url('./files/laila-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/laila-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/laila-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* laila-600normal - latin */
@@ -47,7 +47,7 @@
     local('Laila SemiBold '),
     local('Laila-SemiBold'),
     url('./files/laila-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/laila-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/laila-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* laila-700normal - latin */
@@ -60,6 +60,6 @@
     local('Laila Bold '),
     local('Laila-Bold'),
     url('./files/laila-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/laila-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/laila-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

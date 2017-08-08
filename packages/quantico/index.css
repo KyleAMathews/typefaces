@@ -8,7 +8,7 @@
     local('Quantico Regular '),
     local('Quantico-Regular'),
     url('./files/quantico-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quantico-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/quantico-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quantico-400italic - latin */
@@ -21,7 +21,7 @@
     local('Quantico Regular italic'),
     local('Quantico-Regularitalic'),
     url('./files/quantico-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quantico-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/quantico-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quantico-700normal - latin */
@@ -34,7 +34,7 @@
     local('Quantico Bold '),
     local('Quantico-Bold'),
     url('./files/quantico-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quantico-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/quantico-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quantico-700italic - latin */
@@ -47,6 +47,6 @@
     local('Quantico Bold italic'),
     local('Quantico-Bolditalic'),
     url('./files/quantico-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quantico-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/quantico-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

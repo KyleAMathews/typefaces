@@ -8,7 +8,7 @@
     local('Gentium Book Basic Regular '),
     local('Gentium Book Basic-Regular'),
     url('./files/gentium-book-basic-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-book-basic-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/gentium-book-basic-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* gentium-book-basic-400italic - latin */
@@ -21,7 +21,7 @@
     local('Gentium Book Basic Regular italic'),
     local('Gentium Book Basic-Regularitalic'),
     url('./files/gentium-book-basic-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-book-basic-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/gentium-book-basic-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* gentium-book-basic-700normal - latin */
@@ -34,7 +34,7 @@
     local('Gentium Book Basic Bold '),
     local('Gentium Book Basic-Bold'),
     url('./files/gentium-book-basic-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-book-basic-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/gentium-book-basic-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* gentium-book-basic-700italic - latin */
@@ -47,6 +47,6 @@
     local('Gentium Book Basic Bold italic'),
     local('Gentium Book Basic-Bolditalic'),
     url('./files/gentium-book-basic-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-book-basic-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/gentium-book-basic-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

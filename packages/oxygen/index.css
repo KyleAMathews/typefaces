@@ -8,7 +8,7 @@
     local('Oxygen Light '),
     local('Oxygen-Light'),
     url('./files/oxygen-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/oxygen-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/oxygen-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* oxygen-400normal - latin */
@@ -21,7 +21,7 @@
     local('Oxygen Regular '),
     local('Oxygen-Regular'),
     url('./files/oxygen-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/oxygen-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/oxygen-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* oxygen-700normal - latin */
@@ -34,6 +34,6 @@
     local('Oxygen Bold '),
     local('Oxygen-Bold'),
     url('./files/oxygen-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/oxygen-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/oxygen-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

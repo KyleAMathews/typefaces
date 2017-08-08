@@ -8,6 +8,6 @@
     local('Petit Formal Script Regular '),
     local('Petit Formal Script-Regular'),
     url('./files/petit-formal-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/petit-formal-script-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/petit-formal-script-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

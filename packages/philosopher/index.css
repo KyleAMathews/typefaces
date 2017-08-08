@@ -8,7 +8,7 @@
     local('Philosopher Regular '),
     local('Philosopher-Regular'),
     url('./files/philosopher-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/philosopher-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/philosopher-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* philosopher-400italic - latin */
@@ -21,7 +21,7 @@
     local('Philosopher Regular italic'),
     local('Philosopher-Regularitalic'),
     url('./files/philosopher-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/philosopher-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/philosopher-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* philosopher-700normal - latin */
@@ -34,7 +34,7 @@
     local('Philosopher Bold '),
     local('Philosopher-Bold'),
     url('./files/philosopher-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/philosopher-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/philosopher-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* philosopher-700italic - latin */
@@ -47,6 +47,6 @@
     local('Philosopher Bold italic'),
     local('Philosopher-Bolditalic'),
     url('./files/philosopher-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/philosopher-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/philosopher-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

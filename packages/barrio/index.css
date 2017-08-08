@@ -8,6 +8,6 @@
     local('Barrio Regular '),
     local('Barrio-Regular'),
     url('./files/barrio-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/barrio-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/barrio-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

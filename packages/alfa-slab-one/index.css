@@ -8,6 +8,6 @@
     local('Alfa Slab One Regular '),
     local('Alfa Slab One-Regular'),
     url('./files/alfa-slab-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alfa-slab-one-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/alfa-slab-one-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

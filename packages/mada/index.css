@@ -8,7 +8,7 @@
     local('Mada Extra Light '),
     local('Mada-Extra Light'),
     url('./files/mada-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mada-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mada-300normal - latin */
@@ -21,7 +21,7 @@
     local('Mada Light '),
     local('Mada-Light'),
     url('./files/mada-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mada-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mada-400normal - latin */
@@ -34,7 +34,7 @@
     local('Mada Regular '),
     local('Mada-Regular'),
     url('./files/mada-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mada-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mada-500normal - latin */
@@ -47,7 +47,7 @@
     local('Mada Medium '),
     local('Mada-Medium'),
     url('./files/mada-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mada-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mada-600normal - latin */
@@ -60,7 +60,7 @@
     local('Mada SemiBold '),
     local('Mada-SemiBold'),
     url('./files/mada-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mada-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mada-700normal - latin */
@@ -73,7 +73,7 @@
     local('Mada Bold '),
     local('Mada-Bold'),
     url('./files/mada-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mada-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* mada-900normal - latin */
@@ -86,6 +86,6 @@
     local('Mada Black '),
     local('Mada-Black'),
     url('./files/mada-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mada-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/mada-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Rubik Light '),
     local('Rubik-Light'),
     url('./files/rubik-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rubik-300italic - latin */
@@ -21,7 +21,7 @@
     local('Rubik Light italic'),
     local('Rubik-Lightitalic'),
     url('./files/rubik-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rubik-400normal - latin */
@@ -34,7 +34,7 @@
     local('Rubik Regular '),
     local('Rubik-Regular'),
     url('./files/rubik-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rubik-400italic - latin */
@@ -47,7 +47,7 @@
     local('Rubik Regular italic'),
     local('Rubik-Regularitalic'),
     url('./files/rubik-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rubik-500normal - latin */
@@ -60,7 +60,7 @@
     local('Rubik Medium '),
     local('Rubik-Medium'),
     url('./files/rubik-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rubik-500italic - latin */
@@ -73,7 +73,7 @@
     local('Rubik Medium italic'),
     local('Rubik-Mediumitalic'),
     url('./files/rubik-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rubik-700normal - latin */
@@ -86,7 +86,7 @@
     local('Rubik Bold '),
     local('Rubik-Bold'),
     url('./files/rubik-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rubik-700italic - latin */
@@ -99,7 +99,7 @@
     local('Rubik Bold italic'),
     local('Rubik-Bolditalic'),
     url('./files/rubik-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rubik-900normal - latin */
@@ -112,7 +112,7 @@
     local('Rubik Black '),
     local('Rubik-Black'),
     url('./files/rubik-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* rubik-900italic - latin */
@@ -125,6 +125,6 @@
     local('Rubik Black italic'),
     local('Rubik-Blackitalic'),
     url('./files/rubik-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rubik-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/rubik-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

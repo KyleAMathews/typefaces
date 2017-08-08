@@ -8,7 +8,7 @@
     local('Roboto Mono Thin '),
     local('Roboto Mono-Thin'),
     url('./files/roboto-mono-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-mono-100italic - latin */
@@ -21,7 +21,7 @@
     local('Roboto Mono Thin italic'),
     local('Roboto Mono-Thinitalic'),
     url('./files/roboto-mono-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-100italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-100italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-mono-300normal - latin */
@@ -34,7 +34,7 @@
     local('Roboto Mono Light '),
     local('Roboto Mono-Light'),
     url('./files/roboto-mono-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-mono-300italic - latin */
@@ -47,7 +47,7 @@
     local('Roboto Mono Light italic'),
     local('Roboto Mono-Lightitalic'),
     url('./files/roboto-mono-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-mono-400normal - latin */
@@ -60,7 +60,7 @@
     local('Roboto Mono Regular '),
     local('Roboto Mono-Regular'),
     url('./files/roboto-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-mono-400italic - latin */
@@ -73,7 +73,7 @@
     local('Roboto Mono Regular italic'),
     local('Roboto Mono-Regularitalic'),
     url('./files/roboto-mono-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-mono-500normal - latin */
@@ -86,7 +86,7 @@
     local('Roboto Mono Medium '),
     local('Roboto Mono-Medium'),
     url('./files/roboto-mono-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-mono-500italic - latin */
@@ -99,7 +99,7 @@
     local('Roboto Mono Medium italic'),
     local('Roboto Mono-Mediumitalic'),
     url('./files/roboto-mono-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-mono-700normal - latin */
@@ -112,7 +112,7 @@
     local('Roboto Mono Bold '),
     local('Roboto Mono-Bold'),
     url('./files/roboto-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* roboto-mono-700italic - latin */
@@ -125,6 +125,6 @@
     local('Roboto Mono Bold italic'),
     local('Roboto Mono-Bolditalic'),
     url('./files/roboto-mono-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-mono-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/roboto-mono-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

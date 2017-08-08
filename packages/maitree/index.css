@@ -8,7 +8,7 @@
     local('Maitree Extra Light '),
     local('Maitree-Extra Light'),
     url('./files/maitree-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* maitree-300normal - latin */
@@ -21,7 +21,7 @@
     local('Maitree Light '),
     local('Maitree-Light'),
     url('./files/maitree-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* maitree-400normal - latin */
@@ -34,7 +34,7 @@
     local('Maitree Regular '),
     local('Maitree-Regular'),
     url('./files/maitree-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* maitree-500normal - latin */
@@ -47,7 +47,7 @@
     local('Maitree Medium '),
     local('Maitree-Medium'),
     url('./files/maitree-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* maitree-600normal - latin */
@@ -60,7 +60,7 @@
     local('Maitree SemiBold '),
     local('Maitree-SemiBold'),
     url('./files/maitree-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* maitree-700normal - latin */
@@ -73,6 +73,6 @@
     local('Maitree Bold '),
     local('Maitree-Bold'),
     url('./files/maitree-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/maitree-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

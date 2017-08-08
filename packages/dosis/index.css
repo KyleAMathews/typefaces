@@ -8,7 +8,7 @@
     local('Dosis Extra Light '),
     local('Dosis-Extra Light'),
     url('./files/dosis-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dosis-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/dosis-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* dosis-300normal - latin */
@@ -21,7 +21,7 @@
     local('Dosis Light '),
     local('Dosis-Light'),
     url('./files/dosis-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dosis-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/dosis-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* dosis-400normal - latin */
@@ -34,7 +34,7 @@
     local('Dosis Regular '),
     local('Dosis-Regular'),
     url('./files/dosis-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dosis-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/dosis-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* dosis-500normal - latin */
@@ -47,7 +47,7 @@
     local('Dosis Medium '),
     local('Dosis-Medium'),
     url('./files/dosis-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dosis-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/dosis-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* dosis-600normal - latin */
@@ -60,7 +60,7 @@
     local('Dosis SemiBold '),
     local('Dosis-SemiBold'),
     url('./files/dosis-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dosis-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/dosis-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* dosis-700normal - latin */
@@ -73,7 +73,7 @@
     local('Dosis Bold '),
     local('Dosis-Bold'),
     url('./files/dosis-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dosis-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/dosis-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* dosis-800normal - latin */
@@ -86,6 +86,6 @@
     local('Dosis ExtraBold '),
     local('Dosis-ExtraBold'),
     url('./files/dosis-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dosis-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/dosis-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 

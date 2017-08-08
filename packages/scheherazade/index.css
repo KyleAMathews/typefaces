@@ -8,6 +8,6 @@ false/* scheherazade-700normal - latin */
     local('Scheherazade Bold '),
     local('Scheherazade-Bold'),
     url('./files/scheherazade-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/scheherazade-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/scheherazade-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

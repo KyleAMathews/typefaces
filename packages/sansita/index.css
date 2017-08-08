@@ -8,7 +8,7 @@
     local('Sansita Regular '),
     local('Sansita-Regular'),
     url('./files/sansita-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/sansita-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sansita-400italic - latin */
@@ -21,7 +21,7 @@
     local('Sansita Regular italic'),
     local('Sansita-Regularitalic'),
     url('./files/sansita-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/sansita-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sansita-700normal - latin */
@@ -34,7 +34,7 @@
     local('Sansita Bold '),
     local('Sansita-Bold'),
     url('./files/sansita-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/sansita-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sansita-700italic - latin */
@@ -47,7 +47,7 @@
     local('Sansita Bold italic'),
     local('Sansita-Bolditalic'),
     url('./files/sansita-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/sansita-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sansita-800normal - latin */
@@ -60,7 +60,7 @@
     local('Sansita ExtraBold '),
     local('Sansita-ExtraBold'),
     url('./files/sansita-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/sansita-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sansita-800italic - latin */
@@ -73,7 +73,7 @@
     local('Sansita ExtraBold italic'),
     local('Sansita-ExtraBolditalic'),
     url('./files/sansita-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-800italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/sansita-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sansita-900normal - latin */
@@ -86,7 +86,7 @@
     local('Sansita Black '),
     local('Sansita-Black'),
     url('./files/sansita-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/sansita-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sansita-900italic - latin */
@@ -99,6 +99,6 @@
     local('Sansita Black italic'),
     local('Sansita-Blackitalic'),
     url('./files/sansita-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/sansita-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

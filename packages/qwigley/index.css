@@ -8,6 +8,6 @@
     local('Qwigley Regular '),
     local('Qwigley-Regular'),
     url('./files/qwigley-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/qwigley-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/qwigley-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

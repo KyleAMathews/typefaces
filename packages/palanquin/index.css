@@ -8,7 +8,7 @@
     local('Palanquin Thin '),
     local('Palanquin-Thin'),
     url('./files/palanquin-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/palanquin-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* palanquin-200normal - latin */
@@ -21,7 +21,7 @@
     local('Palanquin Extra Light '),
     local('Palanquin-Extra Light'),
     url('./files/palanquin-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/palanquin-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* palanquin-300normal - latin */
@@ -34,7 +34,7 @@
     local('Palanquin Light '),
     local('Palanquin-Light'),
     url('./files/palanquin-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/palanquin-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* palanquin-400normal - latin */
@@ -47,7 +47,7 @@
     local('Palanquin Regular '),
     local('Palanquin-Regular'),
     url('./files/palanquin-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/palanquin-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* palanquin-500normal - latin */
@@ -60,7 +60,7 @@
     local('Palanquin Medium '),
     local('Palanquin-Medium'),
     url('./files/palanquin-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/palanquin-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* palanquin-600normal - latin */
@@ -73,7 +73,7 @@
     local('Palanquin SemiBold '),
     local('Palanquin-SemiBold'),
     url('./files/palanquin-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/palanquin-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* palanquin-700normal - latin */
@@ -86,6 +86,6 @@
     local('Palanquin Bold '),
     local('Palanquin-Bold'),
     url('./files/palanquin-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/palanquin-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/palanquin-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

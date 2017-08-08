@@ -8,7 +8,7 @@
     local('Stardos Stencil Regular '),
     local('Stardos Stencil-Regular'),
     url('./files/stardos-stencil-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/stardos-stencil-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/stardos-stencil-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* stardos-stencil-700normal - latin */
@@ -21,6 +21,6 @@
     local('Stardos Stencil Bold '),
     local('Stardos Stencil-Bold'),
     url('./files/stardos-stencil-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/stardos-stencil-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/stardos-stencil-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,6 +8,6 @@
     local('Cutive Mono Regular '),
     local('Cutive Mono-Regular'),
     url('./files/cutive-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cutive-mono-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cutive-mono-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

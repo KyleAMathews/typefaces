@@ -8,6 +8,6 @@
     local('Rochester Regular '),
     local('Rochester-Regular'),
     url('./files/rochester-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rochester-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/rochester-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

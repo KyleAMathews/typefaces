@@ -31,7 +31,7 @@ exports.fontFace = _.template(
     local('<%= typefaceName %> <%= commonWeightName %> <%= style %>'),
     local('<%= typefaceName %>-<%= commonWeightName %><%= style %>'),
     url('<%= woff2Path %>') format('woff2'), /* Super Modern Browsers */
-    url('<%= woffPath %>') format('woff'), /* Modern Browsers */
+    url('<%= woffPath %>') format('woff'); /* Modern Browsers */
 }
 
 `

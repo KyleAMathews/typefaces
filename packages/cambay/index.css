@@ -8,7 +8,7 @@
     local('Cambay Regular '),
     local('Cambay-Regular'),
     url('./files/cambay-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cambay-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cambay-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cambay-400italic - latin */
@@ -21,7 +21,7 @@
     local('Cambay Regular italic'),
     local('Cambay-Regularitalic'),
     url('./files/cambay-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cambay-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cambay-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cambay-700normal - latin */
@@ -34,7 +34,7 @@
     local('Cambay Bold '),
     local('Cambay-Bold'),
     url('./files/cambay-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cambay-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cambay-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cambay-700italic - latin */
@@ -47,6 +47,6 @@
     local('Cambay Bold italic'),
     local('Cambay-Bolditalic'),
     url('./files/cambay-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cambay-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cambay-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Arvo Regular '),
     local('Arvo-Regular'),
     url('./files/arvo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arvo-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/arvo-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arvo-400italic - latin */
@@ -21,7 +21,7 @@
     local('Arvo Regular italic'),
     local('Arvo-Regularitalic'),
     url('./files/arvo-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arvo-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/arvo-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arvo-700normal - latin */
@@ -34,7 +34,7 @@
     local('Arvo Bold '),
     local('Arvo-Bold'),
     url('./files/arvo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arvo-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/arvo-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* arvo-700italic - latin */
@@ -47,6 +47,6 @@
     local('Arvo Bold italic'),
     local('Arvo-Bolditalic'),
     url('./files/arvo-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arvo-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/arvo-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

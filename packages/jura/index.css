@@ -8,7 +8,7 @@
     local('Jura Light '),
     local('Jura-Light'),
     url('./files/jura-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/jura-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/jura-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* jura-400normal - latin */
@@ -21,7 +21,7 @@
     local('Jura Regular '),
     local('Jura-Regular'),
     url('./files/jura-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/jura-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/jura-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* jura-500normal - latin */
@@ -34,7 +34,7 @@
     local('Jura Medium '),
     local('Jura-Medium'),
     url('./files/jura-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/jura-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/jura-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* jura-600normal - latin */
@@ -47,7 +47,7 @@
     local('Jura SemiBold '),
     local('Jura-SemiBold'),
     url('./files/jura-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/jura-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/jura-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* jura-700normal - latin */
@@ -60,6 +60,6 @@
     local('Jura Bold '),
     local('Jura-Bold'),
     url('./files/jura-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/jura-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/jura-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

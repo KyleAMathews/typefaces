@@ -8,7 +8,7 @@
     local('Chathura Thin '),
     local('Chathura-Thin'),
     url('./files/chathura-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/chathura-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chathura-300normal - latin */
@@ -21,7 +21,7 @@
     local('Chathura Light '),
     local('Chathura-Light'),
     url('./files/chathura-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/chathura-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chathura-400normal - latin */
@@ -34,7 +34,7 @@
     local('Chathura Regular '),
     local('Chathura-Regular'),
     url('./files/chathura-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/chathura-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chathura-700normal - latin */
@@ -47,7 +47,7 @@
     local('Chathura Bold '),
     local('Chathura-Bold'),
     url('./files/chathura-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/chathura-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* chathura-800normal - latin */
@@ -60,6 +60,6 @@
     local('Chathura ExtraBold '),
     local('Chathura-ExtraBold'),
     url('./files/chathura-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/chathura-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 

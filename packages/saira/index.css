@@ -8,7 +8,7 @@
     local('Saira Thin '),
     local('Saira-Thin'),
     url('./files/saira-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* saira-200normal - latin */
@@ -21,7 +21,7 @@
     local('Saira Extra Light '),
     local('Saira-Extra Light'),
     url('./files/saira-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
 /* saira-300normal - latin */
@@ -34,7 +34,7 @@
     local('Saira Light '),
     local('Saira-Light'),
     url('./files/saira-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* saira-400normal - latin */
@@ -47,7 +47,7 @@
     local('Saira Regular '),
     local('Saira-Regular'),
     url('./files/saira-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* saira-500normal - latin */
@@ -60,7 +60,7 @@
     local('Saira Medium '),
     local('Saira-Medium'),
     url('./files/saira-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* saira-600normal - latin */
@@ -73,7 +73,7 @@
     local('Saira SemiBold '),
     local('Saira-SemiBold'),
     url('./files/saira-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* saira-700normal - latin */
@@ -86,7 +86,7 @@
     local('Saira Bold '),
     local('Saira-Bold'),
     url('./files/saira-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* saira-800normal - latin */
@@ -99,7 +99,7 @@
     local('Saira ExtraBold '),
     local('Saira-ExtraBold'),
     url('./files/saira-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* saira-900normal - latin */
@@ -112,6 +112,6 @@
     local('Saira Black '),
     local('Saira-Black'),
     url('./files/saira-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/saira-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

@@ -8,7 +8,7 @@
     local('Vesper Libre Regular '),
     local('Vesper Libre-Regular'),
     url('./files/vesper-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vesper-libre-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/vesper-libre-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* vesper-libre-500normal - latin */
@@ -21,7 +21,7 @@
     local('Vesper Libre Medium '),
     local('Vesper Libre-Medium'),
     url('./files/vesper-libre-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vesper-libre-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/vesper-libre-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* vesper-libre-700normal - latin */
@@ -34,7 +34,7 @@
     local('Vesper Libre Bold '),
     local('Vesper Libre-Bold'),
     url('./files/vesper-libre-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vesper-libre-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/vesper-libre-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* vesper-libre-900normal - latin */
@@ -47,6 +47,6 @@
     local('Vesper Libre Black '),
     local('Vesper Libre-Black'),
     url('./files/vesper-libre-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vesper-libre-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/vesper-libre-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

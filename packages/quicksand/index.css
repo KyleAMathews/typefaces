@@ -8,7 +8,7 @@
     local('Quicksand Light '),
     local('Quicksand-Light'),
     url('./files/quicksand-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quicksand-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/quicksand-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quicksand-400normal - latin */
@@ -21,7 +21,7 @@
     local('Quicksand Regular '),
     local('Quicksand-Regular'),
     url('./files/quicksand-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quicksand-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/quicksand-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quicksand-500normal - latin */
@@ -34,7 +34,7 @@
     local('Quicksand Medium '),
     local('Quicksand-Medium'),
     url('./files/quicksand-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quicksand-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/quicksand-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quicksand-700normal - latin */
@@ -47,6 +47,6 @@
     local('Quicksand Bold '),
     local('Quicksand-Bold'),
     url('./files/quicksand-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quicksand-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/quicksand-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

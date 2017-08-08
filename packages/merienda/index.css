@@ -8,7 +8,7 @@
     local('Merienda Regular '),
     local('Merienda-Regular'),
     url('./files/merienda-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merienda-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/merienda-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* merienda-700normal - latin */
@@ -21,6 +21,6 @@
     local('Merienda Bold '),
     local('Merienda-Bold'),
     url('./files/merienda-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/merienda-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/merienda-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

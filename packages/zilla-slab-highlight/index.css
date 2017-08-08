@@ -8,7 +8,7 @@
     local('Zilla Slab Highlight Regular '),
     local('Zilla Slab Highlight-Regular'),
     url('./files/zilla-slab-highlight-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/zilla-slab-highlight-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/zilla-slab-highlight-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* zilla-slab-highlight-700normal - latin */
@@ -21,6 +21,6 @@
     local('Zilla Slab Highlight Bold '),
     local('Zilla Slab Highlight-Bold'),
     url('./files/zilla-slab-highlight-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/zilla-slab-highlight-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/zilla-slab-highlight-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

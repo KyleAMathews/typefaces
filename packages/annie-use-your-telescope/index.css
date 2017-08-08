@@ -8,6 +8,6 @@
     local('Annie Use Your Telescope Regular '),
     local('Annie Use Your Telescope-Regular'),
     url('./files/annie-use-your-telescope-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/annie-use-your-telescope-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/annie-use-your-telescope-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

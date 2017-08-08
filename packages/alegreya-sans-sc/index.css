@@ -8,7 +8,7 @@
     local('Alegreya Sans SC Thin '),
     local('Alegreya Sans SC-Thin'),
     url('./files/alegreya-sans-sc-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-100.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-100.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-100italic - latin */
@@ -21,7 +21,7 @@
     local('Alegreya Sans SC Thin italic'),
     local('Alegreya Sans SC-Thinitalic'),
     url('./files/alegreya-sans-sc-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-100italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-100italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-300normal - latin */
@@ -34,7 +34,7 @@
     local('Alegreya Sans SC Light '),
     local('Alegreya Sans SC-Light'),
     url('./files/alegreya-sans-sc-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-300italic - latin */
@@ -47,7 +47,7 @@
     local('Alegreya Sans SC Light italic'),
     local('Alegreya Sans SC-Lightitalic'),
     url('./files/alegreya-sans-sc-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-400normal - latin */
@@ -60,7 +60,7 @@
     local('Alegreya Sans SC Regular '),
     local('Alegreya Sans SC-Regular'),
     url('./files/alegreya-sans-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-400italic - latin */
@@ -73,7 +73,7 @@
     local('Alegreya Sans SC Regular italic'),
     local('Alegreya Sans SC-Regularitalic'),
     url('./files/alegreya-sans-sc-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-500normal - latin */
@@ -86,7 +86,7 @@
     local('Alegreya Sans SC Medium '),
     local('Alegreya Sans SC-Medium'),
     url('./files/alegreya-sans-sc-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-500italic - latin */
@@ -99,7 +99,7 @@
     local('Alegreya Sans SC Medium italic'),
     local('Alegreya Sans SC-Mediumitalic'),
     url('./files/alegreya-sans-sc-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-700normal - latin */
@@ -112,7 +112,7 @@
     local('Alegreya Sans SC Bold '),
     local('Alegreya Sans SC-Bold'),
     url('./files/alegreya-sans-sc-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-700italic - latin */
@@ -125,7 +125,7 @@
     local('Alegreya Sans SC Bold italic'),
     local('Alegreya Sans SC-Bolditalic'),
     url('./files/alegreya-sans-sc-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-800normal - latin */
@@ -138,7 +138,7 @@
     local('Alegreya Sans SC ExtraBold '),
     local('Alegreya Sans SC-ExtraBold'),
     url('./files/alegreya-sans-sc-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-800.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-800italic - latin */
@@ -151,7 +151,7 @@
     local('Alegreya Sans SC ExtraBold italic'),
     local('Alegreya Sans SC-ExtraBolditalic'),
     url('./files/alegreya-sans-sc-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-800italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-900normal - latin */
@@ -164,7 +164,7 @@
     local('Alegreya Sans SC Black '),
     local('Alegreya Sans SC-Black'),
     url('./files/alegreya-sans-sc-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sans-sc-900italic - latin */
@@ -177,6 +177,6 @@
     local('Alegreya Sans SC Black italic'),
     local('Alegreya Sans SC-Blackitalic'),
     url('./files/alegreya-sans-sc-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sans-sc-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/alegreya-sans-sc-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

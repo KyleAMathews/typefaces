@@ -8,6 +8,6 @@
     local('Berkshire Swash Regular '),
     local('Berkshire Swash-Regular'),
     url('./files/berkshire-swash-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/berkshire-swash-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/berkshire-swash-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

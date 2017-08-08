@@ -8,7 +8,7 @@
     local('Sanchez Regular '),
     local('Sanchez-Regular'),
     url('./files/sanchez-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sanchez-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/sanchez-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* sanchez-400italic - latin */
@@ -21,6 +21,6 @@
     local('Sanchez Regular italic'),
     local('Sanchez-Regularitalic'),
     url('./files/sanchez-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sanchez-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/sanchez-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 

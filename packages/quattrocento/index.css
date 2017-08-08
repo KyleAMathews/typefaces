@@ -8,7 +8,7 @@
     local('Quattrocento Regular '),
     local('Quattrocento-Regular'),
     url('./files/quattrocento-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/quattrocento-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* quattrocento-700normal - latin */
@@ -21,6 +21,6 @@
     local('Quattrocento Bold '),
     local('Quattrocento-Bold'),
     url('./files/quattrocento-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/quattrocento-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

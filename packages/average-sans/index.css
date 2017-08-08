@@ -8,6 +8,6 @@
     local('Average Sans Regular '),
     local('Average Sans-Regular'),
     url('./files/average-sans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/average-sans-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/average-sans-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

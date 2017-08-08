@@ -8,7 +8,7 @@
     local('Cormorant Garamond Light '),
     local('Cormorant Garamond-Light'),
     url('./files/cormorant-garamond-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-300.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-garamond-300italic - latin */
@@ -21,7 +21,7 @@
     local('Cormorant Garamond Light italic'),
     local('Cormorant Garamond-Lightitalic'),
     url('./files/cormorant-garamond-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-garamond-400normal - latin */
@@ -34,7 +34,7 @@
     local('Cormorant Garamond Regular '),
     local('Cormorant Garamond-Regular'),
     url('./files/cormorant-garamond-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-garamond-400italic - latin */
@@ -47,7 +47,7 @@
     local('Cormorant Garamond Regular italic'),
     local('Cormorant Garamond-Regularitalic'),
     url('./files/cormorant-garamond-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-garamond-500normal - latin */
@@ -60,7 +60,7 @@
     local('Cormorant Garamond Medium '),
     local('Cormorant Garamond-Medium'),
     url('./files/cormorant-garamond-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-garamond-500italic - latin */
@@ -73,7 +73,7 @@
     local('Cormorant Garamond Medium italic'),
     local('Cormorant Garamond-Mediumitalic'),
     url('./files/cormorant-garamond-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-garamond-600normal - latin */
@@ -86,7 +86,7 @@
     local('Cormorant Garamond SemiBold '),
     local('Cormorant Garamond-SemiBold'),
     url('./files/cormorant-garamond-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-garamond-600italic - latin */
@@ -99,7 +99,7 @@
     local('Cormorant Garamond SemiBold italic'),
     local('Cormorant Garamond-SemiBolditalic'),
     url('./files/cormorant-garamond-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-600italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-600italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-garamond-700normal - latin */
@@ -112,7 +112,7 @@
     local('Cormorant Garamond Bold '),
     local('Cormorant Garamond-Bold'),
     url('./files/cormorant-garamond-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cormorant-garamond-700italic - latin */
@@ -125,6 +125,6 @@
     local('Cormorant Garamond Bold italic'),
     local('Cormorant Garamond-Bolditalic'),
     url('./files/cormorant-garamond-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-garamond-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cormorant-garamond-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

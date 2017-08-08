@@ -8,6 +8,6 @@
     local('Pinyon Script Regular '),
     local('Pinyon Script-Regular'),
     url('./files/pinyon-script-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pinyon-script-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/pinyon-script-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

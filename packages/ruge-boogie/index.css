@@ -8,6 +8,6 @@
     local('Ruge Boogie Regular '),
     local('Ruge Boogie-Regular'),
     url('./files/ruge-boogie-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ruge-boogie-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/ruge-boogie-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 

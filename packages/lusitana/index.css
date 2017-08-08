@@ -8,7 +8,7 @@
     local('Lusitana Regular '),
     local('Lusitana-Regular'),
     url('./files/lusitana-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/lusitana-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/lusitana-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* lusitana-700normal - latin */
@@ -21,6 +21,6 @@
     local('Lusitana Bold '),
     local('Lusitana-Bold'),
     url('./files/lusitana-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/lusitana-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/lusitana-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 

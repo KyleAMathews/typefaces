@@ -8,7 +8,7 @@
     local('Share Regular '),
     local('Share-Regular'),
     url('./files/share-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/share-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/share-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* share-400italic - latin */
@@ -21,7 +21,7 @@
     local('Share Regular italic'),
     local('Share-Regularitalic'),
     url('./files/share-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/share-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/share-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* share-700normal - latin */
@@ -34,7 +34,7 @@
     local('Share Bold '),
     local('Share-Bold'),
     url('./files/share-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/share-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/share-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* share-700italic - latin */
@@ -47,6 +47,6 @@
     local('Share Bold italic'),
     local('Share-Bolditalic'),
     url('./files/share-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/share-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/share-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

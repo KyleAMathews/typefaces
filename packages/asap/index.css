@@ -8,7 +8,7 @@
     local('Asap Regular '),
     local('Asap-Regular'),
     url('./files/asap-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/asap-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* asap-400italic - latin */
@@ -21,7 +21,7 @@
     local('Asap Regular italic'),
     local('Asap-Regularitalic'),
     url('./files/asap-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/asap-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* asap-500normal - latin */
@@ -34,7 +34,7 @@
     local('Asap Medium '),
     local('Asap-Medium'),
     url('./files/asap-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-500.woff') format('woff'), /* Modern Browsers */
+    url('./files/asap-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
 /* asap-500italic - latin */
@@ -47,7 +47,7 @@
     local('Asap Medium italic'),
     local('Asap-Mediumitalic'),
     url('./files/asap-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-500italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/asap-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* asap-700normal - latin */
@@ -60,7 +60,7 @@
     local('Asap Bold '),
     local('Asap-Bold'),
     url('./files/asap-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/asap-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* asap-700italic - latin */
@@ -73,6 +73,6 @@
     local('Asap Bold italic'),
     local('Asap-Bolditalic'),
     url('./files/asap-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/asap-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

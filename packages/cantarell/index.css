@@ -8,7 +8,7 @@
     local('Cantarell Regular '),
     local('Cantarell-Regular'),
     url('./files/cantarell-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cantarell-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/cantarell-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cantarell-400italic - latin */
@@ -21,7 +21,7 @@
     local('Cantarell Regular italic'),
     local('Cantarell-Regularitalic'),
     url('./files/cantarell-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cantarell-latin-400italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cantarell-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cantarell-700normal - latin */
@@ -34,7 +34,7 @@
     local('Cantarell Bold '),
     local('Cantarell-Bold'),
     url('./files/cantarell-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cantarell-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('./files/cantarell-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cantarell-700italic - latin */
@@ -47,6 +47,6 @@
     local('Cantarell Bold italic'),
     local('Cantarell-Bolditalic'),
     url('./files/cantarell-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cantarell-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('./files/cantarell-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 

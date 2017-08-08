@@ -8,6 +8,6 @@
     local('Irish Grover Regular '),
     local('Irish Grover-Regular'),
     url('./files/irish-grover-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/irish-grover-latin-400.woff') format('woff'), /* Modern Browsers */
+    url('./files/irish-grover-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
