@@ -155,7 +155,6 @@ async.map(
       })
 
       const cssPath = `${typefaceDir}/index.css`
-      fs.unlinkSync(cssPath)
       fs.writeFileSync(`${typefaceDir}/index.css`, css.join(""))
       console.log("finished downloading", typeface.family)
     })
