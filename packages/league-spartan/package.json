@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-league-spartan",
+  "version": "0.0.0",
+  "description": "League Spartan typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "league-spartan"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
