@@ -11,5 +11,6 @@
     "racing-sans-one"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMatthews/typefaces/tree/master/packages/racing-sans-one"
 }

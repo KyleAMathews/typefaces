@@ -11,5 +11,6 @@
     "hind-vadodara"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMatthews/typefaces/tree/master/packages/hind-vadodara"
 }
