@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-libre-barcode-128",
+  "version": "0.0.0",
+  "description": "Libre Barcode 128 typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "libre-barcode-128"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

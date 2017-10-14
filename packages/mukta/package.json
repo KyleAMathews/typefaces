@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-mukta",
+  "version": "0.0.0",
+  "description": "Mukta typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "mukta"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

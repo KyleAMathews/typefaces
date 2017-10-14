@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-encode-sans",
+  "version": "0.0.0",
+  "description": "Encode Sans typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "encode-sans"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

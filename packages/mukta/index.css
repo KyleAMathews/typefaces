@@ -1,0 +1,91 @@
+/* mukta-200normal - latin */
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Mukta Extra Light '),
+    local('Mukta-Extra Light'),
+    url('./files/mukta-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-300normal - latin */
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Mukta Light '),
+    local('Mukta-Light'),
+    url('./files/mukta-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-400normal - latin */
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mukta Regular '),
+    local('Mukta-Regular'),
+    url('./files/mukta-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-500normal - latin */
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Mukta Medium '),
+    local('Mukta-Medium'),
+    url('./files/mukta-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-600normal - latin */
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Mukta SemiBold '),
+    local('Mukta-SemiBold'),
+    url('./files/mukta-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-700normal - latin */
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Mukta Bold '),
+    local('Mukta-Bold'),
+    url('./files/mukta-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-800normal - latin */
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Mukta ExtraBold '),
+    local('Mukta-ExtraBold'),
+    url('./files/mukta-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,3 +1,29 @@
+/* londrina-solid-100normal - latin */
+@font-face {
+  font-family: 'Londrina Solid';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Londrina Solid Thin '),
+    local('Londrina Solid-Thin'),
+    url('./files/londrina-solid-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/londrina-solid-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* londrina-solid-300normal - latin */
+@font-face {
+  font-family: 'Londrina Solid';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Londrina Solid Light '),
+    local('Londrina Solid-Light'),
+    url('./files/londrina-solid-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/londrina-solid-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
 /* londrina-solid-400normal - latin */
 @font-face {
   font-family: 'Londrina Solid';
@@ -9,5 +35,18 @@
     local('Londrina Solid-Regular'),
     url('./files/londrina-solid-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/londrina-solid-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* londrina-solid-900normal - latin */
+@font-face {
+  font-family: 'Londrina Solid';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Londrina Solid Black '),
+    local('Londrina Solid-Black'),
+    url('./files/londrina-solid-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/londrina-solid-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

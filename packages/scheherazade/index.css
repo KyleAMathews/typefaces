@@ -1,4 +1,17 @@
-false/* scheherazade-700normal - latin */
+/* scheherazade-400normal - latin */
+@font-face {
+  font-family: 'Scheherazade';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Scheherazade Regular '),
+    local('Scheherazade-Regular'),
+    url('./files/scheherazade-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/scheherazade-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* scheherazade-700normal - latin */
 @font-face {
   font-family: 'Scheherazade';
   font-style: normal;

@@ -1,0 +1,13 @@
+/* baloo-bhaijaan-400normal - latin */
+@font-face {
+  font-family: 'Baloo Bhaijaan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Baloo Bhaijaan Regular '),
+    local('Baloo Bhaijaan-Regular'),
+    url('./files/baloo-bhaijaan-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-bhaijaan-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

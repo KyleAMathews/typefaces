@@ -2,13 +2,12 @@
 @font-face {
   font-family: 'Meera Inimai';
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
-  src: url('./files/meera-inimai-latin-400.eot'); /* IE9 Compat Modes */
   src:
     local('Meera Inimai Regular '),
     local('Meera Inimai-Regular'),
-    url('./files/meera-inimai-latin-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
     url('./files/meera-inimai-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/meera-inimai-latin-400.woff') format('woff'), /* Modern Browsers */
-    url('./files/meera-inimai-latin-400.svg#MeeraInimai') format('svg'); /* Legacy iOS */
+    url('./files/meera-inimai-latin-400.woff') format('woff'); /* Modern Browsers */
 }
+

@@ -1,0 +1,91 @@
+/* mukta-malar-200normal - latin */
+@font-face {
+  font-family: 'Mukta Malar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Mukta Malar Extra Light '),
+    local('Mukta Malar-Extra Light'),
+    url('./files/mukta-malar-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-malar-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-malar-300normal - latin */
+@font-face {
+  font-family: 'Mukta Malar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Mukta Malar Light '),
+    local('Mukta Malar-Light'),
+    url('./files/mukta-malar-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-malar-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-malar-400normal - latin */
+@font-face {
+  font-family: 'Mukta Malar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mukta Malar Regular '),
+    local('Mukta Malar-Regular'),
+    url('./files/mukta-malar-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-malar-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-malar-500normal - latin */
+@font-face {
+  font-family: 'Mukta Malar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Mukta Malar Medium '),
+    local('Mukta Malar-Medium'),
+    url('./files/mukta-malar-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-malar-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-malar-600normal - latin */
+@font-face {
+  font-family: 'Mukta Malar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Mukta Malar SemiBold '),
+    local('Mukta Malar-SemiBold'),
+    url('./files/mukta-malar-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-malar-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-malar-700normal - latin */
+@font-face {
+  font-family: 'Mukta Malar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Mukta Malar Bold '),
+    local('Mukta Malar-Bold'),
+    url('./files/mukta-malar-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-malar-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-malar-800normal - latin */
+@font-face {
+  font-family: 'Mukta Malar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Mukta Malar ExtraBold '),
+    local('Mukta Malar-ExtraBold'),
+    url('./files/mukta-malar-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-malar-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -102,4 +102,29 @@
     url('./files/proza-libre-latin-700italic.woff') format('woff'); /* Modern Browsers */
 }
 
-falsefalse
+/* proza-libre-800normal - latin */
+@font-face {
+  font-family: 'Proza Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Proza Libre ExtraBold '),
+    local('Proza Libre-ExtraBold'),
+    url('./files/proza-libre-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/proza-libre-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* proza-libre-800italic - latin */
+@font-face {
+  font-family: 'Proza Libre';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Proza Libre ExtraBold italic'),
+    local('Proza Libre-ExtraBolditalic'),
+    url('./files/proza-libre-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/proza-libre-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+

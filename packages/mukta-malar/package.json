@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-mukta-malar",
+  "version": "0.0.0",
+  "description": "Mukta Malar typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "mukta-malar"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

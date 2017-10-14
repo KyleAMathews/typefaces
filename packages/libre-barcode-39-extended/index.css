@@ -1,0 +1,13 @@
+/* libre-barcode-39-extended-400normal - latin */
+@font-face {
+  font-family: 'Libre Barcode 39 Extended';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Libre Barcode 39 Extended Regular '),
+    local('Libre Barcode 39 Extended-Regular'),
+    url('./files/libre-barcode-39-extended-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/libre-barcode-39-extended-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

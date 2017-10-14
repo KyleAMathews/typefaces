@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-encode-sans-expanded",
+  "version": "0.0.0",
+  "description": "Encode Sans Expanded typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "encode-sans-expanded"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

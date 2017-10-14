@@ -37,7 +37,20 @@
     url('./files/averia-sans-libre-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
-false/* averia-sans-libre-700normal - latin */
+/* averia-sans-libre-400italic - latin */
+@font-face {
+  font-family: 'Averia Sans Libre';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Averia Sans Libre Regular italic'),
+    local('Averia Sans Libre-Regularitalic'),
+    url('./files/averia-sans-libre-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/averia-sans-libre-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* averia-sans-libre-700normal - latin */
 @font-face {
   font-family: 'Averia Sans Libre';
   font-style: normal;

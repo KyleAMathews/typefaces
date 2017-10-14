@@ -1,0 +1,117 @@
+/* encode-sans-expanded-100normal - latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Encode Sans Expanded Thin '),
+    local('Encode Sans Expanded-Thin'),
+    url('./files/encode-sans-expanded-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/encode-sans-expanded-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* encode-sans-expanded-200normal - latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Encode Sans Expanded Extra Light '),
+    local('Encode Sans Expanded-Extra Light'),
+    url('./files/encode-sans-expanded-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/encode-sans-expanded-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* encode-sans-expanded-300normal - latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Encode Sans Expanded Light '),
+    local('Encode Sans Expanded-Light'),
+    url('./files/encode-sans-expanded-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/encode-sans-expanded-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* encode-sans-expanded-400normal - latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Encode Sans Expanded Regular '),
+    local('Encode Sans Expanded-Regular'),
+    url('./files/encode-sans-expanded-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/encode-sans-expanded-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* encode-sans-expanded-500normal - latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Encode Sans Expanded Medium '),
+    local('Encode Sans Expanded-Medium'),
+    url('./files/encode-sans-expanded-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/encode-sans-expanded-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* encode-sans-expanded-600normal - latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Encode Sans Expanded SemiBold '),
+    local('Encode Sans Expanded-SemiBold'),
+    url('./files/encode-sans-expanded-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/encode-sans-expanded-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* encode-sans-expanded-700normal - latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Encode Sans Expanded Bold '),
+    local('Encode Sans Expanded-Bold'),
+    url('./files/encode-sans-expanded-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/encode-sans-expanded-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* encode-sans-expanded-800normal - latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Encode Sans Expanded ExtraBold '),
+    local('Encode Sans Expanded-ExtraBold'),
+    url('./files/encode-sans-expanded-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/encode-sans-expanded-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* encode-sans-expanded-900normal - latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Encode Sans Expanded Black '),
+    local('Encode Sans Expanded-Black'),
+    url('./files/encode-sans-expanded-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/encode-sans-expanded-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

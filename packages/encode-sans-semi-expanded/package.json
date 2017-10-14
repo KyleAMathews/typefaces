@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-encode-sans-semi-expanded",
+  "version": "0.0.0",
+  "description": "Encode Sans Semi Expanded typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "encode-sans-semi-expanded"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

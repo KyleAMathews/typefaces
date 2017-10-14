@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-libre-barcode-39-extended",
+  "version": "0.0.0",
+  "description": "Libre Barcode 39 Extended typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "libre-barcode-39-extended"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

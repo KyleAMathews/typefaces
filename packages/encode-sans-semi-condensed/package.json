@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-encode-sans-semi-condensed",
+  "version": "0.0.0",
+  "description": "Encode Sans Semi Condensed typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "encode-sans-semi-condensed"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

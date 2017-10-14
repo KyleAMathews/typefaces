@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-baloo-tammudu",
+  "version": "0.0.0",
+  "description": "Baloo Tammudu typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "baloo-tammudu"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

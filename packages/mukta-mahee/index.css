@@ -1,0 +1,91 @@
+/* mukta-mahee-200normal - latin */
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Mukta Mahee Extra Light '),
+    local('Mukta Mahee-Extra Light'),
+    url('./files/mukta-mahee-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-mahee-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-mahee-300normal - latin */
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Mukta Mahee Light '),
+    local('Mukta Mahee-Light'),
+    url('./files/mukta-mahee-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-mahee-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-mahee-400normal - latin */
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mukta Mahee Regular '),
+    local('Mukta Mahee-Regular'),
+    url('./files/mukta-mahee-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-mahee-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-mahee-500normal - latin */
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Mukta Mahee Medium '),
+    local('Mukta Mahee-Medium'),
+    url('./files/mukta-mahee-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-mahee-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-mahee-600normal - latin */
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Mukta Mahee SemiBold '),
+    local('Mukta Mahee-SemiBold'),
+    url('./files/mukta-mahee-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-mahee-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-mahee-700normal - latin */
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Mukta Mahee Bold '),
+    local('Mukta Mahee-Bold'),
+    url('./files/mukta-mahee-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-mahee-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mukta-mahee-800normal - latin */
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Mukta Mahee ExtraBold '),
+    local('Mukta Mahee-ExtraBold'),
+    url('./files/mukta-mahee-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mukta-mahee-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,1 +1,13 @@
-false
+/* buda-300normal - latin */
+@font-face {
+  font-family: 'Buda';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Buda Light '),
+    local('Buda-Light'),
+    url('./files/buda-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/buda-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+

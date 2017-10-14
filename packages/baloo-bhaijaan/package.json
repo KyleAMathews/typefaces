@@ -1,0 +1,16 @@
+
+{
+  "name": "typeface-baloo-bhaijaan",
+  "version": "0.0.0",
+  "description": "Baloo Bhaijaan typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "baloo-bhaijaan"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
