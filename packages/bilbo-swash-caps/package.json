@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-bilbo-swash-caps",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Bilbo Swash Caps typeface",
   "main": "index.css",
   "keywords": [

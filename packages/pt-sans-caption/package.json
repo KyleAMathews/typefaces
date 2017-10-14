@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-pt-sans-caption",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "PT Sans Caption typeface",
   "main": "index.css",
   "keywords": [

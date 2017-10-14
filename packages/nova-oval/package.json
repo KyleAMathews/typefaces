@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-nova-oval",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Nova Oval typeface",
   "main": "index.css",
   "keywords": [

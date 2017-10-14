@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-quantico",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Quantico typeface",
   "main": "index.css",
   "keywords": [

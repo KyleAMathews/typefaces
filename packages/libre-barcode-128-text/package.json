@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-libre-barcode-128-text",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Libre Barcode 128 Text typeface",
   "main": "index.css",
   "keywords": [

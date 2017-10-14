@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-lekton",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Lekton typeface",
   "main": "index.css",
   "keywords": [

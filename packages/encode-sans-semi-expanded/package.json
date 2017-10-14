@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-encode-sans-semi-expanded",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Encode Sans Semi Expanded typeface",
   "main": "index.css",
   "keywords": [

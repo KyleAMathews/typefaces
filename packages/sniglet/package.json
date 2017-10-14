@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-sniglet",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Sniglet typeface",
   "main": "index.css",
   "keywords": [

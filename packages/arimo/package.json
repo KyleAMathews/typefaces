@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-arimo",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Arimo typeface",
   "main": "index.css",
   "keywords": [

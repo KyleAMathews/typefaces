@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-pt-sans-narrow",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "PT Sans Narrow typeface",
   "main": "index.css",
   "keywords": [

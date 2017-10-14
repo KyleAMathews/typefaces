@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-pt-mono",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "PT Mono typeface",
   "main": "index.css",
   "keywords": [

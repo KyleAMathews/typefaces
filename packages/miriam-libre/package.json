@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-miriam-libre",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Miriam Libre typeface",
   "main": "index.css",
   "keywords": [

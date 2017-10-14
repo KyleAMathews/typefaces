@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-muli",
-  "version": "0.0.0",
+  "version": "0.0.40",
   "description": "Muli typeface",
   "main": "index.css",
   "keywords": [
