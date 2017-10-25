@@ -11,5 +11,6 @@
     "goudy-bookletter-1911"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMatthews/typefaces/tree/master/packages/goudy-bookletter-1911"
 }

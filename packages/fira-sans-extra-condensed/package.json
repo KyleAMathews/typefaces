@@ -11,5 +11,6 @@
     "fira-sans-extra-condensed"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMatthews/typefaces/tree/master/packages/fira-sans-extra-condensed"
 }
