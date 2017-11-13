@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-barlow-semi-condensed",
-  "version": "0.0.0",
+  "version": "0.0.45",
   "description": "Barlow Semi Condensed typeface",
   "main": "index.css",
   "keywords": [

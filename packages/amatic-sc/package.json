@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-amatic-sc",
-  "version": "0.0.0",
+  "version": "0.0.45",
   "description": "Amatic SC typeface",
   "main": "index.css",
   "keywords": [

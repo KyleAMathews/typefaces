@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-kanit",
-  "version": "0.0.0",
+  "version": "0.0.45",
   "description": "Kanit typeface",
   "main": "index.css",
   "keywords": [
