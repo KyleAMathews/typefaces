@@ -24,6 +24,32 @@
     url('./files/alegreya-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
+/* alegreya-500normal - latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Alegreya Medium '),
+    local('Alegreya-Medium'),
+    url('./files/alegreya-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alegreya-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* alegreya-500italic - latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Alegreya Medium italic'),
+    local('Alegreya-Mediumitalic'),
+    url('./files/alegreya-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alegreya-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* alegreya-700normal - latin */
 @font-face {
   font-family: 'Alegreya';
@@ -48,6 +74,32 @@
     local('Alegreya-Bolditalic'),
     url('./files/alegreya-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/alegreya-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* alegreya-800normal - latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Alegreya ExtraBold '),
+    local('Alegreya-ExtraBold'),
+    url('./files/alegreya-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alegreya-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* alegreya-800italic - latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Alegreya ExtraBold italic'),
+    local('Alegreya-ExtraBolditalic'),
+    url('./files/alegreya-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alegreya-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-900normal - latin */

@@ -1,0 +1,182 @@
+/* spectral-sc-200normal - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Spectral SC Extra Light '),
+    local('Spectral SC-Extra Light'),
+    url('./files/spectral-sc-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-200italic - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Spectral SC Extra Light italic'),
+    local('Spectral SC-Extra Lightitalic'),
+    url('./files/spectral-sc-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-300normal - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Spectral SC Light '),
+    local('Spectral SC-Light'),
+    url('./files/spectral-sc-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-300italic - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Spectral SC Light italic'),
+    local('Spectral SC-Lightitalic'),
+    url('./files/spectral-sc-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-400normal - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Spectral SC Regular '),
+    local('Spectral SC-Regular'),
+    url('./files/spectral-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-400italic - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Spectral SC Regular italic'),
+    local('Spectral SC-Regularitalic'),
+    url('./files/spectral-sc-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-500normal - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Spectral SC Medium '),
+    local('Spectral SC-Medium'),
+    url('./files/spectral-sc-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-500italic - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Spectral SC Medium italic'),
+    local('Spectral SC-Mediumitalic'),
+    url('./files/spectral-sc-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-600normal - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Spectral SC SemiBold '),
+    local('Spectral SC-SemiBold'),
+    url('./files/spectral-sc-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-600italic - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Spectral SC SemiBold italic'),
+    local('Spectral SC-SemiBolditalic'),
+    url('./files/spectral-sc-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-700normal - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Spectral SC Bold '),
+    local('Spectral SC-Bold'),
+    url('./files/spectral-sc-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-700italic - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Spectral SC Bold italic'),
+    local('Spectral SC-Bolditalic'),
+    url('./files/spectral-sc-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-800normal - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Spectral SC ExtraBold '),
+    local('Spectral SC-ExtraBold'),
+    url('./files/spectral-sc-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spectral-sc-800italic - latin */
+@font-face {
+  font-family: 'Spectral SC';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Spectral SC ExtraBold italic'),
+    local('Spectral SC-ExtraBolditalic'),
+    url('./files/spectral-sc-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spectral-sc-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+

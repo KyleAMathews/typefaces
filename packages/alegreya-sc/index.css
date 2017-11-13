@@ -24,6 +24,32 @@
     url('./files/alegreya-sc-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
+/* alegreya-sc-500normal - latin */
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Alegreya SC Medium '),
+    local('Alegreya SC-Medium'),
+    url('./files/alegreya-sc-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alegreya-sc-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* alegreya-sc-500italic - latin */
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Alegreya SC Medium italic'),
+    local('Alegreya SC-Mediumitalic'),
+    url('./files/alegreya-sc-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alegreya-sc-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* alegreya-sc-700normal - latin */
 @font-face {
   font-family: 'Alegreya SC';
@@ -48,6 +74,32 @@
     local('Alegreya SC-Bolditalic'),
     url('./files/alegreya-sc-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/alegreya-sc-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* alegreya-sc-800normal - latin */
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Alegreya SC ExtraBold '),
+    local('Alegreya SC-ExtraBold'),
+    url('./files/alegreya-sc-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alegreya-sc-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* alegreya-sc-800italic - latin */
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Alegreya SC ExtraBold italic'),
+    local('Alegreya SC-ExtraBolditalic'),
+    url('./files/alegreya-sc-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alegreya-sc-latin-800italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* alegreya-sc-900normal - latin */

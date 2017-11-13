@@ -1,0 +1,234 @@
+/* barlow-semi-condensed-100normal - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Barlow Semi Condensed Thin '),
+    local('Barlow Semi Condensed-Thin'),
+    url('./files/barlow-semi-condensed-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-100italic - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Barlow Semi Condensed Thin italic'),
+    local('Barlow Semi Condensed-Thinitalic'),
+    url('./files/barlow-semi-condensed-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-200normal - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Barlow Semi Condensed Extra Light '),
+    local('Barlow Semi Condensed-Extra Light'),
+    url('./files/barlow-semi-condensed-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-200italic - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Barlow Semi Condensed Extra Light italic'),
+    local('Barlow Semi Condensed-Extra Lightitalic'),
+    url('./files/barlow-semi-condensed-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-300normal - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Barlow Semi Condensed Light '),
+    local('Barlow Semi Condensed-Light'),
+    url('./files/barlow-semi-condensed-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-300italic - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Barlow Semi Condensed Light italic'),
+    local('Barlow Semi Condensed-Lightitalic'),
+    url('./files/barlow-semi-condensed-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-400normal - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Barlow Semi Condensed Regular '),
+    local('Barlow Semi Condensed-Regular'),
+    url('./files/barlow-semi-condensed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-400italic - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Barlow Semi Condensed Regular italic'),
+    local('Barlow Semi Condensed-Regularitalic'),
+    url('./files/barlow-semi-condensed-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-500normal - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Barlow Semi Condensed Medium '),
+    local('Barlow Semi Condensed-Medium'),
+    url('./files/barlow-semi-condensed-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-500italic - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Barlow Semi Condensed Medium italic'),
+    local('Barlow Semi Condensed-Mediumitalic'),
+    url('./files/barlow-semi-condensed-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-600normal - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Barlow Semi Condensed SemiBold '),
+    local('Barlow Semi Condensed-SemiBold'),
+    url('./files/barlow-semi-condensed-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-600italic - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Barlow Semi Condensed SemiBold italic'),
+    local('Barlow Semi Condensed-SemiBolditalic'),
+    url('./files/barlow-semi-condensed-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-700normal - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Barlow Semi Condensed Bold '),
+    local('Barlow Semi Condensed-Bold'),
+    url('./files/barlow-semi-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-700italic - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Barlow Semi Condensed Bold italic'),
+    local('Barlow Semi Condensed-Bolditalic'),
+    url('./files/barlow-semi-condensed-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-800normal - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Barlow Semi Condensed ExtraBold '),
+    local('Barlow Semi Condensed-ExtraBold'),
+    url('./files/barlow-semi-condensed-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-800italic - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Barlow Semi Condensed ExtraBold italic'),
+    local('Barlow Semi Condensed-ExtraBolditalic'),
+    url('./files/barlow-semi-condensed-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-900normal - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Barlow Semi Condensed Black '),
+    local('Barlow Semi Condensed-Black'),
+    url('./files/barlow-semi-condensed-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* barlow-semi-condensed-900italic - latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Barlow Semi Condensed Black italic'),
+    local('Barlow Semi Condensed-Blackitalic'),
+    url('./files/barlow-semi-condensed-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barlow-semi-condensed-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

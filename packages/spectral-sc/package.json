@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-spectral-sc",
+  "version": "0.0.0",
+  "description": "Spectral SC typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "spectral-sc"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/spectral-sc"
+}
