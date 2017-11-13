@@ -16,7 +16,7 @@ exports.packageJson = _.template(
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMatthews/typefaces/tree/master/packages/<%= typefaceId %>"
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/<%= typefaceId %>"
 }
 `
 )
