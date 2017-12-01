@@ -69,6 +69,10 @@ If you’re not using webpack or equivalent tool that allows you to
 require css, then you’ll need to manually integrate the index.css and
 font files from the package into your build system.
 
+### Alternatives without Webpack
+
+- For Ember users, there is an addon https://github.com/jeffjewiss/ember-typeface
+
 ## Adding other fonts
 
 The easiest way to find out if your favorite typeface is supported is by
