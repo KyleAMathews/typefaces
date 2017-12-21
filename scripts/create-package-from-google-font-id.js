@@ -13,8 +13,8 @@ const { packageJson, fontFace, readme } = require(`./templates`)
 const download = require(`./download-file`)
 const commonWeightNameMap = require(`./common-weight-name-map`)
 
-const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
-// const baseurl = `http://localhost:9000/api/fonts/`
+// const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
+const baseurl = `http://localhost:9000/api/fonts/`
 const id = process.argv[2]
 if (!id) {
   console.warn(`You need to pass in the google font id as an argument`)
