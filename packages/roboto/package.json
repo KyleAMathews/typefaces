@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-roboto",
-  "version": "0.0.0",
+  "version": "0.0.46",
   "description": "Roboto typeface",
   "main": "index.css",
   "keywords": [

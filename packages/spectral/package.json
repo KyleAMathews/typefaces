@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-spectral",
-  "version": "0.0.0",
+  "version": "0.0.46",
   "description": "Spectral typeface",
   "main": "index.css",
   "keywords": [
