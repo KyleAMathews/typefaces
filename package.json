@@ -17,5 +17,8 @@
     "single-line-log": "^1.1.2",
     "sync-request": "^4.1.0",
     "ttf2woff2": "^2.0.3"
+  },
+  "scripts": {
+    "publish": "lerna publish"
   }
 }
