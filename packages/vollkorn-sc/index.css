@@ -1,0 +1,52 @@
+/* vollkorn-sc-400normal - latin */
+@font-face {
+  font-family: 'Vollkorn SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Vollkorn SC Regular '),
+    local('Vollkorn SC-Regular'),
+    url('./files/vollkorn-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/vollkorn-sc-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* vollkorn-sc-600normal - latin */
+@font-face {
+  font-family: 'Vollkorn SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Vollkorn SC SemiBold '),
+    local('Vollkorn SC-SemiBold'),
+    url('./files/vollkorn-sc-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/vollkorn-sc-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* vollkorn-sc-700normal - latin */
+@font-face {
+  font-family: 'Vollkorn SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Vollkorn SC Bold '),
+    local('Vollkorn SC-Bold'),
+    url('./files/vollkorn-sc-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/vollkorn-sc-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* vollkorn-sc-900normal - latin */
+@font-face {
+  font-family: 'Vollkorn SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Vollkorn SC Black '),
+    local('Vollkorn SC-Black'),
+    url('./files/vollkorn-sc-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/vollkorn-sc-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

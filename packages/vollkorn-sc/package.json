@@ -1,17 +1,17 @@
 
 {
-  "name": "typeface-poppins",
+  "name": "typeface-vollkorn-sc",
   "version": "0.0.0",
-  "description": "Poppins typeface",
+  "description": "Vollkorn SC typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
     "font",
     "font family",
     "google fonts",
-    "poppins"
+    "vollkorn-sc"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/poppins"
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/vollkorn-sc"
 }
