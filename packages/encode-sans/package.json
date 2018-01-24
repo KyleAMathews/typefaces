@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-encode-sans",
-  "version": "0.0.40",
+  "version": "0.0.0",
   "description": "Encode Sans typeface",
   "main": "index.css",
   "keywords": [
@@ -11,5 +12,6 @@
     "encode-sans"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/encode-sans"
 }

@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-noto-sans",
-  "version": "0.0.45",
+  "version": "0.0.0",
   "description": "Noto Sans typeface",
   "main": "index.css",
   "keywords": [

@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-libre-barcode-39-text",
-  "version": "0.0.40",
+  "version": "0.0.0",
   "description": "Libre Barcode 39 Text typeface",
   "main": "index.css",
   "keywords": [
@@ -11,5 +12,6 @@
     "libre-barcode-39-text"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/libre-barcode-39-text"
 }

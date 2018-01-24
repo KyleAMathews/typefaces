@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-baloo-tammudu",
-  "version": "0.0.40",
+  "version": "0.0.0",
   "description": "Baloo Tammudu typeface",
   "main": "index.css",
   "keywords": [
@@ -11,5 +12,6 @@
     "baloo-tammudu"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/baloo-tammudu"
 }

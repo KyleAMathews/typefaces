@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-barlow-condensed",
+  "version": "0.0.0",
+  "description": "Barlow Condensed typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "barlow-condensed"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/barlow-condensed"
+}
