@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-sumana",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Sumana typeface",
   "main": "index.css",
   "keywords": [

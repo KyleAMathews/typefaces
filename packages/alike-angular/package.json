@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-alike-angular",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Alike Angular typeface",
   "main": "index.css",
   "keywords": [

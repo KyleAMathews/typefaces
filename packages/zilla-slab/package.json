@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-zilla-slab",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Zilla Slab typeface",
   "main": "index.css",
   "keywords": [

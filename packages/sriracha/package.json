@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-sriracha",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Sriracha typeface",
   "main": "index.css",
   "keywords": [

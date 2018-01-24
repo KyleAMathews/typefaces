@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-syncopate",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Syncopate typeface",
   "main": "index.css",
   "keywords": [

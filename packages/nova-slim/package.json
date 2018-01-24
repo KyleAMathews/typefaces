@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-nova-slim",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Nova Slim typeface",
   "main": "index.css",
   "keywords": [

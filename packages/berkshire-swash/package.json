@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-berkshire-swash",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Berkshire Swash typeface",
   "main": "index.css",
   "keywords": [

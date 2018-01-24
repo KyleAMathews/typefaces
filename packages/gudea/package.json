@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-gudea",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Gudea typeface",
   "main": "index.css",
   "keywords": [

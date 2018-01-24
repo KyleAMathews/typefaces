@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-barlow-condensed",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Barlow Condensed typeface",
   "main": "index.css",
   "keywords": [

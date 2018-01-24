@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-overpass-mono",
-  "version": "0.0.0",
+  "version": "0.0.54",
   "description": "Overpass Mono typeface",
   "main": "index.css",
   "keywords": [
