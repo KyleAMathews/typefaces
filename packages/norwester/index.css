@@ -1,0 +1,13 @@
+/* norwester-400normal - latin */
+@font-face {
+  font-family: 'Norwester';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Norwester Regular normal'),
+    local('Norwester-Regularnormal'),
+    url('./files/norwester-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/norwester-400.woff') format('woff'); /* Modern Browsers */
+}
+
