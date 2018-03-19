@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-mina",
-  "version": "0.0.0",
+  "version": "0.0.56",
   "description": "Mina typeface",
   "main": "index.css",
   "keywords": [
