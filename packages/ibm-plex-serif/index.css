@@ -1,0 +1,169 @@
+/* ibm-plex-serif-100normal - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('IBM Plex Serif Thin '),
+    local('IBM Plex Serif-Thin'),
+    url('./files/ibm-plex-serif-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-100italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('IBM Plex Serif Thin italic'),
+    local('IBM Plex Serif-Thinitalic'),
+    url('./files/ibm-plex-serif-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-200normal - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('IBM Plex Serif Extra Light '),
+    local('IBM Plex Serif-Extra Light'),
+    url('./files/ibm-plex-serif-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-200italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('IBM Plex Serif Extra Light italic'),
+    local('IBM Plex Serif-Extra Lightitalic'),
+    url('./files/ibm-plex-serif-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-300normal - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('IBM Plex Serif Light '),
+    local('IBM Plex Serif-Light'),
+    url('./files/ibm-plex-serif-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-300italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('IBM Plex Serif Light italic'),
+    local('IBM Plex Serif-Lightitalic'),
+    url('./files/ibm-plex-serif-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-400normal - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('IBM Plex Serif Regular '),
+    local('IBM Plex Serif-Regular'),
+    url('./files/ibm-plex-serif-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-400italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('IBM Plex Serif Regular italic'),
+    local('IBM Plex Serif-Regularitalic'),
+    url('./files/ibm-plex-serif-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-500normal - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('IBM Plex Serif Medium '),
+    local('IBM Plex Serif-Medium'),
+    url('./files/ibm-plex-serif-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-500italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('IBM Plex Serif Medium italic'),
+    local('IBM Plex Serif-Mediumitalic'),
+    url('./files/ibm-plex-serif-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-600normal - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('IBM Plex Serif SemiBold '),
+    local('IBM Plex Serif-SemiBold'),
+    url('./files/ibm-plex-serif-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-600italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('IBM Plex Serif SemiBold italic'),
+    local('IBM Plex Serif-SemiBolditalic'),
+    url('./files/ibm-plex-serif-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibm-plex-serif-700italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('IBM Plex Serif Bold italic'),
+    local('IBM Plex Serif-Bolditalic'),
+    url('./files/ibm-plex-serif-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibm-plex-serif-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,26 @@
+/* mina-400normal - latin */
+@font-face {
+  font-family: 'Mina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mina Regular '),
+    local('Mina-Regular'),
+    url('./files/mina-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mina-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mina-700normal - latin */
+@font-face {
+  font-family: 'Mina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Mina Bold '),
+    local('Mina-Bold'),
+    url('./files/mina-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mina-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

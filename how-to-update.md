@@ -1,4 +1,4 @@
 ## Google fonts
 
-1. Start google-webfonts-helper locally
-2. Run `node download-all-google-fonts.js`
+1. Start google-webfonts-helper locally. It's a separate repo you need to clone and setup
+2. Run `node scripts/download-all-google-fonts.js`

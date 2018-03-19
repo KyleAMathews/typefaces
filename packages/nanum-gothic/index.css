@@ -1,0 +1,39 @@
+/* nanum-gothic-400normal - latin */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Nanum Gothic Regular '),
+    local('Nanum Gothic-Regular'),
+    url('./files/nanum-gothic-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nanum-gothic-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nanum-gothic-700normal - latin */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Nanum Gothic Bold '),
+    local('Nanum Gothic-Bold'),
+    url('./files/nanum-gothic-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nanum-gothic-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nanum-gothic-800normal - latin */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Nanum Gothic ExtraBold '),
+    local('Nanum Gothic-ExtraBold'),
+    url('./files/nanum-gothic-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nanum-gothic-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
