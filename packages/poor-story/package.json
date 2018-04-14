@@ -1,17 +1,17 @@
 
 {
-  "name": "typeface-ibm-plex-serif",
+  "name": "typeface-poor-story",
   "version": "0.0.0",
-  "description": "IBM Plex Serif typeface",
+  "description": "Poor Story typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
     "font",
     "font family",
     "google fonts",
-    "ibm-plex-serif"
+    "poor-story"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/ibm-plex-serif"
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/poor-story"
 }

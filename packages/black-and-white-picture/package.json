@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-black-and-white-picture",
+  "version": "0.0.0",
+  "description": "Black And White Picture typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "black-and-white-picture"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/black-and-white-picture"
+}

@@ -1,0 +1,39 @@
+/* gaegu-300normal - latin */
+@font-face {
+  font-family: 'Gaegu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Gaegu Light '),
+    local('Gaegu-Light'),
+    url('./files/gaegu-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gaegu-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gaegu-400normal - latin */
+@font-face {
+  font-family: 'Gaegu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Gaegu Regular '),
+    local('Gaegu-Regular'),
+    url('./files/gaegu-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gaegu-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gaegu-700normal - latin */
+@font-face {
+  font-family: 'Gaegu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Gaegu Bold '),
+    local('Gaegu-Bold'),
+    url('./files/gaegu-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gaegu-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

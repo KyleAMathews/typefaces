@@ -1,0 +1,13 @@
+/* hi-melody-400normal - latin */
+@font-face {
+  font-family: 'Hi Melody';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Hi Melody Regular '),
+    local('Hi Melody-Regular'),
+    url('./files/hi-melody-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hi-melody-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

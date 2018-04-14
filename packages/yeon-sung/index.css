@@ -1,0 +1,13 @@
+/* yeon-sung-400normal - latin */
+@font-face {
+  font-family: 'Yeon Sung';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Yeon Sung Regular '),
+    local('Yeon Sung-Regular'),
+    url('./files/yeon-sung-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yeon-sung-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

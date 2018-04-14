@@ -1,17 +1,17 @@
 
 {
-  "name": "typeface-ibm-plex-serif",
+  "name": "typeface-tajawal",
   "version": "0.0.0",
-  "description": "IBM Plex Serif typeface",
+  "description": "Tajawal typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
     "font",
     "font family",
     "google fonts",
-    "ibm-plex-serif"
+    "tajawal"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/ibm-plex-serif"
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/tajawal"
 }

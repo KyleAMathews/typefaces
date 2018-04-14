@@ -1,11 +1,11 @@
 
-# typeface-ibm-plex-serif
+# typeface-ibm-plex-sans
 
-The CSS and web font files to easily self-host “IBM Plex Serif”.
+The CSS and web font files to easily self-host “IBM Plex Sans”.
 
 ## Install
 
-`npm install --save typeface-ibm-plex-serif`
+`npm install --save typeface-ibm-plex-sans`
 
 ## Use
 
@@ -20,8 +20,8 @@ and [Create React App](https://github.com/facebookincubator/create-react-app).
 To use, simply require the package in your project’s entry file e.g.
 
 ```javascript
-// Load IBM Plex Serif typeface
-require('typeface-ibm-plex-serif')
+// Load IBM Plex Sans typeface
+require('typeface-ibm-plex-sans')
 ```
 
 ## About the Typefaces project.

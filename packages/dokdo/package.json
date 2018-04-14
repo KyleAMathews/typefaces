@@ -1,17 +1,17 @@
 
 {
-  "name": "typeface-ibm-plex-serif",
+  "name": "typeface-dokdo",
   "version": "0.0.0",
-  "description": "IBM Plex Serif typeface",
+  "description": "Dokdo typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
     "font",
     "font family",
     "google fonts",
-    "ibm-plex-serif"
+    "dokdo"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/ibm-plex-serif"
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/dokdo"
 }

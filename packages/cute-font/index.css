@@ -1,0 +1,13 @@
+/* cute-font-400normal - latin */
+@font-face {
+  font-family: 'Cute Font';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Cute Font Regular '),
+    local('Cute Font-Regular'),
+    url('./files/cute-font-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cute-font-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,17 +1,17 @@
 
 {
-  "name": "typeface-ibm-plex-serif",
+  "name": "typeface-black-han-sans",
   "version": "0.0.0",
-  "description": "IBM Plex Serif typeface",
+  "description": "Black Han Sans typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
     "font",
     "font family",
     "google fonts",
-    "ibm-plex-serif"
+    "black-han-sans"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/ibm-plex-serif"
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/black-han-sans"
 }

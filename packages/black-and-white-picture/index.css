@@ -1,0 +1,13 @@
+/* black-and-white-picture-400normal - latin */
+@font-face {
+  font-family: 'Black And White Picture';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Black And White Picture Regular '),
+    local('Black And White Picture-Regular'),
+    url('./files/black-and-white-picture-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/black-and-white-picture-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

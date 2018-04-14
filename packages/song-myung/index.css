@@ -1,0 +1,13 @@
+/* song-myung-400normal - latin */
+@font-face {
+  font-family: 'Song Myung';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Song Myung Regular '),
+    local('Song Myung-Regular'),
+    url('./files/song-myung-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/song-myung-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,91 @@
+/* tajawal-200normal - latin */
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Tajawal Extra Light '),
+    local('Tajawal-Extra Light'),
+    url('./files/tajawal-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tajawal-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tajawal-300normal - latin */
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Tajawal Light '),
+    local('Tajawal-Light'),
+    url('./files/tajawal-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tajawal-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tajawal-400normal - latin */
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Tajawal Regular '),
+    local('Tajawal-Regular'),
+    url('./files/tajawal-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tajawal-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tajawal-500normal - latin */
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Tajawal Medium '),
+    local('Tajawal-Medium'),
+    url('./files/tajawal-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tajawal-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tajawal-700normal - latin */
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Tajawal Bold '),
+    local('Tajawal-Bold'),
+    url('./files/tajawal-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tajawal-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tajawal-800normal - latin */
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Tajawal ExtraBold '),
+    local('Tajawal-ExtraBold'),
+    url('./files/tajawal-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tajawal-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tajawal-900normal - latin */
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Tajawal Black '),
+    local('Tajawal-Black'),
+    url('./files/tajawal-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tajawal-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

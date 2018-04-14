@@ -1,0 +1,117 @@
+/* gothic-a1-100normal - latin */
+@font-face {
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Gothic A1 Thin '),
+    local('Gothic A1-Thin'),
+    url('./files/gothic-a1-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gothic-a1-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gothic-a1-200normal - latin */
+@font-face {
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Gothic A1 Extra Light '),
+    local('Gothic A1-Extra Light'),
+    url('./files/gothic-a1-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gothic-a1-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gothic-a1-300normal - latin */
+@font-face {
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Gothic A1 Light '),
+    local('Gothic A1-Light'),
+    url('./files/gothic-a1-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gothic-a1-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gothic-a1-400normal - latin */
+@font-face {
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Gothic A1 Regular '),
+    local('Gothic A1-Regular'),
+    url('./files/gothic-a1-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gothic-a1-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gothic-a1-500normal - latin */
+@font-face {
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Gothic A1 Medium '),
+    local('Gothic A1-Medium'),
+    url('./files/gothic-a1-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gothic-a1-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gothic-a1-600normal - latin */
+@font-face {
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Gothic A1 SemiBold '),
+    local('Gothic A1-SemiBold'),
+    url('./files/gothic-a1-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gothic-a1-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gothic-a1-700normal - latin */
+@font-face {
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Gothic A1 Bold '),
+    local('Gothic A1-Bold'),
+    url('./files/gothic-a1-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gothic-a1-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gothic-a1-800normal - latin */
+@font-face {
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Gothic A1 ExtraBold '),
+    local('Gothic A1-ExtraBold'),
+    url('./files/gothic-a1-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gothic-a1-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gothic-a1-900normal - latin */
+@font-face {
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Gothic A1 Black '),
+    local('Gothic A1-Black'),
+    url('./files/gothic-a1-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gothic-a1-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
