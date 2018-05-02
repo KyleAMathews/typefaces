@@ -37,13 +37,13 @@ other open source fonts. Open an issue if you want a font added!
 
 ## How
 
-Couldn’t be easier. This is how you’d add Open Sans.
+Couldn’t be easier. This is how you’d add Open Sans:
 
 ```
 npm install --save typeface-open-sans
 ```
 
-Then in your app or site’s entry file.
+Then in your app or site’s entry file, for example, your `layouts/index.js` in Gatsby, add:
 
 ```javascript
 require("typeface-open-sans")
