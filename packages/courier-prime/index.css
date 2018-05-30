@@ -1,0 +1,52 @@
+/* courier-prime-400normal - latin */
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Courier Prime Regular normal'),
+    local('Courier Prime-Regularnormal'),
+    url('./files/courier-prime-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/courier-prime-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* courier-prime-400italic - latin */
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Courier Prime Regular italic'),
+    local('Courier Prime-Regularitalic'),
+    url('./files/courier-prime-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/courier-prime-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* courier-prime-700normal - latin */
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Courier Prime Bold normal'),
+    local('Courier Prime-Boldnormal'),
+    url('./files/courier-prime-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/courier-prime-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* courier-prime-700italic - latin */
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Courier Prime Bold italic'),
+    local('Courier Prime-Bolditalic'),
+    url('./files/courier-prime-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/courier-prime-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
