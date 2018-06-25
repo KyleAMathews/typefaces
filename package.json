@@ -15,6 +15,12 @@
     "shelljs": "^0.7.5",
     "single-line-log": "^1.1.2",
     "sync-request": "^4.0.1",
-    "ttf2woff2": "^2.0.3"
-  }
+    "ttf2woff2": "^2.0.3",
+    "snyk": "^1.26.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
