@@ -1,0 +1,65 @@
+/* space-text-300normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Space Text Light normal'),
+    local('Space Text-Lightnormal'),
+    url('./files/space-text-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/space-text-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* space-text-400normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Space Text Regular normal'),
+    local('Space Text-Regularnormal'),
+    url('./files/space-text-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/space-text-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* space-text-500normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Space Text Medium normal'),
+    local('Space Text-Mediumnormal'),
+    url('./files/space-text-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/space-text-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* space-text-600normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Space Text SemiBold normal'),
+    local('Space Text-SemiBoldnormal'),
+    url('./files/space-text-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/space-text-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* space-text-700normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Space Text Bold normal'),
+    local('Space Text-Boldnormal'),
+    url('./files/space-text-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/space-text-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-space-text",
+  "version": "0.0.0",
+  "description": "Space Text typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "space-text"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/space-text"
+}
