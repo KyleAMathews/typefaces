@@ -1,0 +1,26 @@
+/* charmonman-400normal - latin */
+@font-face {
+  font-family: 'Charmonman';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Charmonman Regular '),
+    local('Charmonman-Regular'),
+    url('./files/charmonman-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/charmonman-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* charmonman-700normal - latin */
+@font-face {
+  font-family: 'Charmonman';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Charmonman Bold '),
+    local('Charmonman-Bold'),
+    url('./files/charmonman-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/charmonman-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,156 @@
+/* krub-200normal - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Krub Extra Light '),
+    local('Krub-Extra Light'),
+    url('./files/krub-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-200italic - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Krub Extra Light italic'),
+    local('Krub-Extra Lightitalic'),
+    url('./files/krub-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-300normal - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Krub Light '),
+    local('Krub-Light'),
+    url('./files/krub-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-300italic - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Krub Light italic'),
+    local('Krub-Lightitalic'),
+    url('./files/krub-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-400normal - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Krub Regular '),
+    local('Krub-Regular'),
+    url('./files/krub-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-400italic - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Krub Regular italic'),
+    local('Krub-Regularitalic'),
+    url('./files/krub-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-500normal - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Krub Medium '),
+    local('Krub-Medium'),
+    url('./files/krub-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-500italic - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Krub Medium italic'),
+    local('Krub-Mediumitalic'),
+    url('./files/krub-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-600normal - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Krub SemiBold '),
+    local('Krub-SemiBold'),
+    url('./files/krub-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-600italic - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Krub SemiBold italic'),
+    local('Krub-SemiBolditalic'),
+    url('./files/krub-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-700normal - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Krub Bold '),
+    local('Krub-Bold'),
+    url('./files/krub-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* krub-700italic - latin */
+@font-face {
+  font-family: 'Krub';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Krub Bold italic'),
+    local('Krub-Bolditalic'),
+    url('./files/krub-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/krub-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

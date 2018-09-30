@@ -1,0 +1,156 @@
+/* kodchasan-200normal - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Kodchasan Extra Light '),
+    local('Kodchasan-Extra Light'),
+    url('./files/kodchasan-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-200italic - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Kodchasan Extra Light italic'),
+    local('Kodchasan-Extra Lightitalic'),
+    url('./files/kodchasan-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-300normal - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Kodchasan Light '),
+    local('Kodchasan-Light'),
+    url('./files/kodchasan-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-300italic - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Kodchasan Light italic'),
+    local('Kodchasan-Lightitalic'),
+    url('./files/kodchasan-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-400normal - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Kodchasan Regular '),
+    local('Kodchasan-Regular'),
+    url('./files/kodchasan-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-400italic - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Kodchasan Regular italic'),
+    local('Kodchasan-Regularitalic'),
+    url('./files/kodchasan-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-500normal - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Kodchasan Medium '),
+    local('Kodchasan-Medium'),
+    url('./files/kodchasan-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-500italic - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Kodchasan Medium italic'),
+    local('Kodchasan-Mediumitalic'),
+    url('./files/kodchasan-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-600normal - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Kodchasan SemiBold '),
+    local('Kodchasan-SemiBold'),
+    url('./files/kodchasan-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-600italic - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Kodchasan SemiBold italic'),
+    local('Kodchasan-SemiBolditalic'),
+    url('./files/kodchasan-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-700normal - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Kodchasan Bold '),
+    local('Kodchasan-Bold'),
+    url('./files/kodchasan-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kodchasan-700italic - latin */
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Kodchasan Bold italic'),
+    local('Kodchasan-Bolditalic'),
+    url('./files/kodchasan-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kodchasan-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

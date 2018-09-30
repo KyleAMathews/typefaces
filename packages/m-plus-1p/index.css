@@ -1,0 +1,91 @@
+/* m-plus-1p-100normal - latin */
+@font-face {
+  font-family: 'M PLUS 1p';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('M PLUS 1p Thin '),
+    local('M PLUS 1p-Thin'),
+    url('./files/m-plus-1p-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/m-plus-1p-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* m-plus-1p-300normal - latin */
+@font-face {
+  font-family: 'M PLUS 1p';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('M PLUS 1p Light '),
+    local('M PLUS 1p-Light'),
+    url('./files/m-plus-1p-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/m-plus-1p-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* m-plus-1p-400normal - latin */
+@font-face {
+  font-family: 'M PLUS 1p';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('M PLUS 1p Regular '),
+    local('M PLUS 1p-Regular'),
+    url('./files/m-plus-1p-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/m-plus-1p-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* m-plus-1p-500normal - latin */
+@font-face {
+  font-family: 'M PLUS 1p';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('M PLUS 1p Medium '),
+    local('M PLUS 1p-Medium'),
+    url('./files/m-plus-1p-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/m-plus-1p-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* m-plus-1p-700normal - latin */
+@font-face {
+  font-family: 'M PLUS 1p';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('M PLUS 1p Bold '),
+    local('M PLUS 1p-Bold'),
+    url('./files/m-plus-1p-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/m-plus-1p-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* m-plus-1p-800normal - latin */
+@font-face {
+  font-family: 'M PLUS 1p';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('M PLUS 1p ExtraBold '),
+    local('M PLUS 1p-ExtraBold'),
+    url('./files/m-plus-1p-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/m-plus-1p-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* m-plus-1p-900normal - latin */
+@font-face {
+  font-family: 'M PLUS 1p';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('M PLUS 1p Black '),
+    local('M PLUS 1p-Black'),
+    url('./files/m-plus-1p-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/m-plus-1p-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

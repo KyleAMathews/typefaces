@@ -1,0 +1,13 @@
+/* sawarabi-gothic-400normal - latin */
+@font-face {
+  font-family: 'Sawarabi Gothic';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sawarabi Gothic Regular '),
+    local('Sawarabi Gothic-Regular'),
+    url('./files/sawarabi-gothic-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sawarabi-gothic-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

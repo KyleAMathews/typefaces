@@ -1,0 +1,208 @@
+/* k2d-100normal - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('K2D Thin '),
+    local('K2D-Thin'),
+    url('./files/k2d-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-100italic - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('K2D Thin italic'),
+    local('K2D-Thinitalic'),
+    url('./files/k2d-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-200normal - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('K2D Extra Light '),
+    local('K2D-Extra Light'),
+    url('./files/k2d-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-200italic - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('K2D Extra Light italic'),
+    local('K2D-Extra Lightitalic'),
+    url('./files/k2d-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-300normal - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('K2D Light '),
+    local('K2D-Light'),
+    url('./files/k2d-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-300italic - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('K2D Light italic'),
+    local('K2D-Lightitalic'),
+    url('./files/k2d-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-400normal - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('K2D Regular '),
+    local('K2D-Regular'),
+    url('./files/k2d-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-400italic - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('K2D Regular italic'),
+    local('K2D-Regularitalic'),
+    url('./files/k2d-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-500normal - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('K2D Medium '),
+    local('K2D-Medium'),
+    url('./files/k2d-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-500italic - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('K2D Medium italic'),
+    local('K2D-Mediumitalic'),
+    url('./files/k2d-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-600normal - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('K2D SemiBold '),
+    local('K2D-SemiBold'),
+    url('./files/k2d-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-600italic - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('K2D SemiBold italic'),
+    local('K2D-SemiBolditalic'),
+    url('./files/k2d-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-700normal - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('K2D Bold '),
+    local('K2D-Bold'),
+    url('./files/k2d-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-700italic - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('K2D Bold italic'),
+    local('K2D-Bolditalic'),
+    url('./files/k2d-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-800normal - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('K2D ExtraBold '),
+    local('K2D-ExtraBold'),
+    url('./files/k2d-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* k2d-800italic - latin */
+@font-face {
+  font-family: 'K2D';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('K2D ExtraBold italic'),
+    local('K2D-ExtraBolditalic'),
+    url('./files/k2d-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/k2d-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,130 @@
+/* chakra-petch-300normal - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Chakra Petch Light '),
+    local('Chakra Petch-Light'),
+    url('./files/chakra-petch-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chakra-petch-300italic - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Chakra Petch Light italic'),
+    local('Chakra Petch-Lightitalic'),
+    url('./files/chakra-petch-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chakra-petch-400normal - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Chakra Petch Regular '),
+    local('Chakra Petch-Regular'),
+    url('./files/chakra-petch-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chakra-petch-400italic - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Chakra Petch Regular italic'),
+    local('Chakra Petch-Regularitalic'),
+    url('./files/chakra-petch-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chakra-petch-500normal - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Chakra Petch Medium '),
+    local('Chakra Petch-Medium'),
+    url('./files/chakra-petch-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chakra-petch-500italic - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Chakra Petch Medium italic'),
+    local('Chakra Petch-Mediumitalic'),
+    url('./files/chakra-petch-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chakra-petch-600normal - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Chakra Petch SemiBold '),
+    local('Chakra Petch-SemiBold'),
+    url('./files/chakra-petch-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chakra-petch-600italic - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Chakra Petch SemiBold italic'),
+    local('Chakra Petch-SemiBolditalic'),
+    url('./files/chakra-petch-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chakra-petch-700normal - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Chakra Petch Bold '),
+    local('Chakra Petch-Bold'),
+    url('./files/chakra-petch-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chakra-petch-700italic - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Chakra Petch Bold italic'),
+    local('Chakra Petch-Bolditalic'),
+    url('./files/chakra-petch-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chakra-petch-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-koho",
+  "version": "0.0.0",
+  "description": "KoHo typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "koho"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/koho"
+}

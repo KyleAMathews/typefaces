@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-m-plus-1p",
+  "version": "0.0.0",
+  "description": "M PLUS 1p typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "m-plus-1p"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/m-plus-1p"
+}

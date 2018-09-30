@@ -1,0 +1,156 @@
+/* mali-200normal - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Mali Extra Light '),
+    local('Mali-Extra Light'),
+    url('./files/mali-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-200italic - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Mali Extra Light italic'),
+    local('Mali-Extra Lightitalic'),
+    url('./files/mali-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-300normal - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Mali Light '),
+    local('Mali-Light'),
+    url('./files/mali-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-300italic - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Mali Light italic'),
+    local('Mali-Lightitalic'),
+    url('./files/mali-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-400normal - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mali Regular '),
+    local('Mali-Regular'),
+    url('./files/mali-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-400italic - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mali Regular italic'),
+    local('Mali-Regularitalic'),
+    url('./files/mali-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-500normal - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Mali Medium '),
+    local('Mali-Medium'),
+    url('./files/mali-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-500italic - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Mali Medium italic'),
+    local('Mali-Mediumitalic'),
+    url('./files/mali-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-600normal - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Mali SemiBold '),
+    local('Mali-SemiBold'),
+    url('./files/mali-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-600italic - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Mali SemiBold italic'),
+    local('Mali-SemiBolditalic'),
+    url('./files/mali-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-700normal - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Mali Bold '),
+    local('Mali-Bold'),
+    url('./files/mali-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mali-700italic - latin */
+@font-face {
+  font-family: 'Mali';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Mali Bold italic'),
+    local('Mali-Bolditalic'),
+    url('./files/mali-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mali-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

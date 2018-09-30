@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-noto-sans-jp",
+  "version": "0.0.0",
+  "description": "Noto Sans JP typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "noto-sans-jp"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/noto-sans-jp"
+}

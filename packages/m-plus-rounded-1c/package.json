@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-m-plus-rounded-1c",
+  "version": "0.0.0",
+  "description": "M PLUS Rounded 1c typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "m-plus-rounded-1c"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/m-plus-rounded-1c"
+}

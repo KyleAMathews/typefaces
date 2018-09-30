@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-kodchasan",
+  "version": "0.0.0",
+  "description": "Kodchasan typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "kodchasan"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/kodchasan"
+}

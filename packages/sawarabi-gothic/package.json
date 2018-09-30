@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-sawarabi-gothic",
+  "version": "0.0.0",
+  "description": "Sawarabi Gothic typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "sawarabi-gothic"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/sawarabi-gothic"
+}

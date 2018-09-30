@@ -1,0 +1,78 @@
+/* noto-sans-jp-100normal - latin */
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Noto Sans JP Thin '),
+    local('Noto Sans JP-Thin'),
+    url('./files/noto-sans-jp-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-jp-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-jp-300normal - latin */
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Noto Sans JP Light '),
+    local('Noto Sans JP-Light'),
+    url('./files/noto-sans-jp-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-jp-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-jp-400normal - latin */
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Noto Sans JP Regular '),
+    local('Noto Sans JP-Regular'),
+    url('./files/noto-sans-jp-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-jp-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-jp-500normal - latin */
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Noto Sans JP Medium '),
+    local('Noto Sans JP-Medium'),
+    url('./files/noto-sans-jp-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-jp-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-jp-700normal - latin */
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Noto Sans JP Bold '),
+    local('Noto Sans JP-Bold'),
+    url('./files/noto-sans-jp-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-jp-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-jp-900normal - latin */
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Noto Sans JP Black '),
+    local('Noto Sans JP-Black'),
+    url('./files/noto-sans-jp-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-jp-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

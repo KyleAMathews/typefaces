@@ -1,0 +1,13 @@
+/* notable-400normal - latin */
+@font-face {
+  font-family: 'Notable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Notable Regular '),
+    local('Notable-Regular'),
+    url('./files/notable-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/notable-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-nanum-gothic",
-  "version": "0.0.56",
+  "version": "0.0.0",
   "description": "Nanum Gothic typeface",
   "main": "index.css",
   "keywords": [

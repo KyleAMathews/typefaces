@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-nanum-pen-script",
-  "version": "0.0.56",
+  "version": "0.0.0",
   "description": "Nanum Pen Script typeface",
   "main": "index.css",
   "keywords": [

@@ -1,0 +1,26 @@
+/* srisakdi-400normal - latin */
+@font-face {
+  font-family: 'Srisakdi';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Srisakdi Regular '),
+    local('Srisakdi-Regular'),
+    url('./files/srisakdi-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/srisakdi-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* srisakdi-700normal - latin */
+@font-face {
+  font-family: 'Srisakdi';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Srisakdi Bold '),
+    local('Srisakdi-Bold'),
+    url('./files/srisakdi-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/srisakdi-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

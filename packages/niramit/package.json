@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-niramit",
+  "version": "0.0.0",
+  "description": "Niramit typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "niramit"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/niramit"
+}

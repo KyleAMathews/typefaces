@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-kosugi-maru",
+  "version": "0.0.0",
+  "description": "Kosugi Maru typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "kosugi-maru"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/kosugi-maru"
+}

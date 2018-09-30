@@ -1,0 +1,156 @@
+/* koho-200normal - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('KoHo Extra Light '),
+    local('KoHo-Extra Light'),
+    url('./files/koho-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-200italic - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('KoHo Extra Light italic'),
+    local('KoHo-Extra Lightitalic'),
+    url('./files/koho-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-300normal - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('KoHo Light '),
+    local('KoHo-Light'),
+    url('./files/koho-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-300italic - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('KoHo Light italic'),
+    local('KoHo-Lightitalic'),
+    url('./files/koho-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-400normal - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('KoHo Regular '),
+    local('KoHo-Regular'),
+    url('./files/koho-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-400italic - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('KoHo Regular italic'),
+    local('KoHo-Regularitalic'),
+    url('./files/koho-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-500normal - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('KoHo Medium '),
+    local('KoHo-Medium'),
+    url('./files/koho-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-500italic - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('KoHo Medium italic'),
+    local('KoHo-Mediumitalic'),
+    url('./files/koho-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-600normal - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('KoHo SemiBold '),
+    local('KoHo-SemiBold'),
+    url('./files/koho-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-600italic - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('KoHo SemiBold italic'),
+    local('KoHo-SemiBolditalic'),
+    url('./files/koho-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-700normal - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('KoHo Bold '),
+    local('KoHo-Bold'),
+    url('./files/koho-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* koho-700italic - latin */
+@font-face {
+  font-family: 'KoHo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('KoHo Bold italic'),
+    local('KoHo-Bolditalic'),
+    url('./files/koho-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/koho-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

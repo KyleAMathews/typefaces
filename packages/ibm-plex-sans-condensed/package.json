@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-ibm-plex-sans-condensed",
-  "version": "0.0.56",
+  "version": "0.0.0",
   "description": "IBM Plex Sans Condensed typeface",
   "main": "index.css",
   "keywords": [

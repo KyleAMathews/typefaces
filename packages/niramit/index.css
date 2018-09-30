@@ -1,0 +1,156 @@
+/* niramit-200normal - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Niramit Extra Light '),
+    local('Niramit-Extra Light'),
+    url('./files/niramit-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-200italic - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Niramit Extra Light italic'),
+    local('Niramit-Extra Lightitalic'),
+    url('./files/niramit-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-300normal - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Niramit Light '),
+    local('Niramit-Light'),
+    url('./files/niramit-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-300italic - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Niramit Light italic'),
+    local('Niramit-Lightitalic'),
+    url('./files/niramit-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-400normal - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Niramit Regular '),
+    local('Niramit-Regular'),
+    url('./files/niramit-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-400italic - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Niramit Regular italic'),
+    local('Niramit-Regularitalic'),
+    url('./files/niramit-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-500normal - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Niramit Medium '),
+    local('Niramit-Medium'),
+    url('./files/niramit-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-500italic - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Niramit Medium italic'),
+    local('Niramit-Mediumitalic'),
+    url('./files/niramit-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-600normal - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Niramit SemiBold '),
+    local('Niramit-SemiBold'),
+    url('./files/niramit-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-600italic - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Niramit SemiBold italic'),
+    local('Niramit-SemiBolditalic'),
+    url('./files/niramit-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-700normal - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Niramit Bold '),
+    local('Niramit-Bold'),
+    url('./files/niramit-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* niramit-700italic - latin */
+@font-face {
+  font-family: 'Niramit';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Niramit Bold italic'),
+    local('Niramit-Bolditalic'),
+    url('./files/niramit-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/niramit-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

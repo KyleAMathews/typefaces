@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-fahkwang",
+  "version": "0.0.0",
+  "description": "Fahkwang typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "fahkwang"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/fahkwang"
+}

@@ -1,0 +1,52 @@
+/* markazi-text-400normal - latin */
+@font-face {
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Markazi Text Regular '),
+    local('Markazi Text-Regular'),
+    url('./files/markazi-text-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/markazi-text-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* markazi-text-500normal - latin */
+@font-face {
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Markazi Text Medium '),
+    local('Markazi Text-Medium'),
+    url('./files/markazi-text-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/markazi-text-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* markazi-text-600normal - latin */
+@font-face {
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Markazi Text SemiBold '),
+    local('Markazi Text-SemiBold'),
+    url('./files/markazi-text-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/markazi-text-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* markazi-text-700normal - latin */
+@font-face {
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Markazi Text Bold '),
+    local('Markazi Text-Bold'),
+    url('./files/markazi-text-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/markazi-text-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-krub",
+  "version": "0.0.0",
+  "description": "Krub typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "krub"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/krub"
+}
