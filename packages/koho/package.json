@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-koho",
-  "version": "0.0.0",
+  "version": "0.0.61",
   "description": "KoHo typeface",
   "main": "index.css",
   "keywords": [

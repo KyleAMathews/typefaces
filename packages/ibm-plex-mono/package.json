@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-ibm-plex-mono",
-  "version": "0.0.0",
+  "version": "0.0.61",
   "description": "IBM Plex Mono typeface",
   "main": "index.css",
   "keywords": [

@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-dokdo",
-  "version": "0.0.0",
+  "version": "0.0.61",
   "description": "Dokdo typeface",
   "main": "index.css",
   "keywords": [
