@@ -1,0 +1,39 @@
+/* d-din-400normal - latin */
+@font-face {
+  font-family: 'D-DIN';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('D-DIN Regular normal'),
+    local('D-DIN-Regularnormal'),
+    url('./files/d-din-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/d-din-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* d-din-400italic - latin */
+@font-face {
+  font-family: 'D-DIN';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('D-DIN Regular italic'),
+    local('D-DIN-Regularitalic'),
+    url('./files/d-din-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/d-din-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* d-din-700normal - latin */
+@font-face {
+  font-family: 'D-DIN';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('D-DIN Bold normal'),
+    local('D-DIN-Boldnormal'),
+    url('./files/d-din-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/d-din-700.woff') format('woff'); /* Modern Browsers */
+}
+
