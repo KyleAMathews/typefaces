@@ -1,0 +1,65 @@
+/* spacegrotesk-300normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Space Text Light normal'),
+    local('Space Text-Lightnormal'),
+    url('./files/spacegrotesk-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spacegrotesk-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spacegrotesk-400normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Space Text Regular normal'),
+    local('Space Text-Regularnormal'),
+    url('./files/spacegrotesk-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spacegrotesk-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spacegrotesk-500normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Space Text Medium normal'),
+    local('Space Text-Mediumnormal'),
+    url('./files/spacegrotesk-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spacegrotesk-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spacegrotesk-600normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Space Text SemiBold normal'),
+    local('Space Text-SemiBoldnormal'),
+    url('./files/spacegrotesk-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spacegrotesk-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spacegrotesk-700normal - latin */
+@font-face {
+  font-family: 'Space Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Space Text Bold normal'),
+    local('Space Text-Boldnormal'),
+    url('./files/spacegrotesk-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spacegrotesk-700.woff') format('woff'); /* Modern Browsers */
+}
+
