@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-spacegrotesk",
-  "version": "0.0.0",
+  "version": "0.0.66",
   "description": "Space Text typeface",
   "main": "index.css",
   "keywords": [
