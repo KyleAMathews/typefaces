@@ -1,0 +1,156 @@
+/* metropolis-100normal - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Metropolis Thin normal'),
+    local('Metropolis-Thinnormal'),
+    url('./files/metropolis-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-100italic - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Metropolis Thin italic'),
+    local('Metropolis-Thinitalic'),
+    url('./files/metropolis-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-300normal - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Metropolis Light normal'),
+    local('Metropolis-Lightnormal'),
+    url('./files/metropolis-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-300italic - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Metropolis Light italic'),
+    local('Metropolis-Lightitalic'),
+    url('./files/metropolis-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-400normal - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Metropolis Regular normal'),
+    local('Metropolis-Regularnormal'),
+    url('./files/metropolis-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-400italic - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Metropolis Regular italic'),
+    local('Metropolis-Regularitalic'),
+    url('./files/metropolis-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-500normal - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Metropolis Medium normal'),
+    local('Metropolis-Mediumnormal'),
+    url('./files/metropolis-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-500italic - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Metropolis Medium italic'),
+    local('Metropolis-Mediumitalic'),
+    url('./files/metropolis-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-600normal - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Metropolis SemiBold normal'),
+    local('Metropolis-SemiBoldnormal'),
+    url('./files/metropolis-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-600italic - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Metropolis SemiBold italic'),
+    local('Metropolis-SemiBolditalic'),
+    url('./files/metropolis-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-700normal - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Metropolis Bold normal'),
+    local('Metropolis-Boldnormal'),
+    url('./files/metropolis-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* metropolis-700italic - latin */
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Metropolis Bold italic'),
+    local('Metropolis-Bolditalic'),
+    url('./files/metropolis-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/metropolis-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
