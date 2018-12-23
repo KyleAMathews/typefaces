@@ -1,10 +1,14 @@
+
 {
   "name": "typeface-aleo",
-  "version": "0.0.44",
+  "version": "0.0.0",
   "description": "Aleo typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
+    "font",
+    "font family",
+    "google fonts",
     "aleo"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",

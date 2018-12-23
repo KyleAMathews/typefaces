@@ -1,0 +1,13 @@
+/* zcool-xiaowei-400normal - latin */
+@font-face {
+  font-family: 'ZCOOL XiaoWei';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('ZCOOL XiaoWei Regular '),
+    local('ZCOOL XiaoWei-Regular'),
+    url('./files/zcool-xiaowei-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zcool-xiaowei-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

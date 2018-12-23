@@ -1,0 +1,52 @@
+/* thasadith-400normal - latin */
+@font-face {
+  font-family: 'Thasadith';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Thasadith Regular '),
+    local('Thasadith-Regular'),
+    url('./files/thasadith-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/thasadith-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* thasadith-400italic - latin */
+@font-face {
+  font-family: 'Thasadith';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Thasadith Regular italic'),
+    local('Thasadith-Regularitalic'),
+    url('./files/thasadith-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/thasadith-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* thasadith-700normal - latin */
+@font-face {
+  font-family: 'Thasadith';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Thasadith Bold '),
+    local('Thasadith-Bold'),
+    url('./files/thasadith-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/thasadith-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* thasadith-700italic - latin */
+@font-face {
+  font-family: 'Thasadith';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Thasadith Bold italic'),
+    local('Thasadith-Bolditalic'),
+    url('./files/thasadith-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/thasadith-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

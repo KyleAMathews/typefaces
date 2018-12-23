@@ -1,0 +1,208 @@
+/* sarabun-100normal - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Sarabun Thin '),
+    local('Sarabun-Thin'),
+    url('./files/sarabun-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-100italic - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Sarabun Thin italic'),
+    local('Sarabun-Thinitalic'),
+    url('./files/sarabun-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-200normal - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Sarabun Extra Light '),
+    local('Sarabun-Extra Light'),
+    url('./files/sarabun-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-200italic - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Sarabun Extra Light italic'),
+    local('Sarabun-Extra Lightitalic'),
+    url('./files/sarabun-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-300normal - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Sarabun Light '),
+    local('Sarabun-Light'),
+    url('./files/sarabun-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-300italic - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Sarabun Light italic'),
+    local('Sarabun-Lightitalic'),
+    url('./files/sarabun-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-400normal - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sarabun Regular '),
+    local('Sarabun-Regular'),
+    url('./files/sarabun-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-400italic - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sarabun Regular italic'),
+    local('Sarabun-Regularitalic'),
+    url('./files/sarabun-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-500normal - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Sarabun Medium '),
+    local('Sarabun-Medium'),
+    url('./files/sarabun-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-500italic - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Sarabun Medium italic'),
+    local('Sarabun-Mediumitalic'),
+    url('./files/sarabun-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-600normal - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Sarabun SemiBold '),
+    local('Sarabun-SemiBold'),
+    url('./files/sarabun-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-600italic - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Sarabun SemiBold italic'),
+    local('Sarabun-SemiBolditalic'),
+    url('./files/sarabun-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-700normal - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Sarabun Bold '),
+    local('Sarabun-Bold'),
+    url('./files/sarabun-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-700italic - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Sarabun Bold italic'),
+    local('Sarabun-Bolditalic'),
+    url('./files/sarabun-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-800normal - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Sarabun ExtraBold '),
+    local('Sarabun-ExtraBold'),
+    url('./files/sarabun-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarabun-800italic - latin */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Sarabun ExtraBold italic'),
+    local('Sarabun-ExtraBolditalic'),
+    url('./files/sarabun-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarabun-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+

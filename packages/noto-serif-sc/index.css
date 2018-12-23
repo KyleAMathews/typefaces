@@ -1,0 +1,91 @@
+/* noto-serif-sc-200normal - latin */
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Noto Serif SC Extra Light '),
+    local('Noto Serif SC-Extra Light'),
+    url('./files/noto-serif-sc-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-serif-sc-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-serif-sc-300normal - latin */
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Noto Serif SC Light '),
+    local('Noto Serif SC-Light'),
+    url('./files/noto-serif-sc-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-serif-sc-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-serif-sc-400normal - latin */
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Noto Serif SC Regular '),
+    local('Noto Serif SC-Regular'),
+    url('./files/noto-serif-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-serif-sc-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-serif-sc-500normal - latin */
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Noto Serif SC Medium '),
+    local('Noto Serif SC-Medium'),
+    url('./files/noto-serif-sc-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-serif-sc-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-serif-sc-600normal - latin */
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Noto Serif SC SemiBold '),
+    local('Noto Serif SC-SemiBold'),
+    url('./files/noto-serif-sc-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-serif-sc-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-serif-sc-700normal - latin */
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Noto Serif SC Bold '),
+    local('Noto Serif SC-Bold'),
+    url('./files/noto-serif-sc-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-serif-sc-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-serif-sc-900normal - latin */
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Noto Serif SC Black '),
+    local('Noto Serif SC-Black'),
+    url('./files/noto-serif-sc-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-serif-sc-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

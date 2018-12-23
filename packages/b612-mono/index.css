@@ -1,0 +1,52 @@
+/* b612-mono-400normal - latin */
+@font-face {
+  font-family: 'B612 Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('B612 Mono Regular '),
+    local('B612 Mono-Regular'),
+    url('./files/b612-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/b612-mono-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* b612-mono-400italic - latin */
+@font-face {
+  font-family: 'B612 Mono';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('B612 Mono Regular italic'),
+    local('B612 Mono-Regularitalic'),
+    url('./files/b612-mono-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/b612-mono-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* b612-mono-700normal - latin */
+@font-face {
+  font-family: 'B612 Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('B612 Mono Bold '),
+    local('B612 Mono-Bold'),
+    url('./files/b612-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/b612-mono-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* b612-mono-700italic - latin */
+@font-face {
+  font-family: 'B612 Mono';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('B612 Mono Bold italic'),
+    local('B612 Mono-Bolditalic'),
+    url('./files/b612-mono-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/b612-mono-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

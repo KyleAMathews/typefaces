@@ -1,0 +1,52 @@
+/* b612-400normal - latin */
+@font-face {
+  font-family: 'B612';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('B612 Regular '),
+    local('B612-Regular'),
+    url('./files/b612-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/b612-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* b612-400italic - latin */
+@font-face {
+  font-family: 'B612';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('B612 Regular italic'),
+    local('B612-Regularitalic'),
+    url('./files/b612-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/b612-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* b612-700normal - latin */
+@font-face {
+  font-family: 'B612';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('B612 Bold '),
+    local('B612-Bold'),
+    url('./files/b612-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/b612-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* b612-700italic - latin */
+@font-face {
+  font-family: 'B612';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('B612 Bold italic'),
+    local('B612-Bolditalic'),
+    url('./files/b612-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/b612-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,26 @@
+/* charm-400normal - latin */
+@font-face {
+  font-family: 'Charm';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Charm Regular '),
+    local('Charm-Regular'),
+    url('./files/charm-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/charm-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* charm-700normal - latin */
+@font-face {
+  font-family: 'Charm';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Charm Bold '),
+    local('Charm-Bold'),
+    url('./files/charm-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/charm-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
