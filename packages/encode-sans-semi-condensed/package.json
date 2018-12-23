@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-encode-sans-semi-condensed",
-  "version": "0.0.0",
+  "version": "0.0.69",
   "description": "Encode Sans Semi Condensed typeface",
   "main": "index.css",
   "keywords": [
