@@ -1,7 +1,7 @@
 {
   "name": "typeface-b612-mono",
   "private": true,
-  "version": "0.0.70",
+  "version": "0.0.71",
   "description": "B612 Mono typeface",
   "main": "index.css",
   "keywords": [
