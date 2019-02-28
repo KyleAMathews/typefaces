@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-fanwood-text",
-  "version": "0.0.0",
+  "version": "0.0.72",
   "description": "Fanwood Text typeface",
   "main": "index.css",
   "keywords": [

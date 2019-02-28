@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-encode-sans-condensed",
-  "version": "0.0.0",
+  "version": "0.0.72",
   "description": "Encode Sans Condensed typeface",
   "main": "index.css",
   "keywords": [

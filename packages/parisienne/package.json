@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-parisienne",
-  "version": "0.0.0",
+  "version": "0.0.72",
   "description": "Parisienne typeface",
   "main": "index.css",
   "keywords": [
