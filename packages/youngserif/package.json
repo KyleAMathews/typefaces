@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-youngserif",
+  "version": "0.0.0",
+  "description": "YoungSerif typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "youngserif"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/youngserif"
+}
