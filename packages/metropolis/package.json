@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-metropolis",
-  "version": "0.0.0",
+  "version": "0.0.74",
   "description": "Metropolis typeface",
   "main": "index.css",
   "keywords": [
