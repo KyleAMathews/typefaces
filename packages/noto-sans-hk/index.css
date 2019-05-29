@@ -1,0 +1,78 @@
+/* noto-sans-hk-100normal - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Noto Sans HK Thin '),
+    local('Noto Sans HK-Thin'),
+    url('./files/noto-sans-hk-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-hk-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-hk-300normal - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Noto Sans HK Light '),
+    local('Noto Sans HK-Light'),
+    url('./files/noto-sans-hk-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-hk-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-hk-400normal - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Noto Sans HK Regular '),
+    local('Noto Sans HK-Regular'),
+    url('./files/noto-sans-hk-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-hk-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-hk-500normal - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Noto Sans HK Medium '),
+    local('Noto Sans HK-Medium'),
+    url('./files/noto-sans-hk-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-hk-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-hk-700normal - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Noto Sans HK Bold '),
+    local('Noto Sans HK-Bold'),
+    url('./files/noto-sans-hk-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-hk-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* noto-sans-hk-900normal - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Noto Sans HK Black '),
+    local('Noto Sans HK-Black'),
+    url('./files/noto-sans-hk-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/noto-sans-hk-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

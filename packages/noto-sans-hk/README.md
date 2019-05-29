@@ -1,11 +1,11 @@
 
-# typeface-ibm-plex-serif
+# typeface-noto-sans-hk
 
-The CSS and web font files to easily self-host “IBM Plex Serif”.
+The CSS and web font files to easily self-host “Noto Sans HK”.
 
 ## Install
 
-`npm install --save typeface-ibm-plex-serif`
+`npm install --save typeface-noto-sans-hk`
 
 ## Use
 
@@ -20,8 +20,8 @@ and [Create React App](https://github.com/facebookincubator/create-react-app).
 To use, simply require the package in your project’s entry file e.g.
 
 ```javascript
-// Load IBM Plex Serif typeface
-require('typeface-ibm-plex-serif')
+// Load Noto Sans HK typeface
+require('typeface-noto-sans-hk')
 ```
 
 ## About the Typefaces project.

@@ -1,17 +1,17 @@
 
 {
-  "name": "typeface-amita",
+  "name": "typeface-noto-sans-hk",
   "version": "0.0.0",
-  "description": "Amita typeface",
+  "description": "Noto Sans HK typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
     "font",
     "font family",
     "google fonts",
-    "amita"
+    "noto-sans-hk"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/amita"
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/noto-sans-hk"
 }

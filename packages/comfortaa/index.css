@@ -24,6 +24,32 @@
     url('./files/comfortaa-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
+/* comfortaa-500normal - latin */
+@font-face {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Comfortaa Medium '),
+    local('Comfortaa-Medium'),
+    url('./files/comfortaa-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/comfortaa-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* comfortaa-600normal - latin */
+@font-face {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Comfortaa SemiBold '),
+    local('Comfortaa-SemiBold'),
+    url('./files/comfortaa-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/comfortaa-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
 /* comfortaa-700normal - latin */
 @font-face {
   font-family: 'Comfortaa';

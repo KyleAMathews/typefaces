@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-noto-serif-sc",
-  "version": "0.0.71",
+  "version": "0.0.0",
   "description": "Noto Serif SC typeface",
   "main": "index.css",
   "keywords": [
