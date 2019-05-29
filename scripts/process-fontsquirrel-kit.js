@@ -9,7 +9,8 @@ const { packageJson, fontFace, readme } = require(`./templates`)
 const commonWeightNameMap = require(`./common-weight-name-map`)
 
 // Get current count of packages to put in the package README
-const dirs = p => fs.readdirSync(p).filter(f => fs.statSync(p+"/"+f).isDirectory())
+const dirs = p =>
+  fs.readdirSync(p).filter(f => fs.statSync(p + "/" + f).isDirectory())
 const packagesCount = dirs(`./packages`).length
 console.log(`package count`, packagesCount)
 
@@ -17,17 +18,17 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
   // Try to copy the License file.
   const licenseFiles = glob.sync(`*license*`, {
     cwd: extractionPath,
-    nocase: true,
+    nocase: true
   })
   if (licenseFiles.length > 0) {
-    licenseFiles.forEach((file) => {
+    licenseFiles.forEach(file => {
       fs.copySync(path.join(extractionPath, file), `${typefaceDir}/${file}`)
     })
   }
 
   const globPattern = `**/?(*.eot|*.svg|*.ttf|*.woff)`
   const globOptions = {
-    cwd: extractionPath,
+    cwd: extractionPath
   }
   //console.log(globPattern, globOptions)
 
@@ -36,9 +37,10 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
 
   // Copy files
   let variants = []
-  fontFiles.forEach((fontFile) => {
+  fontFiles.forEach(fontFile => {
     const fullPath = extractionPath + `/` + fontFile
 
+    console.log({ fontFile })
     // Determine weight.
     let weight
     if (fontFile.match(/regular/)) {
@@ -55,10 +57,14 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
       weight = `500`
     } else if (fontFile.match(/semibold/)) {
       weight = `600`
+    } else if (fontFile.match(/extrabold/)) {
+      weight = `800`
     } else if (fontFile.match(/bold/)) {
       weight = `700`
     } else if (fontFile.match(/heavy/)) {
       weight = `800`
+    } else if (fontFile.match(/Black/)) {
+      weight = `900`
     } else {
       weight = `400`
     }
@@ -70,20 +76,25 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
     }
 
     // Find the variant to add this file to (or create new one).
-    let variant = _.find(variants, (v) => v.fontStyle === style && v.fontWeight === weight)
+    let variant = _.find(
+      variants,
+      v => v.fontStyle === style && v.fontWeight === weight
+    )
     if (!variant) {
       variant = {
         fontStyle: style,
-        fontWeight: weight,
+        fontWeight: weight
       }
       variants.push(variant)
     }
 
     const parsedPath = path.parse(fontFile)
-    const relativePath = `./files/${lowercaseId}-${weight}${style}${parsedPath.ext}`
+    const relativePath = `./files/${lowercaseId}-${weight}${style}${
+      parsedPath.ext
+    }`
     variant[parsedPath.ext.slice(1)] = relativePath
     const toPath = path.join(typefaceDir, relativePath)
-    console.log(toPath)
+    console.log({ toPath })
     fs.copySync(fullPath, toPath)
 
     // If this is a ttf file, use ttf2woff2 to make a woff2 version.
@@ -91,7 +102,7 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
       console.log(`converting .ttf file to .woff2`)
       const input = fs.readFileSync(fullPath)
       const woff2RelativePath = `./files/${lowercaseId}-${weight}${style}.woff2`
-      variant['woff2'] = woff2RelativePath
+      variant["woff2"] = woff2RelativePath
       const woff2ToPath = path.join(typefaceDir, woff2RelativePath)
       fs.writeFileSync(woff2ToPath, ttf2woff2(input))
     }
@@ -104,26 +115,33 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
     // If a hash file already exists, check if anything has changed. If it has
     // then update the hash, otherwise exit.
     if (fs.existsSync(`${typefaceDir}/files-hash.json`)) {
-      const filesHashJson = JSON.parse(fs.readFileSync(`${typefaceDir}/files-hash.json`, `utf-8`))
+      const filesHashJson = JSON.parse(
+        fs.readFileSync(`${typefaceDir}/files-hash.json`, `utf-8`)
+      )
       if (filesHashJson.hash === filesHash) {
         // Exit
-        console.log(`The md5 hash of the new font files haven't changed (meaning no font files have changed) so exiting`)
+        console.log(
+          `The md5 hash of the new font files haven't changed (meaning no font files have changed) so exiting`
+        )
         process.exit()
       } else {
       }
     }
 
     // Either the files hash file needs updated or written new.
-    fs.writeFileSync(`${typefaceDir}/files-hash.json`, JSON.stringify({
-      hash: filesHash,
-      updatedAt: new Date().toJSON(),
-    }))
+    fs.writeFileSync(
+      `${typefaceDir}/files-hash.json`,
+      JSON.stringify({
+        hash: filesHash,
+        updatedAt: new Date().toJSON()
+      })
+    )
 
     // Write out the README.md
     const packageReadme = readme({
       typefaceId: lowercaseId,
       typefaceName: familyName,
-      count: packagesCount,
+      count: packagesCount
     })
 
     fs.writeFileSync(`${typefaceDir}/README.md`, packageReadme)
@@ -131,21 +149,21 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
     // Write out package.json
     const packageJSON = packageJson({
       typefaceId: lowercaseId,
-      typefaceName: familyName,
+      typefaceName: familyName
     })
 
     fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
     // Write out index.css file
     // Sort variants first.
-    variants = _.sortBy(variants, (item) => {
+    variants = _.sortBy(variants, item => {
       let sortString = item.fontWeight
       if (item.fontStyle === `italic`) {
         sortString += item.fontStyle
       }
       return sortString
     })
-    css = variants.map((item) => {
+    css = variants.map(item => {
       let style = item.fontStyle
       if (!style) {
         style = `normal`
@@ -157,14 +175,14 @@ module.exports = (extractionPath, typefaceDir, lowercaseId, familyName) => {
         styleWithNormal: style,
         weight: item.fontWeight,
         commonWeightName: commonWeightNameMap(item.fontWeight),
-        eotPath: item['eot'],
-        woffPath: item['woff'],
-        woff2Path: item['woff2'],
-        svgPath: item['svg'],
+        eotPath: item["eot"],
+        woffPath: item["woff"],
+        woff2Path: item["woff2"],
+        svgPath: item["svg"]
       })
     })
 
     console.log(css)
-    fs.writeFileSync(`${typefaceDir}/index.css`, css.join(''))
+    fs.writeFileSync(`${typefaceDir}/index.css`, css.join(""))
   })
 }
