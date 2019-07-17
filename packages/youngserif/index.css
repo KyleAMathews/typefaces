@@ -1,0 +1,13 @@
+/* youngserif-400normal - latin */
+@font-face {
+  font-family: 'YoungSerif';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('YoungSerif Regular normal'),
+    local('YoungSerif-Regularnormal'),
+    url('./files/youngserif-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/youngserif-400.woff') format('woff'); /* Modern Browsers */
+}
+
