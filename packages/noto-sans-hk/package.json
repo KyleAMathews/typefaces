@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-noto-sans-hk",
-  "version": "0.0.0",
+  "version": "0.0.75",
   "description": "Noto Sans HK typeface",
   "main": "index.css",
   "keywords": [

@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-ibm-plex-serif",
-  "version": "0.0.0",
+  "version": "0.0.75",
   "description": "IBM Plex Serif typeface",
   "main": "index.css",
   "keywords": [
