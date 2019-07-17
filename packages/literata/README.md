@@ -1,11 +1,11 @@
 
-# typeface-comfortaa
+# typeface-literata
 
-The CSS and web font files to easily self-host “Comfortaa”.
+The CSS and web font files to easily self-host “Literata”.
 
 ## Install
 
-`npm install --save typeface-comfortaa`
+`npm install --save typeface-literata`
 
 ## Use
 
@@ -20,8 +20,8 @@ and [Create React App](https://github.com/facebookincubator/create-react-app).
 To use, simply require the package in your project’s entry file e.g.
 
 ```javascript
-// Load Comfortaa typeface
-require('typeface-comfortaa')
+// Load Literata typeface
+require('typeface-literata')
 ```
 
 ## About the Typefaces project.

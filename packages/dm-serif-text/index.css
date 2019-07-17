@@ -1,0 +1,26 @@
+/* dm-serif-text-400normal - latin */
+@font-face {
+  font-family: 'DM Serif Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('DM Serif Text Regular '),
+    local('DM Serif Text-Regular'),
+    url('./files/dm-serif-text-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dm-serif-text-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-serif-text-400italic - latin */
+@font-face {
+  font-family: 'DM Serif Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('DM Serif Text Regular italic'),
+    local('DM Serif Text-Regularitalic'),
+    url('./files/dm-serif-text-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dm-serif-text-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+

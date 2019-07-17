@@ -1,17 +1,17 @@
 
 {
-  "name": "typeface-markazi-text",
+  "name": "typeface-darker-grotesque",
   "version": "0.0.0",
-  "description": "Markazi Text typeface",
+  "description": "Darker Grotesque typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
     "font",
     "font family",
     "google fonts",
-    "markazi-text"
+    "darker-grotesque"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/markazi-text"
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/darker-grotesque"
 }

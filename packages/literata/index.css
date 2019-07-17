@@ -1,0 +1,104 @@
+/* literata-400normal - latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Literata Regular '),
+    local('Literata-Regular'),
+    url('./files/literata-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-400italic - latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Literata Regular italic'),
+    local('Literata-Regularitalic'),
+    url('./files/literata-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-500normal - latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Literata Medium '),
+    local('Literata-Medium'),
+    url('./files/literata-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-500italic - latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Literata Medium italic'),
+    local('Literata-Mediumitalic'),
+    url('./files/literata-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-600normal - latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Literata SemiBold '),
+    local('Literata-SemiBold'),
+    url('./files/literata-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-600italic - latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Literata SemiBold italic'),
+    local('Literata-SemiBolditalic'),
+    url('./files/literata-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-700normal - latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Literata Bold '),
+    local('Literata-Bold'),
+    url('./files/literata-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-700italic - latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Literata Bold italic'),
+    local('Literata-Bolditalic'),
+    url('./files/literata-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

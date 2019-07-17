@@ -1,0 +1,13 @@
+/* barriecito-400normal - latin */
+@font-face {
+  font-family: 'Barriecito';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Barriecito Regular '),
+    local('Barriecito-Regular'),
+    url('./files/barriecito-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/barriecito-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

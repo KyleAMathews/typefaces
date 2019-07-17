@@ -1,0 +1,91 @@
+/* darker-grotesque-300normal - latin */
+@font-face {
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Darker Grotesque Light '),
+    local('Darker Grotesque-Light'),
+    url('./files/darker-grotesque-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/darker-grotesque-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* darker-grotesque-400normal - latin */
+@font-face {
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Darker Grotesque Regular '),
+    local('Darker Grotesque-Regular'),
+    url('./files/darker-grotesque-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/darker-grotesque-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* darker-grotesque-500normal - latin */
+@font-face {
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Darker Grotesque Medium '),
+    local('Darker Grotesque-Medium'),
+    url('./files/darker-grotesque-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/darker-grotesque-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* darker-grotesque-600normal - latin */
+@font-face {
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Darker Grotesque SemiBold '),
+    local('Darker Grotesque-SemiBold'),
+    url('./files/darker-grotesque-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/darker-grotesque-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* darker-grotesque-700normal - latin */
+@font-face {
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Darker Grotesque Bold '),
+    local('Darker Grotesque-Bold'),
+    url('./files/darker-grotesque-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/darker-grotesque-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* darker-grotesque-800normal - latin */
+@font-face {
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Darker Grotesque ExtraBold '),
+    local('Darker Grotesque-ExtraBold'),
+    url('./files/darker-grotesque-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/darker-grotesque-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* darker-grotesque-900normal - latin */
+@font-face {
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Darker Grotesque Black '),
+    local('Darker Grotesque-Black'),
+    url('./files/darker-grotesque-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/darker-grotesque-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

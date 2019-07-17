@@ -1,11 +1,11 @@
 
-# typeface-comfortaa
+# typeface-dm-serif-display
 
-The CSS and web font files to easily self-host “Comfortaa”.
+The CSS and web font files to easily self-host “DM Serif Display”.
 
 ## Install
 
-`npm install --save typeface-comfortaa`
+`npm install --save typeface-dm-serif-display`
 
 ## Use
 
@@ -20,14 +20,14 @@ and [Create React App](https://github.com/facebookincubator/create-react-app).
 To use, simply require the package in your project’s entry file e.g.
 
 ```javascript
-// Load Comfortaa typeface
-require('typeface-comfortaa')
+// Load DM Serif Display typeface
+require('typeface-dm-serif-display')
 ```
 
 ## About the Typefaces project.
 
 Our goal is to add all open source fonts to NPM to simplify using great fonts in
-our web projects. We’re currently maintaining 941 typeface packages
+our web projects. We’re currently maintaining 942 typeface packages
 including all typefaces on Google Fonts.
 
 If your favorite typeface isn’t published yet, [let us know](https://github.com/KyleAMathews/typefaces)
