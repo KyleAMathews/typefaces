@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-dm-sans",
-  "version": "0.0.0",
+  "version": "0.0.76",
   "description": "DM Sans typeface",
   "main": "index.css",
   "keywords": [

@@ -1,7 +1,6 @@
-
 {
   "name": "typeface-dm-serif-display",
-  "version": "0.0.0",
+  "version": "0.0.76",
   "description": "DM Serif Display typeface",
   "main": "index.css",
   "keywords": [
