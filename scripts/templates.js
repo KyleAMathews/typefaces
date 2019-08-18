@@ -63,6 +63,8 @@ To use, simply require the package in your project’s entry file e.g.
 \`\`\`javascript
 // Load <%= typefaceName %> typeface
 require('typeface-<%= typefaceId %>')
+OR
+import 'typeface-<%= typefaceId %>';
 \`\`\`
 
 ## About the Typefaces project.
