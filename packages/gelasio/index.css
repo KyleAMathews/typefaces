@@ -1,0 +1,104 @@
+/* gelasio-400normal - latin */
+@font-face {
+  font-family: 'Gelasio';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Gelasio Regular '),
+    local('Gelasio-Regular'),
+    url('./files/gelasio-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gelasio-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gelasio-400italic - latin */
+@font-face {
+  font-family: 'Gelasio';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Gelasio Regular italic'),
+    local('Gelasio-Regularitalic'),
+    url('./files/gelasio-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gelasio-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gelasio-500normal - latin */
+@font-face {
+  font-family: 'Gelasio';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Gelasio Medium '),
+    local('Gelasio-Medium'),
+    url('./files/gelasio-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gelasio-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gelasio-500italic - latin */
+@font-face {
+  font-family: 'Gelasio';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Gelasio Medium italic'),
+    local('Gelasio-Mediumitalic'),
+    url('./files/gelasio-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gelasio-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gelasio-600normal - latin */
+@font-face {
+  font-family: 'Gelasio';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Gelasio SemiBold '),
+    local('Gelasio-SemiBold'),
+    url('./files/gelasio-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gelasio-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gelasio-600italic - latin */
+@font-face {
+  font-family: 'Gelasio';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Gelasio SemiBold italic'),
+    local('Gelasio-SemiBolditalic'),
+    url('./files/gelasio-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gelasio-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gelasio-700normal - latin */
+@font-face {
+  font-family: 'Gelasio';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Gelasio Bold '),
+    local('Gelasio-Bold'),
+    url('./files/gelasio-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gelasio-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gelasio-700italic - latin */
+@font-face {
+  font-family: 'Gelasio';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Gelasio Bold italic'),
+    local('Gelasio-Bolditalic'),
+    url('./files/gelasio-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gelasio-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -37,6 +37,32 @@
     url('./files/yanone-kaffeesatz-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
+/* yanone-kaffeesatz-500normal - latin */
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Yanone Kaffeesatz Medium '),
+    local('Yanone Kaffeesatz-Medium'),
+    url('./files/yanone-kaffeesatz-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yanone-kaffeesatz-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yanone-kaffeesatz-600normal - latin */
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Yanone Kaffeesatz SemiBold '),
+    local('Yanone Kaffeesatz-SemiBold'),
+    url('./files/yanone-kaffeesatz-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yanone-kaffeesatz-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
 /* yanone-kaffeesatz-700normal - latin */
 @font-face {
   font-family: 'Yanone Kaffeesatz';

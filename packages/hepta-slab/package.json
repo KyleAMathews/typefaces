@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-hepta-slab",
+  "version": "0.0.0",
+  "description": "Hepta Slab typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "hepta-slab"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/hepta-slab"
+}

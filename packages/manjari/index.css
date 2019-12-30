@@ -1,0 +1,39 @@
+/* manjari-100normal - latin */
+@font-face {
+  font-family: 'Manjari';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Manjari Thin '),
+    local('Manjari-Thin'),
+    url('./files/manjari-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manjari-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* manjari-400normal - latin */
+@font-face {
+  font-family: 'Manjari';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Manjari Regular '),
+    local('Manjari-Regular'),
+    url('./files/manjari-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manjari-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* manjari-700normal - latin */
+@font-face {
+  font-family: 'Manjari';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Manjari Bold '),
+    local('Manjari-Bold'),
+    url('./files/manjari-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manjari-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

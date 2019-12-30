@@ -1,0 +1,13 @@
+/* lexend-tera-400normal - latin */
+@font-face {
+  font-family: 'Lexend Tera';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Lexend Tera Regular '),
+    local('Lexend Tera-Regular'),
+    url('./files/lexend-tera-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lexend-tera-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

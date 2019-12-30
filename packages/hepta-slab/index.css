@@ -1,0 +1,117 @@
+/* hepta-slab-100normal - latin */
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Hepta Slab Thin '),
+    local('Hepta Slab-Thin'),
+    url('./files/hepta-slab-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hepta-slab-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hepta-slab-200normal - latin */
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Hepta Slab Extra Light '),
+    local('Hepta Slab-Extra Light'),
+    url('./files/hepta-slab-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hepta-slab-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hepta-slab-300normal - latin */
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Hepta Slab Light '),
+    local('Hepta Slab-Light'),
+    url('./files/hepta-slab-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hepta-slab-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hepta-slab-400normal - latin */
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Hepta Slab Regular '),
+    local('Hepta Slab-Regular'),
+    url('./files/hepta-slab-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hepta-slab-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hepta-slab-500normal - latin */
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Hepta Slab Medium '),
+    local('Hepta Slab-Medium'),
+    url('./files/hepta-slab-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hepta-slab-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hepta-slab-600normal - latin */
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Hepta Slab SemiBold '),
+    local('Hepta Slab-SemiBold'),
+    url('./files/hepta-slab-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hepta-slab-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hepta-slab-700normal - latin */
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Hepta Slab Bold '),
+    local('Hepta Slab-Bold'),
+    url('./files/hepta-slab-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hepta-slab-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hepta-slab-800normal - latin */
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Hepta Slab ExtraBold '),
+    local('Hepta Slab-ExtraBold'),
+    url('./files/hepta-slab-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hepta-slab-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hepta-slab-900normal - latin */
+@font-face {
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Hepta Slab Black '),
+    local('Hepta Slab-Black'),
+    url('./files/hepta-slab-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hepta-slab-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

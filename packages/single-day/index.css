@@ -1,0 +1,13 @@
+/* single-day-400normal - latin */
+@font-face {
+  font-family: 'Single Day';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Single Day Regular '),
+    local('Single Day-Regular'),
+    url('./files/single-day-korean-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/single-day-korean-400.woff') format('woff'); /* Modern Browsers */
+}
+

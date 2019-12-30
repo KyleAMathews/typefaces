@@ -37,6 +37,19 @@
     url('./files/quicksand-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
+/* quicksand-600normal - latin */
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Quicksand SemiBold '),
+    local('Quicksand-SemiBold'),
+    url('./files/quicksand-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/quicksand-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
 /* quicksand-700normal - latin */
 @font-face {
   font-family: 'Quicksand';

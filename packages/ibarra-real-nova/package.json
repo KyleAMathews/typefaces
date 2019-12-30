@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-ibarra-real-nova",
+  "version": "0.0.0",
+  "description": "Ibarra Real Nova typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "ibarra-real-nova"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/ibarra-real-nova"
+}

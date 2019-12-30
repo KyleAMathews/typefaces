@@ -11,6 +11,32 @@
     url('./files/enriqueta-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
+/* enriqueta-500normal - latin */
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Enriqueta Medium '),
+    local('Enriqueta-Medium'),
+    url('./files/enriqueta-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/enriqueta-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* enriqueta-600normal - latin */
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Enriqueta SemiBold '),
+    local('Enriqueta-SemiBold'),
+    url('./files/enriqueta-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/enriqueta-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
 /* enriqueta-700normal - latin */
 @font-face {
   font-family: 'Enriqueta';

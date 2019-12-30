@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-kulim-park",
+  "version": "0.0.0",
+  "description": "Kulim Park typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "kulim-park"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/kulim-park"
+}

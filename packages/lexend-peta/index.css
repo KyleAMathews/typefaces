@@ -1,0 +1,13 @@
+/* lexend-peta-400normal - latin */
+@font-face {
+  font-family: 'Lexend Peta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Lexend Peta Regular '),
+    local('Lexend Peta-Regular'),
+    url('./files/lexend-peta-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lexend-peta-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

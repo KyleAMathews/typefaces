@@ -1,0 +1,130 @@
+/* kulim-park-200normal - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Kulim Park Extra Light '),
+    local('Kulim Park-Extra Light'),
+    url('./files/kulim-park-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kulim-park-200italic - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Kulim Park Extra Light italic'),
+    local('Kulim Park-Extra Lightitalic'),
+    url('./files/kulim-park-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kulim-park-300normal - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Kulim Park Light '),
+    local('Kulim Park-Light'),
+    url('./files/kulim-park-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kulim-park-300italic - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Kulim Park Light italic'),
+    local('Kulim Park-Lightitalic'),
+    url('./files/kulim-park-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kulim-park-400normal - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Kulim Park Regular '),
+    local('Kulim Park-Regular'),
+    url('./files/kulim-park-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kulim-park-400italic - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Kulim Park Regular italic'),
+    local('Kulim Park-Regularitalic'),
+    url('./files/kulim-park-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kulim-park-600normal - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Kulim Park SemiBold '),
+    local('Kulim Park-SemiBold'),
+    url('./files/kulim-park-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kulim-park-600italic - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Kulim Park SemiBold italic'),
+    local('Kulim Park-SemiBolditalic'),
+    url('./files/kulim-park-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kulim-park-700normal - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Kulim Park Bold '),
+    local('Kulim Park-Bold'),
+    url('./files/kulim-park-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kulim-park-700italic - latin */
+@font-face {
+  font-family: 'Kulim Park';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Kulim Park Bold italic'),
+    local('Kulim Park-Bolditalic'),
+    url('./files/kulim-park-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kulim-park-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

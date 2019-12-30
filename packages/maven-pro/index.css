@@ -24,6 +24,19 @@
     url('./files/maven-pro-latin-500.woff') format('woff'); /* Modern Browsers */
 }
 
+/* maven-pro-600normal - latin */
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Maven Pro SemiBold '),
+    local('Maven Pro-SemiBold'),
+    url('./files/maven-pro-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maven-pro-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
 /* maven-pro-700normal - latin */
 @font-face {
   font-family: 'Maven Pro';
@@ -35,6 +48,19 @@
     local('Maven Pro-Bold'),
     url('./files/maven-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/maven-pro-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* maven-pro-800normal - latin */
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Maven Pro ExtraBold '),
+    local('Maven Pro-ExtraBold'),
+    url('./files/maven-pro-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maven-pro-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* maven-pro-900normal - latin */

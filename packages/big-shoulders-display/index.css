@@ -1,0 +1,104 @@
+/* big-shoulders-display-100normal - latin */
+@font-face {
+  font-family: 'Big Shoulders Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Big Shoulders Display Thin '),
+    local('Big Shoulders Display-Thin'),
+    url('./files/big-shoulders-display-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/big-shoulders-display-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* big-shoulders-display-300normal - latin */
+@font-face {
+  font-family: 'Big Shoulders Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Big Shoulders Display Light '),
+    local('Big Shoulders Display-Light'),
+    url('./files/big-shoulders-display-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/big-shoulders-display-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* big-shoulders-display-400normal - latin */
+@font-face {
+  font-family: 'Big Shoulders Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Big Shoulders Display Regular '),
+    local('Big Shoulders Display-Regular'),
+    url('./files/big-shoulders-display-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/big-shoulders-display-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* big-shoulders-display-500normal - latin */
+@font-face {
+  font-family: 'Big Shoulders Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Big Shoulders Display Medium '),
+    local('Big Shoulders Display-Medium'),
+    url('./files/big-shoulders-display-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/big-shoulders-display-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* big-shoulders-display-600normal - latin */
+@font-face {
+  font-family: 'Big Shoulders Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Big Shoulders Display SemiBold '),
+    local('Big Shoulders Display-SemiBold'),
+    url('./files/big-shoulders-display-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/big-shoulders-display-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* big-shoulders-display-700normal - latin */
+@font-face {
+  font-family: 'Big Shoulders Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Big Shoulders Display Bold '),
+    local('Big Shoulders Display-Bold'),
+    url('./files/big-shoulders-display-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/big-shoulders-display-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* big-shoulders-display-800normal - latin */
+@font-face {
+  font-family: 'Big Shoulders Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Big Shoulders Display ExtraBold '),
+    local('Big Shoulders Display-ExtraBold'),
+    url('./files/big-shoulders-display-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/big-shoulders-display-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* big-shoulders-display-900normal - latin */
+@font-face {
+  font-family: 'Big Shoulders Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Big Shoulders Display Black '),
+    local('Big Shoulders Display-Black'),
+    url('./files/big-shoulders-display-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/big-shoulders-display-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

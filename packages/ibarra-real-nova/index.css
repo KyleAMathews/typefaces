@@ -1,0 +1,78 @@
+/* ibarra-real-nova-400normal - latin */
+@font-face {
+  font-family: 'Ibarra Real Nova';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ibarra Real Nova Regular '),
+    local('Ibarra Real Nova-Regular'),
+    url('./files/ibarra-real-nova-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibarra-real-nova-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibarra-real-nova-400italic - latin */
+@font-face {
+  font-family: 'Ibarra Real Nova';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ibarra Real Nova Regular italic'),
+    local('Ibarra Real Nova-Regularitalic'),
+    url('./files/ibarra-real-nova-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibarra-real-nova-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibarra-real-nova-600normal - latin */
+@font-face {
+  font-family: 'Ibarra Real Nova';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Ibarra Real Nova SemiBold '),
+    local('Ibarra Real Nova-SemiBold'),
+    url('./files/ibarra-real-nova-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibarra-real-nova-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibarra-real-nova-600italic - latin */
+@font-face {
+  font-family: 'Ibarra Real Nova';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Ibarra Real Nova SemiBold italic'),
+    local('Ibarra Real Nova-SemiBolditalic'),
+    url('./files/ibarra-real-nova-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibarra-real-nova-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibarra-real-nova-700normal - latin */
+@font-face {
+  font-family: 'Ibarra Real Nova';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Ibarra Real Nova Bold '),
+    local('Ibarra Real Nova-Bold'),
+    url('./files/ibarra-real-nova-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibarra-real-nova-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ibarra-real-nova-700italic - latin */
+@font-face {
+  font-family: 'Ibarra Real Nova';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Ibarra Real Nova Bold italic'),
+    local('Ibarra Real Nova-Bolditalic'),
+    url('./files/ibarra-real-nova-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ibarra-real-nova-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

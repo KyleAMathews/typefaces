@@ -1,0 +1,13 @@
+/* zhi-mang-xing-400normal - latin */
+@font-face {
+  font-family: 'Zhi Mang Xing';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Zhi Mang Xing Regular '),
+    local('Zhi Mang Xing-Regular'),
+    url('./files/zhi-mang-xing-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zhi-mang-xing-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

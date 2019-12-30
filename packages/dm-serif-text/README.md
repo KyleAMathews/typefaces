@@ -27,7 +27,7 @@ require('typeface-dm-serif-text')
 ## About the Typefaces project.
 
 Our goal is to add all open source fonts to NPM to simplify using great fonts in
-our web projects. We’re currently maintaining 945 typeface packages
+our web projects. We’re currently maintaining 952 typeface packages
 including all typefaces on Google Fonts.
 
 If your favorite typeface isn’t published yet, [let us know](https://github.com/KyleAMathews/typefaces)

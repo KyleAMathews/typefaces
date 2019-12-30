@@ -1,0 +1,13 @@
+/* girassol-400normal - latin */
+@font-face {
+  font-family: 'Girassol';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Girassol Regular '),
+    local('Girassol-Regular'),
+    url('./files/girassol-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/girassol-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

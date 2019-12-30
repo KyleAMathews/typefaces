@@ -1,0 +1,13 @@
+/* liu-jian-mao-cao-400normal - latin */
+@font-face {
+  font-family: 'Liu Jian Mao Cao';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Liu Jian Mao Cao Regular '),
+    local('Liu Jian Mao Cao-Regular'),
+    url('./files/liu-jian-mao-cao-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/liu-jian-mao-cao-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

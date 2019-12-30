@@ -1,0 +1,13 @@
+/* lexend-exa-400normal - latin */
+@font-face {
+  font-family: 'Lexend Exa';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Lexend Exa Regular '),
+    local('Lexend Exa-Regular'),
+    url('./files/lexend-exa-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lexend-exa-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-red-hat-display",
+  "version": "0.0.0",
+  "description": "Red Hat Display typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "red-hat-display"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/red-hat-display"
+}

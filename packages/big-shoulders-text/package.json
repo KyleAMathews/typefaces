@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-big-shoulders-text",
+  "version": "0.0.0",
+  "description": "Big Shoulders Text typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "big-shoulders-text"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/big-shoulders-text"
+}

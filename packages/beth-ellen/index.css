@@ -1,0 +1,13 @@
+/* beth-ellen-400normal - latin */
+@font-face {
+  font-family: 'Beth Ellen';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Beth Ellen Regular '),
+    local('Beth Ellen-Regular'),
+    url('./files/beth-ellen-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/beth-ellen-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

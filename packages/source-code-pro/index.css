@@ -11,6 +11,19 @@
     url('./files/source-code-pro-latin-200.woff') format('woff'); /* Modern Browsers */
 }
 
+/* source-code-pro-200italic - latin */
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Source Code Pro Extra Light italic'),
+    local('Source Code Pro-Extra Lightitalic'),
+    url('./files/source-code-pro-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-code-pro-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* source-code-pro-300normal - latin */
 @font-face {
   font-family: 'Source Code Pro';
@@ -22,6 +35,19 @@
     local('Source Code Pro-Light'),
     url('./files/source-code-pro-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-code-pro-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-code-pro-300italic - latin */
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Source Code Pro Light italic'),
+    local('Source Code Pro-Lightitalic'),
+    url('./files/source-code-pro-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-code-pro-latin-300italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* source-code-pro-400normal - latin */
@@ -37,6 +63,19 @@
     url('./files/source-code-pro-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
+/* source-code-pro-400italic - latin */
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Source Code Pro Regular italic'),
+    local('Source Code Pro-Regularitalic'),
+    url('./files/source-code-pro-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-code-pro-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* source-code-pro-500normal - latin */
 @font-face {
   font-family: 'Source Code Pro';
@@ -48,6 +87,19 @@
     local('Source Code Pro-Medium'),
     url('./files/source-code-pro-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-code-pro-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-code-pro-500italic - latin */
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Source Code Pro Medium italic'),
+    local('Source Code Pro-Mediumitalic'),
+    url('./files/source-code-pro-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-code-pro-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* source-code-pro-600normal - latin */
@@ -63,6 +115,19 @@
     url('./files/source-code-pro-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
+/* source-code-pro-600italic - latin */
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Source Code Pro SemiBold italic'),
+    local('Source Code Pro-SemiBolditalic'),
+    url('./files/source-code-pro-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-code-pro-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* source-code-pro-700normal - latin */
 @font-face {
   font-family: 'Source Code Pro';
@@ -76,6 +141,19 @@
     url('./files/source-code-pro-latin-700.woff') format('woff'); /* Modern Browsers */
 }
 
+/* source-code-pro-700italic - latin */
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Source Code Pro Bold italic'),
+    local('Source Code Pro-Bolditalic'),
+    url('./files/source-code-pro-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-code-pro-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* source-code-pro-900normal - latin */
 @font-face {
   font-family: 'Source Code Pro';
@@ -87,5 +165,18 @@
     local('Source Code Pro-Black'),
     url('./files/source-code-pro-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-code-pro-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-code-pro-900italic - latin */
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Source Code Pro Black italic'),
+    local('Source Code Pro-Blackitalic'),
+    url('./files/source-code-pro-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-code-pro-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

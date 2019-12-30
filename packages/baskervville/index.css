@@ -1,0 +1,26 @@
+/* baskervville-400normal - latin */
+@font-face {
+  font-family: 'Baskervville';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Baskervville Regular '),
+    local('Baskervville-Regular'),
+    url('./files/baskervville-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baskervville-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* baskervville-400italic - latin */
+@font-face {
+  font-family: 'Baskervville';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Baskervville Regular italic'),
+    local('Baskervville-Regularitalic'),
+    url('./files/baskervville-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baskervville-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+

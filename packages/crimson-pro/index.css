@@ -1,0 +1,208 @@
+/* crimson-pro-200normal - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Crimson Pro Extra Light '),
+    local('Crimson Pro-Extra Light'),
+    url('./files/crimson-pro-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-200italic - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Crimson Pro Extra Light italic'),
+    local('Crimson Pro-Extra Lightitalic'),
+    url('./files/crimson-pro-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-300normal - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Crimson Pro Light '),
+    local('Crimson Pro-Light'),
+    url('./files/crimson-pro-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-300italic - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Crimson Pro Light italic'),
+    local('Crimson Pro-Lightitalic'),
+    url('./files/crimson-pro-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-400normal - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Crimson Pro Regular '),
+    local('Crimson Pro-Regular'),
+    url('./files/crimson-pro-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-400italic - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Crimson Pro Regular italic'),
+    local('Crimson Pro-Regularitalic'),
+    url('./files/crimson-pro-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-500normal - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Crimson Pro Medium '),
+    local('Crimson Pro-Medium'),
+    url('./files/crimson-pro-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-500italic - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Crimson Pro Medium italic'),
+    local('Crimson Pro-Mediumitalic'),
+    url('./files/crimson-pro-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-600normal - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Crimson Pro SemiBold '),
+    local('Crimson Pro-SemiBold'),
+    url('./files/crimson-pro-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-600italic - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Crimson Pro SemiBold italic'),
+    local('Crimson Pro-SemiBolditalic'),
+    url('./files/crimson-pro-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-700normal - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Crimson Pro Bold '),
+    local('Crimson Pro-Bold'),
+    url('./files/crimson-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-700italic - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Crimson Pro Bold italic'),
+    local('Crimson Pro-Bolditalic'),
+    url('./files/crimson-pro-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-800normal - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Crimson Pro ExtraBold '),
+    local('Crimson Pro-ExtraBold'),
+    url('./files/crimson-pro-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-800italic - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Crimson Pro ExtraBold italic'),
+    local('Crimson Pro-ExtraBolditalic'),
+    url('./files/crimson-pro-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-900normal - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Crimson Pro Black '),
+    local('Crimson Pro-Black'),
+    url('./files/crimson-pro-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* crimson-pro-900italic - latin */
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Crimson Pro Black italic'),
+    local('Crimson Pro-Blackitalic'),
+    url('./files/crimson-pro-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/crimson-pro-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

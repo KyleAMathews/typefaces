@@ -1,0 +1,52 @@
+/* almarai-300normal - latin */
+@font-face {
+  font-family: 'Almarai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Almarai Light '),
+    local('Almarai-Light'),
+    url('./files/almarai-arabic-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/almarai-arabic-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* almarai-400normal - latin */
+@font-face {
+  font-family: 'Almarai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Almarai Regular '),
+    local('Almarai-Regular'),
+    url('./files/almarai-arabic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/almarai-arabic-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* almarai-700normal - latin */
+@font-face {
+  font-family: 'Almarai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Almarai Bold '),
+    local('Almarai-Bold'),
+    url('./files/almarai-arabic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/almarai-arabic-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* almarai-800normal - latin */
+@font-face {
+  font-family: 'Almarai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Almarai ExtraBold '),
+    local('Almarai-ExtraBold'),
+    url('./files/almarai-arabic-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/almarai-arabic-800.woff') format('woff'); /* Modern Browsers */
+}
+

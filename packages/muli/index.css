@@ -76,6 +76,32 @@
     url('./files/muli-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
+/* muli-500normal - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Muli Medium '),
+    local('Muli-Medium'),
+    url('./files/muli-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/muli-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* muli-500italic - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Muli Medium italic'),
+    local('Muli-Mediumitalic'),
+    url('./files/muli-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/muli-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* muli-600normal - latin */
 @font-face {
   font-family: 'Muli';

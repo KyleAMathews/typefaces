@@ -1,0 +1,65 @@
+/* fira-code-300normal - latin */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Fira Code Light '),
+    local('Fira Code-Light'),
+    url('./files/fira-code-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-code-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-code-400normal - latin */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Fira Code Regular '),
+    local('Fira Code-Regular'),
+    url('./files/fira-code-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-code-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-code-500normal - latin */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Fira Code Medium '),
+    local('Fira Code-Medium'),
+    url('./files/fira-code-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-code-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-code-600normal - latin */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Fira Code SemiBold '),
+    local('Fira Code-SemiBold'),
+    url('./files/fira-code-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-code-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-code-700normal - latin */
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Fira Code Bold '),
+    local('Fira Code-Bold'),
+    url('./files/fira-code-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-code-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

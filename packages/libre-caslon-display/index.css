@@ -1,0 +1,13 @@
+/* libre-caslon-display-400normal - latin */
+@font-face {
+  font-family: 'Libre Caslon Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Libre Caslon Display Regular '),
+    local('Libre Caslon Display-Regular'),
+    url('./files/libre-caslon-display-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/libre-caslon-display-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

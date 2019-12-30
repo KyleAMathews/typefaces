@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-gupter",
+  "version": "0.0.0",
+  "description": "Gupter typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "gupter"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/gupter"
+}

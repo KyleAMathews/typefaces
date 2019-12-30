@@ -1,0 +1,13 @@
+/* long-cang-400normal - latin */
+@font-face {
+  font-family: 'Long Cang';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Long Cang Regular '),
+    local('Long Cang-Regular'),
+    url('./files/long-cang-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/long-cang-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

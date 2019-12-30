@@ -24,6 +24,32 @@
     url('./files/kreon-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
+/* kreon-500normal - latin */
+@font-face {
+  font-family: 'Kreon';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Kreon Medium '),
+    local('Kreon-Medium'),
+    url('./files/kreon-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kreon-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kreon-600normal - latin */
+@font-face {
+  font-family: 'Kreon';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Kreon SemiBold '),
+    local('Kreon-SemiBold'),
+    url('./files/kreon-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kreon-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
 /* kreon-700normal - latin */
 @font-face {
   font-family: 'Kreon';

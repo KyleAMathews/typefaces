@@ -1,0 +1,39 @@
+/* gupter-400normal - latin */
+@font-face {
+  font-family: 'Gupter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Gupter Regular '),
+    local('Gupter-Regular'),
+    url('./files/gupter-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gupter-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gupter-500normal - latin */
+@font-face {
+  font-family: 'Gupter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Gupter Medium '),
+    local('Gupter-Medium'),
+    url('./files/gupter-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gupter-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* gupter-700normal - latin */
+@font-face {
+  font-family: 'Gupter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Gupter Bold '),
+    local('Gupter-Bold'),
+    url('./files/gupter-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gupter-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

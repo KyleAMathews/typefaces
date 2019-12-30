@@ -1,0 +1,234 @@
+/* tomorrow-100normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Tomorrow Thin '),
+    local('Tomorrow-Thin'),
+    url('./files/tomorrow-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-100italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Tomorrow Thin italic'),
+    local('Tomorrow-Thinitalic'),
+    url('./files/tomorrow-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-200normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Tomorrow Extra Light '),
+    local('Tomorrow-Extra Light'),
+    url('./files/tomorrow-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-200italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Tomorrow Extra Light italic'),
+    local('Tomorrow-Extra Lightitalic'),
+    url('./files/tomorrow-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-300normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Tomorrow Light '),
+    local('Tomorrow-Light'),
+    url('./files/tomorrow-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-300italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Tomorrow Light italic'),
+    local('Tomorrow-Lightitalic'),
+    url('./files/tomorrow-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-400normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Tomorrow Regular '),
+    local('Tomorrow-Regular'),
+    url('./files/tomorrow-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-400italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Tomorrow Regular italic'),
+    local('Tomorrow-Regularitalic'),
+    url('./files/tomorrow-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-500normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Tomorrow Medium '),
+    local('Tomorrow-Medium'),
+    url('./files/tomorrow-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-500italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Tomorrow Medium italic'),
+    local('Tomorrow-Mediumitalic'),
+    url('./files/tomorrow-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-600normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Tomorrow SemiBold '),
+    local('Tomorrow-SemiBold'),
+    url('./files/tomorrow-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-600italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Tomorrow SemiBold italic'),
+    local('Tomorrow-SemiBolditalic'),
+    url('./files/tomorrow-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-700normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Tomorrow Bold '),
+    local('Tomorrow-Bold'),
+    url('./files/tomorrow-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-700italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Tomorrow Bold italic'),
+    local('Tomorrow-Bolditalic'),
+    url('./files/tomorrow-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-800normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Tomorrow ExtraBold '),
+    local('Tomorrow-ExtraBold'),
+    url('./files/tomorrow-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-800italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Tomorrow ExtraBold italic'),
+    local('Tomorrow-ExtraBolditalic'),
+    url('./files/tomorrow-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-900normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Tomorrow Black '),
+    local('Tomorrow-Black'),
+    url('./files/tomorrow-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tomorrow-900italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Tomorrow Black italic'),
+    local('Tomorrow-Blackitalic'),
+    url('./files/tomorrow-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tomorrow-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,13 @@
+/* alata-400normal - latin */
+@font-face {
+  font-family: 'Alata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Alata Regular '),
+    local('Alata-Regular'),
+    url('./files/alata-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alata-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

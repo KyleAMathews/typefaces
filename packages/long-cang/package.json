@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-long-cang",
+  "version": "0.0.0",
+  "description": "Long Cang typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "long-cang"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/long-cang"
+}

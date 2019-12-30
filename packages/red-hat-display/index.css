@@ -1,0 +1,104 @@
+/* red-hat-display-400normal - latin */
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Red Hat Display Regular '),
+    local('Red Hat Display-Regular'),
+    url('./files/red-hat-display-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-hat-display-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* red-hat-display-400italic - latin */
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Red Hat Display Regular italic'),
+    local('Red Hat Display-Regularitalic'),
+    url('./files/red-hat-display-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-hat-display-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* red-hat-display-500normal - latin */
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Red Hat Display Medium '),
+    local('Red Hat Display-Medium'),
+    url('./files/red-hat-display-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-hat-display-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* red-hat-display-500italic - latin */
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Red Hat Display Medium italic'),
+    local('Red Hat Display-Mediumitalic'),
+    url('./files/red-hat-display-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-hat-display-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* red-hat-display-700normal - latin */
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Red Hat Display Bold '),
+    local('Red Hat Display-Bold'),
+    url('./files/red-hat-display-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-hat-display-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* red-hat-display-700italic - latin */
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Red Hat Display Bold italic'),
+    local('Red Hat Display-Bolditalic'),
+    url('./files/red-hat-display-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-hat-display-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* red-hat-display-900normal - latin */
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Red Hat Display Black '),
+    local('Red Hat Display-Black'),
+    url('./files/red-hat-display-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-hat-display-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* red-hat-display-900italic - latin */
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Red Hat Display Black italic'),
+    local('Red Hat Display-Blackitalic'),
+    url('./files/red-hat-display-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-hat-display-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

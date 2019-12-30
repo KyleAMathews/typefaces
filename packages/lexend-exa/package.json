@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-lexend-exa",
+  "version": "0.0.0",
+  "description": "Lexend Exa typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "lexend-exa"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/lexend-exa"
+}

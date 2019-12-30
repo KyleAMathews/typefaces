@@ -1,0 +1,13 @@
+/* bebas-neue-400normal - latin */
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Bebas Neue Regular '),
+    local('Bebas Neue-Regular'),
+    url('./files/bebas-neue-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bebas-neue-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

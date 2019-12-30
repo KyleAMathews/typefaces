@@ -1,0 +1,182 @@
+/* be-vietnam-100normal - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Be Vietnam Thin '),
+    local('Be Vietnam-Thin'),
+    url('./files/be-vietnam-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-100italic - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Be Vietnam Thin italic'),
+    local('Be Vietnam-Thinitalic'),
+    url('./files/be-vietnam-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-300normal - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Be Vietnam Light '),
+    local('Be Vietnam-Light'),
+    url('./files/be-vietnam-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-300italic - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Be Vietnam Light italic'),
+    local('Be Vietnam-Lightitalic'),
+    url('./files/be-vietnam-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-400normal - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Be Vietnam Regular '),
+    local('Be Vietnam-Regular'),
+    url('./files/be-vietnam-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-400italic - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Be Vietnam Regular italic'),
+    local('Be Vietnam-Regularitalic'),
+    url('./files/be-vietnam-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-500normal - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Be Vietnam Medium '),
+    local('Be Vietnam-Medium'),
+    url('./files/be-vietnam-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-500italic - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Be Vietnam Medium italic'),
+    local('Be Vietnam-Mediumitalic'),
+    url('./files/be-vietnam-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-600normal - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Be Vietnam SemiBold '),
+    local('Be Vietnam-SemiBold'),
+    url('./files/be-vietnam-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-600italic - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Be Vietnam SemiBold italic'),
+    local('Be Vietnam-SemiBolditalic'),
+    url('./files/be-vietnam-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-700normal - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Be Vietnam Bold '),
+    local('Be Vietnam-Bold'),
+    url('./files/be-vietnam-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-700italic - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Be Vietnam Bold italic'),
+    local('Be Vietnam-Bolditalic'),
+    url('./files/be-vietnam-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-800normal - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Be Vietnam ExtraBold '),
+    local('Be Vietnam-ExtraBold'),
+    url('./files/be-vietnam-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* be-vietnam-800italic - latin */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Be Vietnam ExtraBold italic'),
+    local('Be Vietnam-ExtraBolditalic'),
+    url('./files/be-vietnam-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/be-vietnam-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+

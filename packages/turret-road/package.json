@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-turret-road",
+  "version": "0.0.0",
+  "description": "Turret Road typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "turret-road"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/turret-road"
+}

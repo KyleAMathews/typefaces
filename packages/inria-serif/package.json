@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-inria-serif",
+  "version": "0.0.0",
+  "description": "Inria Serif typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "inria-serif"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/inria-serif"
+}

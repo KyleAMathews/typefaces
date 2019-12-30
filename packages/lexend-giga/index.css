@@ -1,0 +1,13 @@
+/* lexend-giga-400normal - latin */
+@font-face {
+  font-family: 'Lexend Giga';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Lexend Giga Regular '),
+    local('Lexend Giga-Regular'),
+    url('./files/lexend-giga-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lexend-giga-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

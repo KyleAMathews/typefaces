@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-libre-caslon-display",
+  "version": "0.0.0",
+  "description": "Libre Caslon Display typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "libre-caslon-display"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/libre-caslon-display"
+}

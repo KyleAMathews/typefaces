@@ -1,0 +1,13 @@
+/* ma-shan-zheng-400normal - latin */
+@font-face {
+  font-family: 'Ma Shan Zheng';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ma Shan Zheng Regular '),
+    local('Ma Shan Zheng-Regular'),
+    url('./files/ma-shan-zheng-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ma-shan-zheng-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

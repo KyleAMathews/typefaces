@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-liu-jian-mao-cao",
+  "version": "0.0.0",
+  "description": "Liu Jian Mao Cao typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "liu-jian-mao-cao"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/liu-jian-mao-cao"
+}

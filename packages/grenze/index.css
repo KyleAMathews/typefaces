@@ -1,0 +1,234 @@
+/* grenze-100normal - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Grenze Thin '),
+    local('Grenze-Thin'),
+    url('./files/grenze-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-100italic - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Grenze Thin italic'),
+    local('Grenze-Thinitalic'),
+    url('./files/grenze-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-200normal - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Grenze Extra Light '),
+    local('Grenze-Extra Light'),
+    url('./files/grenze-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-200italic - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Grenze Extra Light italic'),
+    local('Grenze-Extra Lightitalic'),
+    url('./files/grenze-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-300normal - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Grenze Light '),
+    local('Grenze-Light'),
+    url('./files/grenze-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-300italic - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Grenze Light italic'),
+    local('Grenze-Lightitalic'),
+    url('./files/grenze-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-400normal - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Grenze Regular '),
+    local('Grenze-Regular'),
+    url('./files/grenze-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-400italic - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Grenze Regular italic'),
+    local('Grenze-Regularitalic'),
+    url('./files/grenze-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-500normal - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Grenze Medium '),
+    local('Grenze-Medium'),
+    url('./files/grenze-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-500italic - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Grenze Medium italic'),
+    local('Grenze-Mediumitalic'),
+    url('./files/grenze-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-600normal - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Grenze SemiBold '),
+    local('Grenze-SemiBold'),
+    url('./files/grenze-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-600italic - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Grenze SemiBold italic'),
+    local('Grenze-SemiBolditalic'),
+    url('./files/grenze-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-700normal - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Grenze Bold '),
+    local('Grenze-Bold'),
+    url('./files/grenze-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-700italic - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Grenze Bold italic'),
+    local('Grenze-Bolditalic'),
+    url('./files/grenze-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-800normal - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Grenze ExtraBold '),
+    local('Grenze-ExtraBold'),
+    url('./files/grenze-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-800italic - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Grenze ExtraBold italic'),
+    local('Grenze-ExtraBolditalic'),
+    url('./files/grenze-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-900normal - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Grenze Black '),
+    local('Grenze-Black'),
+    url('./files/grenze-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-900italic - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Grenze Black italic'),
+    local('Grenze-Blackitalic'),
+    url('./files/grenze-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

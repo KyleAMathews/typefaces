@@ -1,0 +1,65 @@
+/* solway-300normal - latin */
+@font-face {
+  font-family: 'Solway';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Solway Light '),
+    local('Solway-Light'),
+    url('./files/solway-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/solway-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* solway-400normal - latin */
+@font-face {
+  font-family: 'Solway';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Solway Regular '),
+    local('Solway-Regular'),
+    url('./files/solway-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/solway-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* solway-500normal - latin */
+@font-face {
+  font-family: 'Solway';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Solway Medium '),
+    local('Solway-Medium'),
+    url('./files/solway-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/solway-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* solway-700normal - latin */
+@font-face {
+  font-family: 'Solway';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Solway Bold '),
+    local('Solway-Bold'),
+    url('./files/solway-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/solway-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* solway-800normal - latin */
+@font-face {
+  font-family: 'Solway';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Solway ExtraBold '),
+    local('Solway-ExtraBold'),
+    url('./files/solway-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/solway-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-beth-ellen",
+  "version": "0.0.0",
+  "description": "Beth Ellen typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "beth-ellen"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/beth-ellen"
+}
