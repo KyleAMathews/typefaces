@@ -53,7 +53,7 @@ And that’s it! You’re now self-hosting Open Sans!
 
 It should take < 5 minutes to swap out Google Fonts.
 
-Typeface assumes you’re using webpack with loaders setup for loading css
+Typeface assumes you’re using webpack with loaders setup for loading CSS
 and font files (you can use Typeface with other setups but webpack makes
 things really really simple). Assuming your webpack configuration is
 setup correctly you then just need to require the typeface in the entry
@@ -66,8 +66,8 @@ setup to work with Typefaces. Gatsby by default also embeds your CSS in
 your `<head>` for even faster loading.
 
 If you’re not using webpack or equivalent tool that allows you to
-require css, then you’ll need to manually integrate the index.css and
-font files from the package into your build system.
+require CSS or SCSS, then you’ll need to manually integrate the `index.css` or
+`typeface.scss` and font files from the package into your build system.
 
 ### Alternatives without Webpack
 
