@@ -1,0 +1,52 @@
+/* caladea-400normal - latin */
+@font-face {
+  font-family: 'Caladea';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Caladea Regular '),
+    local('Caladea-Regular'),
+    url('./files/caladea-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/caladea-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* caladea-400italic - latin */
+@font-face {
+  font-family: 'Caladea';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Caladea Regular italic'),
+    local('Caladea-Regularitalic'),
+    url('./files/caladea-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/caladea-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* caladea-700normal - latin */
+@font-face {
+  font-family: 'Caladea';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Caladea Bold '),
+    local('Caladea-Bold'),
+    url('./files/caladea-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/caladea-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* caladea-700italic - latin */
+@font-face {
+  font-family: 'Caladea';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Caladea Bold italic'),
+    local('Caladea-Bolditalic'),
+    url('./files/caladea-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/caladea-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

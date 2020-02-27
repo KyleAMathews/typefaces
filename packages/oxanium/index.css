@@ -1,0 +1,91 @@
+/* oxanium-200normal - latin */
+@font-face {
+  font-family: 'Oxanium';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Oxanium Extra Light '),
+    local('Oxanium-Extra Light'),
+    url('./files/oxanium-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oxanium-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oxanium-300normal - latin */
+@font-face {
+  font-family: 'Oxanium';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Oxanium Light '),
+    local('Oxanium-Light'),
+    url('./files/oxanium-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oxanium-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oxanium-400normal - latin */
+@font-face {
+  font-family: 'Oxanium';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Oxanium Regular '),
+    local('Oxanium-Regular'),
+    url('./files/oxanium-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oxanium-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oxanium-500normal - latin */
+@font-face {
+  font-family: 'Oxanium';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Oxanium Medium '),
+    local('Oxanium-Medium'),
+    url('./files/oxanium-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oxanium-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oxanium-600normal - latin */
+@font-face {
+  font-family: 'Oxanium';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Oxanium SemiBold '),
+    local('Oxanium-SemiBold'),
+    url('./files/oxanium-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oxanium-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oxanium-700normal - latin */
+@font-face {
+  font-family: 'Oxanium';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Oxanium Bold '),
+    local('Oxanium-Bold'),
+    url('./files/oxanium-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oxanium-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oxanium-800normal - latin */
+@font-face {
+  font-family: 'Oxanium';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Oxanium ExtraBold '),
+    local('Oxanium-ExtraBold'),
+    url('./files/oxanium-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oxanium-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

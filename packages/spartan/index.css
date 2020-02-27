@@ -1,0 +1,117 @@
+/* spartan-100normal - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Spartan Thin '),
+    local('Spartan-Thin'),
+    url('./files/spartan-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spartan-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spartan-200normal - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Spartan Extra Light '),
+    local('Spartan-Extra Light'),
+    url('./files/spartan-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spartan-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spartan-300normal - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Spartan Light '),
+    local('Spartan-Light'),
+    url('./files/spartan-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spartan-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spartan-400normal - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Spartan Regular '),
+    local('Spartan-Regular'),
+    url('./files/spartan-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spartan-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spartan-500normal - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Spartan Medium '),
+    local('Spartan-Medium'),
+    url('./files/spartan-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spartan-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spartan-600normal - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Spartan SemiBold '),
+    local('Spartan-SemiBold'),
+    url('./files/spartan-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spartan-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spartan-700normal - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Spartan Bold '),
+    local('Spartan-Bold'),
+    url('./files/spartan-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spartan-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spartan-800normal - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Spartan ExtraBold '),
+    local('Spartan-ExtraBold'),
+    url('./files/spartan-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spartan-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* spartan-900normal - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Spartan Black '),
+    local('Spartan-Black'),
+    url('./files/spartan-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/spartan-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

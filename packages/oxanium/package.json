@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-oxanium",
+  "version": "0.0.0",
+  "description": "Oxanium typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "oxanium"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/oxanium"
+}

@@ -11,6 +11,32 @@
     url('./files/ruda-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
+/* ruda-500normal - latin */
+@font-face {
+  font-family: 'Ruda';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Ruda Medium '),
+    local('Ruda-Medium'),
+    url('./files/ruda-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ruda-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ruda-600normal - latin */
+@font-face {
+  font-family: 'Ruda';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Ruda SemiBold '),
+    local('Ruda-SemiBold'),
+    url('./files/ruda-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ruda-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
 /* ruda-700normal - latin */
 @font-face {
   font-family: 'Ruda';
@@ -22,6 +48,19 @@
     local('Ruda-Bold'),
     url('./files/ruda-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/ruda-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ruda-800normal - latin */
+@font-face {
+  font-family: 'Ruda';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Ruda ExtraBold '),
+    local('Ruda-ExtraBold'),
+    url('./files/ruda-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ruda-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* ruda-900normal - latin */
