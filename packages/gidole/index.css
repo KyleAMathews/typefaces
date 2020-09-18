@@ -1,7 +1,7 @@
 /* gidole-400 - latin */
 @font-face {
   font-family: 'Gidole';
-  font-style: ;
+  font-style: normal;
   font-weight: 400;
   src: url('./files/gidole-400.eot'); /* IE9 Compat Modes */
   src: local('Gidole Regular normal'), local('Gidole-Regularnormal'),
