@@ -1,3 +1,13 @@
+>The Typefaces project is now deprecated. @DecliningLotus created
+[FontSource](https://github.com/fontsource/fontsource) which provides the
+same functionality as Typefaces but with automated releases & richer
+support for importing weight, style, or language subsets.
+>
+>To start using Fontsource, replace in your package.json and code files any instances of
+"typeface-text-me-one" with "fontsource-text-me-one"
+>
+>Typeface packages will continue working indefinitely so no immediate
+>changes are necessary.
 
 # typeface-text-me-one
 
@@ -27,7 +37,7 @@ require('typeface-text-me-one')
 ## About the Typefaces project.
 
 Our goal is to add all open source fonts to NPM to simplify using great fonts in
-our web projects. We’re currently maintaining 928 typeface packages
+our web projects. We’re currently maintaining 1040 typeface packages
 including all typefaces on Google Fonts.
 
 If your favorite typeface isn’t published yet, [let us know](https://github.com/KyleAMathews/typefaces)

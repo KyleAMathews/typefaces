@@ -1,4 +1,4 @@
-const _ = require(`lodash`)
+const _ = require(`lodash`);
 
 exports.packageJson = _.template(
   `
@@ -19,7 +19,7 @@ exports.packageJson = _.template(
   "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/<%= typefaceId %>"
 }
 `
-)
+);
 
 exports.fontFace = _.template(
   `/* <%= typefaceId %>-<%= weight %><%= styleWithNormal %> - latin */
@@ -36,10 +36,20 @@ exports.fontFace = _.template(
 }
 
 `
-)
+);
 
 exports.readme = _.template(
-  `
+  `>The Typefaces project is now deprecated. @DecliningLotus created
+[FontSource](https://github.com/fontsource/fontsource) which provides the
+same functionality as Typefaces but with automated releases & richer
+support for importing weight, style, or language subsets.
+>
+>To start using Fontsource, replace in your package.json and code files any instances of
+"typeface-<%= typefaceId %>" with "fontsource-<%= typefaceId %>"
+>
+>Typeface packages will continue working indefinitely so no immediate
+>changes are necessary.
+
 # typeface-<%= typefaceId %>
 
 The CSS and web font files to easily self-host “<%= typefaceName %>”.
@@ -74,4 +84,4 @@ including all typefaces on Google Fonts.
 If your favorite typeface isn’t published yet, [let us know](https://github.com/KyleAMathews/typefaces)
 and we’ll add it!
 `
-)
+);
