@@ -1,0 +1,234 @@
+/* piazzolla-100normal - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Piazzolla Thin '),
+    local('Piazzolla-Thin'),
+    url('./files/piazzolla-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-100italic - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Piazzolla Thin italic'),
+    local('Piazzolla-Thinitalic'),
+    url('./files/piazzolla-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-200normal - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Piazzolla Extra Light '),
+    local('Piazzolla-Extra Light'),
+    url('./files/piazzolla-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-200italic - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Piazzolla Extra Light italic'),
+    local('Piazzolla-Extra Lightitalic'),
+    url('./files/piazzolla-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-300normal - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Piazzolla Light '),
+    local('Piazzolla-Light'),
+    url('./files/piazzolla-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-300italic - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Piazzolla Light italic'),
+    local('Piazzolla-Lightitalic'),
+    url('./files/piazzolla-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-400normal - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Piazzolla Regular '),
+    local('Piazzolla-Regular'),
+    url('./files/piazzolla-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-400italic - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Piazzolla Regular italic'),
+    local('Piazzolla-Regularitalic'),
+    url('./files/piazzolla-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-500normal - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Piazzolla Medium '),
+    local('Piazzolla-Medium'),
+    url('./files/piazzolla-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-500italic - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Piazzolla Medium italic'),
+    local('Piazzolla-Mediumitalic'),
+    url('./files/piazzolla-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-600normal - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Piazzolla SemiBold '),
+    local('Piazzolla-SemiBold'),
+    url('./files/piazzolla-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-600italic - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Piazzolla SemiBold italic'),
+    local('Piazzolla-SemiBolditalic'),
+    url('./files/piazzolla-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-700normal - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Piazzolla Bold '),
+    local('Piazzolla-Bold'),
+    url('./files/piazzolla-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-700italic - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Piazzolla Bold italic'),
+    local('Piazzolla-Bolditalic'),
+    url('./files/piazzolla-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-800normal - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Piazzolla ExtraBold '),
+    local('Piazzolla-ExtraBold'),
+    url('./files/piazzolla-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-800italic - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Piazzolla ExtraBold italic'),
+    local('Piazzolla-ExtraBolditalic'),
+    url('./files/piazzolla-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-900normal - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Piazzolla Black '),
+    local('Piazzolla-Black'),
+    url('./files/piazzolla-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* piazzolla-900italic - latin */
+@font-face {
+  font-family: 'Piazzolla';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Piazzolla Black italic'),
+    local('Piazzolla-Blackitalic'),
+    url('./files/piazzolla-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/piazzolla-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

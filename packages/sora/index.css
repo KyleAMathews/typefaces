@@ -1,0 +1,104 @@
+/* sora-100normal - latin */
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Sora Thin '),
+    local('Sora-Thin'),
+    url('./files/sora-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sora-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sora-200normal - latin */
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Sora Extra Light '),
+    local('Sora-Extra Light'),
+    url('./files/sora-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sora-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sora-300normal - latin */
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Sora Light '),
+    local('Sora-Light'),
+    url('./files/sora-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sora-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sora-400normal - latin */
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sora Regular '),
+    local('Sora-Regular'),
+    url('./files/sora-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sora-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sora-500normal - latin */
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Sora Medium '),
+    local('Sora-Medium'),
+    url('./files/sora-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sora-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sora-600normal - latin */
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Sora SemiBold '),
+    local('Sora-SemiBold'),
+    url('./files/sora-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sora-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sora-700normal - latin */
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Sora Bold '),
+    local('Sora-Bold'),
+    url('./files/sora-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sora-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sora-800normal - latin */
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Sora ExtraBold '),
+    local('Sora-ExtraBold'),
+    url('./files/sora-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sora-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

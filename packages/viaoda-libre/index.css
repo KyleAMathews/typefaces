@@ -1,0 +1,13 @@
+/* viaoda-libre-400normal - latin */
+@font-face {
+  font-family: 'Viaoda Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Viaoda Libre Regular '),
+    local('Viaoda Libre-Regular'),
+    url('./files/viaoda-libre-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/viaoda-libre-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

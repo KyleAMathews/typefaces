@@ -1,0 +1,234 @@
+/* epilogue-100normal - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Epilogue Thin '),
+    local('Epilogue-Thin'),
+    url('./files/epilogue-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-100italic - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Epilogue Thin italic'),
+    local('Epilogue-Thinitalic'),
+    url('./files/epilogue-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-200normal - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Epilogue Extra Light '),
+    local('Epilogue-Extra Light'),
+    url('./files/epilogue-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-200italic - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Epilogue Extra Light italic'),
+    local('Epilogue-Extra Lightitalic'),
+    url('./files/epilogue-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-300normal - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Epilogue Light '),
+    local('Epilogue-Light'),
+    url('./files/epilogue-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-300italic - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Epilogue Light italic'),
+    local('Epilogue-Lightitalic'),
+    url('./files/epilogue-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-400normal - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Epilogue Regular '),
+    local('Epilogue-Regular'),
+    url('./files/epilogue-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-400italic - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Epilogue Regular italic'),
+    local('Epilogue-Regularitalic'),
+    url('./files/epilogue-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-500normal - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Epilogue Medium '),
+    local('Epilogue-Medium'),
+    url('./files/epilogue-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-500italic - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Epilogue Medium italic'),
+    local('Epilogue-Mediumitalic'),
+    url('./files/epilogue-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-600normal - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Epilogue SemiBold '),
+    local('Epilogue-SemiBold'),
+    url('./files/epilogue-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-600italic - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Epilogue SemiBold italic'),
+    local('Epilogue-SemiBolditalic'),
+    url('./files/epilogue-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-700normal - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Epilogue Bold '),
+    local('Epilogue-Bold'),
+    url('./files/epilogue-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-700italic - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Epilogue Bold italic'),
+    local('Epilogue-Bolditalic'),
+    url('./files/epilogue-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-800normal - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Epilogue ExtraBold '),
+    local('Epilogue-ExtraBold'),
+    url('./files/epilogue-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-800italic - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Epilogue ExtraBold italic'),
+    local('Epilogue-ExtraBolditalic'),
+    url('./files/epilogue-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-900normal - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Epilogue Black '),
+    local('Epilogue-Black'),
+    url('./files/epilogue-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* epilogue-900italic - latin */
+@font-face {
+  font-family: 'Epilogue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Epilogue Black italic'),
+    local('Epilogue-Blackitalic'),
+    url('./files/epilogue-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/epilogue-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

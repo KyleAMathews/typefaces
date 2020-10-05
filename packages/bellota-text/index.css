@@ -1,0 +1,78 @@
+/* bellota-text-300normal - latin */
+@font-face {
+  font-family: 'Bellota Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Bellota Text Light '),
+    local('Bellota Text-Light'),
+    url('./files/bellota-text-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bellota-text-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bellota-text-300italic - latin */
+@font-face {
+  font-family: 'Bellota Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Bellota Text Light italic'),
+    local('Bellota Text-Lightitalic'),
+    url('./files/bellota-text-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bellota-text-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bellota-text-400normal - latin */
+@font-face {
+  font-family: 'Bellota Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Bellota Text Regular '),
+    local('Bellota Text-Regular'),
+    url('./files/bellota-text-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bellota-text-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bellota-text-400italic - latin */
+@font-face {
+  font-family: 'Bellota Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Bellota Text Regular italic'),
+    local('Bellota Text-Regularitalic'),
+    url('./files/bellota-text-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bellota-text-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bellota-text-700normal - latin */
+@font-face {
+  font-family: 'Bellota Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Bellota Text Bold '),
+    local('Bellota Text-Bold'),
+    url('./files/bellota-text-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bellota-text-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bellota-text-700italic - latin */
+@font-face {
+  font-family: 'Bellota Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Bellota Text Bold italic'),
+    local('Bellota Text-Bolditalic'),
+    url('./files/bellota-text-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bellota-text-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

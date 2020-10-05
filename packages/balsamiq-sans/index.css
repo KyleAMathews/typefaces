@@ -1,0 +1,52 @@
+/* balsamiq-sans-400normal - latin */
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Balsamiq Sans Regular '),
+    local('Balsamiq Sans-Regular'),
+    url('./files/balsamiq-sans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/balsamiq-sans-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* balsamiq-sans-400italic - latin */
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Balsamiq Sans Regular italic'),
+    local('Balsamiq Sans-Regularitalic'),
+    url('./files/balsamiq-sans-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/balsamiq-sans-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* balsamiq-sans-700normal - latin */
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Balsamiq Sans Bold '),
+    local('Balsamiq Sans-Bold'),
+    url('./files/balsamiq-sans-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/balsamiq-sans-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* balsamiq-sans-700italic - latin */
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Balsamiq Sans Bold italic'),
+    local('Balsamiq Sans-Bolditalic'),
+    url('./files/balsamiq-sans-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/balsamiq-sans-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

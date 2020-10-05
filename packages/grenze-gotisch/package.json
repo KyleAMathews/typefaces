@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-grenze-gotisch",
+  "version": "0.0.0",
+  "description": "Grenze Gotisch typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "grenze-gotisch"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/grenze-gotisch"
+}

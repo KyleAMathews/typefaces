@@ -1,0 +1,156 @@
+/* kufam-400normal - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Kufam Regular '),
+    local('Kufam-Regular'),
+    url('./files/kufam-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-400italic - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Kufam Regular italic'),
+    local('Kufam-Regularitalic'),
+    url('./files/kufam-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-500normal - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Kufam Medium '),
+    local('Kufam-Medium'),
+    url('./files/kufam-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-500italic - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Kufam Medium italic'),
+    local('Kufam-Mediumitalic'),
+    url('./files/kufam-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-600normal - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Kufam SemiBold '),
+    local('Kufam-SemiBold'),
+    url('./files/kufam-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-600italic - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Kufam SemiBold italic'),
+    local('Kufam-SemiBolditalic'),
+    url('./files/kufam-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-700normal - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Kufam Bold '),
+    local('Kufam-Bold'),
+    url('./files/kufam-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-700italic - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Kufam Bold italic'),
+    local('Kufam-Bolditalic'),
+    url('./files/kufam-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-800normal - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Kufam ExtraBold '),
+    local('Kufam-ExtraBold'),
+    url('./files/kufam-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-800italic - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Kufam ExtraBold italic'),
+    local('Kufam-ExtraBolditalic'),
+    url('./files/kufam-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-900normal - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Kufam Black '),
+    local('Kufam-Black'),
+    url('./files/kufam-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kufam-900italic - latin */
+@font-face {
+  font-family: 'Kufam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Kufam Black italic'),
+    local('Kufam-Blackitalic'),
+    url('./files/kufam-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kufam-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

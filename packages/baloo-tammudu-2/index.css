@@ -1,0 +1,65 @@
+/* baloo-tammudu-2-400normal - latin */
+@font-face {
+  font-family: 'Baloo Tammudu 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Baloo Tammudu 2 Regular '),
+    local('Baloo Tammudu 2-Regular'),
+    url('./files/baloo-tammudu-2-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-tammudu-2-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* baloo-tammudu-2-500normal - latin */
+@font-face {
+  font-family: 'Baloo Tammudu 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Baloo Tammudu 2 Medium '),
+    local('Baloo Tammudu 2-Medium'),
+    url('./files/baloo-tammudu-2-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-tammudu-2-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* baloo-tammudu-2-600normal - latin */
+@font-face {
+  font-family: 'Baloo Tammudu 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Baloo Tammudu 2 SemiBold '),
+    local('Baloo Tammudu 2-SemiBold'),
+    url('./files/baloo-tammudu-2-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-tammudu-2-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* baloo-tammudu-2-700normal - latin */
+@font-face {
+  font-family: 'Baloo Tammudu 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Baloo Tammudu 2 Bold '),
+    local('Baloo Tammudu 2-Bold'),
+    url('./files/baloo-tammudu-2-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-tammudu-2-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* baloo-tammudu-2-800normal - latin */
+@font-face {
+  font-family: 'Baloo Tammudu 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Baloo Tammudu 2 ExtraBold '),
+    local('Baloo Tammudu 2-ExtraBold'),
+    url('./files/baloo-tammudu-2-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-tammudu-2-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

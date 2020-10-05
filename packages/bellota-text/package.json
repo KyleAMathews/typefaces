@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-bellota-text",
+  "version": "0.0.0",
+  "description": "Bellota Text typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "bellota-text"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/bellota-text"
+}

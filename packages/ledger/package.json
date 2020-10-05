@@ -1,6 +1,7 @@
+
 {
   "name": "typeface-ledger",
-  "version": "0.0.72",
+  "version": "0.0.0",
   "description": "Ledger typeface",
   "main": "index.css",
   "keywords": [

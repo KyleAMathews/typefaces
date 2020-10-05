@@ -1,3 +1,81 @@
+/* bitter-100normal - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Bitter Thin '),
+    local('Bitter-Thin'),
+    url('./files/bitter-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-100italic - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Bitter Thin italic'),
+    local('Bitter-Thinitalic'),
+    url('./files/bitter-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-200normal - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Bitter Extra Light '),
+    local('Bitter-Extra Light'),
+    url('./files/bitter-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-200italic - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Bitter Extra Light italic'),
+    local('Bitter-Extra Lightitalic'),
+    url('./files/bitter-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-300normal - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Bitter Light '),
+    local('Bitter-Light'),
+    url('./files/bitter-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-300italic - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Bitter Light italic'),
+    local('Bitter-Lightitalic'),
+    url('./files/bitter-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* bitter-400normal - latin */
 @font-face {
   font-family: 'Bitter';
@@ -24,6 +102,58 @@
     url('./files/bitter-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
+/* bitter-500normal - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Bitter Medium '),
+    local('Bitter-Medium'),
+    url('./files/bitter-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-500italic - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Bitter Medium italic'),
+    local('Bitter-Mediumitalic'),
+    url('./files/bitter-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-600normal - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Bitter SemiBold '),
+    local('Bitter-SemiBold'),
+    url('./files/bitter-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-600italic - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Bitter SemiBold italic'),
+    local('Bitter-SemiBolditalic'),
+    url('./files/bitter-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* bitter-700normal - latin */
 @font-face {
   font-family: 'Bitter';
@@ -35,5 +165,70 @@
     local('Bitter-Bold'),
     url('./files/bitter-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/bitter-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-700italic - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Bitter Bold italic'),
+    local('Bitter-Bolditalic'),
+    url('./files/bitter-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-800normal - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Bitter ExtraBold '),
+    local('Bitter-ExtraBold'),
+    url('./files/bitter-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-800italic - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Bitter ExtraBold italic'),
+    local('Bitter-ExtraBolditalic'),
+    url('./files/bitter-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-900normal - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Bitter Black '),
+    local('Bitter-Black'),
+    url('./files/bitter-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* bitter-900italic - latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Bitter Black italic'),
+    local('Bitter-Blackitalic'),
+    url('./files/bitter-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bitter-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

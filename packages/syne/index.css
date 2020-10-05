@@ -1,0 +1,65 @@
+/* syne-400normal - latin */
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Syne Regular '),
+    local('Syne-Regular'),
+    url('./files/syne-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/syne-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* syne-500normal - latin */
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Syne Medium '),
+    local('Syne-Medium'),
+    url('./files/syne-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/syne-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* syne-600normal - latin */
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Syne SemiBold '),
+    local('Syne-SemiBold'),
+    url('./files/syne-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/syne-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* syne-700normal - latin */
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Syne Bold '),
+    local('Syne-Bold'),
+    url('./files/syne-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/syne-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* syne-800normal - latin */
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Syne ExtraBold '),
+    local('Syne-ExtraBold'),
+    url('./files/syne-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/syne-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

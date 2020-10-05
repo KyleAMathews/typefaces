@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-piazzolla",
+  "version": "0.0.0",
+  "description": "Piazzolla typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "piazzolla"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/piazzolla"
+}

@@ -1,0 +1,234 @@
+/* grandstander-100normal - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Grandstander Thin '),
+    local('Grandstander-Thin'),
+    url('./files/grandstander-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-100italic - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Grandstander Thin italic'),
+    local('Grandstander-Thinitalic'),
+    url('./files/grandstander-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-200normal - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Grandstander Extra Light '),
+    local('Grandstander-Extra Light'),
+    url('./files/grandstander-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-200italic - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Grandstander Extra Light italic'),
+    local('Grandstander-Extra Lightitalic'),
+    url('./files/grandstander-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-300normal - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Grandstander Light '),
+    local('Grandstander-Light'),
+    url('./files/grandstander-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-300italic - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Grandstander Light italic'),
+    local('Grandstander-Lightitalic'),
+    url('./files/grandstander-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-400normal - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Grandstander Regular '),
+    local('Grandstander-Regular'),
+    url('./files/grandstander-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-400italic - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Grandstander Regular italic'),
+    local('Grandstander-Regularitalic'),
+    url('./files/grandstander-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-500normal - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Grandstander Medium '),
+    local('Grandstander-Medium'),
+    url('./files/grandstander-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-500italic - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Grandstander Medium italic'),
+    local('Grandstander-Mediumitalic'),
+    url('./files/grandstander-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-600normal - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Grandstander SemiBold '),
+    local('Grandstander-SemiBold'),
+    url('./files/grandstander-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-600italic - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Grandstander SemiBold italic'),
+    local('Grandstander-SemiBolditalic'),
+    url('./files/grandstander-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-700normal - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Grandstander Bold '),
+    local('Grandstander-Bold'),
+    url('./files/grandstander-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-700italic - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Grandstander Bold italic'),
+    local('Grandstander-Bolditalic'),
+    url('./files/grandstander-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-800normal - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Grandstander ExtraBold '),
+    local('Grandstander-ExtraBold'),
+    url('./files/grandstander-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-800italic - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Grandstander ExtraBold italic'),
+    local('Grandstander-ExtraBolditalic'),
+    url('./files/grandstander-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-900normal - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Grandstander Black '),
+    local('Grandstander-Black'),
+    url('./files/grandstander-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grandstander-900italic - latin */
+@font-face {
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Grandstander Black italic'),
+    local('Grandstander-Blackitalic'),
+    url('./files/grandstander-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grandstander-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

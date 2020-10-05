@@ -1,3 +1,55 @@
+/* source-serif-pro-200normal - latin */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Source Serif Pro Extra Light '),
+    local('Source Serif Pro-Extra Light'),
+    url('./files/source-serif-pro-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-serif-pro-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-serif-pro-200italic - latin */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Source Serif Pro Extra Light italic'),
+    local('Source Serif Pro-Extra Lightitalic'),
+    url('./files/source-serif-pro-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-serif-pro-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-serif-pro-300normal - latin */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Source Serif Pro Light '),
+    local('Source Serif Pro-Light'),
+    url('./files/source-serif-pro-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-serif-pro-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-serif-pro-300italic - latin */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Source Serif Pro Light italic'),
+    local('Source Serif Pro-Lightitalic'),
+    url('./files/source-serif-pro-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-serif-pro-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* source-serif-pro-400normal - latin */
 @font-face {
   font-family: 'Source Serif Pro';
@@ -9,6 +61,19 @@
     local('Source Serif Pro-Regular'),
     url('./files/source-serif-pro-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-serif-pro-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-serif-pro-400italic - latin */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Source Serif Pro Regular italic'),
+    local('Source Serif Pro-Regularitalic'),
+    url('./files/source-serif-pro-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-serif-pro-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* source-serif-pro-600normal - latin */
@@ -24,6 +89,19 @@
     url('./files/source-serif-pro-latin-600.woff') format('woff'); /* Modern Browsers */
 }
 
+/* source-serif-pro-600italic - latin */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Source Serif Pro SemiBold italic'),
+    local('Source Serif Pro-SemiBolditalic'),
+    url('./files/source-serif-pro-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-serif-pro-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* source-serif-pro-700normal - latin */
 @font-face {
   font-family: 'Source Serif Pro';
@@ -35,5 +113,44 @@
     local('Source Serif Pro-Bold'),
     url('./files/source-serif-pro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/source-serif-pro-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-serif-pro-700italic - latin */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Source Serif Pro Bold italic'),
+    local('Source Serif Pro-Bolditalic'),
+    url('./files/source-serif-pro-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-serif-pro-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-serif-pro-900normal - latin */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Source Serif Pro Black '),
+    local('Source Serif Pro-Black'),
+    url('./files/source-serif-pro-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-serif-pro-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* source-serif-pro-900italic - latin */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Source Serif Pro Black italic'),
+    local('Source Serif Pro-Blackitalic'),
+    url('./files/source-serif-pro-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/source-serif-pro-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

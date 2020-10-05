@@ -11,3 +11,16 @@
     url('./files/harmattan-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
+/* harmattan-700normal - latin */
+@font-face {
+  font-family: 'Harmattan';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Harmattan Bold '),
+    local('Harmattan-Bold'),
+    url('./files/harmattan-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/harmattan-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

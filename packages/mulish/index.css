@@ -1,0 +1,208 @@
+/* mulish-200normal - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Mulish Extra Light '),
+    local('Mulish-Extra Light'),
+    url('./files/mulish-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-200italic - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Mulish Extra Light italic'),
+    local('Mulish-Extra Lightitalic'),
+    url('./files/mulish-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-300normal - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Mulish Light '),
+    local('Mulish-Light'),
+    url('./files/mulish-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-300italic - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Mulish Light italic'),
+    local('Mulish-Lightitalic'),
+    url('./files/mulish-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-400normal - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mulish Regular '),
+    local('Mulish-Regular'),
+    url('./files/mulish-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-400italic - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mulish Regular italic'),
+    local('Mulish-Regularitalic'),
+    url('./files/mulish-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-500normal - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Mulish Medium '),
+    local('Mulish-Medium'),
+    url('./files/mulish-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-500italic - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Mulish Medium italic'),
+    local('Mulish-Mediumitalic'),
+    url('./files/mulish-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-600normal - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Mulish SemiBold '),
+    local('Mulish-SemiBold'),
+    url('./files/mulish-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-600italic - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Mulish SemiBold italic'),
+    local('Mulish-SemiBolditalic'),
+    url('./files/mulish-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-700normal - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Mulish Bold '),
+    local('Mulish-Bold'),
+    url('./files/mulish-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-700italic - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Mulish Bold italic'),
+    local('Mulish-Bolditalic'),
+    url('./files/mulish-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-800normal - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Mulish ExtraBold '),
+    local('Mulish-ExtraBold'),
+    url('./files/mulish-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-800italic - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Mulish ExtraBold italic'),
+    local('Mulish-ExtraBolditalic'),
+    url('./files/mulish-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-900normal - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Mulish Black '),
+    local('Mulish-Black'),
+    url('./files/mulish-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mulish-900italic - latin */
+@font-face {
+  font-family: 'Mulish';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Mulish Black italic'),
+    local('Mulish-Blackitalic'),
+    url('./files/mulish-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mulish-latin-900italic.woff') format('woff'); /* Modern Browsers */
+}
+

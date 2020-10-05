@@ -1,7 +1,7 @@
+
 {
   "name": "typeface-noto-sans-jp",
-  "version": "0.0.64",
-  "private": true,
+  "version": "0.0.0",
   "description": "Noto Sans JP typeface",
   "main": "index.css",
   "keywords": [

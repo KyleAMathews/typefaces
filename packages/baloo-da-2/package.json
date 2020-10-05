@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-baloo-da-2",
+  "version": "0.0.0",
+  "description": "Baloo Da 2 typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "baloo-da-2"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/baloo-da-2"
+}

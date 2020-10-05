@@ -1,0 +1,39 @@
+/* red-rose-300normal - latin */
+@font-face {
+  font-family: 'Red Rose';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Red Rose Light '),
+    local('Red Rose-Light'),
+    url('./files/red-rose-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-rose-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* red-rose-400normal - latin */
+@font-face {
+  font-family: 'Red Rose';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Red Rose Regular '),
+    local('Red Rose-Regular'),
+    url('./files/red-rose-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-rose-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* red-rose-700normal - latin */
+@font-face {
+  font-family: 'Red Rose';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Red Rose Bold '),
+    local('Red Rose-Bold'),
+    url('./files/red-rose-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/red-rose-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

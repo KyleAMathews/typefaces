@@ -1,0 +1,117 @@
+/* grenze-gotisch-100normal - latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Grenze Gotisch Thin '),
+    local('Grenze Gotisch-Thin'),
+    url('./files/grenze-gotisch-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-gotisch-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-gotisch-200normal - latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Grenze Gotisch Extra Light '),
+    local('Grenze Gotisch-Extra Light'),
+    url('./files/grenze-gotisch-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-gotisch-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-gotisch-300normal - latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Grenze Gotisch Light '),
+    local('Grenze Gotisch-Light'),
+    url('./files/grenze-gotisch-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-gotisch-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-gotisch-400normal - latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Grenze Gotisch Regular '),
+    local('Grenze Gotisch-Regular'),
+    url('./files/grenze-gotisch-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-gotisch-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-gotisch-500normal - latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Grenze Gotisch Medium '),
+    local('Grenze Gotisch-Medium'),
+    url('./files/grenze-gotisch-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-gotisch-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-gotisch-600normal - latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Grenze Gotisch SemiBold '),
+    local('Grenze Gotisch-SemiBold'),
+    url('./files/grenze-gotisch-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-gotisch-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-gotisch-700normal - latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Grenze Gotisch Bold '),
+    local('Grenze Gotisch-Bold'),
+    url('./files/grenze-gotisch-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-gotisch-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-gotisch-800normal - latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Grenze Gotisch ExtraBold '),
+    local('Grenze Gotisch-ExtraBold'),
+    url('./files/grenze-gotisch-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-gotisch-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* grenze-gotisch-900normal - latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Grenze Gotisch Black '),
+    local('Grenze Gotisch-Black'),
+    url('./files/grenze-gotisch-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grenze-gotisch-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

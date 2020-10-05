@@ -1,0 +1,78 @@
+/* comic-neue-300normal - latin */
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Comic Neue Light '),
+    local('Comic Neue-Light'),
+    url('./files/comic-neue-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/comic-neue-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* comic-neue-300italic - latin */
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Comic Neue Light italic'),
+    local('Comic Neue-Lightitalic'),
+    url('./files/comic-neue-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/comic-neue-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* comic-neue-400normal - latin */
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Comic Neue Regular '),
+    local('Comic Neue-Regular'),
+    url('./files/comic-neue-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/comic-neue-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* comic-neue-400italic - latin */
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Comic Neue Regular italic'),
+    local('Comic Neue-Regularitalic'),
+    url('./files/comic-neue-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/comic-neue-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* comic-neue-700normal - latin */
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Comic Neue Bold '),
+    local('Comic Neue-Bold'),
+    url('./files/comic-neue-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/comic-neue-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* comic-neue-700italic - latin */
+@font-face {
+  font-family: 'Comic Neue';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Comic Neue Bold italic'),
+    local('Comic Neue-Bolditalic'),
+    url('./files/comic-neue-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/comic-neue-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+

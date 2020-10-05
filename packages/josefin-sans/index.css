@@ -24,6 +24,32 @@
     url('./files/josefin-sans-latin-100italic.woff') format('woff'); /* Modern Browsers */
 }
 
+/* josefin-sans-200normal - latin */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Josefin Sans Extra Light '),
+    local('Josefin Sans-Extra Light'),
+    url('./files/josefin-sans-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/josefin-sans-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* josefin-sans-200italic - latin */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Josefin Sans Extra Light italic'),
+    local('Josefin Sans-Extra Lightitalic'),
+    url('./files/josefin-sans-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/josefin-sans-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* josefin-sans-300normal - latin */
 @font-face {
   font-family: 'Josefin Sans';
@@ -74,6 +100,32 @@
     local('Josefin Sans-Regularitalic'),
     url('./files/josefin-sans-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/josefin-sans-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* josefin-sans-500normal - latin */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Josefin Sans Medium '),
+    local('Josefin Sans-Medium'),
+    url('./files/josefin-sans-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/josefin-sans-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* josefin-sans-500italic - latin */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Josefin Sans Medium italic'),
+    local('Josefin Sans-Mediumitalic'),
+    url('./files/josefin-sans-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/josefin-sans-latin-500italic.woff') format('woff'); /* Modern Browsers */
 }
 
 /* josefin-sans-600normal - latin */

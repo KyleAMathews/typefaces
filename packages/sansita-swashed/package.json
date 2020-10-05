@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-sansita-swashed",
+  "version": "0.0.0",
+  "description": "Sansita Swashed typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "sansita-swashed"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/sansita-swashed"
+}

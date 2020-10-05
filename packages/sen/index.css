@@ -1,0 +1,39 @@
+/* sen-400normal - latin */
+@font-face {
+  font-family: 'Sen';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sen Regular '),
+    local('Sen-Regular'),
+    url('./files/sen-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sen-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sen-700normal - latin */
+@font-face {
+  font-family: 'Sen';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Sen Bold '),
+    local('Sen-Bold'),
+    url('./files/sen-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sen-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sen-800normal - latin */
+@font-face {
+  font-family: 'Sen';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Sen ExtraBold '),
+    local('Sen-ExtraBold'),
+    url('./files/sen-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sen-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

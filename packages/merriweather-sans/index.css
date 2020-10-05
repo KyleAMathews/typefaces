@@ -50,6 +50,58 @@
     url('./files/merriweather-sans-latin-400italic.woff') format('woff'); /* Modern Browsers */
 }
 
+/* merriweather-sans-500normal - latin */
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Merriweather Sans Medium '),
+    local('Merriweather Sans-Medium'),
+    url('./files/merriweather-sans-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-sans-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-sans-500italic - latin */
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Merriweather Sans Medium italic'),
+    local('Merriweather Sans-Mediumitalic'),
+    url('./files/merriweather-sans-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-sans-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-sans-600normal - latin */
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Merriweather Sans SemiBold '),
+    local('Merriweather Sans-SemiBold'),
+    url('./files/merriweather-sans-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-sans-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-sans-600italic - latin */
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Merriweather Sans SemiBold italic'),
+    local('Merriweather Sans-SemiBolditalic'),
+    url('./files/merriweather-sans-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-sans-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* merriweather-sans-700normal - latin */
 @font-face {
   font-family: 'Merriweather Sans';

@@ -1,0 +1,65 @@
+/* varta-300normal - latin */
+@font-face {
+  font-family: 'Varta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Varta Light '),
+    local('Varta-Light'),
+    url('./files/varta-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/varta-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* varta-400normal - latin */
+@font-face {
+  font-family: 'Varta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Varta Regular '),
+    local('Varta-Regular'),
+    url('./files/varta-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/varta-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* varta-500normal - latin */
+@font-face {
+  font-family: 'Varta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Varta Medium '),
+    local('Varta-Medium'),
+    url('./files/varta-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/varta-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* varta-600normal - latin */
+@font-face {
+  font-family: 'Varta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Varta SemiBold '),
+    local('Varta-SemiBold'),
+    url('./files/varta-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/varta-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* varta-700normal - latin */
+@font-face {
+  font-family: 'Varta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Varta Bold '),
+    local('Varta-Bold'),
+    url('./files/varta-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/varta-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

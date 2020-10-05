@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-recursive",
+  "version": "0.0.0",
+  "description": "Recursive typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "recursive"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/recursive"
+}

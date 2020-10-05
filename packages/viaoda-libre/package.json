@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-viaoda-libre",
+  "version": "0.0.0",
+  "description": "Viaoda Libre typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "viaoda-libre"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/viaoda-libre"
+}

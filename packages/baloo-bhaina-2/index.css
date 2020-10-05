@@ -1,0 +1,65 @@
+/* baloo-bhaina-2-400normal - latin */
+@font-face {
+  font-family: 'Baloo Bhaina 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Baloo Bhaina 2 Regular '),
+    local('Baloo Bhaina 2-Regular'),
+    url('./files/baloo-bhaina-2-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-bhaina-2-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* baloo-bhaina-2-500normal - latin */
+@font-face {
+  font-family: 'Baloo Bhaina 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Baloo Bhaina 2 Medium '),
+    local('Baloo Bhaina 2-Medium'),
+    url('./files/baloo-bhaina-2-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-bhaina-2-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* baloo-bhaina-2-600normal - latin */
+@font-face {
+  font-family: 'Baloo Bhaina 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Baloo Bhaina 2 SemiBold '),
+    local('Baloo Bhaina 2-SemiBold'),
+    url('./files/baloo-bhaina-2-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-bhaina-2-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* baloo-bhaina-2-700normal - latin */
+@font-face {
+  font-family: 'Baloo Bhaina 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Baloo Bhaina 2 Bold '),
+    local('Baloo Bhaina 2-Bold'),
+    url('./files/baloo-bhaina-2-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-bhaina-2-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* baloo-bhaina-2-800normal - latin */
+@font-face {
+  font-family: 'Baloo Bhaina 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Baloo Bhaina 2 ExtraBold '),
+    local('Baloo Bhaina 2-ExtraBold'),
+    url('./files/baloo-bhaina-2-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-bhaina-2-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+

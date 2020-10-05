@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-dm-mono",
+  "version": "0.0.0",
+  "description": "DM Mono typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "dm-mono"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/dm-mono"
+}

@@ -1,0 +1,91 @@
+/* recursive-300normal - latin */
+@font-face {
+  font-family: 'Recursive';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Recursive Light '),
+    local('Recursive-Light'),
+    url('./files/recursive-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/recursive-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* recursive-400normal - latin */
+@font-face {
+  font-family: 'Recursive';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Recursive Regular '),
+    local('Recursive-Regular'),
+    url('./files/recursive-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/recursive-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* recursive-500normal - latin */
+@font-face {
+  font-family: 'Recursive';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Recursive Medium '),
+    local('Recursive-Medium'),
+    url('./files/recursive-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/recursive-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* recursive-600normal - latin */
+@font-face {
+  font-family: 'Recursive';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Recursive SemiBold '),
+    local('Recursive-SemiBold'),
+    url('./files/recursive-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/recursive-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* recursive-700normal - latin */
+@font-face {
+  font-family: 'Recursive';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Recursive Bold '),
+    local('Recursive-Bold'),
+    url('./files/recursive-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/recursive-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* recursive-800normal - latin */
+@font-face {
+  font-family: 'Recursive';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Recursive ExtraBold '),
+    local('Recursive-ExtraBold'),
+    url('./files/recursive-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/recursive-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* recursive-900normal - latin */
+@font-face {
+  font-family: 'Recursive';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Recursive Black '),
+    local('Recursive-Black'),
+    url('./files/recursive-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/recursive-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+

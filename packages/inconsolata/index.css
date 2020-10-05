@@ -1,3 +1,29 @@
+/* inconsolata-200normal - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Inconsolata Extra Light '),
+    local('Inconsolata-Extra Light'),
+    url('./files/inconsolata-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/inconsolata-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* inconsolata-300normal - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Inconsolata Light '),
+    local('Inconsolata-Light'),
+    url('./files/inconsolata-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/inconsolata-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
 /* inconsolata-400normal - latin */
 @font-face {
   font-family: 'Inconsolata';
@@ -11,6 +37,32 @@
     url('./files/inconsolata-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
+/* inconsolata-500normal - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Inconsolata Medium '),
+    local('Inconsolata-Medium'),
+    url('./files/inconsolata-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/inconsolata-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* inconsolata-600normal - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Inconsolata SemiBold '),
+    local('Inconsolata-SemiBold'),
+    url('./files/inconsolata-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/inconsolata-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
 /* inconsolata-700normal - latin */
 @font-face {
   font-family: 'Inconsolata';
@@ -22,5 +74,31 @@
     local('Inconsolata-Bold'),
     url('./files/inconsolata-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inconsolata-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* inconsolata-800normal - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Inconsolata ExtraBold '),
+    local('Inconsolata-ExtraBold'),
+    url('./files/inconsolata-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/inconsolata-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* inconsolata-900normal - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Inconsolata Black '),
+    local('Inconsolata-Black'),
+    url('./files/inconsolata-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/inconsolata-latin-900.woff') format('woff'); /* Modern Browsers */
 }
 

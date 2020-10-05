@@ -11,6 +11,32 @@
     url('./files/cinzel-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
+/* cinzel-500normal - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Cinzel Medium '),
+    local('Cinzel-Medium'),
+    url('./files/cinzel-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cinzel-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cinzel-600normal - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Cinzel SemiBold '),
+    local('Cinzel-SemiBold'),
+    url('./files/cinzel-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cinzel-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
 /* cinzel-700normal - latin */
 @font-face {
   font-family: 'Cinzel';
@@ -22,6 +48,19 @@
     local('Cinzel-Bold'),
     url('./files/cinzel-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cinzel-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cinzel-800normal - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Cinzel ExtraBold '),
+    local('Cinzel-ExtraBold'),
+    url('./files/cinzel-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cinzel-latin-800.woff') format('woff'); /* Modern Browsers */
 }
 
 /* cinzel-900normal - latin */

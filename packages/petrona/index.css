@@ -1,3 +1,81 @@
+/* petrona-100normal - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Petrona Thin '),
+    local('Petrona-Thin'),
+    url('./files/petrona-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-100italic - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Petrona Thin italic'),
+    local('Petrona-Thinitalic'),
+    url('./files/petrona-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-100italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-200normal - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Petrona Extra Light '),
+    local('Petrona-Extra Light'),
+    url('./files/petrona-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-200italic - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Petrona Extra Light italic'),
+    local('Petrona-Extra Lightitalic'),
+    url('./files/petrona-latin-200italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-200italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-300normal - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Petrona Light '),
+    local('Petrona-Light'),
+    url('./files/petrona-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-300italic - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Petrona Light italic'),
+    local('Petrona-Lightitalic'),
+    url('./files/petrona-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
 /* petrona-400normal - latin */
 @font-face {
   font-family: 'Petrona';
@@ -9,5 +87,148 @@
     local('Petrona-Regular'),
     url('./files/petrona-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/petrona-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-400italic - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Petrona Regular italic'),
+    local('Petrona-Regularitalic'),
+    url('./files/petrona-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-500normal - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Petrona Medium '),
+    local('Petrona-Medium'),
+    url('./files/petrona-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-500italic - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Petrona Medium italic'),
+    local('Petrona-Mediumitalic'),
+    url('./files/petrona-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-600normal - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Petrona SemiBold '),
+    local('Petrona-SemiBold'),
+    url('./files/petrona-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-600italic - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Petrona SemiBold italic'),
+    local('Petrona-SemiBolditalic'),
+    url('./files/petrona-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-600italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-700normal - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Petrona Bold '),
+    local('Petrona-Bold'),
+    url('./files/petrona-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-700italic - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Petrona Bold italic'),
+    local('Petrona-Bolditalic'),
+    url('./files/petrona-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-800normal - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Petrona ExtraBold '),
+    local('Petrona-ExtraBold'),
+    url('./files/petrona-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-800italic - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Petrona ExtraBold italic'),
+    local('Petrona-ExtraBolditalic'),
+    url('./files/petrona-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-800italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-900normal - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Petrona Black '),
+    local('Petrona-Black'),
+    url('./files/petrona-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* petrona-900italic - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Petrona Black italic'),
+    local('Petrona-Blackitalic'),
+    url('./files/petrona-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petrona-latin-900italic.woff') format('woff'); /* Modern Browsers */
 }
 

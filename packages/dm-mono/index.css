@@ -1,0 +1,78 @@
+/* dm-mono-300normal - latin */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('DM Mono Light '),
+    local('DM Mono-Light'),
+    url('./files/dm-mono-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dm-mono-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-mono-300italic - latin */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('DM Mono Light italic'),
+    local('DM Mono-Lightitalic'),
+    url('./files/dm-mono-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dm-mono-latin-300italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-mono-400normal - latin */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('DM Mono Regular '),
+    local('DM Mono-Regular'),
+    url('./files/dm-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dm-mono-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-mono-400italic - latin */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('DM Mono Regular italic'),
+    local('DM Mono-Regularitalic'),
+    url('./files/dm-mono-latin-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dm-mono-latin-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-mono-500normal - latin */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('DM Mono Medium '),
+    local('DM Mono-Medium'),
+    url('./files/dm-mono-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dm-mono-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-mono-500italic - latin */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('DM Mono Medium italic'),
+    local('DM Mono-Mediumitalic'),
+    url('./files/dm-mono-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dm-mono-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+

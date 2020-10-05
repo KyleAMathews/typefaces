@@ -1,0 +1,13 @@
+/* gotu-400normal - latin */
+@font-face {
+  font-family: 'Gotu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Gotu Regular '),
+    local('Gotu-Regular'),
+    url('./files/gotu-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gotu-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,39 @@
+/* rowdies-300normal - latin */
+@font-face {
+  font-family: 'Rowdies';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Rowdies Light '),
+    local('Rowdies-Light'),
+    url('./files/rowdies-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rowdies-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rowdies-400normal - latin */
+@font-face {
+  font-family: 'Rowdies';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Rowdies Regular '),
+    local('Rowdies-Regular'),
+    url('./files/rowdies-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rowdies-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rowdies-700normal - latin */
+@font-face {
+  font-family: 'Rowdies';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Rowdies Bold '),
+    local('Rowdies-Bold'),
+    url('./files/rowdies-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rowdies-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+

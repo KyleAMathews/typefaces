@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-kufam",
+  "version": "0.0.0",
+  "description": "Kufam typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "kufam"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/kufam"
+}

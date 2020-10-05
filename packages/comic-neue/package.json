@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-comic-neue",
+  "version": "0.0.0",
+  "description": "Comic Neue typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "comic-neue"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/comic-neue"
+}
