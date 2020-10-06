@@ -8,7 +8,7 @@ const packages = fs
   .map((dirent) => dirent.name);
 const packagesCount = packages.length;
 
-const filteredPackages = packages.filter((p) => p > "nosifer");
+const filteredPackages = packages.filter((p) => p > "noticia-text");
 console.log(filteredPackages);
 
 filteredPackages.forEach((p) => {
