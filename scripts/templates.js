@@ -42,7 +42,7 @@ exports.readme = _.template(
   `>The Typefaces project is now deprecated. @DecliningLotus created
 [FontSource](https://github.com/fontsource/fontsource) which provides the
 same functionality as Typefaces but with automated releases & richer
-support for importing specific weight, style, or language subsets.
+support for importing specific weights, styles, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
 "typeface-<%= typefaceId %>" with "fontsource-<%= typefaceId %>".
