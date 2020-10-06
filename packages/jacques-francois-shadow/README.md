@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-jacques-francois-shadow" with "fontsource-jacques-francois-shadow"
+"typeface-jacques-francois-shadow" with "fontsource-jacques-francois-shadow".
 >
-> Then change imports from "import 'typeface-jacques-francois-shadow'" to "import 'fontsource-jacques-francois-shadow/latin.css'"
+> Then change imports from "import 'typeface-jacques-francois-shadow'" to "import 'fontsource-jacques-francois-shadow/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

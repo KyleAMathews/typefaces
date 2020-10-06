@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-bellota-text" with "fontsource-bellota-text"
+"typeface-bellota-text" with "fontsource-bellota-text".
 >
-> Then change imports from "import 'typeface-bellota-text'" to "import 'fontsource-bellota-text/latin.css'"
+> Then change imports from "import 'typeface-bellota-text'" to "import 'fontsource-bellota-text/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

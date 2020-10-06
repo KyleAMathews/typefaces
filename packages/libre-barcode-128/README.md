@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-libre-barcode-128" with "fontsource-libre-barcode-128"
+"typeface-libre-barcode-128" with "fontsource-libre-barcode-128".
 >
-> Then change imports from "import 'typeface-libre-barcode-128'" to "import 'fontsource-libre-barcode-128/latin.css'"
+> Then change imports from "import 'typeface-libre-barcode-128'" to "import 'fontsource-libre-barcode-128/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

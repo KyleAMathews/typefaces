@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-londrina-solid" with "fontsource-londrina-solid"
+"typeface-londrina-solid" with "fontsource-londrina-solid".
 >
-> Then change imports from "import 'typeface-londrina-solid'" to "import 'fontsource-londrina-solid/latin.css'"
+> Then change imports from "import 'typeface-londrina-solid'" to "import 'fontsource-londrina-solid/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-gfs-didot" with "fontsource-gfs-didot"
+"typeface-gfs-didot" with "fontsource-gfs-didot".
 >
-> Then change imports from "import 'typeface-gfs-didot'" to "import 'fontsource-gfs-didot/latin.css'"
+> Then change imports from "import 'typeface-gfs-didot'" to "import 'fontsource-gfs-didot/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

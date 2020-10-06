@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-barlow" with "fontsource-barlow"
+"typeface-barlow" with "fontsource-barlow".
 >
-> Then change imports from "import 'typeface-barlow'" to "import 'fontsource-barlow/latin.css'"
+> Then change imports from "import 'typeface-barlow'" to "import 'fontsource-barlow/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

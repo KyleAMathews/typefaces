@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-archivo-black" with "fontsource-archivo-black"
+"typeface-archivo-black" with "fontsource-archivo-black".
 >
-> Then change imports from "import 'typeface-archivo-black'" to "import 'fontsource-archivo-black/latin.css'"
+> Then change imports from "import 'typeface-archivo-black'" to "import 'fontsource-archivo-black/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-viaoda-libre" with "fontsource-viaoda-libre"
+"typeface-viaoda-libre" with "fontsource-viaoda-libre".
 >
-> Then change imports from "import 'typeface-viaoda-libre'" to "import 'fontsource-viaoda-libre/latin.css'"
+> Then change imports from "import 'typeface-viaoda-libre'" to "import 'fontsource-viaoda-libre/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

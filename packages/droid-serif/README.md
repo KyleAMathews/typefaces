@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-droid-serif" with "fontsource-droid-serif"
+"typeface-droid-serif" with "fontsource-droid-serif".
 >
-> Then change imports from "import 'typeface-droid-serif'" to "import 'fontsource-droid-serif/latin.css'"
+> Then change imports from "import 'typeface-droid-serif'" to "import 'fontsource-droid-serif/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

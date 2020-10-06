@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-fascinate-inline" with "fontsource-fascinate-inline"
+"typeface-fascinate-inline" with "fontsource-fascinate-inline".
 >
-> Then change imports from "import 'typeface-fascinate-inline'" to "import 'fontsource-fascinate-inline/latin.css'"
+> Then change imports from "import 'typeface-fascinate-inline'" to "import 'fontsource-fascinate-inline/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-diplomata-sc" with "fontsource-diplomata-sc"
+"typeface-diplomata-sc" with "fontsource-diplomata-sc".
 >
-> Then change imports from "import 'typeface-diplomata-sc'" to "import 'fontsource-diplomata-sc/latin.css'"
+> Then change imports from "import 'typeface-diplomata-sc'" to "import 'fontsource-diplomata-sc/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

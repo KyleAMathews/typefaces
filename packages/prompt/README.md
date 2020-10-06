@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-prompt" with "fontsource-prompt"
+"typeface-prompt" with "fontsource-prompt".
 >
-> Then change imports from "import 'typeface-prompt'" to "import 'fontsource-prompt/latin.css'"
+> Then change imports from "import 'typeface-prompt'" to "import 'fontsource-prompt/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

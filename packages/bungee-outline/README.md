@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-bungee-outline" with "fontsource-bungee-outline"
+"typeface-bungee-outline" with "fontsource-bungee-outline".
 >
-> Then change imports from "import 'typeface-bungee-outline'" to "import 'fontsource-bungee-outline/latin.css'"
+> Then change imports from "import 'typeface-bungee-outline'" to "import 'fontsource-bungee-outline/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

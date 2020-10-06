@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-ek-mukta" with "fontsource-ek-mukta"
+"typeface-ek-mukta" with "fontsource-ek-mukta".
 >
-> Then change imports from "import 'typeface-ek-mukta'" to "import 'fontsource-ek-mukta/latin.css'"
+> Then change imports from "import 'typeface-ek-mukta'" to "import 'fontsource-ek-mukta/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

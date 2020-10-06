@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-esteban" with "fontsource-esteban"
+"typeface-esteban" with "fontsource-esteban".
 >
-> Then change imports from "import 'typeface-esteban'" to "import 'fontsource-esteban/latin.css'"
+> Then change imports from "import 'typeface-esteban'" to "import 'fontsource-esteban/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

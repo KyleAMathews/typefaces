@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-notable" with "fontsource-notable"
+"typeface-notable" with "fontsource-notable".
 >
-> Then change imports from "import 'typeface-notable'" to "import 'fontsource-notable/latin.css'"
+> Then change imports from "import 'typeface-notable'" to "import 'fontsource-notable/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

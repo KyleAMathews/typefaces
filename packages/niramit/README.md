@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-niramit" with "fontsource-niramit"
+"typeface-niramit" with "fontsource-niramit".
 >
-> Then change imports from "import 'typeface-niramit'" to "import 'fontsource-niramit/latin.css'"
+> Then change imports from "import 'typeface-niramit'" to "import 'fontsource-niramit/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

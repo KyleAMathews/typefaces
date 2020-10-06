@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-erica-one" with "fontsource-erica-one"
+"typeface-erica-one" with "fontsource-erica-one".
 >
-> Then change imports from "import 'typeface-erica-one'" to "import 'fontsource-erica-one/latin.css'"
+> Then change imports from "import 'typeface-erica-one'" to "import 'fontsource-erica-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

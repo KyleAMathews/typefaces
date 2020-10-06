@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-odibee-sans" with "fontsource-odibee-sans"
+"typeface-odibee-sans" with "fontsource-odibee-sans".
 >
-> Then change imports from "import 'typeface-odibee-sans'" to "import 'fontsource-odibee-sans/latin.css'"
+> Then change imports from "import 'typeface-odibee-sans'" to "import 'fontsource-odibee-sans/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

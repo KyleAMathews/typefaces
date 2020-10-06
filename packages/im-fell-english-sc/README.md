@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-im-fell-english-sc" with "fontsource-im-fell-english-sc"
+"typeface-im-fell-english-sc" with "fontsource-im-fell-english-sc".
 >
-> Then change imports from "import 'typeface-im-fell-english-sc'" to "import 'fontsource-im-fell-english-sc/latin.css'"
+> Then change imports from "import 'typeface-im-fell-english-sc'" to "import 'fontsource-im-fell-english-sc/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

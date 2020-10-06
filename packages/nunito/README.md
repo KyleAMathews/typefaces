@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-nunito" with "fontsource-nunito"
+"typeface-nunito" with "fontsource-nunito".
 >
-> Then change imports from "import 'typeface-nunito'" to "import 'fontsource-nunito/latin.css'"
+> Then change imports from "import 'typeface-nunito'" to "import 'fontsource-nunito/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

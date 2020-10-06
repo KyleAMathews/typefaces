@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-david-libre" with "fontsource-david-libre"
+"typeface-david-libre" with "fontsource-david-libre".
 >
-> Then change imports from "import 'typeface-david-libre'" to "import 'fontsource-david-libre/latin.css'"
+> Then change imports from "import 'typeface-david-libre'" to "import 'fontsource-david-libre/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

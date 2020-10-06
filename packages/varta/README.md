@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-varta" with "fontsource-varta"
+"typeface-varta" with "fontsource-varta".
 >
-> Then change imports from "import 'typeface-varta'" to "import 'fontsource-varta/latin.css'"
+> Then change imports from "import 'typeface-varta'" to "import 'fontsource-varta/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

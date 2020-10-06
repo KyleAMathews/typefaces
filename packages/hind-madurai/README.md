@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-hind-madurai" with "fontsource-hind-madurai"
+"typeface-hind-madurai" with "fontsource-hind-madurai".
 >
-> Then change imports from "import 'typeface-hind-madurai'" to "import 'fontsource-hind-madurai/latin.css'"
+> Then change imports from "import 'typeface-hind-madurai'" to "import 'fontsource-hind-madurai/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

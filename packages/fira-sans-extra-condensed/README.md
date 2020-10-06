@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-fira-sans-extra-condensed" with "fontsource-fira-sans-extra-condensed"
+"typeface-fira-sans-extra-condensed" with "fontsource-fira-sans-extra-condensed".
 >
-> Then change imports from "import 'typeface-fira-sans-extra-condensed'" to "import 'fontsource-fira-sans-extra-condensed/latin.css'"
+> Then change imports from "import 'typeface-fira-sans-extra-condensed'" to "import 'fontsource-fira-sans-extra-condensed/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-oldenburg" with "fontsource-oldenburg"
+"typeface-oldenburg" with "fontsource-oldenburg".
 >
-> Then change imports from "import 'typeface-oldenburg'" to "import 'fontsource-oldenburg/latin.css'"
+> Then change imports from "import 'typeface-oldenburg'" to "import 'fontsource-oldenburg/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

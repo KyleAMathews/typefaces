@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-lilita-one" with "fontsource-lilita-one"
+"typeface-lilita-one" with "fontsource-lilita-one".
 >
-> Then change imports from "import 'typeface-lilita-one'" to "import 'fontsource-lilita-one/latin.css'"
+> Then change imports from "import 'typeface-lilita-one'" to "import 'fontsource-lilita-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

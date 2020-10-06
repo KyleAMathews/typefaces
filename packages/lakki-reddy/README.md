@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-lakki-reddy" with "fontsource-lakki-reddy"
+"typeface-lakki-reddy" with "fontsource-lakki-reddy".
 >
-> Then change imports from "import 'typeface-lakki-reddy'" to "import 'fontsource-lakki-reddy/latin.css'"
+> Then change imports from "import 'typeface-lakki-reddy'" to "import 'fontsource-lakki-reddy/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

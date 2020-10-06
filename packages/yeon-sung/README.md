@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-yeon-sung" with "fontsource-yeon-sung"
+"typeface-yeon-sung" with "fontsource-yeon-sung".
 >
-> Then change imports from "import 'typeface-yeon-sung'" to "import 'fontsource-yeon-sung/latin.css'"
+> Then change imports from "import 'typeface-yeon-sung'" to "import 'fontsource-yeon-sung/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

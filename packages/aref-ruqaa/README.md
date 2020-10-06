@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-aref-ruqaa" with "fontsource-aref-ruqaa"
+"typeface-aref-ruqaa" with "fontsource-aref-ruqaa".
 >
-> Then change imports from "import 'typeface-aref-ruqaa'" to "import 'fontsource-aref-ruqaa/latin.css'"
+> Then change imports from "import 'typeface-aref-ruqaa'" to "import 'fontsource-aref-ruqaa/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

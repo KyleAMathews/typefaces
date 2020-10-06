@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-rouge-script" with "fontsource-rouge-script"
+"typeface-rouge-script" with "fontsource-rouge-script".
 >
-> Then change imports from "import 'typeface-rouge-script'" to "import 'fontsource-rouge-script/latin.css'"
+> Then change imports from "import 'typeface-rouge-script'" to "import 'fontsource-rouge-script/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

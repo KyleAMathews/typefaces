@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-dawning-of-a-new-day" with "fontsource-dawning-of-a-new-day"
+"typeface-dawning-of-a-new-day" with "fontsource-dawning-of-a-new-day".
 >
-> Then change imports from "import 'typeface-dawning-of-a-new-day'" to "import 'fontsource-dawning-of-a-new-day/latin.css'"
+> Then change imports from "import 'typeface-dawning-of-a-new-day'" to "import 'fontsource-dawning-of-a-new-day/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

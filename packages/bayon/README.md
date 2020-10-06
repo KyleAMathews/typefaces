@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-bayon" with "fontsource-bayon"
+"typeface-bayon" with "fontsource-bayon".
 >
-> Then change imports from "import 'typeface-bayon'" to "import 'fontsource-bayon/latin.css'"
+> Then change imports from "import 'typeface-bayon'" to "import 'fontsource-bayon/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

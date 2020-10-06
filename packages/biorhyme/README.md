@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-biorhyme" with "fontsource-biorhyme"
+"typeface-biorhyme" with "fontsource-biorhyme".
 >
-> Then change imports from "import 'typeface-biorhyme'" to "import 'fontsource-biorhyme/latin.css'"
+> Then change imports from "import 'typeface-biorhyme'" to "import 'fontsource-biorhyme/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

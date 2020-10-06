@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-chivo" with "fontsource-chivo"
+"typeface-chivo" with "fontsource-chivo".
 >
-> Then change imports from "import 'typeface-chivo'" to "import 'fontsource-chivo/latin.css'"
+> Then change imports from "import 'typeface-chivo'" to "import 'fontsource-chivo/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

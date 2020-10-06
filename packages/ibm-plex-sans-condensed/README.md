@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-ibm-plex-sans-condensed" with "fontsource-ibm-plex-sans-condensed"
+"typeface-ibm-plex-sans-condensed" with "fontsource-ibm-plex-sans-condensed".
 >
-> Then change imports from "import 'typeface-ibm-plex-sans-condensed'" to "import 'fontsource-ibm-plex-sans-condensed/latin.css'"
+> Then change imports from "import 'typeface-ibm-plex-sans-condensed'" to "import 'fontsource-ibm-plex-sans-condensed/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

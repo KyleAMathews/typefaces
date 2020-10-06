@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-covered-by-your-grace" with "fontsource-covered-by-your-grace"
+"typeface-covered-by-your-grace" with "fontsource-covered-by-your-grace".
 >
-> Then change imports from "import 'typeface-covered-by-your-grace'" to "import 'fontsource-covered-by-your-grace/latin.css'"
+> Then change imports from "import 'typeface-covered-by-your-grace'" to "import 'fontsource-covered-by-your-grace/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

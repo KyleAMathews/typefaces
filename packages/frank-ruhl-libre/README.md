@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-frank-ruhl-libre" with "fontsource-frank-ruhl-libre"
+"typeface-frank-ruhl-libre" with "fontsource-frank-ruhl-libre".
 >
-> Then change imports from "import 'typeface-frank-ruhl-libre'" to "import 'fontsource-frank-ruhl-libre/latin.css'"
+> Then change imports from "import 'typeface-frank-ruhl-libre'" to "import 'fontsource-frank-ruhl-libre/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

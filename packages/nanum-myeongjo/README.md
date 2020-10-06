@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-nanum-myeongjo" with "fontsource-nanum-myeongjo"
+"typeface-nanum-myeongjo" with "fontsource-nanum-myeongjo".
 >
-> Then change imports from "import 'typeface-nanum-myeongjo'" to "import 'fontsource-nanum-myeongjo/latin.css'"
+> Then change imports from "import 'typeface-nanum-myeongjo'" to "import 'fontsource-nanum-myeongjo/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

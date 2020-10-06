@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-gurajada" with "fontsource-gurajada"
+"typeface-gurajada" with "fontsource-gurajada".
 >
-> Then change imports from "import 'typeface-gurajada'" to "import 'fontsource-gurajada/latin.css'"
+> Then change imports from "import 'typeface-gurajada'" to "import 'fontsource-gurajada/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

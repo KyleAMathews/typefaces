@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-lobster" with "fontsource-lobster"
+"typeface-lobster" with "fontsource-lobster".
 >
-> Then change imports from "import 'typeface-lobster'" to "import 'fontsource-lobster/latin.css'"
+> Then change imports from "import 'typeface-lobster'" to "import 'fontsource-lobster/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-mukta-vaani" with "fontsource-mukta-vaani"
+"typeface-mukta-vaani" with "fontsource-mukta-vaani".
 >
-> Then change imports from "import 'typeface-mukta-vaani'" to "import 'fontsource-mukta-vaani/latin.css'"
+> Then change imports from "import 'typeface-mukta-vaani'" to "import 'fontsource-mukta-vaani/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-copse" with "fontsource-copse"
+"typeface-copse" with "fontsource-copse".
 >
-> Then change imports from "import 'typeface-copse'" to "import 'fontsource-copse/latin.css'"
+> Then change imports from "import 'typeface-copse'" to "import 'fontsource-copse/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

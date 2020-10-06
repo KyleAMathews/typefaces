@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-rakkas" with "fontsource-rakkas"
+"typeface-rakkas" with "fontsource-rakkas".
 >
-> Then change imports from "import 'typeface-rakkas'" to "import 'fontsource-rakkas/latin.css'"
+> Then change imports from "import 'typeface-rakkas'" to "import 'fontsource-rakkas/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

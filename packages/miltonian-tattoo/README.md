@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-miltonian-tattoo" with "fontsource-miltonian-tattoo"
+"typeface-miltonian-tattoo" with "fontsource-miltonian-tattoo".
 >
-> Then change imports from "import 'typeface-miltonian-tattoo'" to "import 'fontsource-miltonian-tattoo/latin.css'"
+> Then change imports from "import 'typeface-miltonian-tattoo'" to "import 'fontsource-miltonian-tattoo/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

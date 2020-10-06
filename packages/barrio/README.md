@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-barrio" with "fontsource-barrio"
+"typeface-barrio" with "fontsource-barrio".
 >
-> Then change imports from "import 'typeface-barrio'" to "import 'fontsource-barrio/latin.css'"
+> Then change imports from "import 'typeface-barrio'" to "import 'fontsource-barrio/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

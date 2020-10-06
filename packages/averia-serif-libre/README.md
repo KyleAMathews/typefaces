@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-averia-serif-libre" with "fontsource-averia-serif-libre"
+"typeface-averia-serif-libre" with "fontsource-averia-serif-libre".
 >
-> Then change imports from "import 'typeface-averia-serif-libre'" to "import 'fontsource-averia-serif-libre/latin.css'"
+> Then change imports from "import 'typeface-averia-serif-libre'" to "import 'fontsource-averia-serif-libre/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

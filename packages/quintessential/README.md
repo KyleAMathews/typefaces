@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-quintessential" with "fontsource-quintessential"
+"typeface-quintessential" with "fontsource-quintessential".
 >
-> Then change imports from "import 'typeface-quintessential'" to "import 'fontsource-quintessential/latin.css'"
+> Then change imports from "import 'typeface-quintessential'" to "import 'fontsource-quintessential/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-amiri" with "fontsource-amiri"
+"typeface-amiri" with "fontsource-amiri".
 >
-> Then change imports from "import 'typeface-amiri'" to "import 'fontsource-amiri/latin.css'"
+> Then change imports from "import 'typeface-amiri'" to "import 'fontsource-amiri/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

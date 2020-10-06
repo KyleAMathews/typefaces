@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-staatliches" with "fontsource-staatliches"
+"typeface-staatliches" with "fontsource-staatliches".
 >
-> Then change imports from "import 'typeface-staatliches'" to "import 'fontsource-staatliches/latin.css'"
+> Then change imports from "import 'typeface-staatliches'" to "import 'fontsource-staatliches/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

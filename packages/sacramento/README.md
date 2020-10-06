@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-sacramento" with "fontsource-sacramento"
+"typeface-sacramento" with "fontsource-sacramento".
 >
-> Then change imports from "import 'typeface-sacramento'" to "import 'fontsource-sacramento/latin.css'"
+> Then change imports from "import 'typeface-sacramento'" to "import 'fontsource-sacramento/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

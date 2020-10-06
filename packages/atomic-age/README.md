@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-atomic-age" with "fontsource-atomic-age"
+"typeface-atomic-age" with "fontsource-atomic-age".
 >
-> Then change imports from "import 'typeface-atomic-age'" to "import 'fontsource-atomic-age/latin.css'"
+> Then change imports from "import 'typeface-atomic-age'" to "import 'fontsource-atomic-age/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

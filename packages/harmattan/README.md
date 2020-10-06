@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-harmattan" with "fontsource-harmattan"
+"typeface-harmattan" with "fontsource-harmattan".
 >
-> Then change imports from "import 'typeface-harmattan'" to "import 'fontsource-harmattan/latin.css'"
+> Then change imports from "import 'typeface-harmattan'" to "import 'fontsource-harmattan/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-macondo-swash-caps" with "fontsource-macondo-swash-caps"
+"typeface-macondo-swash-caps" with "fontsource-macondo-swash-caps".
 >
-> Then change imports from "import 'typeface-macondo-swash-caps'" to "import 'fontsource-macondo-swash-caps/latin.css'"
+> Then change imports from "import 'typeface-macondo-swash-caps'" to "import 'fontsource-macondo-swash-caps/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

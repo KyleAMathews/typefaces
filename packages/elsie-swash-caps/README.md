@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-elsie-swash-caps" with "fontsource-elsie-swash-caps"
+"typeface-elsie-swash-caps" with "fontsource-elsie-swash-caps".
 >
-> Then change imports from "import 'typeface-elsie-swash-caps'" to "import 'fontsource-elsie-swash-caps/latin.css'"
+> Then change imports from "import 'typeface-elsie-swash-caps'" to "import 'fontsource-elsie-swash-caps/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

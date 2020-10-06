@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-chilanka" with "fontsource-chilanka"
+"typeface-chilanka" with "fontsource-chilanka".
 >
-> Then change imports from "import 'typeface-chilanka'" to "import 'fontsource-chilanka/latin.css'"
+> Then change imports from "import 'typeface-chilanka'" to "import 'fontsource-chilanka/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-gentium-basic" with "fontsource-gentium-basic"
+"typeface-gentium-basic" with "fontsource-gentium-basic".
 >
-> Then change imports from "import 'typeface-gentium-basic'" to "import 'fontsource-gentium-basic/latin.css'"
+> Then change imports from "import 'typeface-gentium-basic'" to "import 'fontsource-gentium-basic/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

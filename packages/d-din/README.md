@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-d-din" with "fontsource-d-din"
+"typeface-d-din" with "fontsource-d-din".
 >
-> Then change imports from "import 'typeface-d-din'" to "import 'fontsource-d-din/latin.css'"
+> Then change imports from "import 'typeface-d-din'" to "import 'fontsource-d-din/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-purple-purse" with "fontsource-purple-purse"
+"typeface-purple-purse" with "fontsource-purple-purse".
 >
-> Then change imports from "import 'typeface-purple-purse'" to "import 'fontsource-purple-purse/latin.css'"
+> Then change imports from "import 'typeface-purple-purse'" to "import 'fontsource-purple-purse/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-chau-philomene-one" with "fontsource-chau-philomene-one"
+"typeface-chau-philomene-one" with "fontsource-chau-philomene-one".
 >
-> Then change imports from "import 'typeface-chau-philomene-one'" to "import 'fontsource-chau-philomene-one/latin.css'"
+> Then change imports from "import 'typeface-chau-philomene-one'" to "import 'fontsource-chau-philomene-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

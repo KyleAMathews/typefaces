@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-m-plus-1p" with "fontsource-m-plus-1p"
+"typeface-m-plus-1p" with "fontsource-m-plus-1p".
 >
-> Then change imports from "import 'typeface-m-plus-1p'" to "import 'fontsource-m-plus-1p/latin.css'"
+> Then change imports from "import 'typeface-m-plus-1p'" to "import 'fontsource-m-plus-1p/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

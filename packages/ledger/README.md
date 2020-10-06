@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-ledger" with "fontsource-ledger"
+"typeface-ledger" with "fontsource-ledger".
 >
-> Then change imports from "import 'typeface-ledger'" to "import 'fontsource-ledger/latin.css'"
+> Then change imports from "import 'typeface-ledger'" to "import 'fontsource-ledger/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

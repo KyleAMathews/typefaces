@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-ceviche-one" with "fontsource-ceviche-one"
+"typeface-ceviche-one" with "fontsource-ceviche-one".
 >
-> Then change imports from "import 'typeface-ceviche-one'" to "import 'fontsource-ceviche-one/latin.css'"
+> Then change imports from "import 'typeface-ceviche-one'" to "import 'fontsource-ceviche-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

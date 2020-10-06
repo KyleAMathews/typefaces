@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-great-vibes" with "fontsource-great-vibes"
+"typeface-great-vibes" with "fontsource-great-vibes".
 >
-> Then change imports from "import 'typeface-great-vibes'" to "import 'fontsource-great-vibes/latin.css'"
+> Then change imports from "import 'typeface-great-vibes'" to "import 'fontsource-great-vibes/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

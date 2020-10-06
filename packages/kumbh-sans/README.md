@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-kumbh-sans" with "fontsource-kumbh-sans"
+"typeface-kumbh-sans" with "fontsource-kumbh-sans".
 >
-> Then change imports from "import 'typeface-kumbh-sans'" to "import 'fontsource-kumbh-sans/latin.css'"
+> Then change imports from "import 'typeface-kumbh-sans'" to "import 'fontsource-kumbh-sans/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

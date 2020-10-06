@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-heebo" with "fontsource-heebo"
+"typeface-heebo" with "fontsource-heebo".
 >
-> Then change imports from "import 'typeface-heebo'" to "import 'fontsource-heebo/latin.css'"
+> Then change imports from "import 'typeface-heebo'" to "import 'fontsource-heebo/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

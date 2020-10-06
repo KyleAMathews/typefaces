@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-amatica-sc" with "fontsource-amatica-sc"
+"typeface-amatica-sc" with "fontsource-amatica-sc".
 >
-> Then change imports from "import 'typeface-amatica-sc'" to "import 'fontsource-amatica-sc/latin.css'"
+> Then change imports from "import 'typeface-amatica-sc'" to "import 'fontsource-amatica-sc/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

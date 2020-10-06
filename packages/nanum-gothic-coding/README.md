@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-nanum-gothic-coding" with "fontsource-nanum-gothic-coding"
+"typeface-nanum-gothic-coding" with "fontsource-nanum-gothic-coding".
 >
-> Then change imports from "import 'typeface-nanum-gothic-coding'" to "import 'fontsource-nanum-gothic-coding/latin.css'"
+> Then change imports from "import 'typeface-nanum-gothic-coding'" to "import 'fontsource-nanum-gothic-coding/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-convergence" with "fontsource-convergence"
+"typeface-convergence" with "fontsource-convergence".
 >
-> Then change imports from "import 'typeface-convergence'" to "import 'fontsource-convergence/latin.css'"
+> Then change imports from "import 'typeface-convergence'" to "import 'fontsource-convergence/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

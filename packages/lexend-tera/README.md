@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-lexend-tera" with "fontsource-lexend-tera"
+"typeface-lexend-tera" with "fontsource-lexend-tera".
 >
-> Then change imports from "import 'typeface-lexend-tera'" to "import 'fontsource-lexend-tera/latin.css'"
+> Then change imports from "import 'typeface-lexend-tera'" to "import 'fontsource-lexend-tera/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

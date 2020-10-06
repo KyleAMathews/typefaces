@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-coda-caption" with "fontsource-coda-caption"
+"typeface-coda-caption" with "fontsource-coda-caption".
 >
-> Then change imports from "import 'typeface-coda-caption'" to "import 'fontsource-coda-caption/latin.css'"
+> Then change imports from "import 'typeface-coda-caption'" to "import 'fontsource-coda-caption/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

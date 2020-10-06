@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-lovers-quarrel" with "fontsource-lovers-quarrel"
+"typeface-lovers-quarrel" with "fontsource-lovers-quarrel".
 >
-> Then change imports from "import 'typeface-lovers-quarrel'" to "import 'fontsource-lovers-quarrel/latin.css'"
+> Then change imports from "import 'typeface-lovers-quarrel'" to "import 'fontsource-lovers-quarrel/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

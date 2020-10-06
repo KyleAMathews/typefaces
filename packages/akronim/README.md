@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-akronim" with "fontsource-akronim"
+"typeface-akronim" with "fontsource-akronim".
 >
-> Then change imports from "import 'typeface-akronim'" to "import 'fontsource-akronim/latin.css'"
+> Then change imports from "import 'typeface-akronim'" to "import 'fontsource-akronim/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

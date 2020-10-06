@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-prosto-one" with "fontsource-prosto-one"
+"typeface-prosto-one" with "fontsource-prosto-one".
 >
-> Then change imports from "import 'typeface-prosto-one'" to "import 'fontsource-prosto-one/latin.css'"
+> Then change imports from "import 'typeface-prosto-one'" to "import 'fontsource-prosto-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

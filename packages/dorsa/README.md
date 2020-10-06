@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-dorsa" with "fontsource-dorsa"
+"typeface-dorsa" with "fontsource-dorsa".
 >
-> Then change imports from "import 'typeface-dorsa'" to "import 'fontsource-dorsa/latin.css'"
+> Then change imports from "import 'typeface-dorsa'" to "import 'fontsource-dorsa/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

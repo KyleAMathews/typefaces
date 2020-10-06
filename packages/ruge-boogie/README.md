@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-ruge-boogie" with "fontsource-ruge-boogie"
+"typeface-ruge-boogie" with "fontsource-ruge-boogie".
 >
-> Then change imports from "import 'typeface-ruge-boogie'" to "import 'fontsource-ruge-boogie/latin.css'"
+> Then change imports from "import 'typeface-ruge-boogie'" to "import 'fontsource-ruge-boogie/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

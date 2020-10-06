@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-shadows-into-light-two" with "fontsource-shadows-into-light-two"
+"typeface-shadows-into-light-two" with "fontsource-shadows-into-light-two".
 >
-> Then change imports from "import 'typeface-shadows-into-light-two'" to "import 'fontsource-shadows-into-light-two/latin.css'"
+> Then change imports from "import 'typeface-shadows-into-light-two'" to "import 'fontsource-shadows-into-light-two/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-iceberg" with "fontsource-iceberg"
+"typeface-iceberg" with "fontsource-iceberg".
 >
-> Then change imports from "import 'typeface-iceberg'" to "import 'fontsource-iceberg/latin.css'"
+> Then change imports from "import 'typeface-iceberg'" to "import 'fontsource-iceberg/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

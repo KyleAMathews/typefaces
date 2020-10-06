@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-wellfleet" with "fontsource-wellfleet"
+"typeface-wellfleet" with "fontsource-wellfleet".
 >
-> Then change imports from "import 'typeface-wellfleet'" to "import 'fontsource-wellfleet/latin.css'"
+> Then change imports from "import 'typeface-wellfleet'" to "import 'fontsource-wellfleet/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

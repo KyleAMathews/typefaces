@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-miriam-libre" with "fontsource-miriam-libre"
+"typeface-miriam-libre" with "fontsource-miriam-libre".
 >
-> Then change imports from "import 'typeface-miriam-libre'" to "import 'fontsource-miriam-libre/latin.css'"
+> Then change imports from "import 'typeface-miriam-libre'" to "import 'fontsource-miriam-libre/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

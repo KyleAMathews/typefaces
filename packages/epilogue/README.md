@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-epilogue" with "fontsource-epilogue"
+"typeface-epilogue" with "fontsource-epilogue".
 >
-> Then change imports from "import 'typeface-epilogue'" to "import 'fontsource-epilogue/latin.css'"
+> Then change imports from "import 'typeface-epilogue'" to "import 'fontsource-epilogue/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

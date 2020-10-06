@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-permanent-marker" with "fontsource-permanent-marker"
+"typeface-permanent-marker" with "fontsource-permanent-marker".
 >
-> Then change imports from "import 'typeface-permanent-marker'" to "import 'fontsource-permanent-marker/latin.css'"
+> Then change imports from "import 'typeface-permanent-marker'" to "import 'fontsource-permanent-marker/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-odor-mean-chey" with "fontsource-odor-mean-chey"
+"typeface-odor-mean-chey" with "fontsource-odor-mean-chey".
 >
-> Then change imports from "import 'typeface-odor-mean-chey'" to "import 'fontsource-odor-mean-chey/latin.css'"
+> Then change imports from "import 'typeface-odor-mean-chey'" to "import 'fontsource-odor-mean-chey/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

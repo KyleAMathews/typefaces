@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-kdam-thmor" with "fontsource-kdam-thmor"
+"typeface-kdam-thmor" with "fontsource-kdam-thmor".
 >
-> Then change imports from "import 'typeface-kdam-thmor'" to "import 'fontsource-kdam-thmor/latin.css'"
+> Then change imports from "import 'typeface-kdam-thmor'" to "import 'fontsource-kdam-thmor/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

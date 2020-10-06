@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-kosugi-maru" with "fontsource-kosugi-maru"
+"typeface-kosugi-maru" with "fontsource-kosugi-maru".
 >
-> Then change imports from "import 'typeface-kosugi-maru'" to "import 'fontsource-kosugi-maru/latin.css'"
+> Then change imports from "import 'typeface-kosugi-maru'" to "import 'fontsource-kosugi-maru/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

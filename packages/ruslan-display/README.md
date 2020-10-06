@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-ruslan-display" with "fontsource-ruslan-display"
+"typeface-ruslan-display" with "fontsource-ruslan-display".
 >
-> Then change imports from "import 'typeface-ruslan-display'" to "import 'fontsource-ruslan-display/latin.css'"
+> Then change imports from "import 'typeface-ruslan-display'" to "import 'fontsource-ruslan-display/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

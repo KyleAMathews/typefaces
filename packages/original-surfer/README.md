@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-original-surfer" with "fontsource-original-surfer"
+"typeface-original-surfer" with "fontsource-original-surfer".
 >
-> Then change imports from "import 'typeface-original-surfer'" to "import 'fontsource-original-surfer/latin.css'"
+> Then change imports from "import 'typeface-original-surfer'" to "import 'fontsource-original-surfer/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

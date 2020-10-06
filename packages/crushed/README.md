@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-crushed" with "fontsource-crushed"
+"typeface-crushed" with "fontsource-crushed".
 >
-> Then change imports from "import 'typeface-crushed'" to "import 'fontsource-crushed/latin.css'"
+> Then change imports from "import 'typeface-crushed'" to "import 'fontsource-crushed/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

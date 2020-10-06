@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-dm-serif-text" with "fontsource-dm-serif-text"
+"typeface-dm-serif-text" with "fontsource-dm-serif-text".
 >
-> Then change imports from "import 'typeface-dm-serif-text'" to "import 'fontsource-dm-serif-text/latin.css'"
+> Then change imports from "import 'typeface-dm-serif-text'" to "import 'fontsource-dm-serif-text/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

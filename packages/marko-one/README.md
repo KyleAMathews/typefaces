@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-marko-one" with "fontsource-marko-one"
+"typeface-marko-one" with "fontsource-marko-one".
 >
-> Then change imports from "import 'typeface-marko-one'" to "import 'fontsource-marko-one/latin.css'"
+> Then change imports from "import 'typeface-marko-one'" to "import 'fontsource-marko-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

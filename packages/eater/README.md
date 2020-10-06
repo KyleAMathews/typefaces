@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-eater" with "fontsource-eater"
+"typeface-eater" with "fontsource-eater".
 >
-> Then change imports from "import 'typeface-eater'" to "import 'fontsource-eater/latin.css'"
+> Then change imports from "import 'typeface-eater'" to "import 'fontsource-eater/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

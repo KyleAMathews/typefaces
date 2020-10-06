@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-fauna-one" with "fontsource-fauna-one"
+"typeface-fauna-one" with "fontsource-fauna-one".
 >
-> Then change imports from "import 'typeface-fauna-one'" to "import 'fontsource-fauna-one/latin.css'"
+> Then change imports from "import 'typeface-fauna-one'" to "import 'fontsource-fauna-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

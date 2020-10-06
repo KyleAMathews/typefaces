@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-bungee-hairline" with "fontsource-bungee-hairline"
+"typeface-bungee-hairline" with "fontsource-bungee-hairline".
 >
-> Then change imports from "import 'typeface-bungee-hairline'" to "import 'fontsource-bungee-hairline/latin.css'"
+> Then change imports from "import 'typeface-bungee-hairline'" to "import 'fontsource-bungee-hairline/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

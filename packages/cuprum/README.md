@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-cuprum" with "fontsource-cuprum"
+"typeface-cuprum" with "fontsource-cuprum".
 >
-> Then change imports from "import 'typeface-cuprum'" to "import 'fontsource-cuprum/latin.css'"
+> Then change imports from "import 'typeface-cuprum'" to "import 'fontsource-cuprum/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

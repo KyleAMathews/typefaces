@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-liu-jian-mao-cao" with "fontsource-liu-jian-mao-cao"
+"typeface-liu-jian-mao-cao" with "fontsource-liu-jian-mao-cao".
 >
-> Then change imports from "import 'typeface-liu-jian-mao-cao'" to "import 'fontsource-liu-jian-mao-cao/latin.css'"
+> Then change imports from "import 'typeface-liu-jian-mao-cao'" to "import 'fontsource-liu-jian-mao-cao/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

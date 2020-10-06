@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-markazi-text" with "fontsource-markazi-text"
+"typeface-markazi-text" with "fontsource-markazi-text".
 >
-> Then change imports from "import 'typeface-markazi-text'" to "import 'fontsource-markazi-text/latin.css'"
+> Then change imports from "import 'typeface-markazi-text'" to "import 'fontsource-markazi-text/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-bebas-neue" with "fontsource-bebas-neue"
+"typeface-bebas-neue" with "fontsource-bebas-neue".
 >
-> Then change imports from "import 'typeface-bebas-neue'" to "import 'fontsource-bebas-neue/latin.css'"
+> Then change imports from "import 'typeface-bebas-neue'" to "import 'fontsource-bebas-neue/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

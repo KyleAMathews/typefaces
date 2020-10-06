@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-mr-de-haviland" with "fontsource-mr-de-haviland"
+"typeface-mr-de-haviland" with "fontsource-mr-de-haviland".
 >
-> Then change imports from "import 'typeface-mr-de-haviland'" to "import 'fontsource-mr-de-haviland/latin.css'"
+> Then change imports from "import 'typeface-mr-de-haviland'" to "import 'fontsource-mr-de-haviland/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

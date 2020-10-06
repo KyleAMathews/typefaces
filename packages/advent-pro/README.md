@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-advent-pro" with "fontsource-advent-pro"
+"typeface-advent-pro" with "fontsource-advent-pro".
 >
-> Then change imports from "import 'typeface-advent-pro'" to "import 'fontsource-advent-pro/latin.css'"
+> Then change imports from "import 'typeface-advent-pro'" to "import 'fontsource-advent-pro/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

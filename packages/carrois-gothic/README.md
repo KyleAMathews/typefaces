@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-carrois-gothic" with "fontsource-carrois-gothic"
+"typeface-carrois-gothic" with "fontsource-carrois-gothic".
 >
-> Then change imports from "import 'typeface-carrois-gothic'" to "import 'fontsource-carrois-gothic/latin.css'"
+> Then change imports from "import 'typeface-carrois-gothic'" to "import 'fontsource-carrois-gothic/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

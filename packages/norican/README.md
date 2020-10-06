@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-norican" with "fontsource-norican"
+"typeface-norican" with "fontsource-norican".
 >
-> Then change imports from "import 'typeface-norican'" to "import 'fontsource-norican/latin.css'"
+> Then change imports from "import 'typeface-norican'" to "import 'fontsource-norican/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-hepta-slab" with "fontsource-hepta-slab"
+"typeface-hepta-slab" with "fontsource-hepta-slab".
 >
-> Then change imports from "import 'typeface-hepta-slab'" to "import 'fontsource-hepta-slab/latin.css'"
+> Then change imports from "import 'typeface-hepta-slab'" to "import 'fontsource-hepta-slab/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

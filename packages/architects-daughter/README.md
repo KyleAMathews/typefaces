@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-architects-daughter" with "fontsource-architects-daughter"
+"typeface-architects-daughter" with "fontsource-architects-daughter".
 >
-> Then change imports from "import 'typeface-architects-daughter'" to "import 'fontsource-architects-daughter/latin.css'"
+> Then change imports from "import 'typeface-architects-daughter'" to "import 'fontsource-architects-daughter/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

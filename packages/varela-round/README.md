@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-varela-round" with "fontsource-varela-round"
+"typeface-varela-round" with "fontsource-varela-round".
 >
-> Then change imports from "import 'typeface-varela-round'" to "import 'fontsource-varela-round/latin.css'"
+> Then change imports from "import 'typeface-varela-round'" to "import 'fontsource-varela-round/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

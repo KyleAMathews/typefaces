@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-anaheim" with "fontsource-anaheim"
+"typeface-anaheim" with "fontsource-anaheim".
 >
-> Then change imports from "import 'typeface-anaheim'" to "import 'fontsource-anaheim/latin.css'"
+> Then change imports from "import 'typeface-anaheim'" to "import 'fontsource-anaheim/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

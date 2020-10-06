@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-inria-sans" with "fontsource-inria-sans"
+"typeface-inria-sans" with "fontsource-inria-sans".
 >
-> Then change imports from "import 'typeface-inria-sans'" to "import 'fontsource-inria-sans/latin.css'"
+> Then change imports from "import 'typeface-inria-sans'" to "import 'fontsource-inria-sans/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

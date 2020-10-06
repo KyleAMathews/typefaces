@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-chelsea-market" with "fontsource-chelsea-market"
+"typeface-chelsea-market" with "fontsource-chelsea-market".
 >
-> Then change imports from "import 'typeface-chelsea-market'" to "import 'fontsource-chelsea-market/latin.css'"
+> Then change imports from "import 'typeface-chelsea-market'" to "import 'fontsource-chelsea-market/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-geostar" with "fontsource-geostar"
+"typeface-geostar" with "fontsource-geostar".
 >
-> Then change imports from "import 'typeface-geostar'" to "import 'fontsource-geostar/latin.css'"
+> Then change imports from "import 'typeface-geostar'" to "import 'fontsource-geostar/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

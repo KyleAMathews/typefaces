@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-sail" with "fontsource-sail"
+"typeface-sail" with "fontsource-sail".
 >
-> Then change imports from "import 'typeface-sail'" to "import 'fontsource-sail/latin.css'"
+> Then change imports from "import 'typeface-sail'" to "import 'fontsource-sail/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

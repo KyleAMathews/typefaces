@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-peddana" with "fontsource-peddana"
+"typeface-peddana" with "fontsource-peddana".
 >
-> Then change imports from "import 'typeface-peddana'" to "import 'fontsource-peddana/latin.css'"
+> Then change imports from "import 'typeface-peddana'" to "import 'fontsource-peddana/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-rubik-mono-one" with "fontsource-rubik-mono-one"
+"typeface-rubik-mono-one" with "fontsource-rubik-mono-one".
 >
-> Then change imports from "import 'typeface-rubik-mono-one'" to "import 'fontsource-rubik-mono-one/latin.css'"
+> Then change imports from "import 'typeface-rubik-mono-one'" to "import 'fontsource-rubik-mono-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-vast-shadow" with "fontsource-vast-shadow"
+"typeface-vast-shadow" with "fontsource-vast-shadow".
 >
-> Then change imports from "import 'typeface-vast-shadow'" to "import 'fontsource-vast-shadow/latin.css'"
+> Then change imports from "import 'typeface-vast-shadow'" to "import 'fontsource-vast-shadow/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

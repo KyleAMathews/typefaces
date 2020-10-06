@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-bitter" with "fontsource-bitter"
+"typeface-bitter" with "fontsource-bitter".
 >
-> Then change imports from "import 'typeface-bitter'" to "import 'fontsource-bitter/latin.css'"
+> Then change imports from "import 'typeface-bitter'" to "import 'fontsource-bitter/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

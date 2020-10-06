@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-carme" with "fontsource-carme"
+"typeface-carme" with "fontsource-carme".
 >
-> Then change imports from "import 'typeface-carme'" to "import 'fontsource-carme/latin.css'"
+> Then change imports from "import 'typeface-carme'" to "import 'fontsource-carme/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

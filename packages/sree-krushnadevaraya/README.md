@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-sree-krushnadevaraya" with "fontsource-sree-krushnadevaraya"
+"typeface-sree-krushnadevaraya" with "fontsource-sree-krushnadevaraya".
 >
-> Then change imports from "import 'typeface-sree-krushnadevaraya'" to "import 'fontsource-sree-krushnadevaraya/latin.css'"
+> Then change imports from "import 'typeface-sree-krushnadevaraya'" to "import 'fontsource-sree-krushnadevaraya/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

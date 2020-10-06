@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-domine" with "fontsource-domine"
+"typeface-domine" with "fontsource-domine".
 >
-> Then change imports from "import 'typeface-domine'" to "import 'fontsource-domine/latin.css'"
+> Then change imports from "import 'typeface-domine'" to "import 'fontsource-domine/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

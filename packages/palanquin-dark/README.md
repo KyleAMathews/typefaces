@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-palanquin-dark" with "fontsource-palanquin-dark"
+"typeface-palanquin-dark" with "fontsource-palanquin-dark".
 >
-> Then change imports from "import 'typeface-palanquin-dark'" to "import 'fontsource-palanquin-dark/latin.css'"
+> Then change imports from "import 'typeface-palanquin-dark'" to "import 'fontsource-palanquin-dark/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

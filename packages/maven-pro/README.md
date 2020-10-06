@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-maven-pro" with "fontsource-maven-pro"
+"typeface-maven-pro" with "fontsource-maven-pro".
 >
-> Then change imports from "import 'typeface-maven-pro'" to "import 'fontsource-maven-pro/latin.css'"
+> Then change imports from "import 'typeface-maven-pro'" to "import 'fontsource-maven-pro/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

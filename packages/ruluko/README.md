@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-ruluko" with "fontsource-ruluko"
+"typeface-ruluko" with "fontsource-ruluko".
 >
-> Then change imports from "import 'typeface-ruluko'" to "import 'fontsource-ruluko/latin.css'"
+> Then change imports from "import 'typeface-ruluko'" to "import 'fontsource-ruluko/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-junge" with "fontsource-junge"
+"typeface-junge" with "fontsource-junge".
 >
-> Then change imports from "import 'typeface-junge'" to "import 'fontsource-junge/latin.css'"
+> Then change imports from "import 'typeface-junge'" to "import 'fontsource-junge/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

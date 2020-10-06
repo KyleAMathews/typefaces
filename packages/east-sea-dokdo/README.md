@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-east-sea-dokdo" with "fontsource-east-sea-dokdo"
+"typeface-east-sea-dokdo" with "fontsource-east-sea-dokdo".
 >
-> Then change imports from "import 'typeface-east-sea-dokdo'" to "import 'fontsource-east-sea-dokdo/latin.css'"
+> Then change imports from "import 'typeface-east-sea-dokdo'" to "import 'fontsource-east-sea-dokdo/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

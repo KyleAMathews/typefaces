@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-itim" with "fontsource-itim"
+"typeface-itim" with "fontsource-itim".
 >
-> Then change imports from "import 'typeface-itim'" to "import 'fontsource-itim/latin.css'"
+> Then change imports from "import 'typeface-itim'" to "import 'fontsource-itim/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

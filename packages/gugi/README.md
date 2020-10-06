@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-gugi" with "fontsource-gugi"
+"typeface-gugi" with "fontsource-gugi".
 >
-> Then change imports from "import 'typeface-gugi'" to "import 'fontsource-gugi/latin.css'"
+> Then change imports from "import 'typeface-gugi'" to "import 'fontsource-gugi/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

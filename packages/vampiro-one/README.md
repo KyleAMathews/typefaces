@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-vampiro-one" with "fontsource-vampiro-one"
+"typeface-vampiro-one" with "fontsource-vampiro-one".
 >
-> Then change imports from "import 'typeface-vampiro-one'" to "import 'fontsource-vampiro-one/latin.css'"
+> Then change imports from "import 'typeface-vampiro-one'" to "import 'fontsource-vampiro-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

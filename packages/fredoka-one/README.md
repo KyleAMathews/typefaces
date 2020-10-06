@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-fredoka-one" with "fontsource-fredoka-one"
+"typeface-fredoka-one" with "fontsource-fredoka-one".
 >
-> Then change imports from "import 'typeface-fredoka-one'" to "import 'fontsource-fredoka-one/latin.css'"
+> Then change imports from "import 'typeface-fredoka-one'" to "import 'fontsource-fredoka-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-rhodium-libre" with "fontsource-rhodium-libre"
+"typeface-rhodium-libre" with "fontsource-rhodium-libre".
 >
-> Then change imports from "import 'typeface-rhodium-libre'" to "import 'fontsource-rhodium-libre/latin.css'"
+> Then change imports from "import 'typeface-rhodium-libre'" to "import 'fontsource-rhodium-libre/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

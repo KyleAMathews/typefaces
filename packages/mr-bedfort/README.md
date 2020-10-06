@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-mr-bedfort" with "fontsource-mr-bedfort"
+"typeface-mr-bedfort" with "fontsource-mr-bedfort".
 >
-> Then change imports from "import 'typeface-mr-bedfort'" to "import 'fontsource-mr-bedfort/latin.css'"
+> Then change imports from "import 'typeface-mr-bedfort'" to "import 'fontsource-mr-bedfort/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

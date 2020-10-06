@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-enriqueta" with "fontsource-enriqueta"
+"typeface-enriqueta" with "fontsource-enriqueta".
 >
-> Then change imports from "import 'typeface-enriqueta'" to "import 'fontsource-enriqueta/latin.css'"
+> Then change imports from "import 'typeface-enriqueta'" to "import 'fontsource-enriqueta/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

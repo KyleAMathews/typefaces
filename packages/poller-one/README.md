@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-poller-one" with "fontsource-poller-one"
+"typeface-poller-one" with "fontsource-poller-one".
 >
-> Then change imports from "import 'typeface-poller-one'" to "import 'fontsource-poller-one/latin.css'"
+> Then change imports from "import 'typeface-poller-one'" to "import 'fontsource-poller-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

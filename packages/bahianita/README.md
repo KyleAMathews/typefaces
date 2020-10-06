@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-bahianita" with "fontsource-bahianita"
+"typeface-bahianita" with "fontsource-bahianita".
 >
-> Then change imports from "import 'typeface-bahianita'" to "import 'fontsource-bahianita/latin.css'"
+> Then change imports from "import 'typeface-bahianita'" to "import 'fontsource-bahianita/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

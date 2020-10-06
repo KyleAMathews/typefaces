@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-gidole" with "fontsource-gidole"
+"typeface-gidole" with "fontsource-gidole".
 >
-> Then change imports from "import 'typeface-gidole'" to "import 'fontsource-gidole/latin.css'"
+> Then change imports from "import 'typeface-gidole'" to "import 'fontsource-gidole/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

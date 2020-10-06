@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-saira-condensed" with "fontsource-saira-condensed"
+"typeface-saira-condensed" with "fontsource-saira-condensed".
 >
-> Then change imports from "import 'typeface-saira-condensed'" to "import 'fontsource-saira-condensed/latin.css'"
+> Then change imports from "import 'typeface-saira-condensed'" to "import 'fontsource-saira-condensed/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

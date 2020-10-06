@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-reenie-beanie" with "fontsource-reenie-beanie"
+"typeface-reenie-beanie" with "fontsource-reenie-beanie".
 >
-> Then change imports from "import 'typeface-reenie-beanie'" to "import 'fontsource-reenie-beanie/latin.css'"
+> Then change imports from "import 'typeface-reenie-beanie'" to "import 'fontsource-reenie-beanie/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

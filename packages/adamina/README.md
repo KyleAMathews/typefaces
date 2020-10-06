@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-adamina" with "fontsource-adamina"
+"typeface-adamina" with "fontsource-adamina".
 >
-> Then change imports from "import 'typeface-adamina'" to "import 'fontsource-adamina/latin.css'"
+> Then change imports from "import 'typeface-adamina'" to "import 'fontsource-adamina/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

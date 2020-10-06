@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-butterfly-kids" with "fontsource-butterfly-kids"
+"typeface-butterfly-kids" with "fontsource-butterfly-kids".
 >
-> Then change imports from "import 'typeface-butterfly-kids'" to "import 'fontsource-butterfly-kids/latin.css'"
+> Then change imports from "import 'typeface-butterfly-kids'" to "import 'fontsource-butterfly-kids/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-offside" with "fontsource-offside"
+"typeface-offside" with "fontsource-offside".
 >
-> Then change imports from "import 'typeface-offside'" to "import 'fontsource-offside/latin.css'"
+> Then change imports from "import 'typeface-offside'" to "import 'fontsource-offside/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

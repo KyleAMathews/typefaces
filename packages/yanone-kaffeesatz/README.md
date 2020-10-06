@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-yanone-kaffeesatz" with "fontsource-yanone-kaffeesatz"
+"typeface-yanone-kaffeesatz" with "fontsource-yanone-kaffeesatz".
 >
-> Then change imports from "import 'typeface-yanone-kaffeesatz'" to "import 'fontsource-yanone-kaffeesatz/latin.css'"
+> Then change imports from "import 'typeface-yanone-kaffeesatz'" to "import 'fontsource-yanone-kaffeesatz/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

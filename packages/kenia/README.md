@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-kenia" with "fontsource-kenia"
+"typeface-kenia" with "fontsource-kenia".
 >
-> Then change imports from "import 'typeface-kenia'" to "import 'fontsource-kenia/latin.css'"
+> Then change imports from "import 'typeface-kenia'" to "import 'fontsource-kenia/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

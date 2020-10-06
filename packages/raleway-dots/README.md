@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-raleway-dots" with "fontsource-raleway-dots"
+"typeface-raleway-dots" with "fontsource-raleway-dots".
 >
-> Then change imports from "import 'typeface-raleway-dots'" to "import 'fontsource-raleway-dots/latin.css'"
+> Then change imports from "import 'typeface-raleway-dots'" to "import 'fontsource-raleway-dots/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

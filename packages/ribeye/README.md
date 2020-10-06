@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-ribeye" with "fontsource-ribeye"
+"typeface-ribeye" with "fontsource-ribeye".
 >
-> Then change imports from "import 'typeface-ribeye'" to "import 'fontsource-ribeye/latin.css'"
+> Then change imports from "import 'typeface-ribeye'" to "import 'fontsource-ribeye/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

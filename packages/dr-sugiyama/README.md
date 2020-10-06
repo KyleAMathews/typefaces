@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-dr-sugiyama" with "fontsource-dr-sugiyama"
+"typeface-dr-sugiyama" with "fontsource-dr-sugiyama".
 >
-> Then change imports from "import 'typeface-dr-sugiyama'" to "import 'fontsource-dr-sugiyama/latin.css'"
+> Then change imports from "import 'typeface-dr-sugiyama'" to "import 'fontsource-dr-sugiyama/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

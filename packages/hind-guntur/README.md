@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-hind-guntur" with "fontsource-hind-guntur"
+"typeface-hind-guntur" with "fontsource-hind-guntur".
 >
-> Then change imports from "import 'typeface-hind-guntur'" to "import 'fontsource-hind-guntur/latin.css'"
+> Then change imports from "import 'typeface-hind-guntur'" to "import 'fontsource-hind-guntur/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

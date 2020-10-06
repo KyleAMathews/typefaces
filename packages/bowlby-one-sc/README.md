@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-bowlby-one-sc" with "fontsource-bowlby-one-sc"
+"typeface-bowlby-one-sc" with "fontsource-bowlby-one-sc".
 >
-> Then change imports from "import 'typeface-bowlby-one-sc'" to "import 'fontsource-bowlby-one-sc/latin.css'"
+> Then change imports from "import 'typeface-bowlby-one-sc'" to "import 'fontsource-bowlby-one-sc/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

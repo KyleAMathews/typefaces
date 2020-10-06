@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-noto-serif-kr" with "fontsource-noto-serif-kr"
+"typeface-noto-serif-kr" with "fontsource-noto-serif-kr".
 >
-> Then change imports from "import 'typeface-noto-serif-kr'" to "import 'fontsource-noto-serif-kr/latin.css'"
+> Then change imports from "import 'typeface-noto-serif-kr'" to "import 'fontsource-noto-serif-kr/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

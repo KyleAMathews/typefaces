@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-homemade-apple" with "fontsource-homemade-apple"
+"typeface-homemade-apple" with "fontsource-homemade-apple".
 >
-> Then change imports from "import 'typeface-homemade-apple'" to "import 'fontsource-homemade-apple/latin.css'"
+> Then change imports from "import 'typeface-homemade-apple'" to "import 'fontsource-homemade-apple/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

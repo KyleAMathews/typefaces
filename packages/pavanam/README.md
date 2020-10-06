@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-pavanam" with "fontsource-pavanam"
+"typeface-pavanam" with "fontsource-pavanam".
 >
-> Then change imports from "import 'typeface-pavanam'" to "import 'fontsource-pavanam/latin.css'"
+> Then change imports from "import 'typeface-pavanam'" to "import 'fontsource-pavanam/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

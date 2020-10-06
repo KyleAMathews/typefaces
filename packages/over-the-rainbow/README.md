@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-over-the-rainbow" with "fontsource-over-the-rainbow"
+"typeface-over-the-rainbow" with "fontsource-over-the-rainbow".
 >
-> Then change imports from "import 'typeface-over-the-rainbow'" to "import 'fontsource-over-the-rainbow/latin.css'"
+> Then change imports from "import 'typeface-over-the-rainbow'" to "import 'fontsource-over-the-rainbow/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

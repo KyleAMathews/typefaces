@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-tenor-sans" with "fontsource-tenor-sans"
+"typeface-tenor-sans" with "fontsource-tenor-sans".
 >
-> Then change imports from "import 'typeface-tenor-sans'" to "import 'fontsource-tenor-sans/latin.css'"
+> Then change imports from "import 'typeface-tenor-sans'" to "import 'fontsource-tenor-sans/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

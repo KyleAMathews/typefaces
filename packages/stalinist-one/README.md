@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-stalinist-one" with "fontsource-stalinist-one"
+"typeface-stalinist-one" with "fontsource-stalinist-one".
 >
-> Then change imports from "import 'typeface-stalinist-one'" to "import 'fontsource-stalinist-one/latin.css'"
+> Then change imports from "import 'typeface-stalinist-one'" to "import 'fontsource-stalinist-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

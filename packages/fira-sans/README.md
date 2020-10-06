@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-fira-sans" with "fontsource-fira-sans"
+"typeface-fira-sans" with "fontsource-fira-sans".
 >
-> Then change imports from "import 'typeface-fira-sans'" to "import 'fontsource-fira-sans/latin.css'"
+> Then change imports from "import 'typeface-fira-sans'" to "import 'fontsource-fira-sans/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

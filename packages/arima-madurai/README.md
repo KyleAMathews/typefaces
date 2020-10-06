@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-arima-madurai" with "fontsource-arima-madurai"
+"typeface-arima-madurai" with "fontsource-arima-madurai".
 >
-> Then change imports from "import 'typeface-arima-madurai'" to "import 'fontsource-arima-madurai/latin.css'"
+> Then change imports from "import 'typeface-arima-madurai'" to "import 'fontsource-arima-madurai/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

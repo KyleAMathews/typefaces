@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-changa" with "fontsource-changa"
+"typeface-changa" with "fontsource-changa".
 >
-> Then change imports from "import 'typeface-changa'" to "import 'fontsource-changa/latin.css'"
+> Then change imports from "import 'typeface-changa'" to "import 'fontsource-changa/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

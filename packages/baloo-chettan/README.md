@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-baloo-chettan" with "fontsource-baloo-chettan"
+"typeface-baloo-chettan" with "fontsource-baloo-chettan".
 >
-> Then change imports from "import 'typeface-baloo-chettan'" to "import 'fontsource-baloo-chettan/latin.css'"
+> Then change imports from "import 'typeface-baloo-chettan'" to "import 'fontsource-baloo-chettan/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

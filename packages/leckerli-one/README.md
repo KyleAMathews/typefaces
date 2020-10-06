@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-leckerli-one" with "fontsource-leckerli-one"
+"typeface-leckerli-one" with "fontsource-leckerli-one".
 >
-> Then change imports from "import 'typeface-leckerli-one'" to "import 'fontsource-leckerli-one/latin.css'"
+> Then change imports from "import 'typeface-leckerli-one'" to "import 'fontsource-leckerli-one/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -4,9 +4,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-cherry-cream-soda" with "fontsource-cherry-cream-soda"
+"typeface-cherry-cream-soda" with "fontsource-cherry-cream-soda".
 >
-> Then change imports from "import 'typeface-cherry-cream-soda'" to "import 'fontsource-cherry-cream-soda/latin.css'"
+> Then change imports from "import 'typeface-cherry-cream-soda'" to "import 'fontsource-cherry-cream-soda/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.
