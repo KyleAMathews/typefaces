@@ -39,7 +39,9 @@ exports.fontFace = _.template(
 );
 
 exports.readme = _.template(
-  `>The Typefaces project is now deprecated. @DecliningLotus created
+  `>The Typefaces project is now deprecated.
+
+@DecliningLotus created
 [FontSource](https://github.com/fontsource/fontsource) which provides the
 same functionality as Typefaces but with automated releases & richer
 support for importing specific weights, styles, or language subsets.

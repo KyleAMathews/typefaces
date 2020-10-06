@@ -1,4 +1,6 @@
->The Typefaces project is now deprecated. @DecliningLotus created
+>The Typefaces project is now deprecated.
+
+@DecliningLotus created
 [FontSource](https://github.com/fontsource/fontsource) which provides the
 same functionality as Typefaces but with automated releases & richer
 support for importing specific weights, styles, or language subsets.
@@ -39,7 +41,7 @@ require('typeface-ibm-plex-sans-condensed')
 ## About the Typefaces project.
 
 Our goal is to add all open source fonts to NPM to simplify using great fonts in
-our web projects. We’re currently maintaining 1038 typeface packages
+our web projects. We’re currently maintaining 1037 typeface packages
 including all typefaces on Google Fonts.
 
 If your favorite typeface isn’t published yet, [let us know](https://github.com/KyleAMathews/typefaces)
