@@ -8,10 +8,10 @@ const packages = fs
   .map((dirent) => dirent.name);
 const packagesCount = packages.length;
 
-const filteredPackages = packages.filter((p) => p > "noticia-text");
-console.log(filteredPackages);
+// const filteredPackages = packages.filter((p) => p > "noticia-text");
+// console.log(filteredPackages);
 
-filteredPackages.forEach((p) => {
+packages.forEach((p) => {
   const typefaceId = p;
   const typefaceDir = `packages/${typefaceId}`;
 

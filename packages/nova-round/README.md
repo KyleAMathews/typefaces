@@ -1,6 +1,6 @@
 >The Typefaces project is now deprecated.
-
-@DecliningLotus created
+>
+>@DecliningLotus created
 [FontSource](https://github.com/fontsource/fontsource) which provides the
 same functionality as Typefaces but with automated releases & richer
 support for importing specific weights, styles, or language subsets.
