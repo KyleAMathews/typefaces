@@ -1,7 +1,7 @@
 >The Typefaces project is now deprecated. @DecliningLotus created
 [FontSource](https://github.com/fontsource/fontsource) which provides the
 same functionality as Typefaces but with automated releases & richer
-support for importing weight, style, or language subsets.
+support for importing specific weight, style, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
 "typeface-unna" with "fontsource-unna".
@@ -39,7 +39,7 @@ require('typeface-unna')
 ## About the Typefaces project.
 
 Our goal is to add all open source fonts to NPM to simplify using great fonts in
-our web projects. We’re currently maintaining 1040 typeface packages
+our web projects. We’re currently maintaining 1039 typeface packages
 including all typefaces on Google Fonts.
 
 If your favorite typeface isn’t published yet, [let us know](https://github.com/KyleAMathews/typefaces)
