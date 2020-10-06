@@ -8,7 +8,10 @@ const packages = fs
   .map((dirent) => dirent.name);
 const packagesCount = packages.length;
 
-packages.forEach((p) => {
+const filteredPackages = packages.filter((p) => p > "nosifer");
+console.log(filteredPackages);
+
+filteredPackages.forEach((p) => {
   const typefaceId = p;
   const typefaceDir = `packages/${typefaceId}`;
 
