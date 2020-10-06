@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-nova-mono" with "fontsource-nova-mono"
+>
+> Then change imports from "import 'typeface-nova-mono'" to "import 'fontsource-nova-mono/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

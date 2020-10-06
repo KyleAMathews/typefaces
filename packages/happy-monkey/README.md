@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-happy-monkey" with "fontsource-happy-monkey"
+>
+> Then change imports from "import 'typeface-happy-monkey'" to "import 'fontsource-happy-monkey/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

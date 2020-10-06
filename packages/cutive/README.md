@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-cutive" with "fontsource-cutive"
+>
+> Then change imports from "import 'typeface-cutive'" to "import 'fontsource-cutive/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

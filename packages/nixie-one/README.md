@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-nixie-one" with "fontsource-nixie-one"
+>
+> Then change imports from "import 'typeface-nixie-one'" to "import 'fontsource-nixie-one/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

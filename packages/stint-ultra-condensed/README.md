@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-stint-ultra-condensed" with "fontsource-stint-ultra-condensed"
+>
+> Then change imports from "import 'typeface-stint-ultra-condensed'" to "import 'fontsource-stint-ultra-condensed/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

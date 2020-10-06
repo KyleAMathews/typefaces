@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-antic-didone" with "fontsource-antic-didone"
+>
+> Then change imports from "import 'typeface-antic-didone'" to "import 'fontsource-antic-didone/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

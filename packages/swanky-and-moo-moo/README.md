@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-swanky-and-moo-moo" with "fontsource-swanky-and-moo-moo"
+>
+> Then change imports from "import 'typeface-swanky-and-moo-moo'" to "import 'fontsource-swanky-and-moo-moo/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

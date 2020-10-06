@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-encode-sans-semi-expanded" with "fontsource-encode-sans-semi-expanded"
+>
+> Then change imports from "import 'typeface-encode-sans-semi-expanded'" to "import 'fontsource-encode-sans-semi-expanded/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

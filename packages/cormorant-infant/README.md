@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-cormorant-infant" with "fontsource-cormorant-infant"
+>
+> Then change imports from "import 'typeface-cormorant-infant'" to "import 'fontsource-cormorant-infant/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

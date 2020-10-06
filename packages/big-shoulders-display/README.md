@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-big-shoulders-display" with "fontsource-big-shoulders-display"
+>
+> Then change imports from "import 'typeface-big-shoulders-display'" to "import 'fontsource-big-shoulders-display/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

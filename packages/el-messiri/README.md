@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-el-messiri" with "fontsource-el-messiri"
+>
+> Then change imports from "import 'typeface-el-messiri'" to "import 'fontsource-el-messiri/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

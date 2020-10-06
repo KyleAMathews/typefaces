@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-mountains-of-christmas" with "fontsource-mountains-of-christmas"
+>
+> Then change imports from "import 'typeface-mountains-of-christmas'" to "import 'fontsource-mountains-of-christmas/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

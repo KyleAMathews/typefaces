@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-nothing-you-could-do" with "fontsource-nothing-you-could-do"
+>
+> Then change imports from "import 'typeface-nothing-you-could-do'" to "import 'fontsource-nothing-you-could-do/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

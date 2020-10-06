@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-major-mono-display" with "fontsource-major-mono-display"
+>
+> Then change imports from "import 'typeface-major-mono-display'" to "import 'fontsource-major-mono-display/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

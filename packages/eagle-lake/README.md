@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-eagle-lake" with "fontsource-eagle-lake"
+>
+> Then change imports from "import 'typeface-eagle-lake'" to "import 'fontsource-eagle-lake/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

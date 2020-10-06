@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-source-serif-pro" with "fontsource-source-serif-pro"
+>
+> Then change imports from "import 'typeface-source-serif-pro'" to "import 'fontsource-source-serif-pro/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

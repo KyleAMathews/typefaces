@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-alegreya-sans-sc" with "fontsource-alegreya-sans-sc"
+>
+> Then change imports from "import 'typeface-alegreya-sans-sc'" to "import 'fontsource-alegreya-sans-sc/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

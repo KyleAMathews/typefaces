@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-kadwa" with "fontsource-kadwa"
+>
+> Then change imports from "import 'typeface-kadwa'" to "import 'fontsource-kadwa/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

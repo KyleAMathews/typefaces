@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-im-fell-great-primer" with "fontsource-im-fell-great-primer"
+>
+> Then change imports from "import 'typeface-im-fell-great-primer'" to "import 'fontsource-im-fell-great-primer/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

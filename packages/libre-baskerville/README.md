@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-libre-baskerville" with "fontsource-libre-baskerville"
+>
+> Then change imports from "import 'typeface-libre-baskerville'" to "import 'fontsource-libre-baskerville/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

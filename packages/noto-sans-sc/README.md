@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-noto-sans-sc" with "fontsource-noto-sans-sc"
+>
+> Then change imports from "import 'typeface-noto-sans-sc'" to "import 'fontsource-noto-sans-sc/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

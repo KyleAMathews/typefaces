@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-jolly-lodger" with "fontsource-jolly-lodger"
+>
+> Then change imports from "import 'typeface-jolly-lodger'" to "import 'fontsource-jolly-lodger/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

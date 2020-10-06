@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-saira-stencil-one" with "fontsource-saira-stencil-one"
+>
+> Then change imports from "import 'typeface-saira-stencil-one'" to "import 'fontsource-saira-stencil-one/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

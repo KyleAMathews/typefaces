@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-autour-one" with "fontsource-autour-one"
+>
+> Then change imports from "import 'typeface-autour-one'" to "import 'fontsource-autour-one/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

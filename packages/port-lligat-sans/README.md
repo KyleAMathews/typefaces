@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-port-lligat-sans" with "fontsource-port-lligat-sans"
+>
+> Then change imports from "import 'typeface-port-lligat-sans'" to "import 'fontsource-port-lligat-sans/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.

@@ -3,8 +3,10 @@
 same functionality as Typefaces but with automated releases & richer
 support for importing weight, style, or language subsets.
 >
->To start using Fontsource, replace in your package.json and code files any instances of
+>To start using Fontsource, replace in your package.json any instances of
 "typeface-mrs-sheppards" with "fontsource-mrs-sheppards"
+>
+> Then change imports from "import 'typeface-mrs-sheppards'" to "import 'fontsource-mrs-sheppards/latin.css'"
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.
