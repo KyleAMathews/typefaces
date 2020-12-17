@@ -1,0 +1,39 @@
+/* glacial-indifference-400normal - latin */
+@font-face {
+  font-family: 'Glacial Indifference';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Glacial Indifference Regular normal'),
+    local('Glacial Indifference-Regularnormal'),
+    url('./files/glacial-indifference-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/glacial-indifference-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* glacial-indifference-400italic - latin */
+@font-face {
+  font-family: 'Glacial Indifference';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Glacial Indifference Regular italic'),
+    local('Glacial Indifference-Regularitalic'),
+    url('./files/glacial-indifference-400italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/glacial-indifference-400italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* glacial-indifference-700normal - latin */
+@font-face {
+  font-family: 'Glacial Indifference';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Glacial Indifference Bold normal'),
+    local('Glacial Indifference-Boldnormal'),
+    url('./files/glacial-indifference-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/glacial-indifference-700.woff') format('woff'); /* Modern Browsers */
+}
+
