@@ -4,7 +4,7 @@
     "lerna": "^2.0.0"
   },
   "dependencies": {
-    "async": "^2.1.5",
+    "async": "^3.2.2",
     "bluebird": "^3.5.0",
     "fs-extra": "^2.0.0",
     "glob": "^7.1.2",
