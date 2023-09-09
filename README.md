@@ -6,9 +6,9 @@ same functionality as Typefaces but with automated releases & richer
 support for importing specific weights, styles, or language subsets.
 >
 >To start using Fontsource, replace in your package.json any instances of
-"typeface-*" with "fontsource-*".
+"typeface-*" with "@fontsource/*".
 >
-> Then change imports from e.g. "import 'typeface-roboto'" to "import 'fontsource-roboto/latin.css'".
+> Then change imports from e.g. "import 'typeface-roboto'" to "import '@fontsource/roboto/latin.css'".
 >
 >Typeface packages will continue working indefinitely so no immediate
 >changes are necessary.
