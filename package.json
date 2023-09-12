@@ -13,7 +13,7 @@
     "mt-files-downloader": "^0.2.5",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
-    "shelljs": "^0.7.8",
+    "shelljs": "^0.8.5",
     "single-line-log": "^1.1.2",
     "sync-request": "^4.1.0",
     "ttf2woff2": "^2.0.3"
