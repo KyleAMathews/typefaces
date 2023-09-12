@@ -29,8 +29,8 @@ exports.fontFace = _.template(
   font-display: swap;
   font-weight: <%= weight %>;
   src:
-    local('<%= typefaceName %> <%= commonWeightName %> <%= style %>'),
-    local('<%= typefaceName %>-<%= commonWeightName %><%= style %>'),
+    local('<%= typefaceLocalName %>'),
+    local('<%= typefaceLocalName2 %>'),
     url('<%= woff2Path %>') format('woff2'), /* Super Modern Browsers */
     url('<%= woffPath %>') format('woff'); /* Modern Browsers */
 }
@@ -77,6 +77,17 @@ To use, simply require the package in your project’s entry file e.g.
 \`\`\`javascript
 // Load <%= typefaceName %> typeface
 require('typeface-<%= typefaceId %>')
+\`\`\`
+
+By default only basic subset of characters is included in the font file (it's Latin in most cases).
+To add another one along the default, import specific CSS file.
+
+\`\`\`javascript
+// Load <%= typefaceName %> typeface with Latin plus Latin Extended subset
+require('typeface-<%= typefaceId %>/latin-ext.css')
+
+// Default subset is Latin
+require('typeface-<%= typefaceId %>/latin.css') === require('typeface-<%= typefaceId %>')
 \`\`\`
 
 ## About the Typefaces project.
