@@ -27,7 +27,7 @@ https://www.bricolage.io/typefaces-easiest-way-to-self-host-fonts/
 request*. [In my
 testing](https://github.com/reactiflux/reactiflux.com/pull/21), I’ve
 found replacing Google Fonts with a self-hosted font can improve a
-site’s speedindex by ~300 miliseconds on desktop and 1+ seconds on 3g.
+site’s speed index by ~300 milliseconds on desktop and 1+ seconds on 3g.
 This is a big deal.
 * Your *fonts load offline*. It’s annoying to start working on a web
   project on the train or airplane and see your interface screwed up
@@ -40,7 +40,7 @@ Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-
 and
 [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family).
 * All web(site|app) dependencies should be managed through NPM whenever
-  possible. Tis the modern way.
+  possible. This the modern way.
 
 ## What
 
@@ -107,9 +107,9 @@ API](https://www.fontsquirrel.com/blog/2010/12/the-font-squirrel-api).
 additional css files e.g. `require('open-sans/greek.css')`?
 * Ship fallback css helpers — figuring out your fallback css isn’t
   particularly easy. Perhaps there’s a way to automate this. E.g. if
-you’re using typeface X at fontsize Y with fallback font Z, here’s a
+you’re using typeface X at font size Y with fallback font Z, here’s a
 function to generate the fallback css.
-* Explore futher optimizations for loading fonts.
+* Explore further optimizations for loading fonts.
   https://www.zachleat.com/web/comprehensive-webfonts/ has a long list.
 Most require painful per-project scripting. What if the best strategies
 could be automated?
