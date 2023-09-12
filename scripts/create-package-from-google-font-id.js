@@ -9,7 +9,7 @@ const md5Dir = require(`md5-dir`)
 const log = require("single-line-log").stdout
 const _ = require("lodash")
 
-const { packageJson, fontFace, readme } = require(`./templates`)
+const { packageJson, fontFace, scssHeader, readme } = require(`./templates`)
 const download = require(`./download-file`)
 const commonWeightNameMap = require(`./common-weight-name-map`)
 
@@ -40,12 +40,18 @@ fs.writeFileSync(typefaceDir + `/.gitignore`, "/files")
 fs.writeFileSync(typefaceDir + `/.npmignore`, "")
 fs.writeFileSync(typefaceDir + `/files/.gitignore`, "")
 
-const makeFontFilePath = (item, extension) => {
+const makeFontFilePath = (item, extension, syntax) => {
   let style = ""
   if (item.fontStyle !== `normal`) {
     style = item.fontStyle
   }
-  return `./files/${typeface.id}-${typeface.defSubset}-${item.fontWeight}${style}.${extension}`
+  let basePath = "./files"
+  switch (syntax) {
+    case "scss":
+      basePath = `#{$${typeface.id}-font-path}`
+      break;
+  }
+  return `${basePath}/${typeface.id}-${typeface.defSubset}-${item.fontWeight}${style}.${extension}`
 }
 
 // Download all font files.
@@ -95,7 +101,7 @@ async.map(
           // console.log(
           // `The md5 hash of the new font files haven't changed (meaning no font files have changed) so exiting`
           // )
-          process.exit()
+          //process.exit()
         } else {
         }
       }
@@ -126,7 +132,7 @@ async.map(
 
       fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
-      // Write out index.css file
+      // Write out index.css and index.scss files
       const variants = _.sortBy(typeface.variants, item => {
         let sortString = item.fontWeight
         if (item.fontStyle === `italic`) {
@@ -134,28 +140,40 @@ async.map(
         }
         return sortString
       })
-      css = variants.map(item => {
-        if (item.errored) {
-          return false
+      for (const syntax of ['css', 'scss']) {
+        const styles = []
+        let filename = "index.css"
+        switch (syntax) {
+          case "scss":
+            styles.push(scssHeader({
+              typefaceId: typeface.id,
+            }))
+            filename = "_typeface.scss"
+            break;
         }
-        let style = ""
-        if (item.fontStyle !== `normal`) {
-          style = item.fontStyle
-        }
-        return fontFace({
-          typefaceId: typeface.id,
-          typefaceName: typeface.family,
-          style,
-          styleWithNormal: item.fontStyle,
-          weight: item.fontWeight,
-          commonWeightName: commonWeightNameMap(item.fontWeight),
-          woffPath: makeFontFilePath(item, "woff"),
-          woff2Path: makeFontFilePath(item, "woff2"),
+        variants.forEach(item => {
+          if (item.errored) {
+            return false
+          }
+          let style = ""
+          if (item.fontStyle !== `normal`) {
+            style = item.fontStyle
+          }
+          styles.push(fontFace({
+            typefaceId: typeface.id,
+            typefaceName: typeface.family,
+            style,
+            styleWithNormal: item.fontStyle,
+            weight: item.fontWeight,
+            commonWeightName: commonWeightNameMap(item.fontWeight),
+            woffPath: makeFontFilePath(item, "woff", syntax),
+            woff2Path: makeFontFilePath(item, "woff2", syntax),
+          }))
         })
-      })
 
-      const cssPath = `${typefaceDir}/index.css`
-      fs.writeFileSync(`${typefaceDir}/index.css`, css.join(""))
+        fs.writeFileSync(`${typefaceDir}/${filename}`, styles.join(""))
+      }
+
       console.log("finished downloading", typeface.family)
     })
   }

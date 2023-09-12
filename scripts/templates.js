@@ -38,6 +38,12 @@ exports.fontFace = _.template(
 `
 );
 
+exports.scssHeader = _.template(
+  `$<%= typefaceId %>-font-path: "./files" !default;
+
+`
+)
+
 exports.readme = _.template(
   `>The Typefaces project is now deprecated.
 >
@@ -56,7 +62,7 @@ support for importing specific weights, styles, or language subsets.
 
 # typeface-<%= typefaceId %>
 
-The CSS and web font files to easily self-host “<%= typefaceName %>”.
+The CSS/SCSS and web font files to easily self-host “<%= typefaceName %>”.
 
 ## Install
 
@@ -64,19 +70,34 @@ The CSS and web font files to easily self-host “<%= typefaceName %>”.
 
 ## Use
 
-Typefaces assume you’re using webpack to process CSS and files. Each typeface
-package includes all necessary font files (woff2, woff) and a CSS file with
+Typefaces assume you’re using webpack to process CSS or SCSS and files. Each typeface
+package includes all necessary font files (woff2, woff) and CSS/SCSS files with
 font-face declarations pointing at these files.
 
-You will need to have webpack setup to load css and font files. Many tools built
+You will need to have webpack setup to load CSS or SCSS and font files. Many tools built
 with Webpack will work out of the box with Typefaces such as [Gatsby](https://github.com/gatsbyjs/gatsby)
 and [Create React App](https://github.com/facebookincubator/create-react-app).
 
-To use, simply require the package in your project’s entry file e.g.
+To use, simply require the package in your project’s JavaScript, such as in an entry file:
 
 \`\`\`javascript
 // Load <%= typefaceName %> typeface
 require('typeface-<%= typefaceId %>')
+\`\`\`
+
+You can also use Typefaces directly from SCSS as well:
+
+\`\`\`scss
+// Load <%= typefaceName %> typeface
+@import "typeface-<%= typefaceId %>";
+\`\`\`
+
+Optionally, you can define a custom path to the underlying font files from SCSS like
+so, ensuring that you import the specific \`typeface\` partial:
+
+\`\`\`scss
+$<%= typefaceId %>-font-path: "../path/to/fonts" !default;
+@import "typeface-<%= typefaceId %>/typeface";
 \`\`\`
 
 ## About the Typefaces project.
